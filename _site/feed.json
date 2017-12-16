@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/16/not-centered.html",
+	      	
+			"title": "Not Centered ",
+			
+			"content_html": "<p>The next technical issue I want to resolve is the rendering of my main blog in portrait on tablets. As you see, the viewport is shift to the right, making the text not centered. When I rotate the display to landscape then the viewport and text are centered. If anyone has a suggestion to fix please let me know. </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/2bca1f58a1.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-16T15:09:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/16/not-centered.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/16/and-it-worked.html",
 	      	
 			"content_html": "<p>And it worked. Bing!</p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>Bleacher Report: <a href=\"http://bleacherreport.com/articles/2748551-ugly-handling-of-savage-hit-proves-nfl-concussion-policy-still-complete-disaster\">Ugly Handling of Savage Hit Proves NFL Concussion Policy Still Complete Disaster</a> </p>\n\n<p>Time and again the NFL has demonstrated it is not serious about head trauma. </p>\n",
 			"date_published": "2017-12-11T17:20:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/11/bleacher-report-ugly.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/10/235200.html",
-	      	
-			"content_html": "<p><a href=\"https://www.sbnation.com/mlb/2017/12/10/16759474/alan-trammell-jack-morris-baseball-hall-of-fame-modern-era-ballot\">www.sbnation.com</a></p>\n\n<blockquote>\n  <p>MLB Hall of Fame: Alan Trammell &amp; Jack Morris elected to Cooperstown - SBNation.com</p>\n</blockquote>\n\n<p>The fact the Jack Morris didn’t get elected sooner tells you all you need about what is wrong with Major League Baseball. </p>\n",
-			"date_published": "2017-12-10T18:52:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/10/235200.html"
 		}
 		
 	]
