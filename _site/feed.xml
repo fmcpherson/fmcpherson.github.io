@@ -4,8 +4,21 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>http://frankmcpherson.blog/</link>
-    <pubDate>Sat, 16 Dec 2017 15:00:48 -0500</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2017 15:00:48 -0500</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2017 15:09:04 -0500</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2017 15:09:04 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <title>Not Centered </title>
+        
+        <description>&lt;p&gt;The next technical issue I want to resolve is the rendering of my main blog in portrait on tablets. As you see, the viewport is shift to the right, making the text not centered. When I rotate the display to landscape then the viewport and text are centered. If anyone has a suggestion to fix please let me know. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2017/2bca1f58a1.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Dec 2017 15:09:00 -0500</pubDate>
+        <link>http://frankmcpherson.blog/2017/12/16/not-centered.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/16/not-centered.html</guid>
+      </item>
     
       <item>
       	
