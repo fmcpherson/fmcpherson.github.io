@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/16/and-it-worked.html",
+	      	
+			"content_html": "<p>And it worked. Bing!</p>\n",
+			"date_published": "2017-12-16T15:00:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/16/and-it-worked.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/16/i-set-up.html",
 	      	
 			"content_html": "<p>I set up mirroring this micro.blog to a github repository and this is a test to see if it works.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.sbnation.com/mlb/2017/12/10/16759474/alan-trammell-jack-morris-baseball-hall-of-fame-modern-era-ballot\">www.sbnation.com</a></p>\n\n<blockquote>\n  <p>MLB Hall of Fame: Alan Trammell &amp; Jack Morris elected to Cooperstown - SBNation.com</p>\n</blockquote>\n\n<p>The fact the Jack Morris didn’t get elected sooner tells you all you need about what is wrong with Major League Baseball. </p>\n",
 			"date_published": "2017-12-10T18:52:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/10/235200.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/10/234644.html",
-	      	
-			"content_html": "<p><a href=\"https://www.sbnation.com/2017/12/10/16758748/tom-savage-injury-49ers-texans-t-j-yates\">www.sbnation.com</a></p>\n\n<blockquote>\n  <p>Tom Savage concussion: NFL looking into Texans’ handling of QB’s injury - SBNation.com</p>\n</blockquote>\n\n<p>The NFL continues to not take concussions seriously. </p>\n",
-			"date_published": "2017-12-10T18:46:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/10/234644.html"
 		}
 		
 	]
