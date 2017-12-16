@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/16/tweeking-css.html",
+	      	
+			"title": "Tweeking CSS ",
+			
+			"content_html": "<p>Ok, after some fiddling I now have the home page rendering as I want it to on tablets. First I experimented with the viewport setting, but that did not fix the problem. Next, I downloaded the CSS and uploaded a copy to my server. Then, I experimented with the <a href=\"https://www.w3schools.com/cssref/css3_pr_mediaquery.asp\">@media</a> setting, landing on auto for the left and right margins and max-device-width to 1024px. </p>\n\n<p>Now the home page renders centered on my iPad Mini, Nexus 9 and iPad Pro. It actually renders the best on the Nexus 9. </p>\n",
+			"date_published": "2017-12-16T16:42:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/16/tweeking-css.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/16/here-is-how.html",
 	      	
 			"content_html": "<p>Here is how my blog looks in landscape. I want this centering in portrait.  </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/a3f7de8a22.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p><a href=\"https://mikehaynes.blog/1331\">Mike Haynes is writing a Micro.blog Android app</a> that I need to keep an eye on, as it is something I want to use with my Pixel 2. Need to follow Mike.</p>\n",
 			"date_published": "2017-12-12T13:04:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/12/mike-haynes-is.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/11/how-come-desktop.html",
-	      	
-			"content_html": "<p>How come desktop web browsers don’t have a Share function like you find on iOS and Android?</p>\n",
-			"date_published": "2017-12-11T17:37:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/11/how-come-desktop.html"
 		}
 		
 	]
