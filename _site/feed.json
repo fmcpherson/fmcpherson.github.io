@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/16/i-set-up.html",
+	      	
+			"content_html": "<p>I set up mirroring this micro.blog to a github repository and this is a test to see if it works.</p>\n",
+			"date_published": "2017-12-16T14:58:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/16/i-set-up.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/16/how-come-feeds.html",
 	      	
 			"content_html": "<p>How come feeds in are not posting to my blog?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.sbnation.com/2017/12/10/16758748/tom-savage-injury-49ers-texans-t-j-yates\">www.sbnation.com</a></p>\n\n<blockquote>\n  <p>Tom Savage concussion: NFL looking into Texans’ handling of QB’s injury - SBNation.com</p>\n</blockquote>\n\n<p>The NFL continues to not take concussions seriously. </p>\n",
 			"date_published": "2017-12-10T18:46:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/10/234644.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/10/google-has-posted.html",
-	      	
-			"content_html": "<p><a href=\"https://support.google.com/androidwear/thread/25693\">Google has posted the list</a> of Android Wear watches getting Oreo, and the original Huawei watch is not on the list. Looks like I may have to decide whether to stick with a watch that is not updated, or get a new one. </p>\n",
-			"date_published": "2017-12-10T13:05:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/10/google-has-posted.html"
 		}
 		
 	]
