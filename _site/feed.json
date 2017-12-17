@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/17/one-project-that.html",
+	      	
+			"content_html": "<p>One project that I may do over the holiday is to check out <a href=\"https://home-assistant.io/\">Home Assistant</a>. I wonder whether I could replace the Hue bridge and Smarthings hub with the Assistant. He doco on the web site does not provide much information. </p>\n",
+			"date_published": "2017-12-17T18:19:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/17/one-project-that.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/17/the-nfl-continues.html",
 	      	
 			"title": "The NFL Continues To Reward Violent Hits ",
@@ -81,14 +89,6 @@
 			"content_html": "<p>How come feeds in are not posting to my blog?</p>\n",
 			"date_published": "2017-12-16T13:24:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/16/how-come-feeds.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/14/172730.html",
-	      	
-			"content_html": "<p><a href=\"http://writing.frankmcpherson.org/2017/12/14/memoriesOfBermuda.html\">Memories of Bermuda</a></p>\n",
-			"date_published": "2017-12-14T12:27:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/14/172730.html"
 		}
 		
 	]
