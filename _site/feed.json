@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/18/la-times-america.html",
+	      	
+			"content_html": "<p><a href=\"http://www.latimes.com/opinion/op-ed/la-oe-dorfman-reckoning-trump-election-20171217-story.html\">LA Times: America still hasn’t reckoned with the election of a reckless con man as president</a> \n&gt;We must vigorously protest the president’s craven actions, but above all we need to acknowledge that what ultimately matters is not what a foreign power did to America, but what America did to itself. The crucial question of what is wrong with our country, what could have driven us to this edge of catastrophe, cannot be resolved by a special counsel or a Democratic takeover of the House of Representatives or spectacular revelations about Russia’s interference.</p>\n",
+			"date_published": "2017-12-18T09:25:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/18/la-times-america.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/17/one-project-that.html",
 	      	
 			"content_html": "<p>One project that I may do over the holiday is to check out <a href=\"https://home-assistant.io/\">Home Assistant</a>. I wonder whether I could replace the Hue bridge and Smarthings hub with the Assistant. He doco on the web site does not provide much information. </p>\n",
@@ -81,14 +89,6 @@
 			"content_html": "<p>I set up mirroring this micro.blog to a github repository and this is a test to see if it works.</p>\n",
 			"date_published": "2017-12-16T14:58:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/16/i-set-up.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/16/how-come-feeds.html",
-	      	
-			"content_html": "<p>How come feeds in are not posting to my blog?</p>\n",
-			"date_published": "2017-12-16T13:24:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/16/how-come-feeds.html"
 		}
 		
 	]
