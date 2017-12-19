@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/19/aws-command-line.html",
+	      	
+			"content_html": "<p><a href=\"https://aws.amazon.com/documentation/cli/\">AWS Command Line Interface user documentation</a></p>\n",
+			"date_published": "2017-12-19T10:59:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/19/aws-command-line.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/18/la-times-america.html",
 	      	
 			"content_html": "<p><a href=\"http://www.latimes.com/opinion/op-ed/la-oe-dorfman-reckoning-trump-election-20171217-story.html\">LA Times: America still hasn’t reckoned with the election of a reckless con man as president</a></p>\n\n<blockquote>\n  <p>We must vigorously protest the president’s craven actions, but above all we need to acknowledge that what ultimately matters is not what a foreign power did to America, but what America did to itself. The crucial question of what is wrong with our country, what could have driven us to this edge of catastrophe, cannot be resolved by a special counsel or a Democratic takeover of the House of Representatives or spectacular revelations about Russia’s interference.</p>\n</blockquote>\n\n<p>It probably starts with listening to hear rather than listening to respond.</p>\n",
@@ -81,14 +89,6 @@
 			"content_html": "<p>And it worked. Bing!</p>\n",
 			"date_published": "2017-12-16T15:00:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/16/and-it-worked.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/16/i-set-up.html",
-	      	
-			"content_html": "<p>I set up mirroring this micro.blog to a github repository and this is a test to see if it works.</p>\n",
-			"date_published": "2017-12-16T14:58:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/16/i-set-up.html"
 		}
 		
 	]
