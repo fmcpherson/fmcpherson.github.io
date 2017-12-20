@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/20/ssh-apps-on.html",
+	      	
+			"title": "SSH Apps On iPad",
+			
+			"content_html": "<p>What is the best ssh app to use on an iPad? Right now I use <a href=\"https://itunes.apple.com/us/app/termius/id549039908?mt=8\">Termius</a>, but it does this thing where it doesn’t scroll properly as the screen fills up so I have to do some dragging around to re-align the display. I also am turned off by the $29/year subscription cost and there are some premium features I wouldn’t mind having. It is, however, the most recently updated app in the store.</p>\n\n<p><a href=\"https://itunes.apple.com/us/app/webssh-pro/id497714887?mt=8\">WebSSH Pro</a> and <a href=\"https://itunes.apple.com/us/app/prompt-2/id917437289?mt=8\">Prompt 2</a> are two other alternatives that appear at the top of a Google search. </p>\n",
+			"date_published": "2017-12-20T15:03:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/20/ssh-apps-on.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/20/amazon-lockers.html",
 	      	
 			"title": "Amazon Lockers",
@@ -77,16 +87,6 @@
 			"content_html": "<p>One project that I may do over the holiday is to check out <a href=\"https://home-assistant.io/\">Home Assistant</a>. I wonder whether I could replace the Hue bridge and Smarthings hub with the Assistant. He doco on the web site does not provide much information. </p>\n",
 			"date_published": "2017-12-17T18:19:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/17/one-project-that.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/17/the-nfl-continues.html",
-	      	
-			"title": "The NFL Continues To Reward Violent Hits ",
-			
-			"content_html": "<p>Despite scientific research and Congressional hearings, the NFL is still not serious about the safety of its players due to concussions. In fact, the current NFL rules <strong>rewards</strong> teams of players who inflict a concussion.</p>\n\n<p>The latest example occurred during the Packers and Panthers game on December 17. During the game Panther Thomas Davis launched into Davante Adams resulting in Adams being removed for the game due to the obvious helmet-on-helmet hit. A personal foul was called on Davis, but he remained in the game while the Packers lost one of their most important players. </p>\n\n<p>Players who may be concussed must be removed from play until doctors confirm it is ok for him to return. In this case, the right thing happened while that has not always been the case. However, how is it that the player causing the injury, unnecessarily, is still allowed to play?</p>\n\n<p>Treating concussions is important but equally important is preventing concussions from happening in the first place, and that will not happen without immediate and significant enforcement on the field. All direct hits to the head should result in an immediate ejection, and this rule should be enforced not only by on field officials but also by replay. At a minimum the NFL ought to have a booth review, as is the case with the NCAA, but I favor the booth being able to eject such players at any time. </p>\n\n<p>The bottom line is that the current approach of only reviewing and penalizing such plays after the game is over is not sufficient in deterring such hits and violates the spirit of the game. The life time health of the players demands extreme action. If the NFL is unable to police itself then Congress must step in with regulation. Right now it appears profits are outweighing safety. </p>\n",
-			"date_published": "2017-12-17T16:10:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/17/the-nfl-continues.html"
 		}
 		
 	]
