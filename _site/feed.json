@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Frank McPherson",
-	"home_page_url": "http://frankmcpherson.blog/",
-	"feed_url": "http://frankmcpherson.blog/feed.json",
+	"home_page_url": "https://frankmcpherson.blog/",
+	"feed_url": "https://frankmcpherson.blog/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>Just added a micro.blog action to Drafts, how did it work? <strong>It worked</strong> </p>\n\n<p>Looks like the same thing can be done with Workflow, I wonder how that could be used?</p>\n",
 			"date_published": "2017-12-20T11:55:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/20/just-added-a.html"
+			"url": "https://frankmcpherson.blog/2017/12/20/just-added-a.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<p><a href=\"https://beakerbrowser.com/\">Beaker</a> looks interesting, but I think you have to sync a site to a web server in order for people not using Beaker to access the site. Once you have to involve a server, isn’t the value of Beaker lost? </p>\n",
 			"date_published": "2017-12-20T10:02:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/20/beakerhttpsbeakerbrowsercom-looks-interesting.html"
+			"url": "https://frankmcpherson.blog/2017/12/20/beakerhttpsbeakerbrowsercom-looks-interesting.html"
 		},
 		
 		{
@@ -26,7 +26,7 @@
 	      	
 			"content_html": "<p><a href=\"https://www.wired.com/story/math-says-youre-driving-wrong-and-its-slowing-us-all-down/\">www.wired.com</a></p>\n\n<blockquote>\n  <p>Math Says You’re Driving Wrong and It’s Slowing Us All Down</p>\n</blockquote>\n\n<p>And then there is the zipper merge. The problem is most of us are too competitive. </p>\n",
 			"date_published": "2017-12-19T21:55:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/19/025524.html"
+			"url": "https://frankmcpherson.blog/2017/12/19/025524.html"
 		},
 		
 		{
@@ -34,7 +34,7 @@
 	      	
 			"content_html": "<p><a href=\"http://www.espn.com/nfl/story/_/id/21820111/carolina-panthers-lb-thomas-davis-suspension-reduced-1-game\">www.espn.com</a></p>\n\n<blockquote>\n  <p>Suspension of Panthers LB Davis trimmed to 1</p>\n</blockquote>\n\n<p>What a joke! I really don’t understand how the NFL can claim with a straight face that they are concerned about player safety. </p>\n",
 			"date_published": "2017-12-19T20:22:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/19/012218.html"
+			"url": "https://frankmcpherson.blog/2017/12/19/012218.html"
 		},
 		
 		{
@@ -42,7 +42,7 @@
 	      	
 			"content_html": "<p><a href=\"https://aws.amazon.com/documentation/cli/\">AWS Command Line Interface user documentation</a></p>\n",
 			"date_published": "2017-12-19T10:59:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/19/aws-command-line.html"
+			"url": "https://frankmcpherson.blog/2017/12/19/aws-command-line.html"
 		},
 		
 		{
@@ -50,7 +50,7 @@
 	      	
 			"content_html": "<p><a href=\"http://www.latimes.com/opinion/op-ed/la-oe-dorfman-reckoning-trump-election-20171217-story.html\">LA Times: America still hasn’t reckoned with the election of a reckless con man as president</a></p>\n\n<blockquote>\n  <p>We must vigorously protest the president’s craven actions, but above all we need to acknowledge that what ultimately matters is not what a foreign power did to America, but what America did to itself. The crucial question of what is wrong with our country, what could have driven us to this edge of catastrophe, cannot be resolved by a special counsel or a Democratic takeover of the House of Representatives or spectacular revelations about Russia’s interference.</p>\n</blockquote>\n\n<p>It probably starts with listening to hear rather than listening to respond.</p>\n",
 			"date_published": "2017-12-18T09:25:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/18/la-times-america.html"
+			"url": "https://frankmcpherson.blog/2017/12/18/la-times-america.html"
 		},
 		
 		{
@@ -58,7 +58,7 @@
 	      	
 			"content_html": "<p>One project that I may do over the holiday is to check out <a href=\"https://home-assistant.io/\">Home Assistant</a>. I wonder whether I could replace the Hue bridge and Smarthings hub with the Assistant. He doco on the web site does not provide much information. </p>\n",
 			"date_published": "2017-12-17T18:19:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/17/one-project-that.html"
+			"url": "https://frankmcpherson.blog/2017/12/17/one-project-that.html"
 		},
 		
 		{
@@ -68,7 +68,7 @@
 			
 			"content_html": "<p>Despite scientific research and Congressional hearings, the NFL is still not serious about the safety of its players due to concussions. In fact, the current NFL rules <strong>rewards</strong> teams of players who inflict a concussion.</p>\n\n<p>The latest example occurred during the Packers and Panthers game on December 17. During the game Panther Thomas Davis launched into Davante Adams resulting in Adams being removed for the game due to the obvious helmet-on-helmet hit. A personal foul was called on Davis, but he remained in the game while the Packers lost one of their most important players. </p>\n\n<p>Players who may be concussed must be removed from play until doctors confirm it is ok for him to return. In this case, the right thing happened while that has not always been the case. However, how is it that the player causing the injury, unnecessarily, is still allowed to play?</p>\n\n<p>Treating concussions is important but equally important is preventing concussions from happening in the first place, and that will not happen without immediate and significant enforcement on the field. All direct hits to the head should result in an immediate ejection, and this rule should be enforced not only by on field officials but also by replay. At a minimum the NFL ought to have a booth review, as is the case with the NCAA, but I favor the booth being able to eject such players at any time. </p>\n\n<p>The bottom line is that the current approach of only reviewing and penalizing such plays after the game is over is not sufficient in deterring such hits and violates the spirit of the game. The life time health of the players demands extreme action. If the NFL is unable to police itself then Congress must step in with regulation. Right now it appears profits are outweighing safety. </p>\n",
 			"date_published": "2017-12-17T16:10:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/17/the-nfl-continues.html"
+			"url": "https://frankmcpherson.blog/2017/12/17/the-nfl-continues.html"
 		},
 		
 		{
@@ -76,7 +76,7 @@
 	      	
 			"content_html": "<p><a href=\"http://a.co/fkIWbxK\">a.co</a></p>\n\n<blockquote>\n  <p>“The more that we can put together, the more that we can “forgive” and allow, the more we can include and enjoy, the more we tend to be living in the Spirit.” from “Preparing for Christmas: Daily Meditations for Advent” by Richard Rohr</p>\n</blockquote>\n",
 			"date_published": "2017-12-17T11:57:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/17/acohttpacofkiwbxk-the-more.html"
+			"url": "https://frankmcpherson.blog/2017/12/17/acohttpacofkiwbxk-the-more.html"
 		},
 		
 		{
@@ -84,7 +84,7 @@
 	      	
 			"content_html": "<p><a href=\"http://a.co/cWItQQB\">a.co</a></p>\n\n<blockquote>\n  <p>“Several years ago when I was in Nicaragua, I asked a man if he had time, and he said, “I have the rest of my life,” and smiled.” from “Preparing for Christmas: Daily Meditations for Advent” by Richard Rohr</p>\n</blockquote>\n",
 			"date_published": "2017-12-17T11:49:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/17/acohttpacocwitqqb-several-years.html"
+			"url": "https://frankmcpherson.blog/2017/12/17/acohttpacocwitqqb-several-years.html"
 		}
 		
 	]
