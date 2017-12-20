@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/20/012218.html",
+	      	
+			"content_html": "<p><a href=\"http://www.espn.com/nfl/story/_/id/21820111/carolina-panthers-lb-thomas-davis-suspension-reduced-1-game\">www.espn.com</a></p>\n\n<blockquote>\n  <p>Suspension of Panthers LB Davis trimmed to 1</p>\n</blockquote>\n\n<p>What a joke! I really don’t understand how the NFL can claim with a straight face that they are concerned about player safety. </p>\n",
+			"date_published": "2017-12-19T20:22:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/19/012218.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/19/aws-command-line.html",
 	      	
 			"content_html": "<p><a href=\"https://aws.amazon.com/documentation/cli/\">AWS Command Line Interface user documentation</a></p>\n",
@@ -81,14 +89,6 @@
 			"content_html": "<p>The next technical issue I want to resolve is the rendering of my main blog in portrait on tablets. As you see, the viewport is shift to the right, making the text not centered. When I rotate the display to landscape then the viewport and text are centered. If anyone has a suggestion to fix please let me know. </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/2bca1f58a1.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-16T15:09:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/16/not-centered.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/16/and-it-worked.html",
-	      	
-			"content_html": "<p>And it worked. Bing!</p>\n",
-			"date_published": "2017-12-16T15:00:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/16/and-it-worked.html"
 		}
 		
 	]
