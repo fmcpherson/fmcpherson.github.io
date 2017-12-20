@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/20/just-added-a.html",
+	      	
+			"content_html": "<p>Just added a micro.blog action to Drafts, how did it work? <strong>It worked</strong> </p>\n\n<p>Looks like the same thing can be done with Workflow, I wonder how that could be used?</p>\n",
+			"date_published": "2017-12-20T11:55:00-05:00",
+			"url": "http://frankmcpherson.blog/2017/12/20/just-added-a.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/20/beakerhttpsbeakerbrowsercom-looks-interesting.html",
 	      	
 			"content_html": "<p><a href=\"https://beakerbrowser.com/\">Beaker</a> looks interesting, but I think you have to sync a site to a web server in order for people not using Beaker to access the site. Once you have to involve a server, isn’t the value of Beaker lost? </p>\n",
@@ -77,16 +85,6 @@
 			"content_html": "<p><a href=\"http://a.co/cWItQQB\">a.co</a></p>\n\n<blockquote>\n  <p>“Several years ago when I was in Nicaragua, I asked a man if he had time, and he said, “I have the rest of my life,” and smiled.” from “Preparing for Christmas: Daily Meditations for Advent” by Richard Rohr</p>\n</blockquote>\n",
 			"date_published": "2017-12-17T11:49:00-05:00",
 			"url": "http://frankmcpherson.blog/2017/12/17/acohttpacocwitqqb-several-years.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/16/tweeking-css.html",
-	      	
-			"title": "Tweeking CSS ",
-			
-			"content_html": "<p>Ok, after some fiddling I now have the home page rendering as I want it to on tablets. First I experimented with the viewport setting, but that did not fix the problem. Next, I downloaded the CSS and uploaded a copy to my server. Then, I experimented with the <a href=\"https://www.w3schools.com/cssref/css3_pr_mediaquery.asp\">@media</a> setting, landing on auto for the left and right margins and max-device-width to 1024px. </p>\n\n<p>Now the home page renders centered on my iPad Mini, Nexus 9 and iPad Pro. It actually renders the best on the Nexus 9. </p>\n",
-			"date_published": "2017-12-16T16:42:00-05:00",
-			"url": "http://frankmcpherson.blog/2017/12/16/tweeking-css.html"
 		}
 		
 	]
