@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/21/we-are-skeptical.html",
+	      	
+			"content_html": "<p>We are skeptical of corporations but we trust government even less, and therefore we chose anarchy. </p>\n",
+			"date_published": "2017-12-21T13:14:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/21/we-are-skeptical.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/21/i-am-anxious.html",
 	      	
 			"content_html": "<p>I am anxious to learn what the reaction, particularly of millennials, will be to four years of a Trump presidency and Republican prostitution. </p>\n",
@@ -79,14 +87,6 @@
 			"content_html": "<p><a href=\"https://aws.amazon.com/documentation/cli/\">AWS Command Line Interface user documentation</a></p>\n",
 			"date_published": "2017-12-19T10:59:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/19/aws-command-line.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/18/la-times-america.html",
-	      	
-			"content_html": "<p><a href=\"http://www.latimes.com/opinion/op-ed/la-oe-dorfman-reckoning-trump-election-20171217-story.html\">LA Times: America still hasn’t reckoned with the election of a reckless con man as president</a></p>\n\n<blockquote>\n  <p>We must vigorously protest the president’s craven actions, but above all we need to acknowledge that what ultimately matters is not what a foreign power did to America, but what America did to itself. The crucial question of what is wrong with our country, what could have driven us to this edge of catastrophe, cannot be resolved by a special counsel or a Democratic takeover of the House of Representatives or spectacular revelations about Russia’s interference.</p>\n</blockquote>\n\n<p>It probably starts with listening to hear rather than listening to respond.</p>\n",
-			"date_published": "2017-12-18T09:25:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/18/la-times-america.html"
 		}
 		
 	]
