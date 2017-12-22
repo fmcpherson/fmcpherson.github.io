@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/22/day-one-journal.html",
+	      	
+			"title": "Day One Journal",
+			
+			"content_html": "<p><a href=\"https://dayoneapp.com/\">Day One Journal</a> is now available for Android, and now I have a decision to make. Before Day One changed to a yearly subscription, I had purchased a version and therfore I am grandfathered in a plan that enables me to sync across iOS devices, but that will not support Android. So, is it worth $25 per year to have access to my journal from my Android smartphone? </p>\n",
+			"date_published": "2017-12-22T16:06:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/22/day-one-journal.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/22/204630.html",
 	      	
 			"content_html": "<p><a href=\"http://artynews.com/wp-content/uploads/2015/12/christmaspresents.png\">artynews.com</a></p>\n\n<p>I’ve completed the most stressful part of the holidays for me. </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/79557df7b7.jpg\" width=\"600\" height=\"470\" /></p>\n",
@@ -79,14 +89,6 @@
 			"content_html": "<p><a href=\"https://beakerbrowser.com/\">Beaker</a> looks interesting, but I think you have to sync a site to a web server in order for people not using Beaker to access the site. Once you have to involve a server, isn’t the value of Beaker lost? </p>\n",
 			"date_published": "2017-12-20T10:02:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/20/beakerhttpsbeakerbrowsercom-looks-interesting.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/20/025524.html",
-	      	
-			"content_html": "<p><a href=\"https://www.wired.com/story/math-says-youre-driving-wrong-and-its-slowing-us-all-down/\">www.wired.com</a></p>\n\n<blockquote>\n  <p>Math Says You’re Driving Wrong and It’s Slowing Us All Down</p>\n</blockquote>\n\n<p>And then there is the zipper merge. The problem is most of us are too competitive. </p>\n",
-			"date_published": "2017-12-19T21:55:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/19/025524.html"
 		}
 		
 	]
