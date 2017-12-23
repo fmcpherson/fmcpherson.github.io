@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/23/i-deleted-powerpoint.html",
+	      	
+			"content_html": "<p>I deleted PowerPoint from my iPad and installed Keynote, and thus created the simple slide in a matter of minutes. </p>\n",
+			"date_published": "2017-12-23T15:29:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/23/i-deleted-powerpoint.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/23/microsoft-powerpoint-for.html",
 	      	
 			"content_html": "<p>Microsoft PowerPoint for iOS is shockingly awful. All I need to do is create one slide, with a picture, and some text, and I find that impossible to do with PowerPoint on iOS. You type a character and wait, I did you not, ten seconds, for it to appear on the screen and the cursor to move. How can Microsoft, in 2017, produce such a horribly performing test? Do they not even test these things? </p>\n",
@@ -79,16 +87,6 @@
 			"content_html": "<p>What is the best ssh app to use on an iPad? Right now I use <a href=\"https://itunes.apple.com/us/app/termius/id549039908?mt=8\">Termius</a>, but it does this thing where it doesn’t scroll properly as the screen fills up so I have to do some dragging around to re-align the display. I also am turned off by the $29/year subscription cost and there are some premium features I wouldn’t mind having. It is, however, the most recently updated app in the store.</p>\n\n<p><a href=\"https://itunes.apple.com/us/app/webssh-pro/id497714887?mt=8\">WebSSH Pro</a> and <a href=\"https://itunes.apple.com/us/app/prompt-2/id917437289?mt=8\">Prompt 2</a> are two other alternatives that appear at the top of a Google search. </p>\n",
 			"date_published": "2017-12-20T15:03:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/20/ssh-apps-on.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/20/amazon-lockers.html",
-	      	
-			"title": "Amazon Lockers",
-			
-			"content_html": "<p>I got an email from Amazon telling me that I can use an Amazon Locker to receive items shipped to me. There is a Whole Foods near me that has a locker, so I can select it as a delivery location. <a href=\"https://www.amazon.com/b?node=6442600011\">How do I use it?</a></p>\n\n<p>Apparently, when something I ordered is delivered to the locker, I will get an email with a six digit code that I then use at the locker location to retrieve my package. I have three days to pick up the package otherwise it will be returned for refund. Perhaps best of all, lockers can be used as a drop off location for returns.</p>\n\n<p>Given the rise in people having deliveries stolen, I can see these lockers becoming useful for valuable items being shipped for which you may not be hope to sign for.</p>\n",
-			"date_published": "2017-12-20T13:38:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/20/amazon-lockers.html"
 		}
 		
 	]
