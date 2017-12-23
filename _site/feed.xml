@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sat, 23 Dec 2017 18:04:46 -0500</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2017 18:04:46 -0500</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2017 18:06:00 -0500</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2017 18:06:00 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Well, that didn’t work. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Dec 2017 18:05:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2017/12/23/well-that-didnt.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/23/well-that-didnt.html</guid>
+      </item>
     
       <item>
       	
@@ -560,15 +569,6 @@
         <pubDate>Sat, 09 Dec 2017 10:36:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2017/12/09/how-we-see.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2017/12/09/how-we-see.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I am testng &lt;a href=&quot;https://www.raspberrypi.org/blog/pixel-pc-mac/&quot;&gt;PIXEL for PC&lt;/a&gt; by running it off a USB drive connected to an old HP ProBook. &lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Dec 2017 20:39:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2017/12/08/i-am-testng.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/09/i-am-testng.html</guid>
       </item>
     
   </channel>
