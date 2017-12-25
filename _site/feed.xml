@@ -4,8 +4,23 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Mon, 25 Dec 2017 12:54:17 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2017 12:54:17 -0500</lastBuildDate>
+    <pubDate>Mon, 25 Dec 2017 16:15:41 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2017 16:15:41 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <title>Setting Up Pi Zero </title>
+        
+        <description>&lt;p&gt;I got a Raspberry Pi Zero W for Christmas that I am setting up, and so far not having much luck getting the OS to install. I think the file transfer is taking too long. I am regretting following the instructions literally, meaning I installed the Pi Zero in the case and there isn’t an easy way to remove the micro SD card without removing them Zero entirely. &lt;/p&gt;
+
+&lt;p&gt;Looks like I will have to remove the Zero and flash the card with a complete build on a PC. I hope that  I can get the Zero out of he case without breaking it. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2017/8ce60d791a.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Dec 2017 16:15:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2017/12/25/setting-up-pi.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/25/setting-up-pi.html</guid>
+      </item>
     
       <item>
       	
@@ -560,15 +575,6 @@
         <pubDate>Sat, 09 Dec 2017 11:32:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2017/12/09/we-live-in.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2017/12/09/we-live-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Richard Rohr &lt;a href=&quot;http://the-narthex.org/2017/12/09/prayer/&quot;&gt;On prayer&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Dec 2017 10:50:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2017/12/09/richard-rohr-on.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/09/richard-rohr-on.html</guid>
       </item>
     
   </channel>
