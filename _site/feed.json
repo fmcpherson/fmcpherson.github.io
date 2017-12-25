@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/25/setting-up-pi.html",
+	      	
+			"title": "Setting Up Pi Zero ",
+			
+			"content_html": "<p>I got a Raspberry Pi Zero W for Christmas that I am setting up, and so far not having much luck getting the OS to install. I think the file transfer is taking too long. I am regretting following the instructions literally, meaning I installed the Pi Zero in the case and there isn’t an easy way to remove the micro SD card without removing them Zero entirely. </p>\n\n<p>Looks like I will have to remove the Zero and flash the card with a complete build on a PC. I hope that  I can get the Zero out of he case without breaking it. </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/8ce60d791a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-25T16:15:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/25/setting-up-pi.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/25/175411.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theverge.com/2017/12/25/16811264/the-11-best-apps-for-your-new-android-phone\">www.theverge.com</a></p>\n\n<p>I’ve been using many of these apps. </p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p><a href=\"http://artynews.com/wp-content/uploads/2015/12/christmaspresents.png\">artynews.com</a></p>\n\n<p>I’ve completed the most stressful part of the holidays for me. </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/79557df7b7.jpg\" width=\"600\" height=\"470\" /></p>\n",
 			"date_published": "2017-12-22T15:46:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/22/204630.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/22/i-havent-watched.html",
-	      	
-			"content_html": "<p>I haven’t watched a single college football bowl game yet. </p>\n",
-			"date_published": "2017-12-22T15:41:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/22/i-havent-watched.html"
 		}
 		
 	]
