@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/30/android-on-tablets.html",
+	      	
+			"title": "Android On Tablets Is Dead, Long Live Android On Tablets",
+			
+			"content_html": "<p>Google has stopped selling the Pixel C, and there is no replacement Android tablet in the Google Store. Consequently, you will now see <a href=\"https://9to5google.com/2017/12/29/post-mortem-google-pixel-c-was-an-admirable-piece-of-tablet-hardware-that-sadly-ran-android/\">articles about the demise of Android on tablets</a> and/or how bad Android has been for tablets.</p>\n",
+			"date_published": "2017-12-30T16:03:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/30/android-on-tablets.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/30/acohttpacohluvnr-in-the.html",
 	      	
 			"content_html": "<p><a href=\"http://a.co/0hLuVnR\">a.co</a></p>\n\n<blockquote>\n  <p>“In the Parabolic Discourse, Jesus tells us to withdraw our allegiance from a world of bigness, clarity, immediacy, looking good and security (the old order) and to see life instead as smallness, patience, humility, inner wisdom and risk-taking (always new and rare).” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n",
@@ -79,14 +89,6 @@
 			"content_html": "<p><a href=\"file:///private/var/mobile/Containers/Data/Application/EA365662-B7C5-46EF-B701-0BAD4198D74D/tmp/com.google.photos.PHSTemporaryFileManager/405C2691-7F08-4368-A85C-B80BC13EF04D/DD8FE2F0-9C61-4469-8205-6D6D4B653676/IMG_20171214_092907-EFFECTS.jpg\">(null)</a></p>\n",
 			"date_published": "2017-12-23T18:04:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/23/230444.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/23/i-deleted-powerpoint.html",
-	      	
-			"content_html": "<p>I deleted PowerPoint from my iPad and installed Keynote, and thus created the simple slide in a matter of minutes. </p>\n",
-			"date_published": "2017-12-23T15:29:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/23/i-deleted-powerpoint.html"
 		}
 		
 	]
