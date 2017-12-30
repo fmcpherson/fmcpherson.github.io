@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/30/good-article-by.html",
+	      	
+			"content_html": "<p>Good  <a href=\"https://medium.com/whither-news/death-to-the-mass-es-d78e6fd23ee0?source=userActivityShare-98c3dd18be2-1514648750\">article by Jeff Jarvis.</a> I think there is something to the fact that treating all Americans the same has contributed to the problems. </p>\n",
+			"date_published": "2017-12-30T10:47:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/30/good-article-by.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/27/forgive-us-our.html",
 	      	
 			"title": "Forgive Us Our Debts, As We Forgive The Debts Of Others",
@@ -79,16 +87,6 @@
 			"content_html": "<p>We are the  <a href=\"https://en.m.wikipedia.org/wiki/Ferengi\">Ferengi</a></p>\n",
 			"date_published": "2017-12-23T11:48:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/23/we-are-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/22/day-one-journal.html",
-	      	
-			"title": "Day One Journal",
-			
-			"content_html": "<p><a href=\"https://dayoneapp.com/\">Day One Journal</a> is now available for Android, and now I have a decision to make. Before Day One changed to a yearly subscription, I had purchased a version and therfore I am grandfathered in a plan that enables me to sync across iOS devices, but that will not support Android. So, is it worth $25 per year to have access to my journal from my Android smartphone? </p>\n",
-			"date_published": "2017-12-22T16:06:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/22/day-one-journal.html"
 		}
 		
 	]
