@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/31/we-value-the.html",
+	      	
+			"content_html": "<p>We value the myth of America more than the ideals of America. The myth tells us what we think has already been obtained, while the ideals tell us that America is still a work in progress and the story is not yet over. </p>\n",
+			"date_published": "2017-12-31T10:07:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/31/we-value-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2017/12/30/i-am-playing.html",
+	      	
+			"content_html": "<p>I am playing with <a href=\"http://monicahq.com\">Monica</a> and realizing that what I may need is a tool to manage relationships, but not just relationships with people. In my work I manage a number of different things and the relationships between them. For example, I may do research that relates to an opportunity that relates to certain people. What I want is an easy tool for maintaining those relationships. </p>\n",
+			"date_published": "2017-12-30T18:17:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/30/i-am-playing.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/30/android-on-tablets.html",
 	      	
 			"title": "Android On Tablets Is Dead, Long Live Android On Tablets",
@@ -73,22 +89,6 @@
 			"content_html": "<p><a href=\"https://www.theverge.com/2017/12/25/16811264/the-11-best-apps-for-your-new-android-phone\">www.theverge.com</a></p>\n\n<p>I’ve been using many of these apps. </p>\n",
 			"date_published": "2017-12-25T12:54:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/25/175411.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/23/well-that-didnt.html",
-	      	
-			"content_html": "<p>Well, that didn’t work. </p>\n",
-			"date_published": "2017-12-23T18:05:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/23/well-that-didnt.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/23/230444.html",
-	      	
-			"content_html": "<p><a href=\"file:///private/var/mobile/Containers/Data/Application/EA365662-B7C5-46EF-B701-0BAD4198D74D/tmp/com.google.photos.PHSTemporaryFileManager/405C2691-7F08-4368-A85C-B80BC13EF04D/DD8FE2F0-9C61-4469-8205-6D6D4B653676/IMG_20171214_092907-EFFECTS.jpg\">(null)</a></p>\n",
-			"date_published": "2017-12-23T18:04:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/23/230444.html"
 		}
 		
 	]
