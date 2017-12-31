@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/31/acohttpacoaetnd-the-whole.html",
+	      	
+			"content_html": "<p><a href=\"http://a.co/aE9tn8d\">a.co</a></p>\n\n<blockquote>\n  <p>“The whole system is skewed to protect those at the top at all costs, he said. In fact, I added, it’s to protect the system itself, because the system is our goal.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n\n<p>I think our addiction to the system provides a compelling explanation for why Trump is president. </p>\n",
+			"date_published": "2017-12-31T10:42:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/31/acohttpacoaetnd-the-whole.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/31/we-value-the.html",
 	      	
 			"content_html": "<p>We value the myth of America more than the ideals of America. The myth tells us what we think has already been obtained, while the ideals tell us that America is still a work in progress and the story is not yet over. </p>\n",
@@ -81,14 +89,6 @@
 			"content_html": "<p>I got a Raspberry Pi Zero W for Christmas that I am setting up, and so far not having much luck getting the OS to install. I think the file transfer is taking too long. I am regretting following the instructions literally, meaning I installed the Pi Zero in the case and there isn’t an easy way to remove the micro SD card without removing them Zero entirely. </p>\n\n<p>Looks like I will have to remove the Zero and flash the card with a complete build on a PC. I hope that  I can get the Zero out of he case without breaking it. </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/8ce60d791a.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-25T16:15:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/25/setting-up-pi.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/25/175411.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theverge.com/2017/12/25/16811264/the-11-best-apps-for-your-new-android-phone\">www.theverge.com</a></p>\n\n<p>I’ve been using many of these apps. </p>\n",
-			"date_published": "2017-12-25T12:54:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/25/175411.html"
 		}
 		
 	]
