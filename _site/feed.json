@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2017/12/31/when-is-the.html",
+	      	
+			"content_html": "<p>When is the last time you have heard serious discussion about how much money we spend in defense of the United States? <a href=\"http://www.history.com/this-day-in-history/eisenhower-warns-of-military-industrial-complex\">The military industrial complex</a> is so entrenched it isn’t even brought up in passing when we talk of budget cuts within the U.S. government. Instead the conversation is about “entitlements” as if that is the only thing tax dollars is pent on. </p>\n\n<p>We can’t say that we were not warned.  </p>\n",
+			"date_published": "2017-12-31T10:48:00-05:00",
+			"url": "https://frankmcpherson.blog/2017/12/31/when-is-the.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2017/12/31/acohttpacoaetnd-the-whole.html",
 	      	
 			"content_html": "<p><a href=\"http://a.co/aE9tn8d\">a.co</a></p>\n\n<blockquote>\n  <p>“The whole system is skewed to protect those at the top at all costs, he said. In fact, I added, it’s to protect the system itself, because the system is our goal.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n\n<p>I think our addiction to the system provides a compelling explanation for why Trump is president. </p>\n",
@@ -79,16 +87,6 @@
 			"content_html": "<p><a href=\"https://renegadeinc.com/he-died-for-our-debts-not-our-sins/\">He died for our debts, not our sins</a></p>\n\n<p>If we think deeply about the consequences of debt you see meaning. Holding debt over a person is to have power over that person. The person in debt therefore is more or less a slave to the person (or thing) that has power over them. One of the earliest themes of what Jesus did for us was to set us free. </p>\n\n<p>As we in the United Stated look more and more like the <a href=\"https://en.m.wikipedia.org/wiki/Ferengi\">Ferengie</a> every day, it may be helpful to replace the word “sin” with “debt” more often.</p>\n",
 			"date_published": "2017-12-27T11:05:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/27/forgive-us-our.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/25/setting-up-pi.html",
-	      	
-			"title": "Setting Up Pi Zero ",
-			
-			"content_html": "<p>I got a Raspberry Pi Zero W for Christmas that I am setting up, and so far not having much luck getting the OS to install. I think the file transfer is taking too long. I am regretting following the instructions literally, meaning I installed the Pi Zero in the case and there isn’t an easy way to remove the micro SD card without removing them Zero entirely. </p>\n\n<p>Looks like I will have to remove the Zero and flash the card with a complete build on a PC. I hope that  I can get the Zero out of he case without breaking it. </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2017/8ce60d791a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-25T16:15:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/25/setting-up-pi.html"
 		}
 		
 	]
