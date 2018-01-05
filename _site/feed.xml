@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Thu, 04 Jan 2018 08:38:11 -0500</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2018 08:38:11 -0500</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2018 13:41:08 -0500</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2018 13:41:08 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Does micro.blog support lists in markdown with pages? For some reason &lt;a href=&quot;http://frankmcpherson.blog/now/&quot;&gt;it is not working for me&lt;/a&gt;. &lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Jan 2018 13:41:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/01/05/does-microblog-support.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/05/does-microblog-support.html</guid>
+      </item>
     
       <item>
       	
@@ -564,15 +573,6 @@
         <pubDate>Tue, 12 Dec 2017 13:32:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2017/12/12/a-benefit-of.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2017/12/12/a-benefit-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://mikehaynes.blog/1331&quot;&gt;Mike Haynes is writing a Micro.blog Android app&lt;/a&gt; that I need to keep an eye on, as it is something I want to use with my Pixel 2. Need to follow Mike.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Dec 2017 13:04:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2017/12/12/mike-haynes-is.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/12/mike-haynes-is.html</guid>
       </item>
     
   </channel>
