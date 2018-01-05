@@ -8,7 +8,7 @@
 		{
 			"id": "http://frankm.micro.blog/2018/01/05/does-microblog-support.html",
 	      	
-			"content_html": "<p>Does micro.blog support lists in markdown with pages? For some reason <a href=\"http://frankmcpherson.blog/now/\">it is not working for me</a>. </p>\n",
+			"content_html": "<p>Does micro.blog support lists in markdown with pages? For some reason <a href=\"http://frankmcpherson.blog/now/\">it is not working for me</a>. <strong>Update:</strong> Figured it out, I needed a space between the line above and the list.</p>\n",
 			"date_published": "2018-01-05T13:41:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/05/does-microblog-support.html"
 		},
