@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/05/does-microblog-support.html",
+	      	
+			"content_html": "<p>Does micro.blog support lists in markdown with pages? For some reason <a href=\"http://frankmcpherson.blog/now/\">it is not working for me</a>. </p>\n",
+			"date_published": "2018-01-05T13:41:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/05/does-microblog-support.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/04/how-america-failed.html",
 	      	
 			"content_html": "<p><a href=\"https://eand.co/how-america-failed-its-young-fbf40c349825?source=userActivityShare-98c3dd18be2-1515072860\">How America Failed Its Young</a></p>\n\n<p>I think there is something to the point made in the article about the impact of moving from pensions to 401ks. For one thing, it reinforced the idea that the stock market is the only measure of success, without asking success for whom. </p>\n",
@@ -79,14 +87,6 @@
 			"content_html": "<p>Google has stopped selling the Pixel C, and there is no replacement Android tablet in the Google Store. Consequently, you will now see <a href=\"https://9to5google.com/2017/12/29/post-mortem-google-pixel-c-was-an-admirable-piece-of-tablet-hardware-that-sadly-ran-android/\">articles about the demise of Android on tablets</a> and/or how bad Android has been for tablets.</p>\n",
 			"date_published": "2017-12-30T16:03:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/30/android-on-tablets.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/30/acohttpacohluvnr-in-the.html",
-	      	
-			"content_html": "<p><a href=\"http://a.co/0hLuVnR\">a.co</a></p>\n\n<blockquote>\n  <p>“In the Parabolic Discourse, Jesus tells us to withdraw our allegiance from a world of bigness, clarity, immediacy, looking good and security (the old order) and to see life instead as smallness, patience, humility, inner wisdom and risk-taking (always new and rare).” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n",
-			"date_published": "2017-12-30T12:23:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/30/acohttpacohluvnr-in-the.html"
 		}
 		
 	]
