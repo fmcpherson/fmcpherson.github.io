@@ -4,12 +4,12 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 05 Jan 2018 13:45:52 -0500</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2018 13:45:52 -0500</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2018 13:50:23 -0500</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2018 13:50:23 -0500</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;Does micro.blog support lists in markdown with pages? For some reason &lt;a href=&quot;http://frankmcpherson.blog/now/&quot;&gt;it is not working for me&lt;/a&gt;. &lt;/p&gt;
+        <description>&lt;p&gt;Does micro.blog support lists in markdown with pages? For some reason &lt;a href=&quot;http://frankmcpherson.blog/now/&quot;&gt;it is not working for me&lt;/a&gt;. &lt;strong&gt;Update:&lt;/strong&gt; Figured it out, I needed a space between the line above and the list.&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Jan 2018 13:41:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/05/does-microblog-support.html</link>
