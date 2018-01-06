@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sat, 06 Jan 2018 12:31:40 -0500</pubDate>
-    <lastBuildDate>Sat, 06 Jan 2018 12:31:40 -0500</lastBuildDate>
+    <pubDate>Sat, 06 Jan 2018 14:03:09 -0500</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2018 14:03:09 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Due all the info about Meltdown and Spectre, I am making sure my computers are up to date. I’ve just upgraded the kernel on my Mintbox and am taking the plunge by upgrading my Macbook Air to High Sierra. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jan 2018 14:03:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/01/06/due-all-the.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/06/due-all-the.html</guid>
+      </item>
     
       <item>
       	
@@ -570,15 +579,6 @@
         <pubDate>Sat, 16 Dec 2017 13:24:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2017/12/16/how-come-feeds.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2017/12/16/how-come-feeds.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;http://writing.frankmcpherson.org/2017/12/14/memoriesOfBermuda.html&quot;&gt;Memories of Bermuda&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Dec 2017 12:27:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2017/12/14/172730.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/14/172730.html</guid>
       </item>
     
   </channel>
