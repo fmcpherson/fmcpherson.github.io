@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/06/the-tax-cut.html",
+	      	
+			"content_html": "<p><a href=\"http://writing.frankmcpherson.org/2018/01/06/theTaxCutIsAnotherMisdirection.html\">The Tax Cut Is Another Misdirection</a>. Nothing to see here, move along.</p>\n",
+			"date_published": "2018-01-06T16:42:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/06/the-tax-cut.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/06/psion-is-trying.html",
 	      	
 			"title": "Psion Is Trying To Make A Comeback",
@@ -79,14 +87,6 @@
 			"content_html": "<p>The subversion of the Reign of God is that it is the complete opposite of the hockey stick graph capitalism enslaves us to. </p>\n",
 			"date_published": "2017-12-31T11:00:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/31/the-subversion-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/31/when-is-the.html",
-	      	
-			"content_html": "<p>When is the last time you have heard serious discussion about how much money we spend in defense of the United States? <a href=\"http://www.history.com/this-day-in-history/eisenhower-warns-of-military-industrial-complex\">The military industrial complex</a> is so entrenched it isn’t even brought up in passing when we talk of budget cuts within the U.S. government. Instead the conversation is about “entitlements” as if that is the only thing tax dollars is pent on. </p>\n\n<p>We can’t say that we were not warned.  </p>\n",
-			"date_published": "2017-12-31T10:48:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/31/when-is-the.html"
 		}
 		
 	]
