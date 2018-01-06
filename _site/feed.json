@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/06/due-all-the.html",
+	      	
+			"content_html": "<p>Due all the info about Meltdown and Spectre, I am making sure my computers are up to date. I’ve just upgraded the kernel on my Mintbox and am taking the plunge by upgrading my Macbook Air to High Sierra. </p>\n",
+			"date_published": "2018-01-06T14:03:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/06/due-all-the.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/06/acohttpacodrdlia-an-equally.html",
 	      	
 			"content_html": "<p><a href=\"http://a.co/dR7DlIa\">a.co</a></p>\n\n<blockquote>\n  <p>“An equally valid translation for the word basileia (although it doesn’t have many historical connotations because we haven’t used it as much) is the “reign of God.” The important denotation is the issue of control, command, oversight, having “a Lord” as organizing principle.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n\n<p>Basileia is the Greek word for Kingdom. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"http://a.co/aE9tn8d\">a.co</a></p>\n\n<blockquote>\n  <p>“The whole system is skewed to protect those at the top at all costs, he said. In fact, I added, it’s to protect the system itself, because the system is our goal.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n\n<p>I think our addiction to the system provides a compelling explanation for why Trump is president. </p>\n",
 			"date_published": "2017-12-31T10:42:00-05:00",
 			"url": "https://frankmcpherson.blog/2017/12/31/acohttpacoaetnd-the-whole.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2017/12/31/we-value-the.html",
-	      	
-			"content_html": "<p>We value the myth of America more than the ideals of America. The myth tells us what we think has already been obtained, while the ideals tell us that America is still a work in progress and the story is not yet over. </p>\n",
-			"date_published": "2017-12-31T10:07:00-05:00",
-			"url": "https://frankmcpherson.blog/2017/12/31/we-value-the.html"
 		}
 		
 	]
