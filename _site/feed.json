@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/08/looking-at-my.html",
+	      	
+			"content_html": "<p>Looking at <a href=\"https://browser.geekbench.com/user/120423\">my Geekbench profile</a> that shows the performance of my computers, I think you get an understanding of why Meltdown exists. </p>\n\n<p>What you see is computers with nearly the same clock speed and number of cores but widely different performance. I think it shows that while the physical performance (clock speed) is nearly the same, newer chips perform better due to all the parallel processing occuring within the chip. </p>\n",
+			"date_published": "2018-01-08T10:27:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/08/looking-at-my.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/07/cnbc-tech-brings.html",
 	      	
 			"content_html": "<p><a href=\"https://www.cnbc.com/2018/01/05/apple-tech-companies-to-bring-back-400-billion.html\">CNBC: Tech Brings Back $400 million</a></p>\n\n<p>Increased dividends, buy backs and M&amp;A do not equate to more jobs. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Does micro.blog support lists in markdown with pages? For some reason <a href=\"http://frankmcpherson.blog/now/\">it is not working for me</a>. <strong>Update:</strong> Figured it out, I needed a space between the line above and the list.</p>\n",
 			"date_published": "2018-01-05T13:41:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/05/does-microblog-support.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/04/how-america-failed.html",
-	      	
-			"content_html": "<p><a href=\"https://eand.co/how-america-failed-its-young-fbf40c349825?source=userActivityShare-98c3dd18be2-1515072860\">How America Failed Its Young</a></p>\n\n<p>I think there is something to the point made in the article about the impact of moving from pensions to 401ks. For one thing, it reinforced the idea that the stock market is the only measure of success, without asking success for whom. </p>\n",
-			"date_published": "2018-01-04T08:38:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/04/how-america-failed.html"
 		}
 		
 	]
