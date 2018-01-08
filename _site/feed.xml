@@ -4,8 +4,19 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sun, 07 Jan 2018 16:06:00 -0500</pubDate>
-    <lastBuildDate>Sun, 07 Jan 2018 16:06:00 -0500</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2018 10:27:27 -0500</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2018 10:27:27 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Looking at &lt;a href=&quot;https://browser.geekbench.com/user/120423&quot;&gt;my Geekbench profile&lt;/a&gt; that shows the performance of my computers, I think you get an understanding of why Meltdown exists. &lt;/p&gt;
+
+&lt;p&gt;What you see is computers with nearly the same clock speed and number of cores but widely different performance. I think it shows that while the physical performance (clock speed) is nearly the same, newer chips perform better due to all the parallel processing occuring within the chip. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Jan 2018 10:27:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/01/08/looking-at-my.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/08/looking-at-my.html</guid>
+      </item>
     
       <item>
       	
@@ -574,19 +585,6 @@
         <pubDate>Sun, 17 Dec 2017 11:49:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2017/12/17/acohttpacocwitqqb-several-years.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2017/12/17/acohttpacocwitqqb-several-years.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Tweeking CSS </title>
-        
-        <description>&lt;p&gt;Ok, after some fiddling I now have the home page rendering as I want it to on tablets. First I experimented with the viewport setting, but that did not fix the problem. Next, I downloaded the CSS and uploaded a copy to my server. Then, I experimented with the &lt;a href=&quot;https://www.w3schools.com/cssref/css3_pr_mediaquery.asp&quot;&gt;@media&lt;/a&gt; setting, landing on auto for the left and right margins and max-device-width to 1024px. &lt;/p&gt;
-
-&lt;p&gt;Now the home page renders centered on my iPad Mini, Nexus 9 and iPad Pro. It actually renders the best on the Nexus 9. &lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Dec 2017 16:42:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2017/12/16/tweeking-css.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/16/tweeking-css.html</guid>
       </item>
     
   </channel>
