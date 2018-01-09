@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/09/i-use-an.html",
+	      	
+			"content_html": "<p>I use an <a href=\"https://ifttt.com\">IFTTT</a> recipe to post my Tweets to <a href=\"https://fjmnotes.com/\">a Wordpress site</a>, and I just tweaked it to remove titles which don’t really exist in Tweets. Let’s see how it works! </p>\n",
+			"date_published": "2018-01-08T19:34:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/08/i-use-an.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/09/radarscope-is-coming.html",
 	      	
 			"content_html": "<p><a href=\"http://rosskimes.net/2018/01/1515443907/\">RadarScope is Coming to Windows 10</a> Why not, it’s running on all other platforms I use.</p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p><a href=\"http://writing.frankmcpherson.org/2018/01/06/theTaxCutIsAnotherMisdirection.html\">The Tax Cut Is Another Misdirection</a>. Nothing to see here, move along.</p>\n",
 			"date_published": "2018-01-06T16:42:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/06/the-tax-cut.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/06/psion-is-trying.html",
-	      	
-			"title": "Psion Is Trying To Make A Comeback",
-			
-			"content_html": "<p>I am interested to see how well received <a href=\"http://www.bbc.com/news/av/technology-42577476/ces-2018-electric-virtual-reality-suit-shocks-gamers\">Psion’s Android clamshell device</a> will be at CES. <a href=\"https://en.wikipedia.org/wiki/Psion_(company)\">Psion</a> is a blast from the past, at it’s height it was competing with Palm and Windows CE with its own operating system, and now it will be running Android. If it is priced around $300, I might be interested in buying one.</p>\n\n<p>And it’s British, so there is that. </p>\n",
-			"date_published": "2018-01-06T14:42:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/06/psion-is-trying.html"
 		}
 		
 	]
