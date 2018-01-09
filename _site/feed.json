@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/09/i-am-rooting.html",
+	      	
+			"content_html": "<p>I am rooting for Georgia tonight, but Alabama always seem to win the big games. Tonight will basically be a home game for the Bulldogs, so I am predicting they will carry home the championship.</p>\n",
+			"date_published": "2018-01-08T19:15:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/08/i-am-rooting.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/09/first-monday-at.html",
 	      	
 			"content_html": "<p>First Monday at work for the year is bad enough. When you are coming down with a cold on that Monday? Not pleasant! :( </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Due all the info about Meltdown and Spectre, I am making sure my computers are up to date. I’ve just upgraded the kernel on my Mintbox and am taking the plunge by upgrading my Macbook Air to High Sierra. </p>\n",
 			"date_published": "2018-01-06T14:03:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/06/due-all-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/06/acohttpacodrdlia-an-equally.html",
-	      	
-			"content_html": "<p><a href=\"http://a.co/dR7DlIa\">a.co</a></p>\n\n<blockquote>\n  <p>“An equally valid translation for the word basileia (although it doesn’t have many historical connotations because we haven’t used it as much) is the “reign of God.” The important denotation is the issue of control, command, oversight, having “a Lord” as organizing principle.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n\n<p>Basileia is the Greek word for Kingdom. </p>\n",
-			"date_published": "2018-01-06T12:31:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/06/acohttpacodrdlia-an-equally.html"
 		}
 		
 	]
