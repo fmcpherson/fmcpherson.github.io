@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/09/if-you-are.html",
+	      	
+			"content_html": "<p>If you are about to eat something that you don’t like, take a Cold Ease, they pretty much destroy ever taste bud in your mouth. </p>\n",
+			"date_published": "2018-01-08T20:12:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/08/if-you-are.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/09/i-use-an.html",
 	      	
 			"content_html": "<p>I use an <a href=\"https://ifttt.com\">IFTTT</a> recipe to post my Tweets to <a href=\"https://fjmnotes.com/\">a Wordpress site</a>, and I just tweaked it to remove titles which don’t really exist in Tweets. Let’s see how it works! </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://a.co/0hDWPAW\">a.co</a></p>\n\n<blockquote>\n  <p>“Transformation, though, is not the same as change. Change is when something new begins. Transformation is just the opposite.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n",
 			"date_published": "2018-01-07T10:46:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/07/acohttpacohdwpaw-transformation-though.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/06/the-tax-cut.html",
-	      	
-			"content_html": "<p><a href=\"http://writing.frankmcpherson.org/2018/01/06/theTaxCutIsAnotherMisdirection.html\">The Tax Cut Is Another Misdirection</a>. Nothing to see here, move along.</p>\n",
-			"date_published": "2018-01-06T16:42:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/06/the-tax-cut.html"
 		}
 		
 	]
