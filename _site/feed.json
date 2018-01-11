@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/11/the-continuing-search.html",
+	      	
+			"title": "The Continuing Search For The Perfect Todo App",
+			
+			"content_html": "<p>It’s the beginning of the year and therefore the time for my yearly ritual of trying to find a to-do (task management) app that I like and think that I will use. I am again finding myself with <a href=\"http://www.toodledo.com\">Toodledo</a>, mostly because it has more filtering features that other apps and because it has a robust web app. However, Toodledo does not have a robust iOS app. </p>\n\n<p>The Toodledo iOS app does the job but doesn’t have the best UI. However, I have found that 2Do syns with Toodledo so I am giving that a try. At worst I can toggle between the two apps because they sync with the same data. </p>\n\n<p>Unfortunately, 2Do does not sync Toodledo’s statuses, so if I want the same functionality I need to create tags rather that statuses. </p>\n",
+			"date_published": "2018-01-10T22:44:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/10/the-continuing-search.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/09/not-feeling-good.html",
 	      	
 			"content_html": "<p>Not feeling good about Georgia. </p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p><a href=\"https://www.cnbc.com/2018/01/05/apple-tech-companies-to-bring-back-400-billion.html\">CNBC: Tech Brings Back $400 million</a></p>\n\n<p>Increased dividends, buy backs and M&amp;A do not equate to more jobs. </p>\n",
 			"date_published": "2018-01-07T16:05:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/07/cnbc-tech-brings.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/07/acohttpacoftuvc-until-the.html",
-	      	
-			"content_html": "<p><a href=\"http://a.co/3F7tuvC\">a.co</a></p>\n\n<blockquote>\n  <p>“Until the Church believes its own core message, there’s no point in going out and telling other people to be Christian. There is no new world order to point to or to bring them home to.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister</p>\n</blockquote>\n",
-			"date_published": "2018-01-07T12:05:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/07/acohttpacoftuvc-until-the.html"
 		}
 		
 	]
