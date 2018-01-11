@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/11/am-i-the.html",
+	      	
+			"content_html": "<p>Am I the only one suspicious of <a href=\"https://www.axios.com/walmart-boosting-1515675530-f1641dc4-c92c-4002-ab00-b2e8cf35d540.html\">wage increase announcements like Walmarts</a>? Most of these corporations have been profitable for many years, so I doubt they needed the tax cut to increase the wages. And why the need for a public announcement? </p>\n",
+			"date_published": "2018-01-11T09:26:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/11/am-i-the.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/11/the-continuing-search.html",
 	      	
 			"title": "The Continuing Search For The Perfect Todo App",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Looking at <a href=\"https://browser.geekbench.com/user/120423\">my Geekbench profile</a> that shows the performance of my computers, I think you get an understanding of why Meltdown exists. </p>\n\n<p>What you see is computers with nearly the same clock speed and number of cores but widely different performance. I think it shows that while the physical performance (clock speed) is nearly the same, newer chips perform better due to all the parallel processing occuring within the chip. </p>\n",
 			"date_published": "2018-01-08T10:27:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/08/looking-at-my.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/07/cnbc-tech-brings.html",
-	      	
-			"content_html": "<p><a href=\"https://www.cnbc.com/2018/01/05/apple-tech-companies-to-bring-back-400-billion.html\">CNBC: Tech Brings Back $400 million</a></p>\n\n<p>Increased dividends, buy backs and M&amp;A do not equate to more jobs. </p>\n",
-			"date_published": "2018-01-07T16:05:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/07/cnbc-tech-brings.html"
 		}
 		
 	]
