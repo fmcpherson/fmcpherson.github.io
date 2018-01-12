@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/12/life-of-a.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Life of a scouting report: How the Cubs have streamlined an age-old process  <a href=\"https://theathletic.com/205906/2018/01/08/life-of-a-scouting-report-how-the-cubs-have-streamlined-an-age-old-process/\">theathletic.com</a></p>\n</blockquote>\n\n<p>Might be only significant to a life long Cub fan such as myself, but the statement in the article above about how the Cubs value players who hate to lose more than those who love to win really resonates. </p>\n",
+			"date_published": "2018-01-12T11:33:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/12/life-of-a.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/11/am-i-the.html",
 	      	
 			"content_html": "<p>Am I the only one suspicious of <a href=\"https://www.axios.com/walmart-boosting-1515675530-f1641dc4-c92c-4002-ab00-b2e8cf35d540.html\">wage increase announcements like Walmarts</a>? Most of these corporations have been profitable for many years, so I doubt they needed the tax cut to increase the wages. And why the need for a public announcement? </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I ordered a Pixel 2 case on December 20 and just got the shipment notification today, which says it will arrive by the end of the week. The case is not one of the custom design options, so there is no really good reason why it has taken this long for Google to ship to me a simple case. Particularly when the originating location is Chicago and I am in Detroit.</p>\n",
 			"date_published": "2018-01-08T19:06:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/08/i-ordered-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/08/looking-at-my.html",
-	      	
-			"content_html": "<p>Looking at <a href=\"https://browser.geekbench.com/user/120423\">my Geekbench profile</a> that shows the performance of my computers, I think you get an understanding of why Meltdown exists. </p>\n\n<p>What you see is computers with nearly the same clock speed and number of cores but widely different performance. I think it shows that while the physical performance (clock speed) is nearly the same, newer chips perform better due to all the parallel processing occuring within the chip. </p>\n",
-			"date_published": "2018-01-08T10:27:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/08/looking-at-my.html"
 		}
 		
 	]
