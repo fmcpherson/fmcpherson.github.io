@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/13/one-of-my.html",
+	      	
+			"content_html": "<p>One of my favorite features of micro.blog is that you and tap an entry in the timeline and select Conversation to read an entire thread. </p>\n",
+			"date_published": "2018-01-13T15:32:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/13/one-of-my.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/12/life-of-a.html",
 	      	
 			"content_html": "<blockquote>\n  <p>Life of a scouting report: How the Cubs have streamlined an age-old process  <a href=\"https://theathletic.com/205906/2018/01/08/life-of-a-scouting-report-how-the-cubs-have-streamlined-an-age-old-process/\">theathletic.com</a></p>\n</blockquote>\n\n<p>Might be only significant to a life long Cub fan such as myself, but the statement in the article above about how the Cubs value players who hate to lose more than those who love to win really resonates. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>First Monday at work for the year is bad enough. When you are coming down with a cold on that Monday? Not pleasant! :( </p>\n",
 			"date_published": "2018-01-08T19:09:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/08/first-monday-at.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/09/i-ordered-a.html",
-	      	
-			"content_html": "<p>I ordered a Pixel 2 case on December 20 and just got the shipment notification today, which says it will arrive by the end of the week. The case is not one of the custom design options, so there is no really good reason why it has taken this long for Google to ship to me a simple case. Particularly when the originating location is Chicago and I am in Detroit.</p>\n",
-			"date_published": "2018-01-08T19:06:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/08/i-ordered-a.html"
 		}
 		
 	]
