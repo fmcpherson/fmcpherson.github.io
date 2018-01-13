@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/13/the-power-button.html",
+	      	
+			"content_html": "<p>The power button on my wife’s Moto G4 broke and I have found that there is no way to restart a phone with no power button. Shouldn’t there be such an option within settings? (Btw, we are replacing the G4 with a G5s plus.)</p>\n",
+			"date_published": "2018-01-13T15:35:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/13/the-power-button.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/13/one-of-my.html",
 	      	
 			"content_html": "<p>One of my favorite features of micro.blog is that you and tap an entry in the timeline and select Conversation to read an entire thread. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I am rooting for Georgia tonight, but Alabama always seem to win the big games. Tonight will basically be a home game for the Bulldogs, so I am predicting they will carry home the championship.</p>\n",
 			"date_published": "2018-01-08T19:15:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/08/i-am-rooting.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/09/first-monday-at.html",
-	      	
-			"content_html": "<p>First Monday at work for the year is bad enough. When you are coming down with a cold on that Monday? Not pleasant! :( </p>\n",
-			"date_published": "2018-01-08T19:09:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/08/first-monday-at.html"
 		}
 		
 	]
