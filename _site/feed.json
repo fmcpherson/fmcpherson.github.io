@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/15/a-brief-totally.html",
+	      	
+			"content_html": "<p><a href=\"https://medium.com/@caspervonb/a-brief-totally-accurate-history-of-programming-languages-cd93ec806124\">A Brief Totally Accurate History of Programming Languages</a> is a good read. </p>\n",
+			"date_published": "2018-01-15T18:01:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/15/a-brief-totally.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/15/i-wish-that.html",
 	      	
 			"content_html": "<p>I wish that read later web apps like Pocket and Instapaper supported sharing to blogs <a href=\"http://inessential.com/2018/01/15/evergreen_diary_4_send_to_micro_blog\">as described by Brent</a>. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Not feeling good about Georgia. </p>\n",
 			"date_published": "2018-01-08T23:37:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/08/not-feeling-good.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/09/if-you-are.html",
-	      	
-			"content_html": "<p>If you are about to eat something that you don’t like, take a Cold Ease, they pretty much destroy ever taste bud in your mouth. </p>\n",
-			"date_published": "2018-01-08T20:12:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/08/if-you-are.html"
 		}
 		
 	]
