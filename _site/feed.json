@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/15/at-least-there.html",
+	      	
+			"content_html": "<p>At least there is some drama in the Saints/Vikings game. #football </p>\n",
+			"date_published": "2018-01-14T19:37:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/14/at-least-there.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/13/the-power-button.html",
 	      	
 			"content_html": "<p>The power button on my wife’s Moto G4 broke and I have found that there is no way to restart a phone with no power button. Shouldn’t there be such an option within settings? (Btw, we are replacing the G4 with a G5s plus.)</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"http://rosskimes.net/2018/01/1515443907/\">RadarScope is Coming to Windows 10</a> Why not, it’s running on all other platforms I use.</p>\n",
 			"date_published": "2018-01-08T19:25:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/08/radarscope-is-coming.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/09/i-am-rooting.html",
-	      	
-			"content_html": "<p>I am rooting for Georgia tonight, but Alabama always seem to win the big games. Tonight will basically be a home game for the Bulldogs, so I am predicting they will carry home the championship.</p>\n",
-			"date_published": "2018-01-08T19:15:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/08/i-am-rooting.html"
 		}
 		
 	]
