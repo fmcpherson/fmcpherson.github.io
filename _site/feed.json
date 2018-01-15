@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/15/as-great-as.html",
+	      	
+			"content_html": "<p>As great as the 🏈 games were today, we saw many terrible coaching decisions that arguably cost their team the game. </p>\n",
+			"date_published": "2018-01-14T20:41:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/14/as-great-as.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/15/at-least-there.html",
 	      	
 			"content_html": "<p>At least there is some drama in the Saints/Vikings game. #football </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I use an <a href=\"https://ifttt.com\">IFTTT</a> recipe to post my Tweets to <a href=\"https://fjmnotes.com/\">a Wordpress site</a>, and I just tweaked it to remove titles which don’t really exist in Tweets. Let’s see how it works! </p>\n",
 			"date_published": "2018-01-08T19:34:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/08/i-use-an.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/09/radarscope-is-coming.html",
-	      	
-			"content_html": "<p><a href=\"http://rosskimes.net/2018/01/1515443907/\">RadarScope is Coming to Windows 10</a> Why not, it’s running on all other platforms I use.</p>\n",
-			"date_published": "2018-01-08T19:25:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/08/radarscope-is-coming.html"
 		}
 		
 	]
