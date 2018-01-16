@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/16/the-first-college.html",
+	      	
+			"content_html": "<p>The first college basketball game (unofficial) was played <a href=\"https://www.loc.gov/item/today-in-history/january-16?loclr=eatod#chicago-dunks-iowa\">on this day in 1896.</a> </p>\n",
+			"date_published": "2018-01-16T09:25:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/16/the-first-college.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/16/in-most-causes.html",
 	      	
 			"content_html": "<p>In most causes athletes need to just react to the circumstances in front of them in order to perform. What often separates professionals is the extent to which they repetitively practice so what they need to do is more instinct and that allows their atheticism to shine. If an athlete thinks too much during a play, <a href=\"https://www.cbssports.com/nfl/news/marcus-williams-who-whiffed-on-stefon-diggs-walk-off-td-explains-what-happened\">you sometimes end up doing what the New Orleans Saints safety did</a> in the final play of the game on Sunday.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>One of my favorite features of micro.blog is that you and tap an entry in the timeline and select Conversation to read an entire thread. </p>\n",
 			"date_published": "2018-01-13T15:32:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/13/one-of-my.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/12/life-of-a.html",
-	      	
-			"content_html": "<blockquote>\n  <p>Life of a scouting report: How the Cubs have streamlined an age-old process  <a href=\"https://theathletic.com/205906/2018/01/08/life-of-a-scouting-report-how-the-cubs-have-streamlined-an-age-old-process/\">theathletic.com</a></p>\n</blockquote>\n\n<p>Might be only significant to a life long Cub fan such as myself, but the statement in the article above about how the Cubs value players who hate to lose more than those who love to win really resonates. </p>\n",
-			"date_published": "2018-01-12T11:33:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/12/life-of-a.html"
 		}
 		
 	]
