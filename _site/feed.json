@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/16/faces-like-these.html",
+	      	
+			"content_html": "<p><a href=\"http://www.patrickrhone.net/faces-like-these/\">Faces Like These – Rhoneisms</a> Just putting this here as a reminder. Hope. <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> </p>\n",
+			"date_published": "2018-01-15T21:11:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/15/faces-like-these.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/15/a-brief-totally.html",
 	      	
 			"content_html": "<p><a href=\"https://medium.com/@caspervonb/a-brief-totally-accurate-history-of-programming-languages-cd93ec806124\">A Brief Totally Accurate History of Programming Languages</a> is a good read. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>It’s the beginning of the year and therefore the time for my yearly ritual of trying to find a to-do (task management) app that I like and think that I will use. I am again finding myself with <a href=\"http://www.toodledo.com\">Toodledo</a>, mostly because it has more filtering features that other apps and because it has a robust web app. However, Toodledo does not have a robust iOS app. </p>\n\n<p>The Toodledo iOS app does the job but doesn’t have the best UI. However, I have found that 2Do syns with Toodledo so I am giving that a try. At worst I can toggle between the two apps because they sync with the same data. </p>\n\n<p>Unfortunately, 2Do does not sync Toodledo’s statuses, so if I want the same functionality I need to create tags rather that statuses. </p>\n",
 			"date_published": "2018-01-10T22:44:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/10/the-continuing-search.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/09/not-feeling-good.html",
-	      	
-			"content_html": "<p>Not feeling good about Georgia. </p>\n",
-			"date_published": "2018-01-08T23:37:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/08/not-feeling-good.html"
 		}
 		
 	]
