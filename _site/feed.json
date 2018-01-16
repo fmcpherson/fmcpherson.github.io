@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/16/last-month-was.html",
+	      	
+			"content_html": "<p>Last month was one of my <a href=\"http://writing.frankmcpherson.org/2017/12/\">better blogging months.</a></p>\n",
+			"date_published": "2018-01-15T21:44:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/15/last-month-was.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/16/faces-like-these.html",
 	      	
 			"content_html": "<p><a href=\"http://www.patrickrhone.net/faces-like-these/\">Faces Like These – Rhoneisms</a> Just putting this here as a reminder. Hope. <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> </p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p>Am I the only one suspicious of <a href=\"https://www.axios.com/walmart-boosting-1515675530-f1641dc4-c92c-4002-ab00-b2e8cf35d540.html\">wage increase announcements like Walmarts</a>? Most of these corporations have been profitable for many years, so I doubt they needed the tax cut to increase the wages. And why the need for a public announcement? </p>\n",
 			"date_published": "2018-01-11T09:26:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/11/am-i-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/11/the-continuing-search.html",
-	      	
-			"title": "The Continuing Search For The Perfect Todo App",
-			
-			"content_html": "<p>It’s the beginning of the year and therefore the time for my yearly ritual of trying to find a to-do (task management) app that I like and think that I will use. I am again finding myself with <a href=\"http://www.toodledo.com\">Toodledo</a>, mostly because it has more filtering features that other apps and because it has a robust web app. However, Toodledo does not have a robust iOS app. </p>\n\n<p>The Toodledo iOS app does the job but doesn’t have the best UI. However, I have found that 2Do syns with Toodledo so I am giving that a try. At worst I can toggle between the two apps because they sync with the same data. </p>\n\n<p>Unfortunately, 2Do does not sync Toodledo’s statuses, so if I want the same functionality I need to create tags rather that statuses. </p>\n",
-			"date_published": "2018-01-10T22:44:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/10/the-continuing-search.html"
 		}
 		
 	]
