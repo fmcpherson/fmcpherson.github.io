@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/18/based-on-the.html",
+	      	
+			"content_html": "<p>Based on the number of references in my timeline, I am checking out Feedbin. I am not sure that an integrated solution such as this fits my workflow, but I do find that it’s article count for each feed is giving me an opportunity to prune my RSS subscriptions. </p>\n",
+			"date_published": "2018-01-18T09:32:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/18/based-on-the.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/17/yet-again-focusing.html",
 	      	
 			"title": "Yet Again Focusing On The Wrong Thing",
@@ -77,14 +85,6 @@
 			"content_html": "<p>At least there is some drama in the Saints/Vikings game. #football </p>\n",
 			"date_published": "2018-01-14T19:37:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/14/at-least-there.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/13/the-power-button.html",
-	      	
-			"content_html": "<p>The power button on my wife’s Moto G4 broke and I have found that there is no way to restart a phone with no power button. Shouldn’t there be such an option within settings? (Btw, we are replacing the G4 with a G5s plus.)</p>\n",
-			"date_published": "2018-01-13T15:35:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/13/the-power-button.html"
 		}
 		
 	]
