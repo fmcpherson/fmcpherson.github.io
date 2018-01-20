@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sat, 20 Jan 2018 10:37:03 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 10:37:03 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2018 11:38:07 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2018 11:38:07 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_Gf4jN1xoSo&amp;amp;feature=share&quot;&gt;The true origins of the religious right &lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Jan 2018 11:38:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/01/20/the-true-origins.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/20/the-true-origins.html</guid>
+      </item>
     
       <item>
       	
@@ -522,21 +531,6 @@
         <pubDate>Wed, 27 Dec 2017 11:05:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2017/12/27/forgive-us-our.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2017/12/27/forgive-us-our.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Setting Up Pi Zero </title>
-        
-        <description>&lt;p&gt;I got a Raspberry Pi Zero W for Christmas that I am setting up, and so far not having much luck getting the OS to install. I think the file transfer is taking too long. I am regretting following the instructions literally, meaning I installed the Pi Zero in the case and there isn’t an easy way to remove the micro SD card without removing them Zero entirely. &lt;/p&gt;
-
-&lt;p&gt;Looks like I will have to remove the Zero and flash the card with a complete build on a PC. I hope that  I can get the Zero out of he case without breaking it. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2017/8ce60d791a.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Dec 2017 16:15:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2017/12/25/setting-up-pi.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2017/12/25/setting-up-pi.html</guid>
       </item>
     
   </channel>
