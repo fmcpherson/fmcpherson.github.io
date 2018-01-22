@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/22/despite-articles-to.html",
+	      	
+			"content_html": "<p>Despite articles to the contrary, Android Wear keeps ticking along. The latest evidence is <a href=\"https://www.digitaltrends.com/wearables/tag-heuer-connected-modular-41-smartwatch-news/\">Tag Heuer’s newest watch</a>. I believe more so than smartphones, Android Wear is really in the background such that it is more about companies like Tag Heuer and Fossil versus the Apple iWatch. </p>\n",
+			"date_published": "2018-01-22T14:21:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/22/despite-articles-to.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/22/one-can-buy.html",
 	      	
 			"content_html": "<p>One can buy a 128 GB 9.7-inch iPad <a href=\"https://www.macrumors.com/2018/01/22/target-apple-watch-series-1-staples/\">at Staples for $359</a>. The barrier of entry to tablets is getting lower every day. </p>\n",
@@ -79,14 +87,6 @@
 			"content_html": "<p>The lesson to be learned from the false missile alert in Hawaii is <strong>not</strong> how someone screwed up, a bad communication plan, nor <a href=\"https://hackernoon.com/redesigning-hawaiis-emergy-alert-interface-in-the-open-91c6318a7045?b9\">bad UI design</a>. The lesson that <strong>should be</strong> learned is that the possibility of a nuclear strick on the United States is much more plausible today that it has since the cold war. We appear to be nearing <a href=\"http://www.history.com/topics/cold-war/cuban-missile-crisis\">Cuban Missile Crisis</a> territory with incompetent leadership in the government. </p>\n",
 			"date_published": "2018-01-17T10:53:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/17/yet-again-focusing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/16/the-first-college.html",
-	      	
-			"content_html": "<p>The first college basketball game (unofficial) was played <a href=\"https://www.loc.gov/item/today-in-history/january-16?loclr=eatod#chicago-dunks-iowa\">on this day in 1896.</a> </p>\n",
-			"date_published": "2018-01-16T09:25:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/16/the-first-college.html"
 		}
 		
 	]
