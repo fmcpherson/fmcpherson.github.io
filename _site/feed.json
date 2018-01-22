@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/22/its-all-about.html",
+	      	
+			"content_html": "<p>It’s [all about the boards.)(https://www.contabulo.com/2018/01/07/what-can-contabulo-boards-do/) </p>\n",
+			"date_published": "2018-01-22T15:04:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/22/its-all-about.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/22/despite-articles-to.html",
 	      	
 			"content_html": "<p>Despite articles to the contrary, Android Wear keeps ticking along. The latest evidence is <a href=\"https://www.digitaltrends.com/wearables/tag-heuer-connected-modular-41-smartwatch-news/\">Tag Heuer’s newest watch</a>. I believe more so than smartphones, Android Wear is really in the background such that it is more about companies like Tag Heuer and Fossil versus the Apple iWatch. </p>\n",
@@ -77,16 +85,6 @@
 			"content_html": "<p>Based on the number of references in my timeline, I am checking out Feedbin. I am not sure that an integrated solution such as this fits my workflow, but I do find that it’s article count for each feed is giving me an opportunity to prune my RSS subscriptions. </p>\n",
 			"date_published": "2018-01-18T09:32:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/18/based-on-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/17/yet-again-focusing.html",
-	      	
-			"title": "Yet Again Focusing On The Wrong Thing",
-			
-			"content_html": "<p>The lesson to be learned from the false missile alert in Hawaii is <strong>not</strong> how someone screwed up, a bad communication plan, nor <a href=\"https://hackernoon.com/redesigning-hawaiis-emergy-alert-interface-in-the-open-91c6318a7045?b9\">bad UI design</a>. The lesson that <strong>should be</strong> learned is that the possibility of a nuclear strick on the United States is much more plausible today that it has since the cold war. We appear to be nearing <a href=\"http://www.history.com/topics/cold-war/cuban-missile-crisis\">Cuban Missile Crisis</a> territory with incompetent leadership in the government. </p>\n",
-			"date_published": "2018-01-17T10:53:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/17/yet-again-focusing.html"
 		}
 		
 	]
