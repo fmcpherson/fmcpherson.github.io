@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/23/during-this-year.html",
+	      	
+			"content_html": "<p>“During this year iOS users will be spending about $100 million per day for Apps. This was Google’s AdWords revenue rate in 2012.”</p>\n\n<p><a href=\"http://www.asymco.com/2018/01/08/the-ios-economy-updated/\">The iOS Economy, Updated</a> via Instapaper</p>\n",
+			"date_published": "2018-01-22T21:43:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/22/during-this-year.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/23/is-there-an.html",
 	      	
 			"content_html": "<p>Is there an advantage to <a href=\"https://agiletortoise.com/drafts/screencasts/\">writing something in Draft</a>s and then pushing it over to micro.blog? One reason is that it is faster to paste a hyperlink into a post in Drafts than in the micro.blog iOS app. </p>\n\n<p>Drafts and Workflow are the two iOS apps that I really want to learn more about this year. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"http://blog.alexellis.io/serverless-hanselminutes/\">blog.alexellis.io/serverles…</a></p>\n\n<p>This entry is coming from Feedbin, does this get posted to my blog or just added to the Timeline? <strong>Update:</strong> So, this did end up on the blog, interesting. I wonder if the same thing happens with Evergreen? </p>\n",
 			"date_published": "2018-01-18T09:44:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/18/hanselminutes-raspberry-pi.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/18/based-on-the.html",
-	      	
-			"content_html": "<p>Based on the number of references in my timeline, I am checking out Feedbin. I am not sure that an integrated solution such as this fits my workflow, but I do find that it’s article count for each feed is giving me an opportunity to prune my RSS subscriptions. </p>\n",
-			"date_published": "2018-01-18T09:32:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/18/based-on-the.html"
 		}
 		
 	]
