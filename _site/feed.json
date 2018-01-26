@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/26/031722.html",
+	      	
+			"content_html": "<p><a href=\"https://infinitediaries.net/one-hour-with-apples-new-homepod/\">infinitediaries.net</a> One hour with the Homepod. Yuck. </p>\n",
+			"date_published": "2018-01-25T22:17:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/25/031722.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/26/i-guess-some.html",
 	      	
 			"content_html": "<p>I guess some people are using micro.blog to post items to Wordpress. My micro.blogs are <a href=\"https://fjmnotes.com\">going to Wordpress</a> via Twitter, which I am guessing some may consider oxymoronic. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"http://a.co/exVBzoj\">a.co</a></p>\n\n<blockquote>\n  <p>“Who I am must never be prostituted to the demands of what others tell me I must do. Without this basic priority I am reduced to a commodity and I can do little to foster society’s half-hidden yet essential purpose of leading its members to full actualization as created persons.” from “Merton’s Palace of Nowhere” by James Finley, Henri J. M. Nouwen</p>\n</blockquote>\n",
 			"date_published": "2018-01-21T11:56:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/21/acohttpacoexvbzoj-who-i.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/21/053441.html",
-	      	
-			"content_html": "<p>It’s <a href=\"https://www.bellsbeer.com/news/shipping-dates-state-hopslam-2018-other-helpful-links\">Hopslam time</a>. I had my first can this evening. </p>\n",
-			"date_published": "2018-01-21T00:34:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/21/053441.html"
 		}
 		
 	]
