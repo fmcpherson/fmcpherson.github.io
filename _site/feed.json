@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/26/i-guess-some.html",
+	      	
+			"content_html": "<p>I guess some people are using micro.blog to post items to Wordpress. My micro.blogs are <a href=\"https://fjmnotes.com\">going to Wordpress</a> via Twitter, which I am guessing some may consider oxymoronic. </p>\n",
+			"date_published": "2018-01-25T22:00:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/25/i-guess-some.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/25/capitalism-democracy.html",
 	      	
 			"title": "Capitalism <> Democracy",
@@ -77,14 +85,6 @@
 			"content_html": "<p>It’s <a href=\"https://www.bellsbeer.com/news/shipping-dates-state-hopslam-2018-other-helpful-links\">Hopslam time</a>. I had my first can this evening. </p>\n",
 			"date_published": "2018-01-21T00:34:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/21/053441.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/20/the-true-origins.html",
-	      	
-			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=_Gf4jN1xoSo&amp;feature=share\">The true origins of the religious right </a></p>\n",
-			"date_published": "2018-01-20T11:38:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/20/the-true-origins.html"
 		}
 		
 	]
