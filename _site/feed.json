@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/27/spike-cancels-season.html",
+	      	
+			"content_html": "<p><a href=\"http://ew.com/tv/2018/01/17/shannara-chronicles-canceled/\">Spike cancels season 3 of the Shannara Chronicles</a></p>\n\n<p>I binged season 2 on Netflix last night, after being surprised to find it as I didn’t know it was made. I read the Shannara books a long time ago and I have fun trying to remember parts of the book while watching, although I know the TV Series is not an exact depiction. </p>\n",
+			"date_published": "2018-01-27T14:59:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/27/spike-cancels-season.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/27/flipithttpflipitovoev-chome-os.html",
 	      	
 			"content_html": "<p><a href=\"http://flip.it/OvOE.V\">flip.it</a></p>\n\n<blockquote>\n  <p>Chome OS is coming to tablets, leaked Acer device suggests http://flip.it/OvOE.V</p>\n</blockquote>\n\n<p>Chrome OS 2-in-1s make sense, a tablet does not. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Despite articles to the contrary, Android Wear keeps ticking along. The latest evidence is <a href=\"https://www.digitaltrends.com/wearables/tag-heuer-connected-modular-41-smartwatch-news/\">Tag Heuer’s newest watch</a>. I believe more so than smartphones, Android Wear is really in the background such that it is more about companies like Tag Heuer and Fossil versus the Apple iWatch. </p>\n",
 			"date_published": "2018-01-22T14:21:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/22/despite-articles-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/22/one-can-buy.html",
-	      	
-			"content_html": "<p>One can buy a 128 GB 9.7-inch iPad <a href=\"https://www.macrumors.com/2018/01/22/target-apple-watch-series-1-staples/\">at Staples for $359</a>. The barrier of entry to tablets is getting lower every day. </p>\n",
-			"date_published": "2018-01-22T13:31:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/22/one-can-buy.html"
 		}
 		
 	]
