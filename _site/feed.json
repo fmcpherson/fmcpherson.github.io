@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/28/auto-correction-in.html",
+	      	
+			"content_html": "<p>Auto correction in iOS frustrates me more than auto correction in Android. </p>\n",
+			"date_published": "2018-01-28T13:46:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/28/auto-correction-in.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/28/acohttpacoinjwp-the-stirring.html",
 	      	
 			"content_html": "<p><a href=\"http://a.co/i7n1jWp\">a.co</a></p>\n\n<blockquote>\n  <p>“The stirring of leaves in the wind makes the wind visible. Their stirring is the wind’s stirring, their whisper is the wind’s whisper. And so with love. Our actions of love make the invisible visible. Our actions of love make love present to ourselves and to others. And as we go out of ourselves in love, and become, as it were, lost in those we love, we discover a self-greater than our isolated ego. We discover the birth of that self born of the death to self-centeredness.” from “Merton’s Palace of Nowhere” by James Finley, Henri J. M. Nouwen</p>\n</blockquote>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>“During this year iOS users will be spending about $100 million per day for Apps. This was Google’s AdWords revenue rate in 2012.”</p>\n\n<p><a href=\"http://www.asymco.com/2018/01/08/the-ios-economy-updated/\">The iOS Economy, Updated</a> via Instapaper</p>\n",
 			"date_published": "2018-01-22T21:43:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/22/during-this-year.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/23/is-there-an.html",
-	      	
-			"content_html": "<p>Is there an advantage to <a href=\"https://agiletortoise.com/drafts/screencasts/\">writing something in Draft</a>s and then pushing it over to micro.blog? One reason is that it is faster to paste a hyperlink into a post in Drafts than in the micro.blog iOS app. </p>\n\n<p>Drafts and Workflow are the two iOS apps that I really want to learn more about this year. </p>\n",
-			"date_published": "2018-01-22T20:32:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/22/is-there-an.html"
 		}
 		
 	]
