@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sun, 28 Jan 2018 12:05:30 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Jan 2018 12:05:30 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2018 13:46:43 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2018 13:46:43 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Auto correction in iOS frustrates me more than auto correction in Android. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jan 2018 13:46:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/01/28/auto-correction-in.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/28/auto-correction-in.html</guid>
+      </item>
     
       <item>
       	
@@ -520,15 +529,6 @@
         <pubDate>Fri, 05 Jan 2018 18:00:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/05/230059.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/05/230059.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Does micro.blog support lists in markdown with pages? For some reason &lt;a href=&quot;http://frankmcpherson.blog/now/&quot;&gt;it is not working for me&lt;/a&gt;. &lt;strong&gt;Update:&lt;/strong&gt; Figured it out, I needed a space between the line above and the list.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 Jan 2018 13:41:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/05/does-microblog-support.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/05/does-microblog-support.html</guid>
       </item>
     
   </channel>
