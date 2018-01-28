@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sun, 28 Jan 2018 13:46:43 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Jan 2018 13:46:43 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2018 16:57:04 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2018 16:57:04 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://realpersonalcomputing.com/2018/01/28/use-google-assistant-as-offline-brain/&quot;&gt;realpersonalcomputing.com&lt;/a&gt; Use Google Assistant As Offline Brain. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jan 2018 16:57:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/01/28/215702.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/28/215702.html</guid>
+      </item>
     
       <item>
       	
@@ -520,15 +529,6 @@
         <pubDate>Sat, 06 Jan 2018 12:31:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/06/acohttpacodrdlia-an-equally.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/06/acohttpacodrdlia-an-equally.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/&quot;&gt;Real geeky discussion&lt;/a&gt; about why the Raspberry Pi is not affected by Meltdown and Spectre leads to explanation of the issue Meltdown and Spectre exploits.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 Jan 2018 18:00:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/05/230059.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/05/230059.html</guid>
       </item>
     
   </channel>
