@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/01/28/215702.html",
+	      	
+			"content_html": "<p><a href=\"https://realpersonalcomputing.com/2018/01/28/use-google-assistant-as-offline-brain/\">realpersonalcomputing.com</a> Use Google Assistant As Offline Brain. </p>\n",
+			"date_published": "2018-01-28T16:57:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/01/28/215702.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/01/28/auto-correction-in.html",
 	      	
 			"content_html": "<p>Auto correction in iOS frustrates me more than auto correction in Android. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb\">Web server for Chrome</a></p>\n",
 			"date_published": "2018-01-23T15:19:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/23/web-server-for.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/23/during-this-year.html",
-	      	
-			"content_html": "<p>“During this year iOS users will be spending about $100 million per day for Apps. This was Google’s AdWords revenue rate in 2012.”</p>\n\n<p><a href=\"http://www.asymco.com/2018/01/08/the-ios-economy-updated/\">The iOS Economy, Updated</a> via Instapaper</p>\n",
-			"date_published": "2018-01-22T21:43:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/22/during-this-year.html"
 		}
 		
 	]
