@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Tue, 30 Jan 2018 13:57:56 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Jan 2018 13:57:56 -0500</lastBuildDate>
+    <pubDate>Tue, 30 Jan 2018 14:30:21 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Jan 2018 14:30:21 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I think all app developers ought to be thinking of cross-platform data access. If I can’t get to my data from the web and any device I may use, I am likely not going to use your app. Hence apps like DevonThink are a show stopper for for me. &lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Jan 2018 14:30:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/01/30/i-think-all.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/30/i-think-all.html</guid>
+      </item>
     
       <item>
       	
@@ -521,19 +530,6 @@ As an iOS user but not a Mac OS user, I have long heard about OmniFocus and how 
         <pubDate>Sat, 06 Jan 2018 16:42:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/06/the-tax-cut.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/06/the-tax-cut.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Psion Is Trying To Make A Comeback</title>
-        
-        <description>&lt;p&gt;I am interested to see how well received &lt;a href=&quot;http://www.bbc.com/news/av/technology-42577476/ces-2018-electric-virtual-reality-suit-shocks-gamers&quot;&gt;Psion’s Android clamshell device&lt;/a&gt; will be at CES. &lt;a href=&quot;https://en.wikipedia.org/wiki/Psion_(company)&quot;&gt;Psion&lt;/a&gt; is a blast from the past, at it’s height it was competing with Palm and Windows CE with its own operating system, and now it will be running Android. If it is priced around $300, I might be interested in buying one.&lt;/p&gt;
-
-&lt;p&gt;And it’s British, so there is that. &lt;/p&gt;
-</description>
-        <pubDate>Sat, 06 Jan 2018 14:42:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/06/psion-is-trying.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/06/psion-is-trying.html</guid>
       </item>
     
   </channel>
