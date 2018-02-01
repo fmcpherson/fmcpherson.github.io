@@ -4,8 +4,19 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Thu, 01 Feb 2018 13:54:48 -0500</pubDate>
-    <lastBuildDate>Thu, 01 Feb 2018 13:54:48 -0500</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2018 14:27:38 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2018 14:27:38 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The other day I was looking for an iOS app that could access and download files form an Amazon S3 bucket. The only real one I could find was Transmit, which cost $10 and is being removed from the store. I search more, but finding no others, I paid the $10 and bought it even though it likely will not be maintained. It did the job and probably will do so for a while until Amazon changes their API. &lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I did not see &lt;a href=&quot;https://www.macstories.net/ipad-diaries/ipad-diaries-transmit-replacements-and-ftp-clients/&quot;&gt;this article on Macstories about alternatives to Transmit&lt;/a&gt; and in particular iFiles, which is cheaper and may do the job just as well. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Feb 2018 14:27:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/02/01/the-other-day.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/02/01/the-other-day.html</guid>
+      </item>
     
       <item>
       	
@@ -517,19 +528,6 @@ As an iOS user but not a Mac OS user, I have long heard about OmniFocus and how 
         <pubDate>Sun, 07 Jan 2018 16:05:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/07/cnbc-tech-brings.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/07/cnbc-tech-brings.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;http://a.co/3F7tuvC&quot;&gt;a.co&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Until the Church believes its own core message, there’s no point in going out and telling other people to be Christian. There is no new world order to point to or to bring them home to.” from “Jesus’ Plan for a New World: The Sermon on the Mount” by Richard Rohr, John Bookser Feister&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 07 Jan 2018 12:05:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/07/acohttpacoftuvc-until-the.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/07/acohttpacoftuvc-until-the.html</guid>
       </item>
     
   </channel>
