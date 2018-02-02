@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 02 Feb 2018 10:20:54 -0500</pubDate>
-    <lastBuildDate>Fri, 02 Feb 2018 10:20:54 -0500</lastBuildDate>
+    <pubDate>Fri, 02 Feb 2018 13:40:38 -0500</pubDate>
+    <lastBuildDate>Fri, 02 Feb 2018 13:40:38 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I got my Peel, &lt;a href=&quot;https://buypeel.com/products/super-thin-pixel-2-case&quot;&gt;Super Thin Pixel 2 case&lt;/a&gt;, and it is indeed very small and very light. So small and light that I now realize frequent removal may be problematic without breaking the case. OTOH, it enables one to retain the Pixel 2’s small size where the other Google cases I have been using do add bulk.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Feb 2018 13:40:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/02/02/i-got-my.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/02/02/i-got-my.html</guid>
+      </item>
     
       <item>
       	
@@ -515,17 +524,6 @@ As an iOS user but not a Mac OS user, I have long heard about OmniFocus and how 
         <pubDate>Mon, 08 Jan 2018 19:06:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/08/i-ordered-a.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/09/i-ordered-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Looking at &lt;a href=&quot;https://browser.geekbench.com/user/120423&quot;&gt;my Geekbench profile&lt;/a&gt; that shows the performance of my computers, I think you get an understanding of why Meltdown exists. &lt;/p&gt;
-
-&lt;p&gt;What you see is computers with nearly the same clock speed and number of cores but widely different performance. I think it shows that while the physical performance (clock speed) is nearly the same, newer chips perform better due to all the parallel processing occuring within the chip. &lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Jan 2018 10:27:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/08/looking-at-my.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/08/looking-at-my.html</guid>
       </item>
     
   </channel>
