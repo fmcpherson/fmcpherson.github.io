@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/02/i-got-my.html",
+	      	
+			"content_html": "<p>I got my Peel, <a href=\"https://buypeel.com/products/super-thin-pixel-2-case\">Super Thin Pixel 2 case</a>, and it is indeed very small and very light. So small and light that I now realize frequent removal may be problematic without breaking the case. OTOH, it enables one to retain the Pixel 2’s small size where the other Google cases I have been using do add bulk.</p>\n",
+			"date_published": "2018-02-02T13:40:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/02/i-got-my.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/02/we-have-a.html",
 	      	
 			"content_html": "<p><a href=\"https://www.eltonjohn.com/tours\">We have a date</a> on the Yellow Brick Road on October 12. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Auto correction in iOS frustrates me more than auto correction in Android. </p>\n",
 			"date_published": "2018-01-28T13:46:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/28/auto-correction-in.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/28/acohttpacoinjwp-the-stirring.html",
-	      	
-			"content_html": "<p><a href=\"http://a.co/i7n1jWp\">a.co</a></p>\n\n<blockquote>\n  <p>“The stirring of leaves in the wind makes the wind visible. Their stirring is the wind’s stirring, their whisper is the wind’s whisper. And so with love. Our actions of love make the invisible visible. Our actions of love make love present to ourselves and to others. And as we go out of ourselves in love, and become, as it were, lost in those we love, we discover a self-greater than our isolated ego. We discover the birth of that self born of the death to self-centeredness.” from “Merton’s Palace of Nowhere” by James Finley, Henri J. M. Nouwen</p>\n</blockquote>\n",
-			"date_published": "2018-01-28T12:05:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/28/acohttpacoinjwp-the-stirring.html"
 		}
 		
 	]
