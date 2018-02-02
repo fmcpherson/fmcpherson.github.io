@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/02/we-have-a.html",
+	      	
+			"content_html": "<p><a href=\"https://www.eltonjohn.com/tours\">We have a date</a> on the Yellow Brick Road on October 12. </p>\n",
+			"date_published": "2018-02-02T10:20:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/02/we-have-a.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/01/the-other-day.html",
 	      	
 			"content_html": "<p>The other day I was looking for an iOS app that could access and download files form an Amazon S3 bucket. The only real one I could find was Transmit, which cost $10 and is being removed from the store. I search more, but finding no others, I paid the $10 and bought it even though it likely will not be maintained. It did the job and probably will do so for a while until Amazon changes their API. </p>\n\n<p>Unfortunately, I did not see <a href=\"https://www.macstories.net/ipad-diaries/ipad-diaries-transmit-replacements-and-ftp-clients/\">this article on Macstories about alternatives to Transmit</a> and in particular iFiles, which is cheaper and may do the job just as well. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"http://a.co/i7n1jWp\">a.co</a></p>\n\n<blockquote>\n  <p>“The stirring of leaves in the wind makes the wind visible. Their stirring is the wind’s stirring, their whisper is the wind’s whisper. And so with love. Our actions of love make the invisible visible. Our actions of love make love present to ourselves and to others. And as we go out of ourselves in love, and become, as it were, lost in those we love, we discover a self-greater than our isolated ego. We discover the birth of that self born of the death to self-centeredness.” from “Merton’s Palace of Nowhere” by James Finley, Henri J. M. Nouwen</p>\n</blockquote>\n",
 			"date_published": "2018-01-28T12:05:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/28/acohttpacoinjwp-the-stirring.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/27/spike-cancels-season.html",
-	      	
-			"content_html": "<p><a href=\"http://ew.com/tv/2018/01/17/shannara-chronicles-canceled/\">Spike cancels season 3 of the Shannara Chronicles</a></p>\n\n<p>I binged season 2 on Netflix last night, after being surprised to find it as I didn’t know it was made. I read the Shannara books a long time ago and I have fun trying to remember parts of the book while watching, although I know the TV Series is not an exact depiction. </p>\n",
-			"date_published": "2018-01-27T14:59:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/27/spike-cancels-season.html"
 		}
 		
 	]
