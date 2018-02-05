@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/05/i-think-one.html",
+	      	
+			"content_html": "<p>I think one of the best things about micro.blog is that there are real people behind the posts, just sharing whatever may be of interest, rather than entities using it to gain my attention. </p>\n",
+			"date_published": "2018-02-05T09:04:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/05/i-think-one.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/04/013056.html",
 	      	
 			"content_html": "<p><a href=\"https://the-narthex.org/2018/02/03/doubt-and-hope/\">the-narthex.org</a> Doubt and Hope </p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p>I think all app developers ought to be thinking of cross-platform data access. If I can’t get to my data from the web and any device I may use, I am likely not going to use your app. Hence apps like DevonThink are a show stopper for for me. </p>\n",
 			"date_published": "2018-01-30T14:30:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/30/i-think-all.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/30/feedback-on-the.html",
-	      	
-			"title": "Feedback On The OmniFocus Roadmap",
-			
-			"content_html": "<p>A couple of thoughts about OmniFocus after reading <a href=\"https://www.omnigroup.com/blog/omni-roadmap-2018\">Omni’s roadmap for 2018</a>. \nAs an iOS user but not a Mac OS user, I have long heard about OmniFocus and how great it is but never tried it out. A few weeks ago I discovered I could install the iOS version and try it out for free for two weeks, which I did and frankly, it didn’t seem much better than Todoist or 2Do. </p>\n\n<p>My main requirement is multi-platform support because while use an iPad as my primary personal computer, I  also use Android smartphones and Windows notebook computers. The inability to get to info in OmniFocus from Windows has been a show stopper, and web access, which is on the roadmap, will help, however I am concerned about the “minimalist” plan. </p>\n\n<p>A simple way that Omni could solve this problem is by syncing with Toodledo. While there is a Toodledo iOS app, it is not very efficient so I use 2Do on my iPad that syncs my data with Toodledo. The benefit is that there are Toodledo apps for other platforms, and the Toodledo web app is one of the most advanced web apps that I use.</p>\n\n<p>I am also surprised that OmniFocus doesn’t use an outliner for editing projects and tasks, given the existence of OmniOutliner, which I do use. </p>\n\n<p>I’ll keep a watch out for the next release of OmniFocus and probably check it out. </p>\n",
-			"date_published": "2018-01-30T13:57:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/30/feedback-on-the.html"
 		}
 		
 	]
