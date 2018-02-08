@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/08/is-it-just.html",
+	      	
+			"content_html": "<p>Is it just me, or does it seem the refresh/load times for Timeline and Discover are getting slower? Noticing on web and iOS. </p>\n",
+			"date_published": "2018-02-08T11:07:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/08/is-it-just.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/08/love-facebook-someone.html",
 	      	
 			"content_html": "<p>Love Facebook. Someone thinks it’s ok to enable one to create a group that all their friends automatically join. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I got my Peel, <a href=\"https://buypeel.com/products/super-thin-pixel-2-case\">Super Thin Pixel 2 case</a>, and it is indeed very small and very light. So small and light that I now realize frequent removal may be problematic without breaking the case. OTOH, it enables one to retain the Pixel 2’s small size where the other Google cases I have been using do add bulk.</p>\n",
 			"date_published": "2018-02-02T13:40:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/02/i-got-my.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/02/we-have-a.html",
-	      	
-			"content_html": "<p><a href=\"https://www.eltonjohn.com/tours\">We have a date</a> on the Yellow Brick Road on October 12. </p>\n",
-			"date_published": "2018-02-02T10:20:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/02/we-have-a.html"
 		}
 		
 	]
