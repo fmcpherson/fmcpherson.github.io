@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/08/love-facebook-someone.html",
+	      	
+			"content_html": "<p>Love Facebook. Someone thinks it’s ok to enable one to create a group that all their friends automatically join. </p>\n",
+			"date_published": "2018-02-08T11:02:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/08/love-facebook-someone.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/08/whats-really-behind.html",
 	      	
 			"content_html": "<p>What’s really behind <a href=\"http://scripting.com/2018/02/08.html\">the massive, forceful, push to HTTPS</a>? It doesn’t make sense to me that it must be used for every site. To achieve their apparent ends, HTTPS needs to be as easy and as expensive to implement as HTTP. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.eltonjohn.com/tours\">We have a date</a> on the Yellow Brick Road on October 12. </p>\n",
 			"date_published": "2018-02-02T10:20:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/02/we-have-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/01/the-other-day.html",
-	      	
-			"content_html": "<p>The other day I was looking for an iOS app that could access and download files form an Amazon S3 bucket. The only real one I could find was Transmit, which cost $10 and is being removed from the store. I search more, but finding no others, I paid the $10 and bought it even though it likely will not be maintained. It did the job and probably will do so for a while until Amazon changes their API. </p>\n\n<p>Unfortunately, I did not see <a href=\"https://www.macstories.net/ipad-diaries/ipad-diaries-transmit-replacements-and-ftp-clients/\">this article on Macstories about alternatives to Transmit</a> and in particular iFiles, which is cheaper and may do the job just as well. </p>\n",
-			"date_published": "2018-02-01T14:27:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/01/the-other-day.html"
 		}
 		
 	]
