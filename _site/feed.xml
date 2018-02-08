@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Mon, 05 Feb 2018 18:02:27 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Feb 2018 18:02:27 -0500</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2018 10:28:31 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2018 10:28:31 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;What’s really behind &lt;a href=&quot;http://scripting.com/2018/02/08.html&quot;&gt;the massive, forceful, push to HTTPS&lt;/a&gt;? It doesn’t make sense to me that it must be used for every site. To achieve their apparent ends, HTTPS needs to be as easy and as expensive to implement as HTTP. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Feb 2018 10:28:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/02/08/whats-really-behind.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/02/08/whats-really-behind.html</guid>
+      </item>
     
       <item>
       	
@@ -515,15 +524,6 @@ As an iOS user but not a Mac OS user, I have long heard about OmniFocus and how 
         <pubDate>Wed, 10 Jan 2018 22:44:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/10/the-continuing-search.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/11/the-continuing-search.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Not feeling good about Georgia. &lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Jan 2018 23:37:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/08/not-feeling-good.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/09/not-feeling-good.html</guid>
       </item>
     
   </channel>
