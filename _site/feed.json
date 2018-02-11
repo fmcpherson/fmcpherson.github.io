@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/11/while-the-subscription.html",
+	      	
+			"content_html": "<p>While the subscription model may be good for individual developers, I think it will hurt the iOS app ecosystem. I can’t afford yearly subscriptions for all the apps I have on my iPad, so I will be forced to decrease down to a smaller number. </p>\n",
+			"date_published": "2018-02-11T15:10:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/11/while-the-subscription.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/08/carnival-in-da.html",
 	      	
 			"title": "Carnival In Da Moonlight",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"https://www.cnet.com/news/microsoft-surface-laptop-sale/\">Cnet thinks</a> $799 for a Windows S notebook that has Core M, 4 GB RAM, 128 GB SSD is a good deal. Wrong! That’s a good deal at $600 and no more. </p>\n",
 			"date_published": "2018-02-02T17:21:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/02/222141.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/02/it-does-look.html",
-	      	
-			"content_html": "<p>It does look as though <a href=\"https://www.theverge.com/2018/2/2/16965520/google-chrome-os-64-update-android-tablets-operating-system-replace\">ChromeOS will be used for tablets</a> given that Google doesn’t have an official Android tablet at the moment. I still think it needs to be pushed more as a competitor to the Microsoft Surface rather than the iPad. </p>\n",
-			"date_published": "2018-02-02T17:18:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/02/it-does-look.html"
 		}
 		
 	]
