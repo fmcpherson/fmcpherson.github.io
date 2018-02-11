@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/11/i-am-traveling.html",
+	      	
+			"content_html": "<p>I am traveling to Bermuda tomorrow, and it will be the first trip on which I will carry <a href=\"https://www.knomobags.com/usa/james-tote-backpack-deep-army-green.html?nosto=nosto-page-search1\">the James backpack</a> from Knomo. I couldn’t resist the sale price, although I realize it is on sale because Knomo is closing out the product. </p>\n",
+			"date_published": "2018-02-11T15:50:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/11/i-am-traveling.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/11/while-the-subscription.html",
 	      	
 			"content_html": "<p>While the subscription model may be good for individual developers, I think it will hurt the iOS app ecosystem. I can’t afford yearly subscriptions for all the apps I have on my iPad, so I will be forced to decrease down to a smaller number. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"https://the-narthex.org/2018/02/03/doubt-and-hope/\">the-narthex.org</a> Doubt and Hope </p>\n",
 			"date_published": "2018-02-03T20:30:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/03/013056.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/02/222141.html",
-	      	
-			"content_html": "<p><a href=\"https://www.cnet.com/news/microsoft-surface-laptop-sale/\">Cnet thinks</a> $799 for a Windows S notebook that has Core M, 4 GB RAM, 128 GB SSD is a good deal. Wrong! That’s a good deal at $600 and no more. </p>\n",
-			"date_published": "2018-02-02T17:21:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/02/222141.html"
 		}
 		
 	]
