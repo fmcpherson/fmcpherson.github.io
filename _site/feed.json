@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/17/what-scares-me.html",
+	      	
+			"content_html": "<p>What scares me is the number of people willing to live in a police state rather than allow common sense controls on guns. </p>\n",
+			"date_published": "2018-02-17T11:33:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/17/what-scares-me.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/11/i-am-traveling.html",
 	      	
 			"content_html": "<p>I am traveling to Bermuda tomorrow, and it will be the first trip on which I will carry <a href=\"https://www.knomobags.com/usa/james-tote-backpack-deep-army-green.html?nosto=nosto-page-search1\">the James backpack</a> from Knomo. I couldn’t resist the sale price, although I realize it is on sale because Knomo is closing out the product. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I think one of the best things about micro.blog is that there are real people behind the posts, just sharing whatever may be of interest, rather than entities using it to gain my attention. </p>\n",
 			"date_published": "2018-02-05T09:04:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/05/i-think-one.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/04/013056.html",
-	      	
-			"content_html": "<p><a href=\"https://the-narthex.org/2018/02/03/doubt-and-hope/\">the-narthex.org</a> Doubt and Hope </p>\n",
-			"date_published": "2018-02-03T20:30:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/03/013056.html"
 		}
 		
 	]
