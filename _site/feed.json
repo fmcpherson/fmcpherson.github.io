@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/17/do-you-want.html",
+	      	
+			"content_html": "<p>Do you want to  <a href=\"https://github.com/GhostText/GhostText\">use your favorite editor</a> to write in a text field of a web page? </p>\n",
+			"date_published": "2018-02-17T12:08:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/17/do-you-want.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/02/17/strohs-is-mixing.html",
+	      	
+			"content_html": "<p><a href=\"http://www.crainsdetroit.com/article/20180216/news/653101/strohs-is-mixing-up-a-new-brew-in-detroit-this-time-an-ipa\">Stroh’s is mixing up a new brew — this time an IPA</a></p>\n\n<p>Stroh’s comeback has been interesting and I am wondering how successful they will be with a larger scale production of a session IPA. </p>\n",
+			"date_published": "2018-02-17T12:05:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/17/strohs-is-mixing.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/17/what-scares-me.html",
 	      	
 			"content_html": "<p>What scares me is the number of people willing to live in a police state rather than allow common sense controls on guns. </p>\n",
@@ -69,22 +85,6 @@
 			"content_html": "<p>Does anyone know of a smart light bulb or plug that does not automatically turn on after a power failure? It’s frustrating me that I cannot find one that allows me to configure what I want the default state to be. Plugs seem to default to last known state while light bulbs seem to default to on. </p>\n",
 			"date_published": "2018-02-05T18:02:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/05/does-anyone-know.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/05/i-watched-most.html",
-	      	
-			"content_html": "<p>I watched most of <a href=\"https://www.netflix.com/title/80097140\">Altered Carbon</a> over the weekend and enjoyed it very much. Recommended.</p>\n",
-			"date_published": "2018-02-05T09:10:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/05/i-watched-most.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/05/i-think-one.html",
-	      	
-			"content_html": "<p>I think one of the best things about micro.blog is that there are real people behind the posts, just sharing whatever may be of interest, rather than entities using it to gain my attention. </p>\n",
-			"date_published": "2018-02-05T09:04:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/05/i-think-one.html"
 		}
 		
 	]
