@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/26/come-on-spring.html",
+	      	
+			"content_html": "<p>Come on, spring! </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/e13fa3b2c0.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-02-26T18:12:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/26/come-on-spring.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/02/26/there-was-a.html",
+	      	
+			"content_html": "<p>There was a time when <a href=\"https://news.google.com/news/search/section/q/mobile%20world%20congress/mobile%20world%20congress?hl=en&amp;gl=US&amp;ned=us\">Mobile World Congress</a> would be a thing I paid attention to, now it almost passed unnoticed. </p>\n",
+			"date_published": "2018-02-26T18:11:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/26/there-was-a.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/20/i-did-not.html",
 	      	
 			"content_html": "<p>I did not <a href=\"http://people.com/celebrity/national-hoodie-hoo-day-is-february-20/\">hoodie-hoo</a>, did you?</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>A couple of thoughts about OmniFocus after reading <a href=\"https://www.omnigroup.com/blog/omni-roadmap-2018\">Omni’s roadmap for 2018</a>. \nAs an iOS user but not a Mac OS user, I have long heard about OmniFocus and how great it is but never tried it out. A few weeks ago I discovered I could install the iOS version and try it out for free for two weeks, which I did and frankly, it didn’t seem much better than Todoist or 2Do. </p>\n\n<p>My main requirement is multi-platform support because while use an iPad as my primary personal computer, I  also use Android smartphones and Windows notebook computers. The inability to get to info in OmniFocus from Windows has been a show stopper, and web access, which is on the roadmap, will help, however I am concerned about the “minimalist” plan. </p>\n\n<p>A simple way that Omni could solve this problem is by syncing with Toodledo. While there is a Toodledo iOS app, it is not very efficient so I use 2Do on my iPad that syncs my data with Toodledo. The benefit is that there are Toodledo apps for other platforms, and the Toodledo web app is one of the most advanced web apps that I use.</p>\n\n<p>I am also surprised that OmniFocus doesn’t use an outliner for editing projects and tasks, given the existence of OmniOutliner, which I do use. </p>\n\n<p>I’ll keep a watch out for the next release of OmniFocus and probably check it out. </p>\n",
 			"date_published": "2018-01-30T13:57:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/30/feedback-on-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/29/recent-books-that.html",
-	      	
-			"content_html": "<p><a href=\"https://builttoadapt.io/7-recent-books-that-everyone-in-tech-should-read-626acf0d759e\">7 Recent Books That Everyone in Tech Should Read</a> A book should be written on the topic, just because we <strong>can</strong> do something doesn’t mean we <strong>should</strong> do something. </p>\n",
-			"date_published": "2018-01-29T09:46:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/29/recent-books-that.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/28/215702.html",
-	      	
-			"content_html": "<p><a href=\"https://realpersonalcomputing.com/2018/01/28/use-google-assistant-as-offline-brain/\">realpersonalcomputing.com</a> Use Google Assistant As Offline Brain. </p>\n",
-			"date_published": "2018-01-28T16:57:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/28/215702.html"
 		}
 		
 	]
