@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/02/27/there-is-no.html",
+	      	
+			"title": "There Is No Such Thing As Health Insurance",
+			
+			"content_html": "<p><a href=\"https://www.reuters.com/article/us-usa-healthcare/twenty-states-sue-federal-government-seeking-end-to-obamacare-idUSKCN1GB06R\">Twenty states have filed suit</a> against the federal government basically because there is no business model in healthcare insurance. Before we can fix problems we have to:</p>\n\n<ol>\n  <li>Agree on what is the problem</li>\n  <li>Agree that the problem needs to be fixed</li>\n  <li>Understand that the solution to every problem (healthcare) is not a hammer called capitalism</li>\n  <li>Agree on fundamental principles</li>\n</ol>\n\n<p>Fundamentally, the business model for insurance is based on the premise that a company pays out less money than it takes in through people buying insurance. Property insurance works because it is possible that people who pay for it never need to file a claim through their life time. Likewise auto insurance works because there are people who never have to file a claim over a lifetime of driving. </p>\n\n<p>In context, there really is no such thing as health insurance because every health care transaction is paid by the “health insurance” companies and just about everyone has one or more healthcare transactions per year. In other words, how does a “health insurance” company make money? If auto insurance was like healthcare, ever time one took their car in for an oil change or a tire rotation they would file an auto insurance claim. </p>\n\n<p>Basically, we have to stop thinking that there is a capitalistic solution to the cost of health care. Just about all other countries around the world came to this realization and did something about it. We in the United States have drunk the capitalistic koolaid so much that we have forgotten our own history and just run around trying to hammer away every single problem. </p>\n",
+			"date_published": "2018-02-27T12:55:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/27/there-is-no.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/26/come-on-spring.html",
 	      	
 			"content_html": "<p>Come on, spring! </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/e13fa3b2c0.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -197,16 +207,6 @@
 			"content_html": "<p>I think all app developers ought to be thinking of cross-platform data access. If I can’t get to my data from the web and any device I may use, I am likely not going to use your app. Hence apps like DevonThink are a show stopper for for me. </p>\n",
 			"date_published": "2018-01-30T14:30:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/01/30/i-think-all.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/30/feedback-on-the.html",
-	      	
-			"title": "Feedback On The OmniFocus Roadmap",
-			
-			"content_html": "<p>A couple of thoughts about OmniFocus after reading <a href=\"https://www.omnigroup.com/blog/omni-roadmap-2018\">Omni’s roadmap for 2018</a>. \nAs an iOS user but not a Mac OS user, I have long heard about OmniFocus and how great it is but never tried it out. A few weeks ago I discovered I could install the iOS version and try it out for free for two weeks, which I did and frankly, it didn’t seem much better than Todoist or 2Do. </p>\n\n<p>My main requirement is multi-platform support because while use an iPad as my primary personal computer, I  also use Android smartphones and Windows notebook computers. The inability to get to info in OmniFocus from Windows has been a show stopper, and web access, which is on the roadmap, will help, however I am concerned about the “minimalist” plan. </p>\n\n<p>A simple way that Omni could solve this problem is by syncing with Toodledo. While there is a Toodledo iOS app, it is not very efficient so I use 2Do on my iPad that syncs my data with Toodledo. The benefit is that there are Toodledo apps for other platforms, and the Toodledo web app is one of the most advanced web apps that I use.</p>\n\n<p>I am also surprised that OmniFocus doesn’t use an outliner for editing projects and tasks, given the existence of OmniOutliner, which I do use. </p>\n\n<p>I’ll keep a watch out for the next release of OmniFocus and probably check it out. </p>\n",
-			"date_published": "2018-01-30T13:57:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/30/feedback-on-the.html"
 		}
 		
 	]
