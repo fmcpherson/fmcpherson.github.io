@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/01/lots-of-brits.html",
+	      	
+			"content_html": "<p>Lots of Brits on micro.blog sharing their pictures of snow. </p>\n",
+			"date_published": "2018-02-28T22:04:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/02/28/lots-of-brits.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/02/27/there-is-no.html",
 	      	
 			"title": "There Is No Such Thing As Health Insurance",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Now, all of a sudden, people are waking up to the idea that a <a href=\"https://www.slashgear.com/universal-stylus-initiative-its-about-time-for-a-pen-comeback-01517697/\">stylus is not a bad thing</a> when it comes to tablets. Again, there is a difference between a stylus being an accessory that enables more features and one that is required to operate a device. </p>\n",
 			"date_published": "2018-02-01T09:30:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/01/now-all-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/01/30/i-think-all.html",
-	      	
-			"content_html": "<p>I think all app developers ought to be thinking of cross-platform data access. If I can’t get to my data from the web and any device I may use, I am likely not going to use your app. Hence apps like DevonThink are a show stopper for for me. </p>\n",
-			"date_published": "2018-01-30T14:30:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/01/30/i-think-all.html"
 		}
 		
 	]
