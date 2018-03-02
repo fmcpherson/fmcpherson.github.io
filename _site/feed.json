@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/02/in-her-article.html",
+	      	
+			"content_html": "<p>In her article titled “<a href=\"https://points.datasociety.net/alternative-facts-alternative-truths-ab9d446b06c\">Alternative Facts, Alternative Truths</a>” I think Dr. Francesca Tripodi provides a good example of the consequence of dualism as taught by fundamentalist churches. Issues like gun control, racism, and patriarchy do involve emotion as well as fact. In my opinion, just about all big decisions involve emotions. </p>\n\n<p>In the matter of the Evangelical church’s view of Trump, what I think this article shows is missing is context. If all you look for are the words you like, and don’t stop to consider that the person providing them knows that and is intentionally saying them with no history to back them up, there is going to be a problem. </p>\n",
+			"date_published": "2018-03-02T09:22:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/03/02/in-her-article.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/01/bravehttpsbravecom-is-an.html",
 	      	
 			"content_html": "<p><a href=\"https://brave.com/\">Brave</a> is an ad block browser <a href=\"http://scripting.com/2018/02/28/164705.html\">built with Electron</a>. I’ve installed it on my iPad and have to say, it is very fast.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>The other day I was looking for an iOS app that could access and download files form an Amazon S3 bucket. The only real one I could find was Transmit, which cost $10 and is being removed from the store. I search more, but finding no others, I paid the $10 and bought it even though it likely will not be maintained. It did the job and probably will do so for a while until Amazon changes their API. </p>\n\n<p>Unfortunately, I did not see <a href=\"https://www.macstories.net/ipad-diaries/ipad-diaries-transmit-replacements-and-ftp-clients/\">this article on Macstories about alternatives to Transmit</a> and in particular iFiles, which is cheaper and may do the job just as well. </p>\n",
 			"date_published": "2018-02-01T14:27:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/01/the-other-day.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/01/wtf-is-wrong.html",
-	      	
-			"content_html": "<p><a href=\"https://shift.newco.co/wtf-is-wrong-with-capitalism-585249daa9c8\">WTF Is Wrong With Capitalism?</a></p>\n\n<blockquote>\n  <p>“The true effect of “trickle-down economics,” he writes, “is the way that the ideal of maximizing profit, not shared prosperity, has metastasized from financial markets and so shapes our entire society….”</p>\n</blockquote>\n",
-			"date_published": "2018-02-01T13:52:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/01/wtf-is-wrong.html"
 		}
 		
 	]
