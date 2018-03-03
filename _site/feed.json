@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/03/standard-notes-a.html",
+	      	
+			"content_html": "<p><a href=\"https://standardnotes.org/\">Standard Notes A Simple And Private Notes App</a></p>\n\n<p>I am invested in <a href=\"https://evernote.com/\">Evernote</a>, but if I we’re starting a fresh search for a note taking repository, I would probably go with Standard Notes. The most appealing feature is that it encrypts all notes before they are stored locally, and the encrypted copy is what is synced to their server. </p>\n\n<p>Standard Noted runs on multiple platforms, and the paid version is very extensible and supports two factor authentication. If you are inclined, you can host Standard Noted on your own server. </p>\n",
+			"date_published": "2018-03-03T17:01:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/03/03/standard-notes-a.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/03/martin-kool-how.html",
 	      	
 			"content_html": "<p><a href=\"http://martinkool.com/post/13629963755/firebug-on-ipad-and-iphone\">Martin Kool - How to use Firebug on your iPad and iPhone</a></p>\n\n<p>Add a Javascript console to an iOS browser. </p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>It does look as though <a href=\"https://www.theverge.com/2018/2/2/16965520/google-chrome-os-64-update-android-tablets-operating-system-replace\">ChromeOS will be used for tablets</a> given that Google doesn’t have an official Android tablet at the moment. I still think it needs to be pushed more as a competitor to the Microsoft Surface rather than the iPad. </p>\n",
 			"date_published": "2018-02-02T17:18:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/02/it-does-look.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/02/i-got-my.html",
-	      	
-			"content_html": "<p>I got my Peel, <a href=\"https://buypeel.com/products/super-thin-pixel-2-case\">Super Thin Pixel 2 case</a>, and it is indeed very small and very light. So small and light that I now realize frequent removal may be problematic without breaking the case. OTOH, it enables one to retain the Pixel 2’s small size where the other Google cases I have been using do add bulk.</p>\n",
-			"date_published": "2018-02-02T13:40:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/02/i-got-my.html"
 		}
 		
 	]
