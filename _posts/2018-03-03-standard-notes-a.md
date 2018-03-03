@@ -4,7 +4,7 @@ microblog: true
 date: 2018-03-03 17:01 -0500
 guid: http://frankm.micro.blog/2018/03/03/standard-notes-a.html
 ---
-[Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
+[Standard Notes A Simple And Private Notes App](https://standardnotes.org/)
 
 I am invested in [Evernote](https://evernote.com/), but if I we're starting a fresh search for a note taking repository, I would probably go with Standard Notes. The most appealing feature is that it encrypts all notes before they are stored locally, and the encrypted copy is what is synced to their server. 
 
