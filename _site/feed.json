@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/03/martin-kool-how.html",
+	      	
+			"content_html": "<p><a href=\"http://martinkool.com/post/13629963755/firebug-on-ipad-and-iphone\">Martin Kool - How to use Firebug on your iPad and iPhone</a></p>\n\n<p>Add a Javascript console to an iOS browser. </p>\n",
+			"date_published": "2018-03-03T16:31:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/03/03/martin-kool-how.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/02/two-people-shot.html",
 	      	
 			"content_html": "<p><a href=\"https://news.google.com/news/story/dGEppTolfNwnPUMuqcH-LTkRL1NBM?ned=us&amp;hl=en&amp;gl=US\">Two people shot on the Central Michigan Campus</a>, and at the time I write this the man hunt for the shooter is in progress. Immediately on Twitter are the gun control/anti-control fanatics tweeting away. What is always lost is context. The problem isn’t necessarily this one event, the problem is that this event is just the lastest instance of something much larger.</p>\n\n<p>Right now, all we have are advocates of each side of the solution yelling at each other so that <strong>nothing is being done.</strong> So, from where I stand the real issue at this moment is the fact that we doing nothing but just live with the problem, which is a sign for how low our society has fallen. </p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I got my Peel, <a href=\"https://buypeel.com/products/super-thin-pixel-2-case\">Super Thin Pixel 2 case</a>, and it is indeed very small and very light. So small and light that I now realize frequent removal may be problematic without breaking the case. OTOH, it enables one to retain the Pixel 2’s small size where the other Google cases I have been using do add bulk.</p>\n",
 			"date_published": "2018-02-02T13:40:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/02/02/i-got-my.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/02/we-have-a.html",
-	      	
-			"content_html": "<p><a href=\"https://www.eltonjohn.com/tours\">We have a date</a> on the Yellow Brick Road on October 12. </p>\n",
-			"date_published": "2018-02-02T10:20:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/02/we-have-a.html"
 		}
 		
 	]
