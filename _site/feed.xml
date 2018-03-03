@@ -4,8 +4,21 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sat, 03 Mar 2018 16:31:38 -0500</pubDate>
-    <lastBuildDate>Sat, 03 Mar 2018 16:31:38 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Mar 2018 17:13:52 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Mar 2018 17:13:52 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://standardnotes.org/&quot;&gt;Standard Notes A Simple And Private Notes App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I am invested in &lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt;, but if I we’re starting a fresh search for a note taking repository, I would probably go with Standard Notes. The most appealing feature is that it encrypts all notes before they are stored locally, and the encrypted copy is what is synced to their server. &lt;/p&gt;
+
+&lt;p&gt;Standard Noted runs on multiple platforms, and the paid version is very extensible and supports two factor authentication. If you are inclined, you can host Standard Noted on your own server. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Mar 2018 17:01:00 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/03/03/standard-notes-a.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/03/03/standard-notes-a.html</guid>
+      </item>
     
       <item>
       	
@@ -526,15 +539,6 @@ As an iOS user but not a Mac OS user, I have long heard about OmniFocus and how 
         <pubDate>Sat, 20 Jan 2018 11:38:00 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/01/20/the-true-origins.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/20/the-true-origins.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;If you want to decrease or stop abortions you have to first correctly identify what causes abortions, and that is not a Supreme Court ruling. &lt;/p&gt;
-</description>
-        <pubDate>Sat, 20 Jan 2018 10:37:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/20/if-you-want.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/20/if-you-want.html</guid>
       </item>
     
   </channel>
