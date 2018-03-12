@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-20 11:55 -0500
+date: 2017-12-20 12:55 -0400
 guid: http://frankm.micro.blog/2017/12/20/just-added-a.html
 ---
 Just added a micro.blog action to Drafts, how did it work? **It worked** 
