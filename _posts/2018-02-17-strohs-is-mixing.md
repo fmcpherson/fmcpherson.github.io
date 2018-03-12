@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-17 12:05 -0500
+date: 2018-02-17 13:05 -0400
 guid: http://frankm.micro.blog/2018/02/17/strohs-is-mixing.html
 ---
 [Stroh's is mixing up a new brew — this time an IPA](http://www.crainsdetroit.com/article/20180216/news/653101/strohs-is-mixing-up-a-new-brew-in-detroit-this-time-an-ipa)
