@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-03 17:01 -0500
+date: 2018-03-03 18:01 -0400
 guid: http://frankm.micro.blog/2018/03/03/standard-notes-a.html
 ---
 [Standard Notes A Simple And Private Notes App](https://standardnotes.org/)
