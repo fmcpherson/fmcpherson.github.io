@@ -2,7 +2,7 @@
 layout: post
 title: "Forgive Us Our Debts, As We Forgive The Debts Of Others"
 microblog: false
-date: 2017-12-27 11:05 -0500
+date: 2017-12-27 12:05 -0400
 guid: http://frankm.micro.blog/2017/12/27/forgive-us-our.html
 ---
  [He died for our debts, not our sins](https://renegadeinc.com/he-died-for-our-debts-not-our-sins/)
