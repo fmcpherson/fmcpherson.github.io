@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-02 13:08 -0500
+date: 2018-01-02 14:08 -0400
 guid: http://frankm.micro.blog/2018/01/02/acohttpacocjscwn-you-can.html
 ---
  [a.co](http://a.co/c2jSCWN)
