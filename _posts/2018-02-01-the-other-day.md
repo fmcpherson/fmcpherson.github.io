@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-01 14:27 -0500
+date: 2018-02-01 15:27 -0400
 guid: http://frankm.micro.blog/2018/02/01/the-other-day.html
 ---
 The other day I was looking for an iOS app that could access and download files form an Amazon S3 bucket. The only real one I could find was Transmit, which cost $10 and is being removed from the store. I search more, but finding no others, I paid the $10 and bought it even though it likely will not be maintained. It did the job and probably will do so for a while until Amazon changes their API. 
