@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/12/daylight-savings-time.html",
+	      	
+			"content_html": "<p><a href=\"https://www.smithsonianmag.com/history/100-years-later-madness-daylight-saving-time-endures-180968435/\">Daylight savings time sucks</a>, and common sense suggests it should be repealed. However, like most everything in the United States, powerful corporations have figured out how to take advantage of it and therefore their money will prevent any positive change. </p>\n",
+			"date_published": "2018-03-12T12:00:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/12/daylight-savings-time.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/03/standard-notes-a.html",
 	      	
 			"content_html": "<p><a href=\"https://standardnotes.org/\">Standard Notes A Simple And Private Notes App</a></p>\n\n<p>I am invested in <a href=\"https://evernote.com/\">Evernote</a>, but if I we’re starting a fresh search for a note taking repository, I would probably go with Standard Notes. The most appealing feature is that it encrypts all notes before they are stored locally, and the encrypted copy is what is synced to their server. </p>\n\n<p>Standard Noted runs on multiple platforms, and the paid version is very extensible and supports two factor authentication. If you are inclined, you can host Standard Noted on your own server. </p>\n",
-			"date_published": "2018-03-03T17:01:00-05:00",
+			"date_published": "2018-03-03T18:01:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/03/standard-notes-a.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://frankm.micro.blog/2018/03/03/martin-kool-how.html",
 	      	
 			"content_html": "<p><a href=\"http://martinkool.com/post/13629963755/firebug-on-ipad-and-iphone\">Martin Kool - How to use Firebug on your iPad and iPhone</a></p>\n\n<p>Add a Javascript console to an iOS browser. </p>\n",
-			"date_published": "2018-03-03T16:31:00-05:00",
+			"date_published": "2018-03-03T17:31:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/03/martin-kool-how.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://frankm.micro.blog/2018/03/02/two-people-shot.html",
 	      	
 			"content_html": "<p><a href=\"https://news.google.com/news/story/dGEppTolfNwnPUMuqcH-LTkRL1NBM?ned=us&amp;hl=en&amp;gl=US\">Two people shot on the Central Michigan Campus</a>, and at the time I write this the man hunt for the shooter is in progress. Immediately on Twitter are the gun control/anti-control fanatics tweeting away. What is always lost is context. The problem isn’t necessarily this one event, the problem is that this event is just the lastest instance of something much larger.</p>\n\n<p>Right now, all we have are advocates of each side of the solution yelling at each other so that <strong>nothing is being done.</strong> So, from where I stand the real issue at this moment is the fact that we doing nothing but just live with the problem, which is a sign for how low our society has fallen. </p>\n",
-			"date_published": "2018-03-02T11:53:00-05:00",
+			"date_published": "2018-03-02T12:53:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/02/two-people-shot.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://frankm.micro.blog/2018/03/02/in-her-article.html",
 	      	
 			"content_html": "<p>In her article titled “<a href=\"https://points.datasociety.net/alternative-facts-alternative-truths-ab9d446b06c\">Alternative Facts, Alternative Truths</a>” I think Dr. Francesca Tripodi provides a good example of the consequence of dualism as taught by fundamentalist churches. Issues like gun control, racism, and patriarchy do involve emotion as well as fact. In my opinion, just about all big decisions involve emotions. </p>\n\n<p>In the matter of the Evangelical church’s view of Trump, what I think this article shows is missing is context. If all you look for are the words you like, and don’t stop to consider that the person providing them knows that and is intentionally saying them with no history to back them up, there is going to be a problem. </p>\n",
-			"date_published": "2018-03-02T09:22:00-05:00",
+			"date_published": "2018-03-02T10:22:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/02/in-her-article.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://frankm.micro.blog/2018/03/01/bravehttpsbravecom-is-an.html",
 	      	
 			"content_html": "<p><a href=\"https://brave.com/\">Brave</a> is an ad block browser <a href=\"http://scripting.com/2018/02/28/164705.html\">built with Electron</a>. I’ve installed it on my iPad and have to say, it is very fast.</p>\n",
-			"date_published": "2018-03-01T09:23:00-05:00",
+			"date_published": "2018-03-01T10:23:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/01/bravehttpsbravecom-is-an.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://frankm.micro.blog/2018/03/01/lots-of-brits.html",
 	      	
 			"content_html": "<p>Lots of Brits on micro.blog sharing their pictures of snow. </p>\n",
-			"date_published": "2018-02-28T22:04:00-05:00",
+			"date_published": "2018-02-28T23:04:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/28/lots-of-brits.html"
 		},
 		
@@ -59,7 +67,7 @@
 			"title": "There Is No Such Thing As Health Insurance",
 			
 			"content_html": "<p><a href=\"https://www.reuters.com/article/us-usa-healthcare/twenty-states-sue-federal-government-seeking-end-to-obamacare-idUSKCN1GB06R\">Twenty states have filed suit</a> against the federal government basically because there is no business model in healthcare insurance. Before we can fix problems we have to:</p>\n\n<ol>\n  <li>Agree on what is the problem</li>\n  <li>Agree that the problem needs to be fixed</li>\n  <li>Understand that the solution to every problem (healthcare) is not a hammer called capitalism</li>\n  <li>Agree on fundamental principles</li>\n</ol>\n\n<p>Fundamentally, the business model for insurance is based on the premise that a company pays out less money than it takes in through people buying insurance. Property insurance works because it is possible that people who pay for it never need to file a claim through their life time. Likewise auto insurance works because there are people who never have to file a claim over a lifetime of driving. </p>\n\n<p>In context, there really is no such thing as health insurance because every health care transaction is paid by the “health insurance” companies and just about everyone has one or more healthcare transactions per year. In other words, how does a “health insurance” company make money? If auto insurance was like healthcare, ever time one took their car in for an oil change or a tire rotation they would file an auto insurance claim. </p>\n\n<p>Basically, we have to stop thinking that there is a capitalistic solution to the cost of health care. Just about all other countries around the world came to this realization and did something about it. We in the United States have drunk the capitalistic koolaid so much that we have forgotten our own history and just run around trying to hammer away every single problem. </p>\n",
-			"date_published": "2018-02-27T12:55:00-05:00",
+			"date_published": "2018-02-27T13:55:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/27/there-is-no.html"
 		},
 		
@@ -67,7 +75,7 @@
 			"id": "http://frankm.micro.blog/2018/02/26/come-on-spring.html",
 	      	
 			"content_html": "<p>Come on, spring! </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/e13fa3b2c0.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-02-26T18:12:00-05:00",
+			"date_published": "2018-02-26T19:12:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/26/come-on-spring.html"
 		},
 		
@@ -75,7 +83,7 @@
 			"id": "http://frankm.micro.blog/2018/02/26/there-was-a.html",
 	      	
 			"content_html": "<p>There was a time when <a href=\"https://news.google.com/news/search/section/q/mobile%20world%20congress/mobile%20world%20congress?hl=en&amp;gl=US&amp;ned=us\">Mobile World Congress</a> would be a thing I paid attention to, now it almost passed unnoticed. </p>\n",
-			"date_published": "2018-02-26T18:11:00-05:00",
+			"date_published": "2018-02-26T19:11:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/26/there-was-a.html"
 		},
 		
@@ -83,7 +91,7 @@
 			"id": "http://frankm.micro.blog/2018/02/20/i-did-not.html",
 	      	
 			"content_html": "<p>I did not <a href=\"http://people.com/celebrity/national-hoodie-hoo-day-is-february-20/\">hoodie-hoo</a>, did you?</p>\n",
-			"date_published": "2018-02-20T12:32:00-05:00",
+			"date_published": "2018-02-20T13:32:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/20/i-did-not.html"
 		},
 		
@@ -91,7 +99,7 @@
 			"id": "http://frankm.micro.blog/2018/02/17/do-you-want.html",
 	      	
 			"content_html": "<p>Do you want to  <a href=\"https://github.com/GhostText/GhostText\">use your favorite editor</a> to write in a text field of a web page? </p>\n",
-			"date_published": "2018-02-17T12:08:00-05:00",
+			"date_published": "2018-02-17T13:08:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/17/do-you-want.html"
 		},
 		
@@ -99,7 +107,7 @@
 			"id": "http://frankm.micro.blog/2018/02/17/strohs-is-mixing.html",
 	      	
 			"content_html": "<p><a href=\"http://www.crainsdetroit.com/article/20180216/news/653101/strohs-is-mixing-up-a-new-brew-in-detroit-this-time-an-ipa\">Stroh’s is mixing up a new brew — this time an IPA</a></p>\n\n<p>Stroh’s comeback has been interesting and I am wondering how successful they will be with a larger scale production of a session IPA. </p>\n",
-			"date_published": "2018-02-17T12:05:00-05:00",
+			"date_published": "2018-02-17T13:05:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/17/strohs-is-mixing.html"
 		},
 		
@@ -107,7 +115,7 @@
 			"id": "http://frankm.micro.blog/2018/02/17/what-scares-me.html",
 	      	
 			"content_html": "<p>What scares me is the number of people willing to live in a police state rather than allow common sense controls on guns. </p>\n",
-			"date_published": "2018-02-17T11:33:00-05:00",
+			"date_published": "2018-02-17T12:33:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/17/what-scares-me.html"
 		},
 		
@@ -115,7 +123,7 @@
 			"id": "http://frankm.micro.blog/2018/02/11/i-am-traveling.html",
 	      	
 			"content_html": "<p>I am traveling to Bermuda tomorrow, and it will be the first trip on which I will carry <a href=\"https://www.knomobags.com/usa/james-tote-backpack-deep-army-green.html?nosto=nosto-page-search1\">the James backpack</a> from Knomo. I couldn’t resist the sale price, although I realize it is on sale because Knomo is closing out the product. </p>\n",
-			"date_published": "2018-02-11T15:50:00-05:00",
+			"date_published": "2018-02-11T16:50:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/11/i-am-traveling.html"
 		},
 		
@@ -123,7 +131,7 @@
 			"id": "http://frankm.micro.blog/2018/02/11/while-the-subscription.html",
 	      	
 			"content_html": "<p>While the subscription model may be good for individual developers, I think it will hurt the iOS app ecosystem. I can’t afford yearly subscriptions for all the apps I have on my iPad, so I will be forced to decrease down to a smaller number. </p>\n",
-			"date_published": "2018-02-11T15:10:00-05:00",
+			"date_published": "2018-02-11T16:10:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/11/while-the-subscription.html"
 		},
 		
@@ -133,7 +141,7 @@
 			"title": "Carnival In Da Moonlight",
 			
 			"content_html": "<p><a href=\"https://www.mtu.edu/carnival/\">Michigan Tech’s annual Winter Carnival</a> is in progress, with the snow statue competition completing this morning. I attended Tech from 1984-89 and have good Carny memories. The number of hours students put in to building these statues is incredible and the results are fantastic. Check out <a href=\"https://www.flickr.com/photos/michigantech/collections/72157662834921158/\">the photos</a>! </p>\n",
-			"date_published": "2018-02-08T17:10:00-05:00",
+			"date_published": "2018-02-08T18:10:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/08/carnival-in-da.html"
 		},
 		
@@ -141,7 +149,7 @@
 			"id": "http://frankm.micro.blog/2018/02/08/is-it-just.html",
 	      	
 			"content_html": "<p>Is it just me, or does it seem the refresh/load times for Timeline and Discover are getting slower? Noticing on web and iOS. </p>\n",
-			"date_published": "2018-02-08T11:07:00-05:00",
+			"date_published": "2018-02-08T12:07:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/08/is-it-just.html"
 		},
 		
@@ -149,7 +157,7 @@
 			"id": "http://frankm.micro.blog/2018/02/08/love-facebook-someone.html",
 	      	
 			"content_html": "<p>Love Facebook. Someone thinks it’s ok to enable one to create a group that all their friends automatically join. </p>\n",
-			"date_published": "2018-02-08T11:02:00-05:00",
+			"date_published": "2018-02-08T12:02:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/08/love-facebook-someone.html"
 		},
 		
@@ -157,7 +165,7 @@
 			"id": "http://frankm.micro.blog/2018/02/08/whats-really-behind.html",
 	      	
 			"content_html": "<p>What’s really behind <a href=\"http://scripting.com/2018/02/08.html\">the massive, forceful, push to HTTPS</a>? It doesn’t make sense to me that it must be used for every site. To achieve their apparent ends, HTTPS needs to be as easy and as expensive to implement as HTTP. </p>\n",
-			"date_published": "2018-02-08T10:28:00-05:00",
+			"date_published": "2018-02-08T11:28:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/08/whats-really-behind.html"
 		},
 		
@@ -165,7 +173,7 @@
 			"id": "http://frankm.micro.blog/2018/02/05/does-anyone-know.html",
 	      	
 			"content_html": "<p>Does anyone know of a smart light bulb or plug that does not automatically turn on after a power failure? It’s frustrating me that I cannot find one that allows me to configure what I want the default state to be. Plugs seem to default to last known state while light bulbs seem to default to on. </p>\n",
-			"date_published": "2018-02-05T18:02:00-05:00",
+			"date_published": "2018-02-05T19:02:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/05/does-anyone-know.html"
 		},
 		
@@ -173,7 +181,7 @@
 			"id": "http://frankm.micro.blog/2018/02/05/i-watched-most.html",
 	      	
 			"content_html": "<p>I watched most of <a href=\"https://www.netflix.com/title/80097140\">Altered Carbon</a> over the weekend and enjoyed it very much. Recommended.</p>\n",
-			"date_published": "2018-02-05T09:10:00-05:00",
+			"date_published": "2018-02-05T10:10:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/05/i-watched-most.html"
 		},
 		
@@ -181,7 +189,7 @@
 			"id": "http://frankm.micro.blog/2018/02/05/i-think-one.html",
 	      	
 			"content_html": "<p>I think one of the best things about micro.blog is that there are real people behind the posts, just sharing whatever may be of interest, rather than entities using it to gain my attention. </p>\n",
-			"date_published": "2018-02-05T09:04:00-05:00",
+			"date_published": "2018-02-05T10:04:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/05/i-think-one.html"
 		},
 		
@@ -189,7 +197,7 @@
 			"id": "http://frankm.micro.blog/2018/02/04/013056.html",
 	      	
 			"content_html": "<p><a href=\"https://the-narthex.org/2018/02/03/doubt-and-hope/\">the-narthex.org</a> Doubt and Hope </p>\n",
-			"date_published": "2018-02-03T20:30:00-05:00",
+			"date_published": "2018-02-03T21:30:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/03/013056.html"
 		},
 		
@@ -197,16 +205,8 @@
 			"id": "http://frankm.micro.blog/2018/02/02/222141.html",
 	      	
 			"content_html": "<p><a href=\"https://www.cnet.com/news/microsoft-surface-laptop-sale/\">Cnet thinks</a> $799 for a Windows S notebook that has Core M, 4 GB RAM, 128 GB SSD is a good deal. Wrong! That’s a good deal at $600 and no more. </p>\n",
-			"date_published": "2018-02-02T17:21:00-05:00",
+			"date_published": "2018-02-02T18:21:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/02/222141.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/02/it-does-look.html",
-	      	
-			"content_html": "<p>It does look as though <a href=\"https://www.theverge.com/2018/2/2/16965520/google-chrome-os-64-update-android-tablets-operating-system-replace\">ChromeOS will be used for tablets</a> given that Google doesn’t have an official Android tablet at the moment. I still think it needs to be pushed more as a competitor to the Microsoft Surface rather than the iPad. </p>\n",
-			"date_published": "2018-02-02T17:18:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/02/02/it-does-look.html"
 		}
 		
 	]
