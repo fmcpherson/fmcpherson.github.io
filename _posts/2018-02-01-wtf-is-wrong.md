@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-01 13:52 -0500
+date: 2018-02-01 14:52 -0400
 guid: http://frankm.micro.blog/2018/02/01/wtf-is-wrong.html
 ---
 [WTF Is Wrong With Capitalism?](https://shift.newco.co/wtf-is-wrong-with-capitalism-585249daa9c8)
