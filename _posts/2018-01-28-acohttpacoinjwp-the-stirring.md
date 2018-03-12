@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-28 12:05 -0500
+date: 2018-01-28 13:05 -0400
 guid: http://frankm.micro.blog/2018/01/28/acohttpacoinjwp-the-stirring.html
 ---
  [a.co](http://a.co/i7n1jWp)
