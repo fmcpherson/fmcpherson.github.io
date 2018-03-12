@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-23 13:56 -0500
+date: 2017-12-23 14:56 -0400
 guid: http://frankm.micro.blog/2017/12/23/scriptingcomhttpscriptingcomhtmla-ask-why.html
 ---
  [scripting.com](http://scripting.com/2017/12/23.html#a165008)
