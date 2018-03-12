@@ -2,7 +2,7 @@
 layout: post
 title: "Hanselminutes: Raspberry Pi clusters and Serverless"
 microblog: false
-date: 2018-01-18 09:44 -0500
+date: 2018-01-18 10:44 -0400
 guid: http://frankm.micro.blog/2018/01/18/hanselminutes-raspberry-pi.html
 ---
 [blog.alexellis.io/serverles...](http://blog.alexellis.io/serverless-hanselminutes/)
