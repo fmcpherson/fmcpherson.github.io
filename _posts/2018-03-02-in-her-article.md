@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-02 09:22 -0500
+date: 2018-03-02 10:22 -0400
 guid: http://frankm.micro.blog/2018/03/02/in-her-article.html
 ---
 In her article titled "[Alternative Facts, Alternative Truths](https://points.datasociety.net/alternative-facts-alternative-truths-ab9d446b06c)" I think Dr. Francesca Tripodi provides a good example of the consequence of dualism as taught by fundamentalist churches. Issues like gun control, racism, and patriarchy do involve emotion as well as fact. In my opinion, just about all big decisions involve emotions. 
