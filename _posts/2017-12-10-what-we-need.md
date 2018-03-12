@@ -2,7 +2,7 @@
 layout: post
 title: "What We Need Is Wisdom"
 microblog: false
-date: 2017-12-10 10:52 -0500
+date: 2017-12-10 11:52 -0400
 guid: http://frankm.micro.blog/2017/12/10/what-we-need.html
 ---
  [a.co](http://a.co/0VRINyx)
