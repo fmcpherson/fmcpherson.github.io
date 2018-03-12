@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-17 11:57 -0500
+date: 2017-12-17 12:57 -0400
 guid: http://frankm.micro.blog/2017/12/17/acohttpacofkiwbxk-the-more.html
 ---
  [a.co](http://a.co/fkIWbxK)
