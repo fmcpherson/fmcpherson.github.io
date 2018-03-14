@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/14/the-constant-state.html",
+	      	
+			"content_html": "<p>The <a href=\"https://www.vox.com/world/2018/3/13/16029526/rex-tillerson-fired-state-department\">constant state of firings within the White House</a> is indicative of the level of incompetence I feared of a Trump presidency. Constant disruption does not result in progress, it is status quo at best, and most likely regressive. In some areas, like the state department and defense, chaos can be dangerous. </p>\n\n<p>Some people are happy with the chaos that Trump is causing, but besides the LOLs what else are those people getting?</p>\n",
+			"date_published": "2018-03-14T14:50:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/14/the-constant-state.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/14/national-potatoe-chip.html",
 	      	
 			"content_html": "<p><a href=\"https://nationaldaycalendar.com/national-potato-chip-day-march-14/\">National potatoe chip day</a> is on Pi day!? </p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I watched most of <a href=\"https://www.netflix.com/title/80097140\">Altered Carbon</a> over the weekend and enjoyed it very much. Recommended.</p>\n",
 			"date_published": "2018-02-05T10:10:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/05/i-watched-most.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/05/i-think-one.html",
-	      	
-			"content_html": "<p>I think one of the best things about micro.blog is that there are real people behind the posts, just sharing whatever may be of interest, rather than entities using it to gain my attention. </p>\n",
-			"date_published": "2018-02-05T10:04:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/05/i-think-one.html"
 		}
 		
 	]
