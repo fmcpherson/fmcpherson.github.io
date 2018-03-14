@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-16 10:25 -0400
 guid: http://frankm.micro.blog/2018/01/16/the-first-college.html
 ---
