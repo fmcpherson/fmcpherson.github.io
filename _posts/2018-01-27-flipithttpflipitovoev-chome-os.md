@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-27 15:41 -0400
 guid: http://frankm.micro.blog/2018/01/27/flipithttpflipitovoev-chome-os.html
 ---
