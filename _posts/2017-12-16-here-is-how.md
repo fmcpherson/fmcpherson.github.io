@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-16 16:12 -0400
 guid: http://frankm.micro.blog/2017/12/16/here-is-how.html
 ---
