@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-22 14:31 -0400
 guid: http://frankm.micro.blog/2018/01/22/one-can-buy.html
 ---
