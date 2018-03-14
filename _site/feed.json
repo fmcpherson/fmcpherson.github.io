@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/14/national-potatoe-chip.html",
+	      	
+			"content_html": "<p><a href=\"https://nationaldaycalendar.com/national-potato-chip-day-march-14/\">National potatoe chip day</a> is on Pi day!? </p>\n",
+			"date_published": "2018-03-14T10:00:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/14/national-potatoe-chip.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/03/14/i-think-i.html",
+	      	
+			"content_html": "<p>I think I have configured <a href=\"https://quill.p3k.io\">Quill</a> to post to my micro.blog site, this is a test to see whether that worked. It worked, but I don’t think I will use it. </p>\n",
+			"date_published": "2018-03-14T09:54:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/14/i-think-i.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/12/daylight-savings-time.html",
 	      	
 			"content_html": "<p><a href=\"https://www.smithsonianmag.com/history/100-years-later-madness-daylight-saving-time-endures-180968435/\">Daylight savings time sucks</a>, and common sense suggests it should be repealed. However, like most everything in the United States, powerful corporations have figured out how to take advantage of it and therefore their money will prevent any positive change. </p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>I think one of the best things about micro.blog is that there are real people behind the posts, just sharing whatever may be of interest, rather than entities using it to gain my attention. </p>\n",
 			"date_published": "2018-02-05T10:04:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/05/i-think-one.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/04/013056.html",
-	      	
-			"content_html": "<p><a href=\"https://the-narthex.org/2018/02/03/doubt-and-hope/\">the-narthex.org</a> Doubt and Hope </p>\n",
-			"date_published": "2018-02-03T21:30:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/03/013056.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/02/222141.html",
-	      	
-			"content_html": "<p><a href=\"https://www.cnet.com/news/microsoft-surface-laptop-sale/\">Cnet thinks</a> $799 for a Windows S notebook that has Core M, 4 GB RAM, 128 GB SSD is a good deal. Wrong! That’s a good deal at $600 and no more. </p>\n",
-			"date_published": "2018-02-02T18:21:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/02/222141.html"
 		}
 		
 	]
