@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-01 14:52 -0400
 guid: http://frankm.micro.blog/2018/02/01/wtf-is-wrong.html
 ---
