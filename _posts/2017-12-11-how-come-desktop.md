@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-11 18:37 -0400
 guid: http://frankm.micro.blog/2017/12/11/how-come-desktop.html
 ---
