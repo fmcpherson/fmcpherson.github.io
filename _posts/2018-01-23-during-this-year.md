@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-22 22:43 -0400
 guid: http://frankm.micro.blog/2018/01/23/during-this-year.html
 ---
