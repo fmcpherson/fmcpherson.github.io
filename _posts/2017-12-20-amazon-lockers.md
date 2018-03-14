@@ -2,6 +2,7 @@
 layout: post
 title: "Amazon Lockers"
 microblog: false
+audio: 
 date: 2017-12-20 14:38 -0400
 guid: http://frankm.micro.blog/2017/12/20/amazon-lockers.html
 ---
