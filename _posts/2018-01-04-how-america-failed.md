@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-04 09:38 -0400
 guid: http://frankm.micro.blog/2018/01/04/how-america-failed.html
 ---
