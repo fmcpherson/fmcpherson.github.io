@@ -2,6 +2,7 @@
 layout: post
 title: "Setting Up Pi Zero "
 microblog: false
+audio: 
 date: 2017-12-25 17:15 -0400
 guid: http://frankm.micro.blog/2017/12/25/setting-up-pi.html
 ---
