@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-25 23:00 -0400
 guid: http://frankm.micro.blog/2018/01/26/i-guess-some.html
 ---
