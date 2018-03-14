@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-31 11:07 -0400
 guid: http://frankm.micro.blog/2017/12/31/we-value-the.html
 ---
