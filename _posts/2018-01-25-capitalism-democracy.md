@@ -2,6 +2,7 @@
 layout: post
 title: "Capitalism <> Democracy"
 microblog: false
+audio: 
 date: 2018-01-25 12:50 -0400
 guid: http://frankm.micro.blog/2018/01/25/capitalism-democracy.html
 ---
