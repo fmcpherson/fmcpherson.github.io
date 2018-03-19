@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/19/in-the-past.html",
+	      	
+			"content_html": "<p>In the past we had some consensus on what is right and wrong, and at the very least agreement that right and wrong is important. The problem is right and wrong is no longer important, nor the point, instead that has been replaced with, you are either with me or against me. </p>\n\n<p>You cannot solve any problem if your starting position is effectively, we will solve that problem only if everyone agrees with me. </p>\n",
+			"date_published": "2018-03-19T13:33:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/19/in-the-past.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/15/on-the-way.html",
 	      	
 			"content_html": "<p>On the way home last night from a gathering of friends in Royal Oak, I stopped at a store and found some <a href=\"https://foundersbrewing.com/our-beer/kbs/\">Founders KBS</a> and <a href=\"http://www.atwaterbeer.com/beer-type/berry-cobbler-ale/#\">Atwaters Blueberry Cobbler</a> for sale. The store owner started the day with 12 cases of KBS and had 2 left by 8:30 PM and will probably be sold out by this afternoon. Right place, right time for me.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Love Facebook. Someone thinks it’s ok to enable one to create a group that all their friends automatically join. </p>\n",
 			"date_published": "2018-02-08T12:02:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/08/love-facebook-someone.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/08/whats-really-behind.html",
-	      	
-			"content_html": "<p>What’s really behind <a href=\"http://scripting.com/2018/02/08.html\">the massive, forceful, push to HTTPS</a>? It doesn’t make sense to me that it must be used for every site. To achieve their apparent ends, HTTPS needs to be as easy and as expensive to implement as HTTP. </p>\n",
-			"date_published": "2018-02-08T11:28:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/08/whats-really-behind.html"
 		}
 		
 	]
