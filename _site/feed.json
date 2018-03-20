@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/20/it-ought-to.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html\">It ought to be clear</a> by now that we need a form of <a href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\">GDPR</a> in the United States. We might need something stronger.</p>\n",
+			"date_published": "2018-03-20T09:47:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/20/it-ought-to.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/19/in-the-past.html",
 	      	
 			"content_html": "<p>In the past we had some consensus on what is right and wrong, and at the very least agreement that right and wrong is important. The problem is right and wrong is no longer important, nor the point, instead that has been replaced with, you are either with me or against me. </p>\n\n<p>You cannot solve any problem if your starting position is effectively, we will solve that problem only if everyone agrees with me. </p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Is it just me, or does it seem the refresh/load times for Timeline and Discover are getting slower? Noticing on web and iOS. </p>\n",
 			"date_published": "2018-02-08T12:07:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/08/is-it-just.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/08/love-facebook-someone.html",
-	      	
-			"content_html": "<p>Love Facebook. Someone thinks it’s ok to enable one to create a group that all their friends automatically join. </p>\n",
-			"date_published": "2018-02-08T12:02:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/08/love-facebook-someone.html"
 		}
 		
 	]
