@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/21/to-those-who.html",
+	      	
+			"content_html": "<p>To those who are smarter than me. If I don’t have a VPN tunnel from end-to-end, <a href=\"https://www.wired.com/story/alphabet-outline-vpn-software/\">why should I use a VPN solution like the one Google is proposing</a>? At some point my data is still traversing the internet unprotected. </p>\n",
+			"date_published": "2018-03-21T14:27:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/21/to-those-who.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/20/it-ought-to.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html\">It ought to be clear</a> by now that we need a form of <a href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\">GDPR</a> in the United States. We might need something stronger.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://www.mtu.edu/carnival/\">Michigan Tech’s annual Winter Carnival</a> is in progress, with the snow statue competition completing this morning. I attended Tech from 1984-89 and have good Carny memories. The number of hours students put in to building these statues is incredible and the results are fantastic. Check out <a href=\"https://www.flickr.com/photos/michigantech/collections/72157662834921158/\">the photos</a>! </p>\n",
 			"date_published": "2018-02-08T18:10:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/08/carnival-in-da.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/08/is-it-just.html",
-	      	
-			"content_html": "<p>Is it just me, or does it seem the refresh/load times for Timeline and Discover are getting slower? Noticing on web and iOS. </p>\n",
-			"date_published": "2018-02-08T12:07:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/08/is-it-just.html"
 		}
 		
 	]
