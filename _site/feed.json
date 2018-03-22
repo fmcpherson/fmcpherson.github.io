@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/22/here-is-a.html",
+	      	
+			"content_html": "<p><a href=\"https://www.phoronix.com/scan.php?page=article&amp;item=raspberrypi-3-bplus&amp;num=1\">Here is a complete run down</a> on the Raspberry Pi 3 B+ benchmarks.</p>\n",
+			"date_published": "2018-03-22T16:14:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/22/here-is-a.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/22/this-tweethttpstwittercombrentsimmonsstatus-by.html",
 	      	
 			"content_html": "<p><a href=\"https://twitter.com/brentsimmons/status/976528016594558976\">This tweet</a> by @inessential touches on what I think is a root of many problems in the United States. You might say the problem is immaturity, but it is worse than that, the problem is that we have de-valued maturity. Maturity is a life-long process and with it comes the wisdom to know that one does not, cannot, know everything and therefore is open to changing their mind.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Do you want to  <a href=\"https://github.com/GhostText/GhostText\">use your favorite editor</a> to write in a text field of a web page? </p>\n",
 			"date_published": "2018-02-17T13:08:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/17/do-you-want.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/17/strohs-is-mixing.html",
-	      	
-			"content_html": "<p><a href=\"http://www.crainsdetroit.com/article/20180216/news/653101/strohs-is-mixing-up-a-new-brew-in-detroit-this-time-an-ipa\">Stroh’s is mixing up a new brew — this time an IPA</a></p>\n\n<p>Stroh’s comeback has been interesting and I am wondering how successful they will be with a larger scale production of a session IPA. </p>\n",
-			"date_published": "2018-02-17T13:05:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/17/strohs-is-mixing.html"
 		}
 		
 	]
