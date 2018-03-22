@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/22/this-tweethttpstwittercombrentsimmonsstatus-by.html",
+	      	
+			"content_html": "<p><a href=\"https://twitter.com/brentsimmons/status/976528016594558976\">This tweet</a> by @inessential touches on what I think is a root of many problems in the United States. You might say the problem is immaturity, but it is worse than that, the problem is that we have de-valued maturity. Maturity is a life-long process and with it comes the wisdom to know that one does not, cannot, know everything and therefore is open to changing their mind.</p>\n",
+			"date_published": "2018-03-22T11:09:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/22/this-tweethttpstwittercombrentsimmonsstatus-by.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/22/i-think-the.html",
 	      	
 			"content_html": "<p>I think the fact that I can’t find who I am following on Micro.blog is a real gap. A tip to fill the gap is to favorite at least one post of each person you follow. </p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"http://www.crainsdetroit.com/article/20180216/news/653101/strohs-is-mixing-up-a-new-brew-in-detroit-this-time-an-ipa\">Stroh’s is mixing up a new brew — this time an IPA</a></p>\n\n<p>Stroh’s comeback has been interesting and I am wondering how successful they will be with a larger scale production of a session IPA. </p>\n",
 			"date_published": "2018-02-17T13:05:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/17/strohs-is-mixing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/17/what-scares-me.html",
-	      	
-			"content_html": "<p>What scares me is the number of people willing to live in a police state rather than allow common sense controls on guns. </p>\n",
-			"date_published": "2018-02-17T12:33:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/17/what-scares-me.html"
 		}
 		
 	]
