@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/23/the-scariest-part.html",
+	      	
+			"content_html": "<p>The scariest part of <a href=\"https://www.npr.org/2018/03/22/594363877/trump-names-john-bolton-as-national-security-adviser\">the shrinking of President Trump’s echo chamber</a> is that it increases the need for Congress to do it’s part to uphold and defend the constitution by putting country before party. </p>\n\n<p>We are closer to war today than we were yesterday.</p>\n",
+			"date_published": "2018-03-23T10:12:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/23/the-scariest-part.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/22/here-is-a.html",
 	      	
 			"content_html": "<p><a href=\"https://www.phoronix.com/scan.php?page=article&amp;item=raspberrypi-3-bplus&amp;num=1\">Here is a complete run down</a> on the Raspberry Pi 3 B+ benchmarks.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I did not <a href=\"http://people.com/celebrity/national-hoodie-hoo-day-is-february-20/\">hoodie-hoo</a>, did you?</p>\n",
 			"date_published": "2018-02-20T13:32:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/20/i-did-not.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/17/do-you-want.html",
-	      	
-			"content_html": "<p>Do you want to  <a href=\"https://github.com/GhostText/GhostText\">use your favorite editor</a> to write in a text field of a web page? </p>\n",
-			"date_published": "2018-02-17T13:08:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/17/do-you-want.html"
 		}
 		
 	]
