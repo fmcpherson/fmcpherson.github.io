@@ -4,8 +4,21 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 23 Mar 2018 10:12:45 -0400</pubDate>
-    <lastBuildDate>Fri, 23 Mar 2018 10:12:45 -0400</lastBuildDate>
+    <pubDate>Fri, 23 Mar 2018 14:47:37 -0400</pubDate>
+    <lastBuildDate>Fri, 23 Mar 2018 14:47:37 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Google Assistant is still flawed by not enabling users to specify unique trigger words for each device. So, I use my smartphone as an alarm clock and I thought it would be cool to enable &lt;a href=&quot;https://www.digitaltrends.com/home/google-assistant-routines/&quot;&gt;the Bedtime routine&lt;/a&gt; that turns down the phone, sets an alarm and shuts off lights. &lt;/p&gt;
+
+&lt;p&gt;Problem is that routine is enabled for Home and my Pixel phone. So, if I initiate the routine with the two in the same room, Home takes over and then sets the alarm for itself rather than on my phone. &lt;/p&gt;
+
+&lt;p&gt;So, I think Google needs to do two things. First, it should provide a way to associate specific routines to specific assistant-enabled devices. Second, it needs to provide a way for users to create trigger words that are specific to devices. Right now, I can squeeze to trigger assistant on my phone and then start the routine, but that requires me to remember this rather than assistant being smart enough to remember for me. &lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Mar 2018 14:47:00 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/03/23/google-assistant-is.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/03/23/google-assistant-is.html</guid>
+      </item>
     
       <item>
       	
@@ -502,15 +515,6 @@ As an iOS user but not a Mac OS user, I have long heard about OmniFocus and how 
         <pubDate>Sun, 28 Jan 2018 17:57:00 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/01/28/215702.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/01/28/215702.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Auto correction in iOS frustrates me more than auto correction in Android. &lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Jan 2018 14:46:00 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/01/28/auto-correction-in.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/01/28/auto-correction-in.html</guid>
       </item>
     
   </channel>
