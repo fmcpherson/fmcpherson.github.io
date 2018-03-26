@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/26/is-anger-easy.html",
+	      	
+			"content_html": "<p>Is anger easy to <a href=\"https://www.psychologytoday.com/us/blog/communication-success/201510/14-signs-psychological-and-emotional-manipulation\">manipulate</a>? </p>\n",
+			"date_published": "2018-03-26T14:12:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/26/is-anger-easy.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/03/26/at-what-point.html",
+	      	
+			"content_html": "<p>At what point does partisanship become out of control emotions? </p>\n",
+			"date_published": "2018-03-26T14:09:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/26/at-what-point.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/23/google-assistant-is.html",
 	      	
 			"content_html": "<p>Google Assistant is still flawed by not enabling users to specify unique trigger words for each device. So, I use my smartphone as an alarm clock and I thought it would be cool to enable <a href=\"https://www.digitaltrends.com/home/google-assistant-routines/\">the Bedtime routine</a> that turns down the phone, sets an alarm and shuts off lights. </p>\n\n<p>Problem is that routine is enabled for Home and my Pixel phone. So, if I initiate the routine with the two in the same room, Home takes over and then sets the alarm for itself rather than on my phone. </p>\n\n<p>So, I think Google needs to do two things. First, it should provide a way to associate specific routines to specific assistant-enabled devices. Second, it needs to provide a way for users to create trigger words that are specific to devices. Right now, I can squeeze to trigger assistant on my phone and then start the routine, but that requires me to remember this rather than assistant being smart enough to remember for me. </p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"https://www.reuters.com/article/us-usa-healthcare/twenty-states-sue-federal-government-seeking-end-to-obamacare-idUSKCN1GB06R\">Twenty states have filed suit</a> against the federal government basically because there is no business model in healthcare insurance. Before we can fix problems we have to:</p>\n\n<ol>\n  <li>Agree on what is the problem</li>\n  <li>Agree that the problem needs to be fixed</li>\n  <li>Understand that the solution to every problem (healthcare) is not a hammer called capitalism</li>\n  <li>Agree on fundamental principles</li>\n</ol>\n\n<p>Fundamentally, the business model for insurance is based on the premise that a company pays out less money than it takes in through people buying insurance. Property insurance works because it is possible that people who pay for it never need to file a claim through their life time. Likewise auto insurance works because there are people who never have to file a claim over a lifetime of driving. </p>\n\n<p>In context, there really is no such thing as health insurance because every health care transaction is paid by the “health insurance” companies and just about everyone has one or more healthcare transactions per year. In other words, how does a “health insurance” company make money? If auto insurance was like healthcare, ever time one took their car in for an oil change or a tire rotation they would file an auto insurance claim. </p>\n\n<p>Basically, we have to stop thinking that there is a capitalistic solution to the cost of health care. Just about all other countries around the world came to this realization and did something about it. We in the United States have drunk the capitalistic koolaid so much that we have forgotten our own history and just run around trying to hammer away every single problem. </p>\n",
 			"date_published": "2018-02-27T13:55:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/27/there-is-no.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/26/come-on-spring.html",
-	      	
-			"content_html": "<p>Come on, spring! </p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/e13fa3b2c0.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-02-26T19:12:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/26/come-on-spring.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/26/there-was-a.html",
-	      	
-			"content_html": "<p>There was a time when <a href=\"https://news.google.com/news/search/section/q/mobile%20world%20congress/mobile%20world%20congress?hl=en&amp;gl=US&amp;ned=us\">Mobile World Congress</a> would be a thing I paid attention to, now it almost passed unnoticed. </p>\n",
-			"date_published": "2018-02-26T19:11:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/26/there-was-a.html"
 		}
 		
 	]
