@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/03/27/what-has-changed.html",
+	      	
+			"content_html": "<p>What has changed since <a href=\"http://www.govtech.com/education/What-Went-Wrong-with-LA-Unifieds-iPad-Program.html\">the L.A. public schools iPad program failed</a>? </p>\n",
+			"date_published": "2018-03-27T13:14:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/03/27/what-has-changed.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/03/26/is-anger-easy.html",
 	      	
 			"content_html": "<p>Is anger easy to <a href=\"https://www.psychologytoday.com/us/blog/communication-success/201510/14-signs-psychological-and-emotional-manipulation\">manipulate</a>? </p>\n",
@@ -195,16 +203,6 @@
 			"content_html": "<p>Lots of Brits on micro.blog sharing their pictures of snow. </p>\n",
 			"date_published": "2018-02-28T23:04:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/02/28/lots-of-brits.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/02/27/there-is-no.html",
-	      	
-			"title": "There Is No Such Thing As Health Insurance",
-			
-			"content_html": "<p><a href=\"https://www.reuters.com/article/us-usa-healthcare/twenty-states-sue-federal-government-seeking-end-to-obamacare-idUSKCN1GB06R\">Twenty states have filed suit</a> against the federal government basically because there is no business model in healthcare insurance. Before we can fix problems we have to:</p>\n\n<ol>\n  <li>Agree on what is the problem</li>\n  <li>Agree that the problem needs to be fixed</li>\n  <li>Understand that the solution to every problem (healthcare) is not a hammer called capitalism</li>\n  <li>Agree on fundamental principles</li>\n</ol>\n\n<p>Fundamentally, the business model for insurance is based on the premise that a company pays out less money than it takes in through people buying insurance. Property insurance works because it is possible that people who pay for it never need to file a claim through their life time. Likewise auto insurance works because there are people who never have to file a claim over a lifetime of driving. </p>\n\n<p>In context, there really is no such thing as health insurance because every health care transaction is paid by the “health insurance” companies and just about everyone has one or more healthcare transactions per year. In other words, how does a “health insurance” company make money? If auto insurance was like healthcare, ever time one took their car in for an oil change or a tire rotation they would file an auto insurance claim. </p>\n\n<p>Basically, we have to stop thinking that there is a capitalistic solution to the cost of health care. Just about all other countries around the world came to this realization and did something about it. We in the United States have drunk the capitalistic koolaid so much that we have forgotten our own history and just run around trying to hammer away every single problem. </p>\n",
-			"date_published": "2018-02-27T13:55:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/02/27/there-is-no.html"
 		}
 		
 	]
