@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/07/today-in-httptimecomnationalbeerday.html",
+	      	
+			"content_html": "<p><a href=\"http://time.com/5231694/national-beer-day/\">Today in 1933</a> the 18th Ammendment to the U.S. Constitution was repealed. It can be done. It’s also #NationalBeerDay.</p>\n",
+			"date_published": "2018-04-07T11:09:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/07/today-in-httptimecomnationalbeerday.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/02/mugsy-is-a.html",
 	      	
 			"content_html": "<p><a href=\"https://www.kickstarter.com/projects/413243358/mugsy-the-open-source-robotic-coffee-maker\">Mugsy is a robotic coffee maker</a> with a Raspberry Pi brain.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>In her article titled “<a href=\"https://points.datasociety.net/alternative-facts-alternative-truths-ab9d446b06c\">Alternative Facts, Alternative Truths</a>” I think Dr. Francesca Tripodi provides a good example of the consequence of dualism as taught by fundamentalist churches. Issues like gun control, racism, and patriarchy do involve emotion as well as fact. In my opinion, just about all big decisions involve emotions.</p>\n\n<p>In the matter of the Evangelical church’s view of Trump, what I think this article shows is missing is context. If all you look for are the words you like, and don’t stop to consider that the person providing them knows that and is intentionally saying them with no history to back them up, there is going to be a problem.</p>\n",
 			"date_published": "2018-03-02T09:22:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/03/02/in-her-article.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/01/bravehttpsbravecom-is-an.html",
-	      	
-			"content_html": "<p><a href=\"https://brave.com/\">Brave</a> is an ad block browser <a href=\"http://scripting.com/2018/02/28/164705.html\">built with Electron</a>. I’ve installed it on my iPad and have to say, it is very fast.</p>\n",
-			"date_published": "2018-03-01T09:23:00-05:00",
-			"url": "https://frankmcpherson.blog/2018/03/01/bravehttpsbravecom-is-an.html"
 		}
 		
 	]
