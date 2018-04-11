@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-18 10:25 -0400
+date: 2017-12-18 10:25:47 -0400
 guid: http://frankm.micro.blog/2017/12/18/la-times-america.html
 ---
 [LA Times: America still hasn't reckoned with the election of a reckless con man as president](http://www.latimes.com/opinion/op-ed/la-oe-dorfman-reckoning-trump-election-20171217-story.html)
