@@ -3,7 +3,7 @@ title: "Now"
 permalink: "/now/"
 layout: page
 order: 1
-date: 2018-01-29 10:57 -0400
+date: 2018-01-29 10:57:56 -0400
 ---
 I am currently:
 
