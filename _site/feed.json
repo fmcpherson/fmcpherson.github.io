@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/12/google-plans-some.html",
+	      	
+			"content_html": "<p>Google plans <a href=\"https://9to5google.com/2018/04/11/gmail-web-revamp-leaks-w-rounded-design-sidebar-widgets-google-tasks-and-more/\">some interesting imorovements</a> to Gmail. I am one of the few people who use Inbox because it enables me to quickly triage my email.</p>\n",
+			"date_published": "2018-04-11T22:09:37-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/11/google-plans-some.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/12/one-of-the.html",
 	      	
 			"content_html": "<p>One of the most <a href=\"https://chromeunboxed.com/news/chrome-os-container-crostini-vscode-virtual-machine\">intriguing developments</a> is containers in Chrome OS, particularly what <a href=\"https://dropletcomputing.com/\">Droplet Comouting</a> is doing.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.smithsonianmag.com/history/100-years-later-madness-daylight-saving-time-endures-180968435/\">Daylight savings time sucks</a>, and common sense suggests it should be repealed. However, like most everything in the United States, powerful corporations have figured out how to take advantage of it and therefore their money will prevent any positive change.</p>\n",
 			"date_published": "2018-03-12T12:00:43-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/12/daylight-savings-time.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/03/standard-notes-a.html",
-	      	
-			"content_html": "<p><a href=\"https://standardnotes.org/\">Standard Notes A Simple And Private Notes App</a></p>\n\n<p>I am invested in <a href=\"https://evernote.com/\">Evernote</a>, but if I we’re starting a fresh search for a note taking repository, I would probably go with Standard Notes. The most appealing feature is that it encrypts all notes before they are stored locally, and the encrypted copy is what is synced to their server.</p>\n\n<p>Standard Noted runs on multiple platforms, and the paid version is very extensible and supports two factor authentication. If you are inclined, you can host Standard Noted on your own server.</p>\n",
-			"date_published": "2018-03-03T17:01:16-05:00",
-			"url": "https://frankmcpherson.blog/2018/03/03/standard-notes-a.html"
 		}
 		
 	]
