@@ -31,3 +31,5 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "2044"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
