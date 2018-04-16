@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/16/it-is-really.html",
+	      	
+			"content_html": "<p>It is really frustrating when applications don’t work the same way across platforms. Looking at you <a href=\"https://www.lastpass.com\">Lastpass</a>!</p>\n",
+			"date_published": "2018-04-16T11:05:43-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/16/it-is-really.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/16/it-might-just.html",
 	      	
 			"content_html": "<p>It might just be me, but it seems that Chrome is getting slower and slower. I’ve decided to start using Firefox for a while to see if the aggravation decreases.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>The <a href=\"https://www.vox.com/world/2018/3/13/16029526/rex-tillerson-fired-state-department\">constant state of firings within the White House</a> is indicative of the level of incompetence I feared of a Trump presidency. Constant disruption does not result in progress, it is status quo at best, and most likely regressive. In some areas, like the state department and defense, chaos can be dangerous.</p>\n\n<p>Some people are happy with the chaos that Trump is causing, but besides the LOLs what else are those people getting?</p>\n",
 			"date_published": "2018-03-14T14:50:46-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/14/the-constant-state.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/14/national-potatoe-chip.html",
-	      	
-			"content_html": "<p><a href=\"https://nationaldaycalendar.com/national-potato-chip-day-march-14/\">National potatoe chip day</a> is on Pi day!?</p>\n",
-			"date_published": "2018-03-14T10:00:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/14/national-potatoe-chip.html"
 		}
 		
 	]
