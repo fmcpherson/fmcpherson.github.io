@@ -15,6 +15,7 @@ baseurl: ""
 url: "https://frankmcpherson.blog"
 markdown: "kramdown"
 username: "frankm"
+microblog_user: "frankm"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Frank McPherson"
