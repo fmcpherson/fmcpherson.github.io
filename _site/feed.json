@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/16/it-might-just.html",
+	      	
+			"content_html": "<p>It might just be me, but it seems that Chrome is getting slower and slower. I’ve decided to start using Firefox for a while to see if the aggravation decreases.</p>\n",
+			"date_published": "2018-04-16T09:37:35-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/16/it-might-just.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/13/boycotts-and-free.html",
 	      	
 			"title": "Boycotts and Free Speech ",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://nationaldaycalendar.com/national-potato-chip-day-march-14/\">National potatoe chip day</a> is on Pi day!?</p>\n",
 			"date_published": "2018-03-14T10:00:33-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/14/national-potatoe-chip.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/14/i-think-i.html",
-	      	
-			"content_html": "<p>I think I have configured <a href=\"https://quill.p3k.io\">Quill</a> to post to my micro.blog site, this is a test to see whether that worked. It worked, but I don’t think I will use it.</p>\n",
-			"date_published": "2018-03-14T09:54:59-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/14/i-think-i.html"
 		}
 		
 	]
