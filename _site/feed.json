@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/17/after-one-day.html",
+	      	
+			"content_html": "<p>After one day of full time usage, I am finding Firefox to be significantly faster than Chrome. One exception does seem to be with Inbox, which is heavy Javascript. I also may not have all of the Extensions installed in Firefox as I have in Chrome.</p>\n",
+			"date_published": "2018-04-17T12:02:03-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/17/after-one-day.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/17/mirroringhttpswwwmirroringcom-looks-like.html",
 	      	
 			"content_html": "<p><a href=\"https://www.mirroring360.com/\">Mirroring360</a> looks like a useful addition to my toolbox. Found via <a href=\"https://mmitii.mattballantine.com/2018/04/17/the-little-white-doo-dah-that-changed-my-working-life/amp/?__twitter_impression=true\">a blog post about the Apple Pencil</a>.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>In the past we had some consensus on what is right and wrong, and at the very least agreement that right and wrong is important. The problem is right and wrong is no longer important, nor the point, instead that has been replaced with, you are either with me or against me.</p>\n\n<p>You cannot solve any problem if your starting position is effectively, we will solve that problem only if everyone agrees with me.</p>\n",
 			"date_published": "2018-03-19T13:33:43-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/19/in-the-past.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/15/on-the-way.html",
-	      	
-			"content_html": "<p>On the way home last night from a gathering of friends in Royal Oak, I stopped at a store and found some <a href=\"https://foundersbrewing.com/our-beer/kbs/\">Founders KBS</a> and <a href=\"http://www.atwaterbeer.com/beer-type/berry-cobbler-ale/#\">Atwaters Blueberry Cobbler</a> for sale. The store owner started the day with 12 cases of KBS and had 2 left by 8:30 PM and will probably be sold out by this afternoon. Right place, right time for me.</p>\n",
-			"date_published": "2018-03-15T09:25:56-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/15/on-the-way.html"
 		}
 		
 	]
