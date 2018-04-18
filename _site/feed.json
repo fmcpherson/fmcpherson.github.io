@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/18/best-ipad-keyboard.html",
+	      	
+			"content_html": "<p><a href=\"https://www.laptopmag.com/articles/every-ipad-keyboard-shortcut\">Best iPad Keyboard Shortcuts (for Smart Keyboards or Bluetooth)</a></p>\n\n<blockquote>\n  <p>These keyboard shortcuts don’t require the Smart Keyboard or the iPad Pro. These tricks will work if you pair a Bluetooth keyboard with any iPad running iOS 9 or later.</p>\n</blockquote>\n",
+			"date_published": "2018-04-18T16:24:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/18/best-ipad-keyboard.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/18/i-have-installed.html",
 	      	
 			"content_html": "<p>I have installed <a href=\"http://getdrafts.com\">Drafts 5</a>, purchased the yearly subscription, and I am now writing my first micro.blog post using it. Let’s see how well this works. Sent over to the micro.blog app where I can edit further. Of course, this method requires that you have the micro.blog app installed on your iPad, but you don’t have to generate a new app code for it to work.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I received the new <a href=\"https://www.raspberrypi.org/blog/raspberry-pi-3-model-bplus-sale-now-35/\">Raspberry Pi 3 B+</a> that became available on Pi day. This new model has a faster processor and faster networking, and in my experience with it today I find it to be noticably faster as a desktop.</p>\n",
 			"date_published": "2018-03-21T21:04:10-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/21/i-received-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/21/to-those-who.html",
-	      	
-			"content_html": "<p>To those who are smarter than me. If I don’t have a VPN tunnel from end-to-end, <a href=\"https://www.wired.com/story/alphabet-outline-vpn-software/\">why should I use a VPN solution like the one Google is proposing</a>? At some point my data is still traversing the internet unprotected.</p>\n",
-			"date_published": "2018-03-21T14:27:20-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/21/to-those-who.html"
 		}
 		
 	]
