@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/18/i-have-installed.html",
+	      	
+			"content_html": "<p>I have installed <a href=\"http://getdrafts.com\">Drafts 5</a>, purchased the yearly subscription, and I am now writing my first micro.blog post using it. Let’s see how well this works. Sent over to the micro.blog app where I can edit further. Of course, this method requires that you have the micro.blog app installed on your iPad, but you don’t have to generate a new app code for it to work.</p>\n",
+			"date_published": "2018-04-18T16:08:51-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/18/i-have-installed.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/18/yippee-i-made.html",
 	      	
 			"content_html": "<p>Yippee! I made it to 52!</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>To those who are smarter than me. If I don’t have a VPN tunnel from end-to-end, <a href=\"https://www.wired.com/story/alphabet-outline-vpn-software/\">why should I use a VPN solution like the one Google is proposing</a>? At some point my data is still traversing the internet unprotected.</p>\n",
 			"date_published": "2018-03-21T14:27:20-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/21/to-those-who.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/20/it-ought-to.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html\">It ought to be clear</a> by now that we need a form of <a href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\">GDPR</a> in the United States. We might need something stronger.</p>\n",
-			"date_published": "2018-03-20T09:47:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/20/it-ought-to.html"
 		}
 		
 	]
