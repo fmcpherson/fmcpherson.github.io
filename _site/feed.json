@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/18/yippee-i-made.html",
+	      	
+			"content_html": "<p>Yippee! I made it to 52!</p>\n",
+			"date_published": "2018-04-18T11:28:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/18/yippee-i-made.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/17/after-one-day.html",
 	      	
 			"content_html": "<p>After one day of full time usage, I am finding Firefox to be significantly faster than Chrome. One exception does seem to be with Inbox, which is heavy Javascript. I also may not have all of the Extensions installed in Firefox as I have in Chrome.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html\">It ought to be clear</a> by now that we need a form of <a href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\">GDPR</a> in the United States. We might need something stronger.</p>\n",
 			"date_published": "2018-03-20T09:47:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/20/it-ought-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/19/in-the-past.html",
-	      	
-			"content_html": "<p>In the past we had some consensus on what is right and wrong, and at the very least agreement that right and wrong is important. The problem is right and wrong is no longer important, nor the point, instead that has been replaced with, you are either with me or against me.</p>\n\n<p>You cannot solve any problem if your starting position is effectively, we will solve that problem only if everyone agrees with me.</p>\n",
-			"date_published": "2018-03-19T13:33:43-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/19/in-the-past.html"
 		}
 		
 	]
