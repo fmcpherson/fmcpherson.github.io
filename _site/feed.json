@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/19/everything-restored-on.html",
+	      	
+			"content_html": "<p>Everything restored on the Pixel 2 except for the Android Wear settings, so now I have to factory reset my watches and completely reconfigure them to manage them in the Wear OS  app. What an awful user experience.</p>\n",
+			"date_published": "2018-04-19T13:45:41-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/19/everything-restored-on.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/19/something-really-bad.html",
 	      	
 			"content_html": "<p>Something really bad just happened to my Pixel 2 to shut down and then not boot. I have had to do a factory reset. Now restoring from backup. I had just downloaded the NASA picture of the day and was making it the wallpaper on the phone when this happened.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://twitter.com/brentsimmons/status/976528016594558976\">This tweet</a> by @inessential touches on what I think is a root of many problems in the United States. You might say the problem is immaturity, but it is worse than that, the problem is that we have de-valued maturity. Maturity is a life-long process and with it comes the wisdom to know that one does not, cannot, know everything and therefore is open to changing their mind.</p>\n",
 			"date_published": "2018-03-22T11:09:47-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/22/this-tweethttpstwittercombrentsimmonsstatus-by.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/22/i-think-the.html",
-	      	
-			"content_html": "<p>I think the fact that I can’t find who I am following on Micro.blog is a real gap. A tip to fill the gap is to favorite at least one post of each person you follow.</p>\n",
-			"date_published": "2018-03-22T11:03:12-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/22/i-think-the.html"
 		}
 		
 	]
