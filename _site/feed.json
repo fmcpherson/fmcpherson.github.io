@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/20/back-in-september.html",
+	      	
+			"content_html": "<p><a href=\"https://fjmnotes.com/2008/09/27/not-the-best-of-times/\">Back in September 2008</a> I thought the United States was in the worst state of my life time. I was very wrong.</p>\n",
+			"date_published": "2018-04-19T21:01:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/19/back-in-september.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/19/everything-restored-on.html",
 	      	
 			"content_html": "<p>Everything restored on the Pixel 2 except for the Android Wear settings, so now I have to factory reset my watches and completely reconfigure them to manage them in the Wear OS  app. What an awful user experience.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://www.phoronix.com/scan.php?page=article&amp;item=raspberrypi-3-bplus&amp;num=1\">Here is a complete run down</a> on the Raspberry Pi 3 B+ benchmarks.</p>\n",
 			"date_published": "2018-03-22T16:14:20-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/22/here-is-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/22/this-tweethttpstwittercombrentsimmonsstatus-by.html",
-	      	
-			"content_html": "<p><a href=\"https://twitter.com/brentsimmons/status/976528016594558976\">This tweet</a> by @inessential touches on what I think is a root of many problems in the United States. You might say the problem is immaturity, but it is worse than that, the problem is that we have de-valued maturity. Maturity is a life-long process and with it comes the wisdom to know that one does not, cannot, know everything and therefore is open to changing their mind.</p>\n",
-			"date_published": "2018-03-22T11:09:47-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/22/this-tweethttpstwittercombrentsimmonsstatus-by.html"
 		}
 		
 	]
