@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/20/all-the-way.html",
+	      	
+			"content_html": "<p>All the way back on March 24, 2009  <a href=\"https://fjmnotes.com/2009/03/14/time-to-take-off-the-shades/\">I wrote</a></p>\n\n<blockquote>\n  <p>when corporations own all mass media, how can we trust the news?</p>\n</blockquote>\n",
+			"date_published": "2018-04-19T21:59:42-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/19/all-the-way.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/20/back-in-september.html",
 	      	
 			"content_html": "<p><a href=\"https://fjmnotes.com/2008/09/27/not-the-best-of-times/\">Back in September 2008</a> I thought the United States was in the worst state of my life time. I was very wrong.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>The scariest part of <a href=\"https://www.npr.org/2018/03/22/594363877/trump-names-john-bolton-as-national-security-adviser\">the shrinking of President Trump’s echo chamber</a> is that it increases the need for Congress to do it’s part to uphold and defend the constitution by putting country before party.</p>\n\n<p>We are closer to war today than we were yesterday.</p>\n",
 			"date_published": "2018-03-23T10:12:37-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/23/the-scariest-part.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/22/here-is-a.html",
-	      	
-			"content_html": "<p><a href=\"https://www.phoronix.com/scan.php?page=article&amp;item=raspberrypi-3-bplus&amp;num=1\">Here is a complete run down</a> on the Raspberry Pi 3 B+ benchmarks.</p>\n",
-			"date_published": "2018-03-22T16:14:20-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/22/here-is-a.html"
 		}
 		
 	]
