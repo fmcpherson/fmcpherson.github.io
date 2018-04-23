@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/23/the-state-of.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>[The State of Virtual Assistants: Where’s the AI? · Rajat Agarwal</td>\n      <td>Blog](https://rajat503.github.io/blog/post/virtual-assistants/)</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2018-04-23T18:59:36-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/23/the-state-of.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/23/washington-post-how.html",
 	      	
 			"content_html": "<p><a href=\"https://www.washingtonpost.com/national/health-science/youve-been-given-a-terrible-diagnosis-heres-how-assess-your-survival-odds/2018/04/20/f46f14be-3699-11e8-8fd2-49fe3c675a89_story.html\">Washington Post: how to assess your survival odds</a></p>\n\n<blockquote>\n  <p>Don’t expect stats to predict your future. And most important, live your life to the max.</p>\n</blockquote>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://www.kickstarter.com/projects/413243358/mugsy-the-open-source-robotic-coffee-maker\">Mugsy is a robotic coffee maker</a> with a Raspberry Pi brain.</p>\n",
 			"date_published": "2018-04-02T17:50:30-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/02/mugsy-is-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/27/what-has-changed.html",
-	      	
-			"content_html": "<p>What has changed since <a href=\"http://www.govtech.com/education/What-Went-Wrong-with-LA-Unifieds-iPad-Program.html\">the L.A. public schools iPad program failed</a>?</p>\n",
-			"date_published": "2018-03-27T13:14:11-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/27/what-has-changed.html"
 		}
 		
 	]
