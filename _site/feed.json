@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/23/washington-post-how.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/national/health-science/youve-been-given-a-terrible-diagnosis-heres-how-assess-your-survival-odds/2018/04/20/f46f14be-3699-11e8-8fd2-49fe3c675a89_story.html\">Washington Post: how to assess your survival odds</a></p>\n\n<blockquote>\n  <p>Don’t expect stats to predict your future. And most important, live your life to the max.</p>\n</blockquote>\n",
+			"date_published": "2018-04-23T17:58:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/23/washington-post-how.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/23/so-flickr-has.html",
 	      	
 			"content_html": "<p>So, <a href=\"https://www.recode.net/2018/4/20/17264274/flickr-smugmug-yahoo-oath-verizon-deal-photo-sharing-service-mobile-instagram\">Flickr has been acquired by SmugMug</a>. Pondering whether I want to keep my pics in Flicker and let them go along for the ride to SmugMug, or cut ties and only use Google Photos.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>What has changed since <a href=\"http://www.govtech.com/education/What-Went-Wrong-with-LA-Unifieds-iPad-Program.html\">the L.A. public schools iPad program failed</a>?</p>\n",
 			"date_published": "2018-03-27T13:14:11-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/27/what-has-changed.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/26/is-anger-easy.html",
-	      	
-			"content_html": "<p>Is anger easy to <a href=\"https://www.psychologytoday.com/us/blog/communication-success/201510/14-signs-psychological-and-emotional-manipulation\">manipulate</a>?</p>\n",
-			"date_published": "2018-03-26T14:12:19-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/26/is-anger-easy.html"
 		}
 		
 	]
