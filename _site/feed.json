@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/23/so-flickr-has.html",
+	      	
+			"content_html": "<p>So, <a href=\"https://www.recode.net/2018/4/20/17264274/flickr-smugmug-yahoo-oath-verizon-deal-photo-sharing-service-mobile-instagram\">Flickr has been acquired by SmugMug</a>. Pondering whether I want to keep my pics in Flicker and let them go along for the ride to SmugMug, or cut ties and only use Google Photos.</p>\n",
+			"date_published": "2018-04-23T14:10:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/23/so-flickr-has.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/22/people-suggesting-that.html",
 	      	
 			"content_html": "<p>People suggesting that Trump did something wrong by not attending the funeral for Barbara Bush might stop to consider whether he was invited by the Bushes.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Is anger easy to <a href=\"https://www.psychologytoday.com/us/blog/communication-success/201510/14-signs-psychological-and-emotional-manipulation\">manipulate</a>?</p>\n",
 			"date_published": "2018-03-26T14:12:19-04:00",
 			"url": "https://frankmcpherson.blog/2018/03/26/is-anger-easy.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/03/26/at-what-point.html",
-	      	
-			"content_html": "<p>At what point does partisanship become out of control emotions?</p>\n",
-			"date_published": "2018-03-26T14:09:02-04:00",
-			"url": "https://frankmcpherson.blog/2018/03/26/at-what-point.html"
 		}
 		
 	]
