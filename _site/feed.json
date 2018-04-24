@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/24/do-any-of.html",
+	      	
+			"content_html": "<p>Do any of the other apps for micro.blog provide a way to edit posts?</p>\n",
+			"date_published": "2018-04-23T20:44:01-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/23/do-any-of.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/24/really-disappointing-that.html",
 	      	
 			"content_html": "<p>Really disappointing that we still cannot edit posts in the micro.blog app.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"http://time.com/5231694/national-beer-day/\">Today in 1933</a> the 18th Ammendment to the U.S. Constitution was repealed. It can be done. It’s also #NationalBeerDay.</p>\n",
 			"date_published": "2018-04-07T11:09:08-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/07/today-in-httptimecomnationalbeerday.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/02/mugsy-is-a.html",
-	      	
-			"content_html": "<p><a href=\"https://www.kickstarter.com/projects/413243358/mugsy-the-open-source-robotic-coffee-maker\">Mugsy is a robotic coffee maker</a> with a Raspberry Pi brain.</p>\n",
-			"date_published": "2018-04-02T17:50:30-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/02/mugsy-is-a.html"
 		}
 		
 	]
