@@ -4,8 +4,28 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Wed, 25 Apr 2018 09:07:21 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Apr 2018 09:07:21 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Apr 2018 09:29:14 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Apr 2018 09:29:14 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Did a little more investigation into &lt;a href=&quot;https://frankmcpherson.blog/2018/04/22/i-got-a.html&quot;&gt;the watch face that Fossil “pushed” to my smart watch last weekend&lt;/a&gt;. What happens is, you receive a notification saying that you “unlocked” a face and whether you want to enable it. What I have found is that amongst the many faces that are pre-installed on the watch is one called Seasonal, and this is the face that Fossil pushes updates to. Consequently, Fossil is not consuming additional storage space on the watch with each “new face” as it is updating one face that is designed for different appearances, which in reality is how all faces work.&lt;/p&gt;
+
+&lt;p&gt;I am wondering whether there is a Wear OS app that will automatically change watch faces I specify on a set schedule. I would like to rotate through some like the Outlook face that I like to use during the work day.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 09:27:04 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/04/25/did-a-little.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/25/did-a-little.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I use a simple process for telling whether my computer is working too hard, I listen for the fan. By this simple measure I determined that Chrome was just killing my computer and checking Process Explorer I did see high CPU utilization. I switched to Firefox as my primary browser and so far the fan has been quiet and the browser more responsive.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 09:16:39 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/04/25/i-use-a.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/25/i-use-a.html</guid>
+      </item>
     
       <item>
       	
@@ -479,28 +499,6 @@
         <pubDate>Sat, 03 Mar 2018 16:31:35 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/03/03/martin-kool-how.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/03/03/martin-kool-how.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://news.google.com/news/story/dGEppTolfNwnPUMuqcH-LTkRL1NBM?ned=us&amp;amp;hl=en&amp;amp;gl=US&quot;&gt;Two people shot on the Central Michigan Campus&lt;/a&gt;, and at the time I write this the man hunt for the shooter is in progress. Immediately on Twitter are the gun control/anti-control fanatics tweeting away. What is always lost is context. The problem isn’t necessarily this one event, the problem is that this event is just the lastest instance of something much larger.&lt;/p&gt;
-
-&lt;p&gt;Right now, all we have are advocates of each side of the solution yelling at each other so that &lt;strong&gt;nothing is being done.&lt;/strong&gt; So, from where I stand the real issue at this moment is the fact that we doing nothing but just live with the problem, which is a sign for how low our society has fallen.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Mar 2018 11:53:37 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/03/02/two-people-shot.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/03/02/two-people-shot.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;In her article titled “&lt;a href=&quot;https://points.datasociety.net/alternative-facts-alternative-truths-ab9d446b06c&quot;&gt;Alternative Facts, Alternative Truths&lt;/a&gt;” I think Dr. Francesca Tripodi provides a good example of the consequence of dualism as taught by fundamentalist churches. Issues like gun control, racism, and patriarchy do involve emotion as well as fact. In my opinion, just about all big decisions involve emotions.&lt;/p&gt;
-
-&lt;p&gt;In the matter of the Evangelical church’s view of Trump, what I think this article shows is missing is context. If all you look for are the words you like, and don’t stop to consider that the person providing them knows that and is intentionally saying them with no history to back them up, there is going to be a problem.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Mar 2018 09:22:20 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/03/02/in-her-article.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/03/02/in-her-article.html</guid>
       </item>
     
   </channel>
