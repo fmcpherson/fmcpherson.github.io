@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/25/gmail-versus-inbox.html",
+	      	
+			"title": "Gmail versus Inbox",
+			
+			"content_html": "<p>Google has released the new version of Gmail, which I am checking out. I have been using, and like, Inbox mostly because how quickly I can use it to triage email. By triage I mean browse for messages I want to read and then quickly archiving all the remaining messages. No other app, including Gmail provides as easy a way to archive a group of messages.</p>\n\n<p>The downside of Inbox is that it is very JavaScript heavy and therefore the web app performance can suffer. Another downside is that the app versions don’t look as good on larger screens such as on my 10.5 iPad Pro in landscape.</p>\n\n<p>So, I am considering using Gmail on large screens and Inbox on small screens. However to decide that, I need to use the new Gmail for a while.</p>\n",
+			"date_published": "2018-04-25T12:49:47-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/25/gmail-versus-inbox.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/25/did-a-little.html",
 	      	
 			"content_html": "<p>Did a little more investigation into <a href=\"https://frankmcpherson.blog/2018/04/22/i-got-a.html\">the watch face that Fossil “pushed” to my smart watch last weekend</a>. What happens is, you receive a notification saying that you “unlocked” a face and whether you want to enable it. What I have found is that amongst the many faces that are pre-installed on the watch is one called Seasonal, and this is the face that Fossil pushes updates to. Consequently, Fossil is not consuming additional storage space on the watch with each “new face” as it is updating one face that is designed for different appearances, which in reality is how all faces work.</p>\n\n<p>I am wondering whether there is a Wear OS app that will automatically change watch faces I specify on a set schedule. I would like to rotate through some like the Outlook face that I like to use during the work day.</p>\n",
@@ -197,14 +207,6 @@
 			"content_html": "<p>Google plans <a href=\"https://9to5google.com/2018/04/11/gmail-web-revamp-leaks-w-rounded-design-sidebar-widgets-google-tasks-and-more/\">some interesting imorovements</a> to Gmail. I am one of the few people who use Inbox because it enables me to quickly triage my email.</p>\n",
 			"date_published": "2018-04-11T22:09:37-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/11/google-plans-some.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/12/one-of-the.html",
-	      	
-			"content_html": "<p>One of the most <a href=\"https://chromeunboxed.com/news/chrome-os-container-crostini-vscode-virtual-machine\">intriguing developments</a> is containers in Chrome OS, particularly what <a href=\"https://dropletcomputing.com/\">Droplet Comouting</a> is doing.</p>\n",
-			"date_published": "2018-04-11T21:37:37-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/11/one-of-the.html"
 		}
 		
 	]
