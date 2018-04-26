@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Wed, 25 Apr 2018 12:50:05 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Apr 2018 12:50:05 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Apr 2018 20:05:25 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Apr 2018 20:05:25 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Google releases a new Tasks app. It is a pretty barebones list making app that at least supports sub tasks. Unfortunately the iOS version is only for the iPhone and looks awful on the iPad, even the iPad Mini.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 20:05:09 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/04/25/google-releases-a.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/26/google-releases-a.html</guid>
+      </item>
     
       <item>
       	
@@ -490,19 +499,6 @@
         <pubDate>Mon, 12 Mar 2018 12:00:43 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/03/12/daylight-savings-time.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/03/12/daylight-savings-time.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://standardnotes.org/&quot;&gt;Standard Notes A Simple And Private Notes App&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I am invested in &lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt;, but if I we’re starting a fresh search for a note taking repository, I would probably go with Standard Notes. The most appealing feature is that it encrypts all notes before they are stored locally, and the encrypted copy is what is synced to their server.&lt;/p&gt;
-
-&lt;p&gt;Standard Noted runs on multiple platforms, and the paid version is very extensible and supports two factor authentication. If you are inclined, you can host Standard Noted on your own server.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 03 Mar 2018 17:01:16 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/03/03/standard-notes-a.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/03/03/standard-notes-a.html</guid>
       </item>
     
   </channel>
