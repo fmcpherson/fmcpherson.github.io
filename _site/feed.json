@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/26/micro-blogging-versus.html",
+	      	
+			"title": "Micro Blogging versus Social Networks",
+			
+			"content_html": "<p>You might think it too fine a point, but I think any blogging product requires the ability to edit what one has written. To me, editing is a fundamental difference between blogging and social networks because blogging is about permanence where as the social network timeline/newsfeed is a black hole.</p>\n\n<p>To me, what makes micro blogging different from social networks like Twitter is the permance I describe above, and therefore editing should be a fundamental requirement for all micro blogging apps.</p>\n",
+			"date_published": "2018-04-26T09:59:34-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/26/micro-blogging-versus.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/26/google-releases-a.html",
 	      	
 			"content_html": "<p>Google releases a new Tasks app. It is a pretty barebones list making app that at least supports sub tasks. Unfortunately the iOS version is only for the iPhone and looks awful on the iPad, even the iPad Mini.</p>\n",
@@ -197,16 +207,6 @@
 			"content_html": "<p>It might just be me, but it seems that Chrome is getting slower and slower. I’ve decided to start using Firefox for a while to see if the aggravation decreases.</p>\n",
 			"date_published": "2018-04-16T09:37:35-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/16/it-might-just.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/13/boycotts-and-free.html",
-	      	
-			"title": "Boycotts and Free Speech ",
-			
-			"content_html": "<p>What, if any, relationship is there between free speech and cable TV, and in particular news or opinion shows on cable TV? Cable TV is not the public square nor is it public airwaves, it is corporate owned and exists for the purposes of making money. The primary method for making money is advertising.</p>\n\n<p>If people opt to make note of the advertisers and decide to not purchase products from those advertisers, which is known as boycotting their products, I don’t see how in any way that infringes on a person’s free speech rights. At most it infringes on that person’s ability to make money on cable TV.</p>\n\n<p>Furthermore, free speech is a protection for citizens from government. If cable TV is not part of the government, then frankly I am not clear on what free speech rights apply to anything on cable TV. Claims about being “fair and balanced” is marketing and not statements of facts nor rights.</p>\n",
-			"date_published": "2018-04-13T10:59:50-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/13/boycotts-and-free.html"
 		}
 		
 	]
