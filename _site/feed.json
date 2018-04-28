@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/04/28/rick-dickinson-designer.html",
+	      	
+			"content_html": "<p><a href=\"[flip.it/996yWZ](http://flip.it/996yWZ)\n[flip.it/996yWZ](http://flip.it/996yWZ)\">Rick Dickinson, designer of Sinclair home computers, dies</a></p>\n\n<p>My first computer was the Timex Sinclair, which my grandmother bought for me when I was a junior in high school. It was important because provided access to a computer at an affordable price.</p>\n",
+			"date_published": "2018-04-28T16:06:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/04/28/rick-dickinson-designer.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/26/micro-blogging-versus.html",
 	      	
 			"title": "Micro Blogging versus Social Networks",
@@ -199,14 +207,6 @@
 			"content_html": "<p>It is really frustrating when applications don’t work the same way across platforms. Looking at you <a href=\"https://www.lastpass.com\">Lastpass</a>!</p>\n",
 			"date_published": "2018-04-16T11:05:43-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/16/it-is-really.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/16/it-might-just.html",
-	      	
-			"content_html": "<p>It might just be me, but it seems that Chrome is getting slower and slower. I’ve decided to start using Firefox for a while to see if the aggravation decreases.</p>\n",
-			"date_published": "2018-04-16T09:37:35-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/16/it-might-just.html"
 		}
 		
 	]
