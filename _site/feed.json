@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/03/does-anyone-have.html",
+	      	
+			"content_html": "<p>Does anyone have a recommendation on a case for the iPad Pro 10.5? I prefer a case that doesn’t add bulk, is easy to take on/off, and has a place for the Apple Pencil. I like the look of <a href=\"https://www.padandquill.com/cases-for-ipad/oxford-leather-ipad-pro-105-case.html\">the Pad &amp; Quill Oxford case</a>, but I am uncertain about the adhesive tape and how easy it is to take the case off.</p>\n",
+			"date_published": "2018-05-03T16:17:39-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/03/does-anyone-have.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/04/28/rick-dickinson-designer.html",
 	      	
 			"content_html": "<p><a href=\"[flip.it/996yWZ](http://flip.it/996yWZ)\n[flip.it/996yWZ](http://flip.it/996yWZ)\">Rick Dickinson, designer of Sinclair home computers, dies</a></p>\n\n<p>My first computer was the Timex Sinclair, which my grandmother bought for me when I was a junior in high school. It was important because provided access to a computer at an affordable price.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>At a minimum <a href=\"https://www.washingtonpost.com/politics/trump-puts-the-brake-on-new-russian-sanctions-reversing-haleys-announcement/2018/04/16/ac3ad4f8-417f-11e8-8569-26fda6b404c7_story.html\">this looks incompetent</a>.</p>\n",
 			"date_published": "2018-04-16T17:02:45-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/16/at-a-minimum.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/16/it-is-really.html",
-	      	
-			"content_html": "<p>It is really frustrating when applications don’t work the same way across platforms. Looking at you <a href=\"https://www.lastpass.com\">Lastpass</a>!</p>\n",
-			"date_published": "2018-04-16T11:05:43-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/16/it-is-really.html"
 		}
 		
 	]
