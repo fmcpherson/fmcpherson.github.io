@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/05/watching-the-cubs.html",
+	      	
+			"content_html": "<p>Watching the Cubs play the Cardinals. So far two calls have been overturned by replay. Replay is showing how bad baseball umpires are, you can almost say something like 25% of all calls made in MLB history before replay were wrong.</p>\n",
+			"date_published": "2018-05-05T15:18:06-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/05/watching-the-cubs.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/03/does-anyone-have.html",
 	      	
 			"content_html": "<p>Does anyone have a recommendation on a case for the iPad Pro 10.5? I prefer a case that doesn’t add bulk, is easy to take on/off, and has a place for the Apple Pencil. I like the look of <a href=\"https://www.padandquill.com/cases-for-ipad/oxford-leather-ipad-pro-105-case.html\">the Pad &amp; Quill Oxford case</a>, but I am uncertain about the adhesive tape and how easy it is to take the case off.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://www.mirroring360.com/\">Mirroring360</a> looks like a useful addition to my toolbox. Found via <a href=\"https://mmitii.mattballantine.com/2018/04/17/the-little-white-doo-dah-that-changed-my-working-life/amp/?__twitter_impression=true\">a blog post about the Apple Pencil</a>.</p>\n",
 			"date_published": "2018-04-17T09:25:40-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/17/mirroringhttpswwwmirroringcom-looks-like.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/16/at-a-minimum.html",
-	      	
-			"content_html": "<p>At a minimum <a href=\"https://www.washingtonpost.com/politics/trump-puts-the-brake-on-new-russian-sanctions-reversing-haleys-announcement/2018/04/16/ac3ad4f8-417f-11e8-8569-26fda6b404c7_story.html\">this looks incompetent</a>.</p>\n",
-			"date_published": "2018-04-16T17:02:45-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/16/at-a-minimum.html"
 		}
 		
 	]
