@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/07/i-used-some.html",
+	      	
+			"content_html": "<p>I used some credit card reward to discount the cost of the Pad &amp; Quill case for th iPad Pro 10.5 that <a href=\"http://frankmcpherson.blog/2018/05/03/does-anyone-have.html\">I wrote about earlier</a>. The case arrived today and it is beautiful and provides plenty of protection but also adds bulk. It is going to take time for the leather to break in, so the race is between the breakin of the leather or me.</p>\n",
+			"date_published": "2018-05-07T17:30:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/07/i-used-some.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/05/07/updates-to-google.html",
+	      	
+			"content_html": "<p>Updates to Google Assistant are <a href=\"https://www.blog.google/products/wear-os/get-more-done-google-assistant-wear-os-google/?utm_source=tw&amp;utm_medium=feed&amp;utm_campaign=og\">coming to Wear OS.</a></p>\n",
+			"date_published": "2018-05-07T17:15:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/07/updates-to-google.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/05/watching-the-cubs.html",
 	      	
 			"content_html": "<p>Watching the Cubs play the Cardinals. So far two calls have been overturned by replay. Replay is showing how bad baseball umpires are, you can almost say something like 25% of all calls made in MLB history before replay were wrong.</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>Yippee! I made it to 52!</p>\n",
 			"date_published": "2018-04-18T11:28:04-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/18/yippee-i-made.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/17/after-one-day.html",
-	      	
-			"content_html": "<p>After one day of full time usage, I am finding Firefox to be significantly faster than Chrome. One exception does seem to be with Inbox, which is heavy Javascript. I also may not have all of the Extensions installed in Firefox as I have in Chrome.</p>\n",
-			"date_published": "2018-04-17T12:02:03-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/17/after-one-day.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/17/mirroringhttpswwwmirroringcom-looks-like.html",
-	      	
-			"content_html": "<p><a href=\"https://www.mirroring360.com/\">Mirroring360</a> looks like a useful addition to my toolbox. Found via <a href=\"https://mmitii.mattballantine.com/2018/04/17/the-little-white-doo-dah-that-changed-my-working-life/amp/?__twitter_impression=true\">a blog post about the Apple Pencil</a>.</p>\n",
-			"date_published": "2018-04-17T09:25:40-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/17/mirroringhttpswwwmirroringcom-looks-like.html"
 		}
 		
 	]
