@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/08/drafts-or-ulysses.html",
+	      	
+			"title": "Drafts or Ulysses?",
+			
+			"content_html": "<p>One thing I find frustrating about iOS are the number of apps that all seem to do the exact same thing. How do you decide on one over the other? An example is Drafts and Ulysses, both are good markdown editors but Drafts supports more automation. Last summer I was looking for a new editor and Ulysses came highly recommended, so I bought it, but then the company switched to a subscription model and that turned me off, I decided to not buy in to the subscription.</p>\n\n<p>Then I learned about Drafts, and so I went and downloaded it and have used it to write some blog posts. To date I have mostly used it to write long posts for <a href=\"http://writing.frankmcpherson.org\">one site</a> that only has a “basic” web-based editor. Of course, Drafts has now been recently upgraded and it too has a subscription model.</p>\n\n<p>To me, it doesn’t make sense to have Ulysses and Drafts on my iPad, Drafts seems to able to do the job good enough. However, so far I have not seen an Action for sending text to Wordpress, which I find a bit surprising. Does anyone know of such an Action? The one in the Drafts directory appears to require components not part of Wordpress.com.</p>\n",
+			"date_published": "2018-05-08T10:54:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/08/drafts-or-ulysses.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/08/wojo-pga-tours.html",
 	      	
 			"content_html": "<p><a href=\"https://www.detroitnews.com/story/sports/columnists/bob-wojnowski/2018/05/07/wojo-detroit-pga-tour-quicken-loans/34670853/\">Wojo: PGA Tour’s first stop in Detroit is another ace in city’s revival</a>. It’s a bit hard to imagine, but great news for Detroit, none the less.</p>\n",
@@ -199,14 +209,6 @@
 			"content_html": "<p><a href=\"https://blog.evernote.com/blog/2018/04/18/stacey-harmon-why-michael-hyatt-is-wrong-about-organizing-evernote-with-tags/\">Stacey Harmon: “Why Michael Hyatt is Wrong about Organizing Evernote with Tags”</a></p>\n\n<blockquote>\n  <p>The right way for me — as well as the vast majority of the people I have coached over my years as an Evernote consultant — is by using notebooks and stacks as the primary organizing blocks of Evernote, with tags being used not as an organizational tool, but a find feature in Evernote.</p>\n</blockquote>\n\n<p>I have used Evernote for a long time, and I use notebooks and stacks as the primary organizational method and tags to help find information. When seek information in Evernote I usually search for that information across all notes unless I expect to only find it in a certain notebook or stack.</p>\n",
 			"date_published": "2018-04-18T16:33:40-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/18/stacey-harmon-why.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/18/best-ipad-keyboard.html",
-	      	
-			"content_html": "<p><a href=\"https://www.laptopmag.com/articles/every-ipad-keyboard-shortcut\">Best iPad Keyboard Shortcuts (for Smart Keyboards or Bluetooth)</a></p>\n\n<blockquote>\n  <p>These keyboard shortcuts don’t require the Smart Keyboard or the iPad Pro. These tricks will work if you pair a Bluetooth keyboard with any iPad running iOS 9 or later.</p>\n</blockquote>\n",
-			"date_published": "2018-04-18T16:24:08-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/18/best-ipad-keyboard.html"
 		}
 		
 	]
