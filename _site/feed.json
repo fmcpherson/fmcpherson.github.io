@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/08/wojo-pga-tours.html",
+	      	
+			"content_html": "<p><a href=\"https://www.detroitnews.com/story/sports/columnists/bob-wojnowski/2018/05/07/wojo-detroit-pga-tour-quicken-loans/34670853/\">Wojo: PGA Tour’s first stop in Detroit is another ace in city’s revival</a>. It’s a bit hard to imagine, but great news for Detroit, none the less.</p>\n",
+			"date_published": "2018-05-07T21:58:12-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/07/wojo-pga-tours.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/08/the-cubs-put.html",
 	      	
 			"content_html": "<p>The Cubs <a href=\"https://www.mlbtraderumors.com/2018/05/cubs-place-yu-darvish-on-10-day-dl.html\">put Yu Darvish on the 10-day DL</a> for the flu?!</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://www.laptopmag.com/articles/every-ipad-keyboard-shortcut\">Best iPad Keyboard Shortcuts (for Smart Keyboards or Bluetooth)</a></p>\n\n<blockquote>\n  <p>These keyboard shortcuts don’t require the Smart Keyboard or the iPad Pro. These tricks will work if you pair a Bluetooth keyboard with any iPad running iOS 9 or later.</p>\n</blockquote>\n",
 			"date_published": "2018-04-18T16:24:08-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/18/best-ipad-keyboard.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/18/i-have-installed.html",
-	      	
-			"content_html": "<p>I have installed <a href=\"http://getdrafts.com\">Drafts 5</a>, purchased the yearly subscription, and I am now writing my first micro.blog post using it. Let’s see how well this works. Sent over to the micro.blog app where I can edit further. Of course, this method requires that you have the micro.blog app installed on your iPad, but you don’t have to generate a new app code for it to work.</p>\n",
-			"date_published": "2018-04-18T16:08:51-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/18/i-have-installed.html"
 		}
 		
 	]
