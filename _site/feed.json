@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/08/the-cubs-put.html",
+	      	
+			"content_html": "<p>The Cubs <a href=\"https://www.mlbtraderumors.com/2018/05/cubs-place-yu-darvish-on-10-day-dl.html\">put Yu Darvish on the 10-day DL</a> for the flu?!</p>\n",
+			"date_published": "2018-05-07T20:20:52-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/07/the-cubs-put.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/07/i-used-some.html",
 	      	
 			"content_html": "<p>I used some credit card reward to discount the cost of the Pad &amp; Quill case for th iPad Pro 10.5 that <a href=\"http://frankmcpherson.blog/2018/05/03/does-anyone-have.html\">I wrote about earlier</a>. The case arrived today and it is beautiful and provides plenty of protection but also adds bulk. It is going to take time for the leather to break in, so the race is between the breakin of the leather or me.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I have installed <a href=\"http://getdrafts.com\">Drafts 5</a>, purchased the yearly subscription, and I am now writing my first micro.blog post using it. Let’s see how well this works. Sent over to the micro.blog app where I can edit further. Of course, this method requires that you have the micro.blog app installed on your iPad, but you don’t have to generate a new app code for it to work.</p>\n",
 			"date_published": "2018-04-18T16:08:51-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/18/i-have-installed.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/18/yippee-i-made.html",
-	      	
-			"content_html": "<p>Yippee! I made it to 52!</p>\n",
-			"date_published": "2018-04-18T11:28:04-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/18/yippee-i-made.html"
 		}
 		
 	]
