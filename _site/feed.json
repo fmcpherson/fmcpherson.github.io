@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/09/google-lens-actually.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theverge.com/2018/5/8/17333154/googe-lens-ai-ar-live-demo-hands-on-io-2018\">Google Lens actually shows how AI can make life easier - The Verge</a></p>\n\n<p>I just would like Lens to tell me what type of bird I took a picture of in Bermuda.</p>\n",
+			"date_published": "2018-05-08T21:33:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/08/google-lens-actually.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/05/09/do-we-want.html",
+	      	
+			"content_html": "<p>Do we want our devices to become nannies? I get why Google and Microsoft are reacting to reports on the addictive nature of the devices, but it seems to me we need to learn self control and not rely on external influence to tell us what and what not to do.</p>\n",
+			"date_published": "2018-05-08T20:08:38-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/08/do-we-want.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/08/drafts-or-ulysses.html",
 	      	
 			"title": "Drafts or Ulysses?",
@@ -193,22 +209,6 @@
 			"content_html": "<p>Everything restored on the Pixel 2 except for the Android Wear settings, so now I have to factory reset my watches and completely reconfigure them to manage them in the Wear OS  app. What an awful user experience.</p>\n",
 			"date_published": "2018-04-19T13:45:41-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/19/everything-restored-on.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/19/something-really-bad.html",
-	      	
-			"content_html": "<p>Something really bad just happened to my Pixel 2 to shut down and then not boot. I have had to do a factory reset. Now restoring from backup. I had just downloaded the NASA picture of the day and was making it the wallpaper on the phone when this happened.</p>\n",
-			"date_published": "2018-04-19T12:34:15-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/19/something-really-bad.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/18/stacey-harmon-why.html",
-	      	
-			"content_html": "<p><a href=\"https://blog.evernote.com/blog/2018/04/18/stacey-harmon-why-michael-hyatt-is-wrong-about-organizing-evernote-with-tags/\">Stacey Harmon: “Why Michael Hyatt is Wrong about Organizing Evernote with Tags”</a></p>\n\n<blockquote>\n  <p>The right way for me — as well as the vast majority of the people I have coached over my years as an Evernote consultant — is by using notebooks and stacks as the primary organizing blocks of Evernote, with tags being used not as an organizational tool, but a find feature in Evernote.</p>\n</blockquote>\n\n<p>I have used Evernote for a long time, and I use notebooks and stacks as the primary organizational method and tags to help find information. When seek information in Evernote I usually search for that information across all notes unless I expect to only find it in a certain notebook or stack.</p>\n",
-			"date_published": "2018-04-18T16:33:40-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/18/stacey-harmon-why.html"
 		}
 		
 	]
