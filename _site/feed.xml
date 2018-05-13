@@ -4,8 +4,19 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sun, 13 May 2018 12:54:53 -0400</pubDate>
-    <lastBuildDate>Sun, 13 May 2018 12:54:53 -0400</lastBuildDate>
+    <pubDate>Sun, 13 May 2018 13:05:05 -0400</pubDate>
+    <lastBuildDate>Sun, 13 May 2018 13:05:05 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Chrome OS’ forthcoming &lt;a href=&quot;https://www.xda-developers.com/linux-apps-chrome-os-overview-crostini/&quot;&gt;ability to run Linux apps&lt;/a&gt; appears to me to mostly be something Google did so that their engineers could actually use the Pixelbook. Once that feature is seen in the code you might as well let the broad developer community in on the fun.&lt;/p&gt;
+
+&lt;p&gt;The question is whether regular users will benefit from this feature. Most likely not if nothing more than the actual number of Linux apps a “regular user” might find useful are limited. Right now I can only think one app I will want to run in such a container and that is &lt;a href=&quot;https://standardnotes.org&quot;&gt;Standard Notes&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 May 2018 13:05:00 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/05/13/chrome-os-forthcoming.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/05/13/chrome-os-forthcoming.html</guid>
+      </item>
     
       <item>
       	
@@ -501,15 +512,6 @@
         <pubDate>Fri, 23 Mar 2018 10:12:37 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/03/23/the-scariest-part.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/03/23/the-scariest-part.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.phoronix.com/scan.php?page=article&amp;amp;item=raspberrypi-3-bplus&amp;amp;num=1&quot;&gt;Here is a complete run down&lt;/a&gt; on the Raspberry Pi 3 B+ benchmarks.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 22 Mar 2018 16:14:20 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/03/22/here-is-a.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/03/22/here-is-a.html</guid>
       </item>
     
   </channel>
