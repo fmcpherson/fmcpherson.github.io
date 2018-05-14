@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/14/130547.html",
+	      	
+			"content_html": "<p>Is there a way to disable iOS predictive text when using an external keyboard?</p>\n",
+			"date_published": "2018-05-14T09:05:47-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/14/130547.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/13/chrome-os-forthcoming.html",
 	      	
 			"content_html": "<p>Chrome OS’ forthcoming <a href=\"https://www.xda-developers.com/linux-apps-chrome-os-overview-crostini/\">ability to run Linux apps</a> appears to me to mostly be something Google did so that their engineers could actually use the Pixelbook. Once that feature is seen in the code you might as well let the broad developer community in on the fun.</p>\n\n<p>The question is whether regular users will benefit from this feature. Most likely not if nothing more than the actual number of Linux apps a “regular user” might find useful are limited. Right now I can only think one app I will want to run in such a container and that is <a href=\"https://standardnotes.org\">Standard Notes</a>.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>People suggesting that Trump did something wrong by not attending the funeral for Barbara Bush might stop to consider whether he was invited by the Bushes.</p>\n",
 			"date_published": "2018-04-22T15:41:08-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/22/people-suggesting-that.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/22/i-got-a.html",
-	      	
-			"content_html": "<p>I got a Fossil Explorist Q, which is a Wear OS smart watch, for my birthday. Today Fossil pushed a face, commemorating Earth Day, to my watch, which was unexpected. Now I am curious to learn what other faces Fossil will push. I think this is a nice <a href=\"https://en.m.wikipedia.org/wiki/Easter_egg_(media)\">Easter egg</a>.</p>\n",
-			"date_published": "2018-04-22T15:35:42-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/22/i-got-a.html"
 		}
 		
 	]
