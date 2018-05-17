@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Mon, 14 May 2018 09:05:49 -0400</pubDate>
-    <lastBuildDate>Mon, 14 May 2018 09:05:49 -0400</lastBuildDate>
+    <pubDate>Wed, 16 May 2018 22:31:50 -0400</pubDate>
+    <lastBuildDate>Wed, 16 May 2018 22:31:50 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The Cubs lost another game to the Braves. The Braves look for real.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 May 2018 22:31:22 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/05/16/the-cubs-lost.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/05/17/the-cubs-lost.html</guid>
+      </item>
     
       <item>
       	
@@ -497,19 +506,6 @@
         <pubDate>Mon, 26 Mar 2018 14:09:02 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/03/26/at-what-point.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/03/26/at-what-point.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Google Assistant is still flawed by not enabling users to specify unique trigger words for each device. So, I use my smartphone as an alarm clock and I thought it would be cool to enable &lt;a href=&quot;https://www.digitaltrends.com/home/google-assistant-routines/&quot;&gt;the Bedtime routine&lt;/a&gt; that turns down the phone, sets an alarm and shuts off lights.&lt;/p&gt;
-
-&lt;p&gt;Problem is that routine is enabled for Home and my Pixel phone. So, if I initiate the routine with the two in the same room, Home takes over and then sets the alarm for itself rather than on my phone.&lt;/p&gt;
-
-&lt;p&gt;So, I think Google needs to do two things. First, it should provide a way to associate specific routines to specific assistant-enabled devices. Second, it needs to provide a way for users to create trigger words that are specific to devices. Right now, I can squeeze to trigger assistant on my phone and then start the routine, but that requires me to remember this rather than assistant being smart enough to remember for me.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Mar 2018 14:47:35 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/03/23/google-assistant-is.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/03/23/google-assistant-is.html</guid>
       </item>
     
   </channel>
