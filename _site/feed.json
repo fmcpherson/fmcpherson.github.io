@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/17/the-cubs-lost.html",
+	      	
+			"content_html": "<p>The Cubs lost another game to the Braves. The Braves look for real.</p>\n",
+			"date_published": "2018-05-16T22:31:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/16/the-cubs-lost.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/14/130547.html",
 	      	
 			"content_html": "<p>Is there a way to disable iOS predictive text when using an external keyboard?</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>So, <a href=\"https://www.recode.net/2018/4/20/17264274/flickr-smugmug-yahoo-oath-verizon-deal-photo-sharing-service-mobile-instagram\">Flickr has been acquired by SmugMug</a>. Pondering whether I want to keep my pics in Flicker and let them go along for the ride to SmugMug, or cut ties and only use Google Photos.</p>\n",
 			"date_published": "2018-04-23T14:10:04-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/23/so-flickr-has.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/22/people-suggesting-that.html",
-	      	
-			"content_html": "<p>People suggesting that Trump did something wrong by not attending the funeral for Barbara Bush might stop to consider whether he was invited by the Bushes.</p>\n",
-			"date_published": "2018-04-22T15:41:08-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/22/people-suggesting-that.html"
 		}
 		
 	]
