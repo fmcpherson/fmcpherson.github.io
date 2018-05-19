@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/19/for-the-last.html",
+	      	
+			"content_html": "<p>For the last couple of weeks I have been using <a href=\"https://noteplan.co/\">NotePlan</a>, and I think what I like most about it is that you end up with a daily log of what you did. <a href=\"http://www.foldingtext.com/\">FoldingText</a> looks like a similarly useful tool, but not available on iOS, but I like outliners. The feature I want in an outliner is simple linking both with an outline file and to external items.</p>\n",
+			"date_published": "2018-05-19T10:25:01-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/19/for-the-last.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/19/the-best-thing.html",
 	      	
 			"content_html": "<p>The best thing about micro.blog is that it’s just people. When you browse through Discover, you are discovering people.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I use a simple process for telling whether my computer is working too hard, I listen for the fan. By this simple measure I determined that Chrome was just killing my computer and checking Process Explorer I did see high CPU utilization. I switched to Firefox as my primary browser and so far the fan has been quiet and the browser more responsive.</p>\n",
 			"date_published": "2018-04-25T09:16:39-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/25/i-use-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/25/i-use-amazon.html",
-	      	
-			"content_html": "<p>I use <a href=\"https://aws.amazon.com/lightsail/\">Amazon Lightsail</a> to host the Dockerized version of <a href=\"https://www.monicahq.com/\">a CRM application</a>. There has just been a major release and the latest version of the Docker image is not working for me. I take snapshots of the server as a back up, so I was able to revert back to the prior version of the server pretty easily. The process does involve creating a new instance from a snapshot, moving the public IP address to the new instance, and then deleting the old instance.</p>\n",
-			"date_published": "2018-04-25T09:07:15-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/25/i-use-amazon.html"
 		}
 		
 	]
