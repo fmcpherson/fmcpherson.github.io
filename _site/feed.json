@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/19/the-best-thing.html",
+	      	
+			"content_html": "<p>The best thing about micro.blog is that it’s just people. When you browse through Discover, you are discovering people.</p>\n",
+			"date_published": "2018-05-19T10:09:44-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/19/the-best-thing.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/18/it-seems-to.html",
 	      	
 			"content_html": "<p>It seems to me that the majority of school shootings have occurred at public schools. Am I wrong?</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I use <a href=\"https://aws.amazon.com/lightsail/\">Amazon Lightsail</a> to host the Dockerized version of <a href=\"https://www.monicahq.com/\">a CRM application</a>. There has just been a major release and the latest version of the Docker image is not working for me. I take snapshots of the server as a back up, so I was able to revert back to the prior version of the server pretty easily. The process does involve creating a new instance from a snapshot, moving the public IP address to the new instance, and then deleting the old instance.</p>\n",
 			"date_published": "2018-04-25T09:07:15-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/25/i-use-amazon.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/24/do-any-of.html",
-	      	
-			"content_html": "<p>Do any of the other apps for micro.blog provide a way to edit posts?</p>\n",
-			"date_published": "2018-04-23T20:44:01-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/23/do-any-of.html"
 		}
 		
 	]
