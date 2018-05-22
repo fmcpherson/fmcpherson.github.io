@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/22/from-the-flowering.html",
+	      	
+			"content_html": "<p>From the flowering tree in our back yard.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/c72bc366bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-21T20:59:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/21/from-the-flowering.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/19/for-the-last.html",
 	      	
 			"content_html": "<p>For the last couple of weeks I have been using <a href=\"https://noteplan.co/\">NotePlan</a>, and I think what I like most about it is that you end up with a daily log of what you did. <a href=\"http://www.foldingtext.com/\">FoldingText</a> looks like a similarly useful tool, but not available on iOS, but I like outliners. The feature I want in an outliner is simple linking both with an outline file and to external items.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Did a little more investigation into <a href=\"https://frankmcpherson.blog/2018/04/22/i-got-a.html\">the watch face that Fossil “pushed” to my smart watch last weekend</a>. What happens is, you receive a notification saying that you “unlocked” a face and whether you want to enable it. What I have found is that amongst the many faces that are pre-installed on the watch is one called Seasonal, and this is the face that Fossil pushes updates to. Consequently, Fossil is not consuming additional storage space on the watch with each “new face” as it is updating one face that is designed for different appearances, which in reality is how all faces work.</p>\n\n<p>I am wondering whether there is a Wear OS app that will automatically change watch faces I specify on a set schedule. I would like to rotate through some like the Outlook face that I like to use during the work day.</p>\n",
 			"date_published": "2018-04-25T09:27:04-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/25/did-a-little.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/25/i-use-a.html",
-	      	
-			"content_html": "<p>I use a simple process for telling whether my computer is working too hard, I listen for the fan. By this simple measure I determined that Chrome was just killing my computer and checking Process Explorer I did see high CPU utilization. I switched to Firefox as my primary browser and so far the fan has been quiet and the browser more responsive.</p>\n",
-			"date_published": "2018-04-25T09:16:39-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/25/i-use-a.html"
 		}
 		
 	]
