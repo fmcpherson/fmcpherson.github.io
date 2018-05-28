@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/28/my-first-criteria.html",
+	      	
+			"content_html": "<p>My first criteria for staying at a hotel is a comfortable bed. My second is a restaurant or bar in or near the hotel.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8d3cc0083c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-28T11:25:25-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/28/my-first-criteria.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/05/24/i-would-like.html",
+	      	
+			"content_html": "<p>I would like a Firefox extension that takes grabs the title of a web page and the URL of that web page, puts that into a Markdown link format and stores to the clipboard for pasting into the micro.blog web input box. In the past I have used applets for linking to web pages in my blog posts.</p>\n",
+			"date_published": "2018-05-24T09:47:03-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/24/i-would-like.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/05/24/acer-debuts-four.html",
+	      	
+			"content_html": "<p><a href=\"https://chromeunboxed.com/news/acer-launches-four-chromebooks-kaby-lake-spin\">Acer Debuts Four New Chromebooks</a></p>\n\n<p>I am thinking if Chromebook manufacturers expect people to be using Linux apps, wouldn’t they provide storage options greater than 64 GB? I find the news about Linux support on Chromebooks intriguing enough for me to consider purchasing a new one once the feature is widely available.</p>\n",
+			"date_published": "2018-05-24T09:44:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/24/acer-debuts-four.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/05/24/trump-on-nfl.html",
+	      	
+			"content_html": "<p><a href=\"https://sports.yahoo.com/trump-nfl-protesters-maybe-shouldnt-country-114402328.html\">Trump on NFL protesters: ‘Maybe you shouldn’t be in the country’</a></p>\n\n<p>In a democracy the leader does not dictate behavior, that is called dictatorship. The fact that Trump does not get the fundamentals of democracy is scary, and the fact that we elected such a person President is very disappointing. The fact that so many people do not see this as an issue is frightening, and a sign that our democracy may already be lost.</p>\n",
+			"date_published": "2018-05-24T09:27:43-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/24/trump-on-nfl.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/22/from-the-flowering.html",
 	      	
 			"content_html": "<p>From the flowering tree in our back yard.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/c72bc366bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -173,42 +205,6 @@
 			"content_html": "<p><a href=\"[flip.it/996yWZ](http://flip.it/996yWZ)\n[flip.it/996yWZ](http://flip.it/996yWZ)\">Rick Dickinson, designer of Sinclair home computers, dies</a></p>\n\n<p>My first computer was the Timex Sinclair, which my grandmother bought for me when I was a junior in high school. It was important because provided access to a computer at an affordable price.</p>\n",
 			"date_published": "2018-04-28T16:06:31-04:00",
 			"url": "https://frankmcpherson.blog/2018/04/28/rick-dickinson-designer.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/26/micro-blogging-versus.html",
-	      	
-			"title": "Micro Blogging versus Social Networks",
-			
-			"content_html": "<p>You might think it too fine a point, but I think any blogging product requires the ability to edit what one has written. To me, editing is a fundamental difference between blogging and social networks because blogging is about permanence where as the social network timeline/newsfeed is a black hole.</p>\n\n<p>To me, what makes micro blogging different from social networks like Twitter is the permance I describe above, and therefore editing should be a fundamental requirement for all micro blogging apps.</p>\n",
-			"date_published": "2018-04-26T09:59:34-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/26/micro-blogging-versus.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/26/google-releases-a.html",
-	      	
-			"content_html": "<p>Google releases a new Tasks app. It is a pretty barebones list making app that at least supports sub tasks. Unfortunately the iOS version is only for the iPhone and looks awful on the iPad, even the iPad Mini.</p>\n",
-			"date_published": "2018-04-25T20:05:09-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/25/google-releases-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/25/gmail-versus-inbox.html",
-	      	
-			"title": "Gmail versus Inbox",
-			
-			"content_html": "<p>Google has released the new version of Gmail, which I am checking out. I have been using, and like, Inbox mostly because how quickly I can use it to triage email. By triage I mean browse for messages I want to read and then quickly archiving all the remaining messages. No other app, including Gmail provides as easy a way to archive a group of messages.</p>\n\n<p>The downside of Inbox is that it is very JavaScript heavy and therefore the web app performance can suffer. Another downside is that the app versions don’t look as good on larger screens such as on my 10.5 iPad Pro in landscape.</p>\n\n<p>So, I am considering using Gmail on large screens and Inbox on small screens. However to decide that, I need to use the new Gmail for a while.</p>\n",
-			"date_published": "2018-04-25T12:49:47-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/25/gmail-versus-inbox.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/04/25/did-a-little.html",
-	      	
-			"content_html": "<p>Did a little more investigation into <a href=\"https://frankmcpherson.blog/2018/04/22/i-got-a.html\">the watch face that Fossil “pushed” to my smart watch last weekend</a>. What happens is, you receive a notification saying that you “unlocked” a face and whether you want to enable it. What I have found is that amongst the many faces that are pre-installed on the watch is one called Seasonal, and this is the face that Fossil pushes updates to. Consequently, Fossil is not consuming additional storage space on the watch with each “new face” as it is updating one face that is designed for different appearances, which in reality is how all faces work.</p>\n\n<p>I am wondering whether there is a Wear OS app that will automatically change watch faces I specify on a set schedule. I would like to rotate through some like the Outlook face that I like to use during the work day.</p>\n",
-			"date_published": "2018-04-25T09:27:04-04:00",
-			"url": "https://frankmcpherson.blog/2018/04/25/did-a-little.html"
 		}
 		
 	]
