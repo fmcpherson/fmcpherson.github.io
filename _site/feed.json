@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/30/today-i-read.html",
+	      	
+			"content_html": "<p>Today I read <a href=\"https://www.macstories.net/reviews/agenda-for-ios-review/\">a review</a> about an app called <a href=\"https://agenda.com/\">Agenda</a> that shared a name with a Personal Information Manager (PIM) that I liked back in the day called <a href=\"https://en.m.wikipedia.org/wiki/Lotus_Agenda\">Lotus Agenda</a>.</p>\n",
+			"date_published": "2018-05-29T22:12:51-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/29/today-i-read.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/30/ipadlightening-digital-av.html",
 	      	
 			"content_html": "<p>IPad+Lightening Digital AV adapter+HDMI cable+MLB At Bat app = watching the Cubs on the hotel room TV.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>The Cubs <a href=\"https://www.mlbtraderumors.com/2018/05/cubs-place-yu-darvish-on-10-day-dl.html\">put Yu Darvish on the 10-day DL</a> for the flu?!</p>\n",
 			"date_published": "2018-05-07T20:20:52-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/07/the-cubs-put.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/07/i-used-some.html",
-	      	
-			"content_html": "<p>I used some credit card reward to discount the cost of the Pad &amp; Quill case for th iPad Pro 10.5 that <a href=\"http://frankmcpherson.blog/2018/05/03/does-anyone-have.html\">I wrote about earlier</a>. The case arrived today and it is beautiful and provides plenty of protection but also adds bulk. It is going to take time for the leather to break in, so the race is between the breakin of the leather or me.</p>\n",
-			"date_published": "2018-05-07T17:30:05-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/07/i-used-some.html"
 		}
 		
 	]
