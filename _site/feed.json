@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/30/right-now-it.html",
+	      	
+			"content_html": "<p>Right now it takes way too much work for me to share pictures on micro.blog because I use an Android phone. I take the picture using my phone, which is stored in Google Photos, then open the picture on my iPad, download it, then open the micro.blog app and add the picture to a post like this one.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/ed77d36315.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-29T22:44:58-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/29/right-now-it.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/30/today-i-read.html",
 	      	
 			"content_html": "<p>Today I read <a href=\"https://www.macstories.net/reviews/agenda-for-ios-review/\">a review</a> about an app called <a href=\"https://agenda.com/\">Agenda</a> that shared a name with a Personal Information Manager (PIM) that I liked back in the day called <a href=\"https://en.m.wikipedia.org/wiki/Lotus_Agenda\">Lotus Agenda</a>.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://www.detroitnews.com/story/sports/columnists/bob-wojnowski/2018/05/07/wojo-detroit-pga-tour-quicken-loans/34670853/\">Wojo: PGA Tour’s first stop in Detroit is another ace in city’s revival</a>. It’s a bit hard to imagine, but great news for Detroit, none the less.</p>\n",
 			"date_published": "2018-05-07T21:58:12-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/07/wojo-pga-tours.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/08/the-cubs-put.html",
-	      	
-			"content_html": "<p>The Cubs <a href=\"https://www.mlbtraderumors.com/2018/05/cubs-place-yu-darvish-on-10-day-dl.html\">put Yu Darvish on the 10-day DL</a> for the flu?!</p>\n",
-			"date_published": "2018-05-07T20:20:52-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/07/the-cubs-put.html"
 		}
 		
 	]
