@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/05/30/173626.html",
+	      	
+			"content_html": "<p>I think the root of <a href=\"https://the-narthex.org/2018/05/30/the-importance-of-god-theology/\">bad theology </a> is the focus on the problem, sin, rather than on how things are supposed to be, oneness. If sin is separation from God, then racism is really the modern label for original sin. We are all connected and we are meant to see ourselves as connected to each other and God.</p>\n",
+			"date_published": "2018-05-30T13:36:26-04:00",
+			"url": "https://frankmcpherson.blog/2018/05/30/173626.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/05/30/right-now-it.html",
 	      	
 			"content_html": "<p>Right now it takes way too much work for me to share pictures on micro.blog because I use an Android phone. I take the picture using my phone, which is stored in Google Photos, then open the picture on my iPad, download it, then open the micro.blog app and add the picture to a post like this one.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/ed77d36315.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>One thing I find frustrating about iOS are the number of apps that all seem to do the exact same thing. How do you decide on one over the other? An example is Drafts and Ulysses, both are good markdown editors but Drafts supports more automation. Last summer I was looking for a new editor and Ulysses came highly recommended, so I bought it, but then the company switched to a subscription model and that turned me off, I decided to not buy in to the subscription.</p>\n\n<p>Then I learned about Drafts, and so I went and downloaded it and have used it to write some blog posts. To date I have mostly used it to write long posts for <a href=\"http://writing.frankmcpherson.org\">one site</a> that only has a “basic” web-based editor. Of course, Drafts has now been recently upgraded and it too has a subscription model.</p>\n\n<p>To me, it doesn’t make sense to have Ulysses and Drafts on my iPad, Drafts seems to able to do the job good enough. However, so far I have not seen an Action for sending text to Wordpress, which I find a bit surprising. Does anyone know of such an Action? The one in the Drafts directory appears to require components not part of Wordpress.com.</p>\n",
 			"date_published": "2018-05-08T10:54:05-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/08/drafts-or-ulysses.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/08/wojo-pga-tours.html",
-	      	
-			"content_html": "<p><a href=\"https://www.detroitnews.com/story/sports/columnists/bob-wojnowski/2018/05/07/wojo-detroit-pga-tour-quicken-loans/34670853/\">Wojo: PGA Tour’s first stop in Detroit is another ace in city’s revival</a>. It’s a bit hard to imagine, but great news for Detroit, none the less.</p>\n",
-			"date_published": "2018-05-07T21:58:12-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/07/wojo-pga-tours.html"
 		}
 		
 	]
