@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/02/i-find-really.html",
+	      	
+			"content_html": "<p>I find really frustrating how inconsistent sharing works across apps with iOS. Try sharing a web page to Drafts or micro.blog and you end up with different results. Why?</p>\n",
+			"date_published": "2018-06-02T12:38:54-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/02/i-find-really.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/02/ohmypizzacom-the-ipad.html",
+	      	
+			"content_html": "<p><a href=\"http://ohmypizza.com/2018/06/ipad-needs-to-grow-up.php\">ohmypizza.com: The iPad Needs To Grow Up</a></p>\n\n<p>My one request of Apple is to add mouse support to the iPad. Apple can look at how Windows and Android handle mouse support on touchscreens, it can’t be that hard.</p>\n",
+			"date_published": "2018-06-02T12:37:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/02/ohmypizzacom-the-ipad.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/01/back-at-one.html",
 	      	
 			"content_html": "<p>Back at one of my favorite places.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d9248bf21e.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>My Fossil Q Explorist now talks.</p>\n",
 			"date_published": "2018-05-13T12:54:51-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/13/my-fossil-q.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/10/a-credit-card.html",
-	      	
-			"content_html": "<p>A credit card company <a href=\"https://www.theverge.com/2018/3/6/17071478/spam-calls-how-to-stop-block-robocalls-robots-scam-iphone-android\">robot keeps calling my smart phone</a> and neither Google nor <a href=\"https://play.google.com/store/apps/details?id=com.nomorobo&amp;hl=en_US\">Nomorobo</a> is able to catch it because each call is from a different number and often local. Right now, if caller ID doesn’t show something I recognize, I don’t answer the phone.</p>\n\n<p>I personally think we need to outlaw phone calling robots, before <a href=\"https://www.theverge.com/2018/5/9/17335710/google-duplex-phone-call-ai-assistant-service-industry\">Google Duplex</a> gets entrenched.</p>\n",
-			"date_published": "2018-05-10T12:03:45-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/10/a-credit-card.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/09/google-lens-actually.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theverge.com/2018/5/8/17333154/googe-lens-ai-ar-live-demo-hands-on-io-2018\">Google Lens actually shows how AI can make life easier - The Verge</a></p>\n\n<p>I just would like Lens to tell me what type of bird I took a picture of in Bermuda.</p>\n",
-			"date_published": "2018-05-08T21:33:46-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/08/google-lens-actually.html"
 		}
 		
 	]
