@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/04/gradually-the-sun.html",
+	      	
+			"content_html": "<p>Gradually, the sun sets</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/efffcef8e9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-03T22:11:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/03/gradually-the-sun.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/04/that-feeling-the.html",
+	      	
+			"content_html": "<p>That feeling the last night of vacation.</p>\n",
+			"date_published": "2018-06-03T22:07:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/03/that-feeling-the.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/02/i-find-really.html",
 	      	
 			"content_html": "<p>I find really frustrating how inconsistent sharing works across apps with iOS. Try sharing a web page to Drafts or micro.blog and you end up with different results. Why?</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>Is there a way to disable iOS predictive text when using an external keyboard?</p>\n",
 			"date_published": "2018-05-14T09:05:47-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/14/130547.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/13/chrome-os-forthcoming.html",
-	      	
-			"content_html": "<p>Chrome OS’ forthcoming <a href=\"https://www.xda-developers.com/linux-apps-chrome-os-overview-crostini/\">ability to run Linux apps</a> appears to me to mostly be something Google did so that their engineers could actually use the Pixelbook. Once that feature is seen in the code you might as well let the broad developer community in on the fun.</p>\n\n<p>The question is whether regular users will benefit from this feature. Most likely not if nothing more than the actual number of Linux apps a “regular user” might find useful are limited. Right now I can only think one app I will want to run in such a container and that is <a href=\"https://standardnotes.org\">Standard Notes</a>.</p>\n",
-			"date_published": "2018-05-13T13:05:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/13/chrome-os-forthcoming.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/13/my-fossil-q.html",
-	      	
-			"content_html": "<p>My Fossil Q Explorist now talks.</p>\n",
-			"date_published": "2018-05-13T12:54:51-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/13/my-fossil-q.html"
 		}
 		
 	]
