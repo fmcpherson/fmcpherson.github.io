@@ -4,8 +4,48 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Mon, 04 Jun 2018 14:32:46 -0400</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 14:32:46 -0400</lastBuildDate>
+    <pubDate>Thu, 07 Jun 2018 10:36:02 -0400</pubDate>
+    <lastBuildDate>Thu, 07 Jun 2018 10:36:02 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I like Drafts, but I think the concept behind it is nonsensical. The idea of Drafts is that you use it to write and edit any text that you can then send to other apps, which also have the capability to write and edit text. So, you see “actions” in Drafts for entering tasks in apps like OmniFocus and Todoist, but why is that easier than just entering information in Microblog, OmniFocus and Todoist? It seems to me that people who use iOS for productivity are so enamored by the workflows they have created they don’t seem to realize the workflows are basically workarounds for deficiencies that existed in previous versions of iOS.&lt;/p&gt;
+
+&lt;p&gt;I am finding the number of iOS apps that basically do the same thing insane! Really, how many markdown editors are needed?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jun 2018 10:33:00 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/07/i-like-drafts.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/07/i-like-drafts.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I haven’t seen much written about this, but &lt;a href=&quot;https://developer.apple.com/videos/play/wwdc2018/211/&quot;&gt;it looks to me like Siri Shortcuts is the new Workflow&lt;/a&gt;. Will Workflow as we now know it go away to be replaced by the Siri Shortcuts app? It’s ironic that Apple aquired an app, Workflow, to make another app it aquired, Siri, more useful.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 16:20:25 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/06/i-havent-seen.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/06/i-havent-seen.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://realpersonalcomputing.com/2018/06/06/the-pad-quill-ipad-pro-105-oxford-case/&quot;&gt;The Pad and Quill iPad Pro 10.5 Oxford Case&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve written and published my first blog post with images entirely on my iPad.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 13:27:54 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/06/the-pad-quill.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/06/the-pad-quill.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I want iOS Do Not Disturb while I am using the Kindle app. I should be able to create this capability using Workflow, but Apple doesn’t let third party apps tinker with such settings.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 12:50:08 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/06/i-want-ios.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/06/i-want-ios.html</guid>
+      </item>
     
       <item>
       	
@@ -474,46 +514,6 @@
         <pubDate>Mon, 23 Apr 2018 20:44:01 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/04/23/do-any-of.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/04/24/do-any-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Really disappointing that we still cannot edit posts in the micro.blog app.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Apr 2018 20:33:15 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/04/23/really-disappointing-that.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/24/really-disappointing-that.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/national/health-science/youve-been-given-a-terrible-diagnosis-heres-how-assess-your-survival-odds/2018/04/20/f46f14be-3699-11e8-8fd2-49fe3c675a89_story.html&quot;&gt;Washington Post: how to assess your survival odds&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Don’t expect stats to predict your future. And most important, live your life to the max.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Mon, 23 Apr 2018 17:58:04 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/04/23/washington-post-how.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/23/washington-post-how.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;So, &lt;a href=&quot;https://www.recode.net/2018/4/20/17264274/flickr-smugmug-yahoo-oath-verizon-deal-photo-sharing-service-mobile-instagram&quot;&gt;Flickr has been acquired by SmugMug&lt;/a&gt;. Pondering whether I want to keep my pics in Flicker and let them go along for the ride to SmugMug, or cut ties and only use Google Photos.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Apr 2018 14:10:04 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/04/23/so-flickr-has.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/23/so-flickr-has.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;People suggesting that Trump did something wrong by not attending the funeral for Barbara Bush might stop to consider whether he was invited by the Bushes.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 22 Apr 2018 15:41:08 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/04/22/people-suggesting-that.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/22/people-suggesting-that.html</guid>
       </item>
     
   </channel>
