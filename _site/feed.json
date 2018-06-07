@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/07/i-like-drafts.html",
+	      	
+			"content_html": "<p>I like Drafts, but I think the concept behind it is nonsensical. The idea of Drafts is that you use it to write and edit any text that you can then send to other apps, which also have the capability to write and edit text. So, you see “actions” in Drafts for entering tasks in apps like OmniFocus and Todoist, but why is that easier than just entering information in Microblog, OmniFocus and Todoist? It seems to me that people who use iOS for productivity are so enamored by the workflows they have created they don’t seem to realize the workflows are basically workarounds for deficiencies that existed in previous versions of iOS.</p>\n\n<p>I am finding the number of iOS apps that basically do the same thing insane! Really, how many markdown editors are needed?</p>\n",
+			"date_published": "2018-06-07T10:33:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/07/i-like-drafts.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/06/i-havent-seen.html",
+	      	
+			"content_html": "<p>I haven’t seen much written about this, but <a href=\"https://developer.apple.com/videos/play/wwdc2018/211/\">it looks to me like Siri Shortcuts is the new Workflow</a>. Will Workflow as we now know it go away to be replaced by the Siri Shortcuts app? It’s ironic that Apple aquired an app, Workflow, to make another app it aquired, Siri, more useful.</p>\n",
+			"date_published": "2018-06-06T16:20:25-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/06/i-havent-seen.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/06/the-pad-quill.html",
+	      	
+			"content_html": "<p><a href=\"https://realpersonalcomputing.com/2018/06/06/the-pad-quill-ipad-pro-105-oxford-case/\">The Pad and Quill iPad Pro 10.5 Oxford Case</a></p>\n\n<p>I’ve written and published my first blog post with images entirely on my iPad.</p>\n",
+			"date_published": "2018-06-06T13:27:54-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/06/the-pad-quill.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/06/i-want-ios.html",
+	      	
+			"content_html": "<p>I want iOS Do Not Disturb while I am using the Kindle app. I should be able to create this capability using Workflow, but Apple doesn’t let third party apps tinker with such settings.</p>\n",
+			"date_published": "2018-06-06T12:50:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/06/i-want-ios.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/04/it-appears-as.html",
 	      	
 			"content_html": "<p>It appears as though everyone that I follow is at WWDC</p>\n",
@@ -173,38 +205,6 @@
 			"content_html": "<p>The best thing about micro.blog is that it’s just people. When you browse through Discover, you are discovering people.</p>\n",
 			"date_published": "2018-05-19T10:09:44-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/19/the-best-thing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/18/it-seems-to.html",
-	      	
-			"content_html": "<p>It seems to me that the majority of school shootings have occurred at public schools. Am I wrong?</p>\n",
-			"date_published": "2018-05-18T14:53:38-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/18/it-seems-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/18/because-i-am.html",
-	      	
-			"content_html": "<p>Because I am an introvert, emotionally-charged meetings, even if I am not the target of the emotion, is very draining. Today was one of those days, being remedied by guacamole and a <a href=\"https://foundersbrewing.com/our-beer/dankwood/\">Dankwood</a>.</p>\n",
-			"date_published": "2018-05-17T20:11:11-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/17/because-i-am.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/17/235652.html",
-	      	
-			"content_html": "<p>One of the most surprising things I’ve learned about myself during the last three years is that I like guacamole.</p>\n",
-			"date_published": "2018-05-17T19:56:52-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/17/235652.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/17/the-cubs-lost.html",
-	      	
-			"content_html": "<p>The Cubs lost another game to the Braves. The Braves look for real.</p>\n",
-			"date_published": "2018-05-16T22:31:22-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/16/the-cubs-lost.html"
 		}
 		
 	]
