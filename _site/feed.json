@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/08/i-wish-there.html",
+	      	
+			"content_html": "<p>I wish there was such a thing as insertion point actions on my personal devices, here is what I mean. If I am adding a task in <a href=\"https://noteplan.co/\">Noteplan</a> on my iPad to call a friend, it would be really cool to just tap and hold, to get an Actions menu, from which I see an option that says “Add link to a contact.”  A link would be pasted at the current location of the cursor.</p>\n",
+			"date_published": "2018-06-08T11:10:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/08/i-wish-there.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/07/project-oasis-looks.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theverge.com/circuitbreaker/2018/6/5/17429662/google-project-oasis-terrarium-weather-conditions\">Project Oasis</a> looks cool. Thinking about trying it out.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>From the flowering tree in our back yard.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/c72bc366bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-21T20:59:08-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/21/from-the-flowering.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/19/for-the-last.html",
-	      	
-			"content_html": "<p>For the last couple of weeks I have been using <a href=\"https://noteplan.co/\">NotePlan</a>, and I think what I like most about it is that you end up with a daily log of what you did. <a href=\"http://www.foldingtext.com/\">FoldingText</a> looks like a similarly useful tool, but not available on iOS, but I like outliners. The feature I want in an outliner is simple linking both with an outline file and to external items.</p>\n",
-			"date_published": "2018-05-19T10:25:01-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/19/for-the-last.html"
 		}
 		
 	]
