@@ -4,8 +4,17 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 08 Jun 2018 11:10:31 -0400</pubDate>
-    <lastBuildDate>Fri, 08 Jun 2018 11:10:31 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Jun 2018 10:37:41 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Jun 2018 10:37:41 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It strikes me that &lt;a href=&quot;https://mondaynote.com/ios-macos-what-no-actually-means-90b9fb2c46c7&quot;&gt;Apple’s plans for running iOS apps on MacOS&lt;/a&gt; looks very similar to Google’s running Android apps on ChromeOS. &lt;a href=&quot;https://developer.android.com/topic/arc/input-compatibility&quot;&gt;Google is providing for mouse support in Android apps&lt;/a&gt;, which makes me wonder why Apple couldn’t add mouse support to iOS on iPads? There isn’t sa technical reason, I suspect it’s all about preserving Macs, assuming lack of mouse support in iOS is strong impediment to using iOS for productivity work.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jun 2018 10:37:33 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/11/it-strikes-me.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/11/it-strikes-me.html</guid>
+      </item>
     
       <item>
       	
@@ -505,15 +514,6 @@
         <pubDate>Wed, 25 Apr 2018 09:27:04 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/04/25/did-a-little.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/04/25/did-a-little.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I use a simple process for telling whether my computer is working too hard, I listen for the fan. By this simple measure I determined that Chrome was just killing my computer and checking Process Explorer I did see high CPU utilization. I switched to Firefox as my primary browser and so far the fan has been quiet and the browser more responsive.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Apr 2018 09:16:39 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/04/25/i-use-a.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/25/i-use-a.html</guid>
       </item>
     
   </channel>
