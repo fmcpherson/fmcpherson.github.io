@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/13/the-overthrow-will.html",
+	      	
+			"title": "The Overthrow Will Not Be By Force.",
+			
+			"content_html": "<p>Too many people in the United States think our government will be overthrown by force when the reality is it is happening in just the opposite manner. The strong arguments against gun control in the U.S. is evidence of this, as the argument centers around needing to keep guns as protection against government oppression. The powers that be don’t need to take guns away, they just need us to keep arguing about them, which fossilizes idealogy and keeps attention away from what is really happening.</p>\n\n<p>The constitution enables authoritarianism when Congress and the Supreme Court do not function in their jobs as overseers of the Presidency. When Congress and the Supreme Court simply align with a president due to party affliation, you have a dictator in practice.</p>\n\n<p>Today the process nearly complete, and gerrymandering will seal the deal. Gerrymandering removes the one power citizens have, which is to vote. You don’t need to burn down the flag nor rip up the Constitution, all that is needed is idealogical compliance to what the Presidency wants.</p>\n",
+			"date_published": "2018-06-13T11:01:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/13/the-overthrow-will.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/12/wwwcomputerworldcom-also-takes.html",
+	      	
+			"content_html": "<p><a href=\"https://www.computerworld.com/article/3278560/mobile-apps/ios-apps-on-mac.html\">www.computerworld.com</a> also takes note of the similarities, and differences, between Apple and Google’s approach to mobile and desktop convergence.</p>\n",
+			"date_published": "2018-06-11T22:06:10-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/11/wwwcomputerworldcom-also-takes.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/11/it-strikes-me.html",
 	      	
 			"content_html": "<p>It strikes me that <a href=\"https://mondaynote.com/ios-macos-what-no-actually-means-90b9fb2c46c7\">Apple’s plans for running iOS apps on MacOS</a> looks very similar to Google’s running Android apps on ChromeOS. <a href=\"https://developer.android.com/topic/arc/input-compatibility\">Google is providing for mouse support in Android apps</a>, which makes me wonder why Apple couldn’t add mouse support to iOS on iPads? There isn’t sa technical reason, I suspect it’s all about preserving Macs, assuming lack of mouse support in iOS is strong impediment to using iOS for productivity work.</p>\n",
@@ -189,22 +207,6 @@
 			"content_html": "<p>I would like a Firefox extension that takes grabs the title of a web page and the URL of that web page, puts that into a Markdown link format and stores to the clipboard for pasting into the micro.blog web input box. In the past I have used applets for linking to web pages in my blog posts.</p>\n",
 			"date_published": "2018-05-24T09:47:03-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/24/i-would-like.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/24/acer-debuts-four.html",
-	      	
-			"content_html": "<p><a href=\"https://chromeunboxed.com/news/acer-launches-four-chromebooks-kaby-lake-spin\">Acer Debuts Four New Chromebooks</a></p>\n\n<p>I am thinking if Chromebook manufacturers expect people to be using Linux apps, wouldn’t they provide storage options greater than 64 GB? I find the news about Linux support on Chromebooks intriguing enough for me to consider purchasing a new one once the feature is widely available.</p>\n",
-			"date_published": "2018-05-24T09:44:31-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/24/acer-debuts-four.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/24/trump-on-nfl.html",
-	      	
-			"content_html": "<p><a href=\"https://sports.yahoo.com/trump-nfl-protesters-maybe-shouldnt-country-114402328.html\">Trump on NFL protesters: ‘Maybe you shouldn’t be in the country’</a></p>\n\n<p>In a democracy the leader does not dictate behavior, that is called dictatorship. The fact that Trump does not get the fundamentals of democracy is scary, and the fact that we elected such a person President is very disappointing. The fact that so many people do not see this as an issue is frightening, and a sign that our democracy may already be lost.</p>\n",
-			"date_published": "2018-05-24T09:27:43-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/24/trump-on-nfl.html"
 		}
 		
 	]
