@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/15/140221.html",
+	      	
+			"content_html": "<p>It is really disappointing that Apple removed all handwriting recognition keyboards for iOS. I would really like to be able to use the Apple Pencil in all of apps, which I should be able to at least do with a HWR keyboard. It looks like MyScript Stack and Stylus were all removed from the store.</p>\n",
+			"date_published": "2018-06-15T10:02:21-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/15/140221.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/13/the-overthrow-will.html",
 	      	
 			"title": "The Overthrow Will Not Be By Force.",
@@ -199,14 +207,6 @@
 			"content_html": "<p>My first criteria for staying at a hotel is a comfortable bed. My second is a restaurant or bar in or near the hotel.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8d3cc0083c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-28T11:25:25-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/28/my-first-criteria.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/24/i-would-like.html",
-	      	
-			"content_html": "<p>I would like a Firefox extension that takes grabs the title of a web page and the URL of that web page, puts that into a Markdown link format and stores to the clipboard for pasting into the micro.blog web input box. In the past I have used applets for linking to web pages in my blog posts.</p>\n",
-			"date_published": "2018-05-24T09:47:03-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/24/i-would-like.html"
 		}
 		
 	]
