@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/16/195922.html",
+	      	
+			"content_html": "<p>I think I know what happened. With previous posts I published from Ulysses I did not enable markdown in the publishing dialog and therefore the publisher converted the markdown to HTML so it appeared correct in Wordpress. In the previous post I enabled markdown, and since Wordpress was not configured to use markdown it did not render properly. So, to have enabled markdown in the writing settings of the WP-Admin console, which fixed the problem.</p>\n\n<p>In other words…. operator error! :)</p>\n",
+			"date_published": "2018-06-16T15:59:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/16/195922.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/16/i-just-published.html",
+	      	
+			"content_html": "<p>I just published <a href=\"https://the-narthex.org/2018/06/16/daryl-madden-unlearn/\">a post on one of my Wordpress blogs</a> using Ulysses for iOS, which I have used to publish before, and for some reason the markdown for hyperlinks was not properly recognized. Does anyone know if something has changed with Wordpress?</p>\n",
+			"date_published": "2018-06-16T15:37:11-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/16/i-just-published.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/15/140221.html",
 	      	
 			"content_html": "<p>It is really disappointing that Apple removed all handwriting recognition keyboards for iOS. I would really like to be able to use the Apple Pencil in all of apps, which I should be able to at least do with a HWR keyboard. It looks like MyScript Stack and Stylus were all removed from the store.</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>“This is ultimately the most important distinction between platforms and aggregators: platforms are powerful because they facilitate a relationship between 3rd-party suppliers and end users; aggregators, on the other hand, intermediate and control it.”</p>\n\n<p><a href=\"https://stratechery.com/2018/the-bill-gates-line/\">The Bill Gates Line</a></p>\n\n<p>Do all platforms ultimately end up being commoditized? I see companies like Google and Facebook striving to not be like the personal computer or Windows, so I suspect they choose to be aggregators to protect themselves.</p>\n",
 			"date_published": "2018-05-29T11:29:12-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/29/this-is-ultimately.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/29/grcom-review-of.html",
-	      	
-			"content_html": "<p><a href=\"https://gr36.com/2017-01-19-bear-app-review/\">gr36.com Review of Bear</a></p>\n\n<p>I am surprised that few, if any, reviews of notes apps like Bear don’t address security.  Can you encrypt the content you put in the app? How easy is that encryption? Can you encrypt entire notes? Notebooks? Or just snippets of text? And who holds the keys?</p>\n",
-			"date_published": "2018-05-29T11:18:59-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/29/grcom-review-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/28/my-first-criteria.html",
-	      	
-			"content_html": "<p>My first criteria for staying at a hotel is a comfortable bed. My second is a restaurant or bar in or near the hotel.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8d3cc0083c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-28T11:25:25-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/28/my-first-criteria.html"
 		}
 		
 	]
