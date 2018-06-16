@@ -4,8 +4,28 @@
     <title>Frank McPherson</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 15 Jun 2018 10:02:24 -0400</pubDate>
-    <lastBuildDate>Fri, 15 Jun 2018 10:02:24 -0400</lastBuildDate>
+    <pubDate>Sat, 16 Jun 2018 15:59:47 -0400</pubDate>
+    <lastBuildDate>Sat, 16 Jun 2018 15:59:47 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I think I know what happened. With previous posts I published from Ulysses I did not enable markdown in the publishing dialog and therefore the publisher converted the markdown to HTML so it appeared correct in Wordpress. In the previous post I enabled markdown, and since Wordpress was not configured to use markdown it did not render properly. So, to have enabled markdown in the writing settings of the WP-Admin console, which fixed the problem.&lt;/p&gt;
+
+&lt;p&gt;In other words…. operator error! :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jun 2018 15:59:22 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/16/195922.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/16/195922.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I just published &lt;a href=&quot;https://the-narthex.org/2018/06/16/daryl-madden-unlearn/&quot;&gt;a post on one of my Wordpress blogs&lt;/a&gt; using Ulysses for iOS, which I have used to publish before, and for some reason the markdown for hyperlinks was not properly recognized. Does anyone know if something has changed with Wordpress?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jun 2018 15:37:11 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/16/i-just-published.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/16/i-just-published.html</guid>
+      </item>
     
       <item>
       	
@@ -487,31 +507,6 @@
         <pubDate>Thu, 03 May 2018 16:17:39 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/05/03/does-anyone-have.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/05/03/does-anyone-have.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;[flip.it/996yWZ](http://flip.it/996yWZ)
-[flip.it/996yWZ](http://flip.it/996yWZ)&quot;&gt;Rick Dickinson, designer of Sinclair home computers, dies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;My first computer was the Timex Sinclair, which my grandmother bought for me when I was a junior in high school. It was important because provided access to a computer at an affordable price.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Apr 2018 16:06:31 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/04/28/rick-dickinson-designer.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/28/rick-dickinson-designer.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Micro Blogging versus Social Networks</title>
-        
-        <description>&lt;p&gt;You might think it too fine a point, but I think any blogging product requires the ability to edit what one has written. To me, editing is a fundamental difference between blogging and social networks because blogging is about permanence where as the social network timeline/newsfeed is a black hole.&lt;/p&gt;
-
-&lt;p&gt;To me, what makes micro blogging different from social networks like Twitter is the permance I describe above, and therefore editing should be a fundamental requirement for all micro blogging apps.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Apr 2018 09:59:34 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/04/26/micro-blogging-versus.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/04/26/micro-blogging-versus.html</guid>
       </item>
     
   </channel>
