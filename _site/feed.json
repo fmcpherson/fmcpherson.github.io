@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/21/greatness-is-neither.html",
+	      	
+			"content_html": "<p>Greatness is neither self determined nor self declared.</p>\n",
+			"date_published": "2018-06-21T10:36:13-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/21/greatness-is-neither.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/20/ive-got-android.html",
 	      	
 			"content_html": "<p>I’ve got Android Messages for Web enabled and I found that it does work with Chrome on iOS, however I haven’t received notifications for new in-bound messages on iOS. You can also set up Messages for Web with multiple computers but only one can be active at a time. I have to admit, this seems to work pretty well and helps me get past a limitation with Pushbullet on iOS.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>The biggest ethical topic of our time might be that just because we <strong>can</strong> do something <strong>doesn’t mean we should do it.</strong></p>\n",
 			"date_published": "2018-05-30T22:47:16-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/30/the-biggest-ethical.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/30/173626.html",
-	      	
-			"content_html": "<p>I think the root of <a href=\"https://the-narthex.org/2018/05/30/the-importance-of-god-theology/\">bad theology </a> is the focus on the problem, sin, rather than on how things are supposed to be, oneness. If sin is separation from God, then racism is really the modern label for original sin. We are all connected and we are meant to see ourselves as connected to each other and God.</p>\n",
-			"date_published": "2018-05-30T13:36:26-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/30/173626.html"
 		}
 		
 	]
