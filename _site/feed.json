@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/20/ive-got-android.html",
+	      	
+			"content_html": "<p>I’ve got Android Messages for Web enabled and I found that it does work with Chrome on iOS, however I haven’t received notifications for new in-bound messages on iOS. You can also set up Messages for Web with multiple computers but only one can be active at a time. I have to admit, this seems to work pretty well and helps me get past a limitation with Pushbullet on iOS.</p>\n",
+			"date_published": "2018-06-20T17:53:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/20/ive-got-android.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/20/if-we-cant.html",
 	      	
 			"content_html": "<p>If we can’t agree that there are things humans should not do to other humans, particularly to those who are vulnerable, then we have a problem and that is being exposed in the United States’ <a href=\"https://slate.com/news-and-politics/2018/06/how-the-trump-administration-is-defending-its-indefensible-child-separation-policy.html\">current practice of separating children from families</a>. From the time that Trump seriously started running for president we have seen a widening gulf between those who care about what we do to one another and those who do not.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I think the root of <a href=\"https://the-narthex.org/2018/05/30/the-importance-of-god-theology/\">bad theology </a> is the focus on the problem, sin, rather than on how things are supposed to be, oneness. If sin is separation from God, then racism is really the modern label for original sin. We are all connected and we are meant to see ourselves as connected to each other and God.</p>\n",
 			"date_published": "2018-05-30T13:36:26-04:00",
 			"url": "https://frankmcpherson.blog/2018/05/30/173626.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/30/right-now-it.html",
-	      	
-			"content_html": "<p>Right now it takes way too much work for me to share pictures on micro.blog because I use an Android phone. I take the picture using my phone, which is stored in Google Photos, then open the picture on my iPad, download it, then open the micro.blog app and add the picture to a post like this one.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/ed77d36315.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-29T22:44:58-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/29/right-now-it.html"
 		}
 		
 	]
