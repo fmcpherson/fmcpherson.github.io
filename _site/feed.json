@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/06/24/do-you-think.html",
+	      	
+			"content_html": "<p>Do you think of micro.blog as a blog or an alternative to Twitter?</p>\n",
+			"date_published": "2018-06-24T15:07:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/24/do-you-think.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/21/greatness-is-neither.html",
 	      	
 			"content_html": "<p>Greatness is neither self determined nor self declared.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Back at one of my favorite places.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d9248bf21e.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-01T17:22:59-04:00",
 			"url": "https://frankmcpherson.blog/2018/06/01/back-at-one.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/05/31/the-biggest-ethical.html",
-	      	
-			"content_html": "<p>The biggest ethical topic of our time might be that just because we <strong>can</strong> do something <strong>doesn’t mean we should do it.</strong></p>\n",
-			"date_published": "2018-05-30T22:47:16-04:00",
-			"url": "https://frankmcpherson.blog/2018/05/30/the-biggest-ethical.html"
 		}
 		
 	]
