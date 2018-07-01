@@ -12,7 +12,7 @@ I blog to share a thought or something of interest to me, I write to formulate a
 
 When I set up my micro.blog account and associated a personal blog domain to it, I decided that I would use my then current blog, [Let's Be Frank](http://writing.frankmcpherson.org), for long form writing. The "broad" push to HTTPS is going to make that a problem because that blog is managed using an app written by Dave Winer called [1999.io](http://1999.io), and it has a lot of Javascript libraries that I don't think he is every going to convert to HTTPS. 
 
-So, stay there and maybe figure out how to convert to HTTPS or look somewhere else? I recently [learned about Netlify from Jack Baty](https://www.netlify.com/pricing/) and after checking out its web site, I determined it has much of what I was looking for: [low price](https://www.netlify.com/pricing/), easy HTTPS implementation, and flexibility. 
+So, stay there and maybe figure out how to convert to HTTPS or look somewhere else? I recently [learned about Netlify from Jack Baty](https://www.baty.net/2018/back-to-netlify/) and after checking out its web site, I determined it has much of what I was looking for: [low price](https://www.netlify.com/pricing/), easy HTTPS implementation, and flexibility. 
 
 Netlify does not provide a Content Management System, but it integrates with Github to provide continuous deployment, so you can use static site generators like Jekyll for publishing content. Since I have a little experience with Jekyll, I decided to try out Netlify by following [their Jekyll tutorial](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) and it didn't take me long to get a site up and available via HTTPS. 
 
