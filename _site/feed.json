@@ -6,6 +6,104 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/01/artshowscriptingcom-what-art.html",
+	      	
+			"content_html": "<p><a href=\"http://artshow.scripting.com/\">artshow.scripting.com</a></p>\n\n<p>What art at the link above.</p>\n",
+			"date_published": "2018-07-01T14:19:26-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/01/artshowscriptingcom-what-art.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/blogging-since.html",
+	      	
+			"title": "Blogging Since 1999",
+			
+			"content_html": "<p>I’ve <a href=\"https://writing.frankmcpherson.net/stories/2018/06/30/my-internet-writing-story.html\">ported a blog post I wrote in 2014 using Fargo to the site I am setting up</a> using Jekyll and Netlify. The post is an historical account, current at that time, of the tools I used to write and host content on the web. I’ve been blogging since 1999, which means I am approaching 20 years of blogging.</p>\n\n<p>Unfortunately, not all of my early content, almost 8 years worth, is accessible due to how that content was stored. However, there is access to the last decade worth of my writing, some of it good, most of it meh. I’ve <a href=\"https://writing.frankmcpherson.net/about/\">pointed to the sites hosting those last 7 years</a>.</p>\n",
+			"date_published": "2018-06-30T18:30:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/blogging-since.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/221927.html",
+	      	
+			"content_html": "<p>Looking back at <a href=\"http://web.archive.org/web/20021016214953/http://fmcpherson.weblogger.com/2001/09/22\">another blog post I wrote after 9/11</a>, and reflecting on the current state of the United States, I can’t help but wonder whether what is happening now is leading to a new generation of terrorists.</p>\n",
+			"date_published": "2018-06-30T18:19:27-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/221927.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/looking-back-at.html",
+	      	
+			"content_html": "<p>Looking back at <a href=\"http://web.archive.org/web/20020706073849/http://fmcpherson.weblogger.com/2001/09/15\">what I wrote 17 years ago after 9/11</a>, as bad was it was then it would be hard to imagine then how things are now.</p>\n",
+			"date_published": "2018-06-30T18:14:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/looking-back-at.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/microsoft-details-secret.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theverge.com/2018/6/29/17518582/microsoft-surface-dual-screen-andromeda-device-pocketable\">Microsoft details secret ‘pocketable’ Surface device in leaked email - The Verge</a></p>\n\n<p>What I find most intriguing about this leak is the idea of Microsoft inventing a new hardware category. Although, doesn’t a pocketable Surface device sound like a Pocket PC? I am not entirely sure I need a dual screen device, but something the size of an iPad Mini optimized for a stylus might get my money.</p>\n",
+			"date_published": "2018-06-30T15:35:37-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/microsoft-details-secret.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/finished-reading-when.html",
+	      	
+			"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062291103\">WHEN SOCIETY BECOMES AN ADDICT</a> by Anne Wilson Schaef, ISBN: 9780062291103 📚</p>\n",
+			"date_published": "2018-06-30T15:17:35-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/finished-reading-when.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/finished-reading-area.html",
+	      	
+			"content_html": "<p>Finished reading: Area 51: Redemption  by Bob Mayer</p>\n",
+			"date_published": "2018-06-30T15:05:23-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/finished-reading-area.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/185844.html",
+	      	
+			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781633199323\">If These Walls Could Talk: Detroit Red Wings</a> by Ken Daniels, ISBN: 9781633199323 📚</p>\n",
+			"date_published": "2018-06-30T14:58:44-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/185844.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/it-is-degrees.html",
+	      	
+			"content_html": "<p>It is 91 degrees out, 58% humidity, dew point 74 degrees. With the air conditioning going nearly full time, there is a ten degree difference between basement and top floor of our town house. Sitting in the basement watching a baseball game is too cold for shorts.</p>\n",
+			"date_published": "2018-06-30T14:48:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/it-is-degrees.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/well-that-was.html",
+	      	
+			"content_html": "<p>Well, that was interesting. I updated my Pi3 with the latest release of Raspbian and then decided to clone my new Jekyll repo and edit <a href=\"https://writing.frankmcpherson.net/about/\">the about page</a> on my Raspberry Pi. Just because I could. I committed and pushed the update to the repo and checked the about page on the new site, and the new edits did not appear. Went to the Netlify site, logged in, and found the deploy failed with some error relating to node. I think during deploy nodejs 8 was attempted to be installed and it failed.</p>\n\n<p>Next, I tried a fresh re-deploy and selected clear cache and this time deployment was successful.</p>\n\n<p>So, what I learned here is that it appears whenever Netlify sees and pulls an update from the repo it seems to rebuild the container/VM that is hosting the site that includes installing nodejs, installing ruby gems (Jekyll uses ruby) then does a Jekyll build and ultimately deploys the site from the site fielder.</p>\n",
+			"date_published": "2018-06-30T13:41:47-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/well-that-was.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/web-rings-are.html",
+	      	
+			"content_html": "<p><a href=\"https://xn--sr8hvo.ws/\">Web rings</a> are still a thing?</p>\n",
+			"date_published": "2018-06-30T12:09:51-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/web-rings-are.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/via-scripting-news.html",
+	      	
+			"content_html": "<p>Via <a href=\"http://scripting.com/2018/06/30.html#a140709\">Scripting News</a>: “I don’t think any person should die because they are too poor to live.”</p>\n\n<p>Sounds like a good Democrat party theme to me.</p>\n",
+			"date_published": "2018-06-30T12:03:56-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/via-scripting-news.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/06/30/long-form-writing.html",
 	      	
 			"title": "Long Form Writing and Trying Out Netlify",
@@ -109,104 +207,6 @@
 			"content_html": "<p>I just published <a href=\"https://the-narthex.org/2018/06/16/daryl-madden-unlearn/\">a post on one of my Wordpress blogs</a> using Ulysses for iOS, which I have used to publish before, and for some reason the markdown for hyperlinks was not properly recognized. Does anyone know if something has changed with Wordpress?</p>\n",
 			"date_published": "2018-06-16T15:37:11-04:00",
 			"url": "https://frankmcpherson.blog/2018/06/16/i-just-published.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/15/140221.html",
-	      	
-			"content_html": "<p>It is really disappointing that Apple removed all handwriting recognition keyboards for iOS. I would really like to be able to use the Apple Pencil in all of apps, which I should be able to at least do with a HWR keyboard. It looks like MyScript Stack and Stylus were all removed from the store.</p>\n",
-			"date_published": "2018-06-15T10:02:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/15/140221.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/13/the-overthrow-will.html",
-	      	
-			"title": "The Overthrow Will Not Be By Force.",
-			
-			"content_html": "<p>Too many people in the United States think our government will be overthrown by force when the reality is it is happening in just the opposite manner. The strong arguments against gun control in the U.S. is evidence of this, as the argument centers around needing to keep guns as protection against government oppression. The powers that be don’t need to take guns away, they just need us to keep arguing about them, which fossilizes idealogy and keeps attention away from what is really happening.</p>\n\n<p>The constitution enables authoritarianism when Congress and the Supreme Court do not function in their jobs as overseers of the Presidency. When Congress and the Supreme Court simply align with a president due to party affliation, you have a dictator in practice.</p>\n\n<p>Today the process nearly complete, and gerrymandering will seal the deal. Gerrymandering removes the one power citizens have, which is to vote. You don’t need to burn down the flag nor rip up the Constitution, all that is needed is idealogical compliance to what the Presidency wants.</p>\n",
-			"date_published": "2018-06-13T11:01:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/13/the-overthrow-will.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/12/wwwcomputerworldcom-also-takes.html",
-	      	
-			"content_html": "<p><a href=\"https://www.computerworld.com/article/3278560/mobile-apps/ios-apps-on-mac.html\">www.computerworld.com</a> also takes note of the similarities, and differences, between Apple and Google’s approach to mobile and desktop convergence.</p>\n",
-			"date_published": "2018-06-11T22:06:10-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/11/wwwcomputerworldcom-also-takes.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/11/it-strikes-me.html",
-	      	
-			"content_html": "<p>It strikes me that <a href=\"https://mondaynote.com/ios-macos-what-no-actually-means-90b9fb2c46c7\">Apple’s plans for running iOS apps on MacOS</a> looks very similar to Google’s running Android apps on ChromeOS. <a href=\"https://developer.android.com/topic/arc/input-compatibility\">Google is providing for mouse support in Android apps</a>, which makes me wonder why Apple couldn’t add mouse support to iOS on iPads? There isn’t sa technical reason, I suspect it’s all about preserving Macs, assuming lack of mouse support in iOS is strong impediment to using iOS for productivity work.</p>\n",
-			"date_published": "2018-06-11T10:37:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/11/it-strikes-me.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/08/i-wish-there.html",
-	      	
-			"content_html": "<p>I wish there was such a thing as insertion point actions on my personal devices, here is what I mean. If I am adding a task in <a href=\"https://noteplan.co/\">Noteplan</a> on my iPad to call a friend, it would be really cool to just tap and hold, to get an Actions menu, from which I see an option that says “Add link to a contact.”  A link would be pasted at the current location of the cursor.</p>\n",
-			"date_published": "2018-06-08T11:10:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/08/i-wish-there.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/07/project-oasis-looks.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theverge.com/circuitbreaker/2018/6/5/17429662/google-project-oasis-terrarium-weather-conditions\">Project Oasis</a> looks cool. Thinking about trying it out.</p>\n",
-			"date_published": "2018-06-07T18:30:23-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/07/project-oasis-looks.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/07/i-like-drafts.html",
-	      	
-			"content_html": "<p>I like Drafts, but I think the concept behind it is nonsensical. The idea of Drafts is that you use it to write and edit any text that you can then send to other apps, which also have the capability to write and edit text. So, you see “actions” in Drafts for entering tasks in apps like OmniFocus and Todoist, but why is that easier than just entering information in Microblog, OmniFocus and Todoist? It seems to me that people who use iOS for productivity are so enamored by the workflows they have created they don’t seem to realize the workflows are basically workarounds for deficiencies that existed in previous versions of iOS.</p>\n\n<p>I am finding the number of iOS apps that basically do the same thing insane! Really, how many markdown editors are needed?</p>\n",
-			"date_published": "2018-06-07T10:33:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/07/i-like-drafts.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/06/i-havent-seen.html",
-	      	
-			"content_html": "<p>I haven’t seen much written about this, but <a href=\"https://developer.apple.com/videos/play/wwdc2018/211/\">it looks to me like Siri Shortcuts is the new Workflow</a>. Will Workflow as we now know it go away to be replaced by the Siri Shortcuts app? It’s ironic that Apple aquired an app, Workflow, to make another app it aquired, Siri, more useful.</p>\n",
-			"date_published": "2018-06-06T16:20:25-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/06/i-havent-seen.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/06/the-pad-quill.html",
-	      	
-			"content_html": "<p><a href=\"https://realpersonalcomputing.com/2018/06/06/the-pad-quill-ipad-pro-105-oxford-case/\">The Pad and Quill iPad Pro 10.5 Oxford Case</a></p>\n\n<p>I’ve written and published my first blog post with images entirely on my iPad.</p>\n",
-			"date_published": "2018-06-06T13:27:54-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/06/the-pad-quill.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/06/i-want-ios.html",
-	      	
-			"content_html": "<p>I want iOS Do Not Disturb while I am using the Kindle app. I should be able to create this capability using Workflow, but Apple doesn’t let third party apps tinker with such settings.</p>\n",
-			"date_published": "2018-06-06T12:50:08-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/06/i-want-ios.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/04/it-appears-as.html",
-	      	
-			"content_html": "<p>It appears as though everyone that I follow is at WWDC</p>\n",
-			"date_published": "2018-06-04T14:32:09-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/04/it-appears-as.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/04/gradually-the-sun.html",
-	      	
-			"content_html": "<p>Gradually, the sun sets</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/efffcef8e9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-03T22:11:05-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/03/gradually-the-sun.html"
 		}
 		
 	]
