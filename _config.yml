@@ -1,13 +1,5 @@
-email: your-email@domain.com
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-sass:
-  sass_dir: assets/stylesheets
-  style: :compressed
-
-title: "Frank McPherson"
+title: "Frank McPherson's Web Notes"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/frankm\">@frankm on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/frankm\">@frankm on Micro.blog</a>."
@@ -18,11 +10,11 @@ username: "frankm"
 microblog_user: "frankm"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "Frank McPherson"
-name: "Frank McPherson"
+author: "Frank McPherson's Web Notes"
+name: "Frank McPherson's Web Notes"
 gravatar_hash: "734955df329e83c2aa3ffdfec595697d"
 avatar: "https://micro.blog/frankm/avatar.jpg"
-full_name: "Frank McPherson"
+full_name: "Frank McPherson's Web Notes"
 bio: ""
 twitter_username: "frankm"
 github_username: "fmcpherson"
