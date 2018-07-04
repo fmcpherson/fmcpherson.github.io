@@ -1,9 +1,49 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Frank McPherson",
+	"title": "Frank McPherson's Web Notes",
 	"home_page_url": "https://frankmcpherson.blog/",
 	"feed_url": "https://frankmcpherson.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/04/on-this-july.html",
+	      	
+			"content_html": "<p>On this July 4 take the time to <a href=\"http://www.ushistory.org/declaration/document/\">read the ideas</a> upon which we declared our right of Independence.</p>\n",
+			"date_published": "2018-07-04T10:44:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/04/on-this-july.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/i-am-patiently.html",
+	      	
+			"content_html": "<p>I am patiently waiting to upgrade my Mintbox to <a href=\"https://fosspost.org/reviews/distributions/linuxmint-19-review\">Mint 19</a>. Waiting on the upgrade to be pushed.</p>\n",
+			"date_published": "2018-07-03T14:07:11-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/i-am-patiently.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/what-do-you.html",
+	      	
+			"content_html": "<p>What do you think about blog archives? I personally like a index of post blog posts that I’ve written to make it easier to go back and see my writing at that time. <a href=\"http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fh44njkhogn65tpq%2FwebnotesArchive.opml%3Fdl%3D0#\">The software</a> I used in the past made it easy to see those monthly archives, but micro.blog does not. I can create an index using <a href=\"https://fjmnotes.com\">a Wordpress site</a>, but I think I would prefer something built in to micro.blog.  If I were a programmer I suspect the JSON feed would be useful.</p>\n",
+			"date_published": "2018-07-03T13:59:30-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/what-do-you.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/you-may-have.html",
+	      	
+			"content_html": "<p>You may have noticed that I made a change to the layout and appearance of this site. The new theme is similar in appearance to the theme on <a href=\"https://writing.frankmcpherson.net\">my Jekyll site</a>. I may be contrarian, but I prefer blogs that make text easier to read over blogs that emphasize graphics. (I also dislike white text on black backgrounds because that messes up my eyes.)</p>\n\n<p>One thing that I notice is that in this format the date of the post is at the top of the post, giving the appearance of a title and that makes me wish that such posts were all consolidated on to one page like <a href=\"http://webnotes.frankmcpherson.net\">previous incarnations</a> of my blog.</p>\n",
+			"date_published": "2018-07-03T13:44:38-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/you-may-have.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/after-reading-about.html",
+	      	
+			"content_html": "<p>After <a href=\"https://www.cnet.com/news/ios-12-beta-on-an-old-iphone-5s-what-happened-speed-test/\">reading about the performance improvements</a> coming with iOS 12, I’ve decided to install the beta on my iPad Mini 4.</p>\n",
+			"date_published": "2018-07-03T11:38:21-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/after-reading-about.html"
+		},
 		
 		{
 			"id": "http://frankm.micro.blog/2018/07/03/when-i-first.html",
@@ -167,46 +207,6 @@
 			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/a80a662dc8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-24T21:37:06-04:00",
 			"url": "https://frankmcpherson.blog/2018/06/24/013706.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/24/yum.html",
-	      	
-			"content_html": "<p>Yum</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d6409e8885.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-24T18:40:44-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/24/yum.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/24/do-you-think.html",
-	      	
-			"content_html": "<p>Do you think of micro.blog as a blog or an alternative to Twitter?</p>\n",
-			"date_published": "2018-06-24T15:07:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/24/do-you-think.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/21/greatness-is-neither.html",
-	      	
-			"content_html": "<p>Greatness is neither self determined nor self declared.</p>\n",
-			"date_published": "2018-06-21T10:36:13-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/21/greatness-is-neither.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/20/ive-got-android.html",
-	      	
-			"content_html": "<p>I’ve got Android Messages for Web enabled and I found that it does work with Chrome on iOS, however I haven’t received notifications for new in-bound messages on iOS. You can also set up Messages for Web with multiple computers but only one can be active at a time. I have to admit, this seems to work pretty well and helps me get past a limitation with Pushbullet on iOS.</p>\n",
-			"date_published": "2018-06-20T17:53:22-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/20/ive-got-android.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/20/if-we-cant.html",
-	      	
-			"content_html": "<p>If we can’t agree that there are things humans should not do to other humans, particularly to those who are vulnerable, then we have a problem and that is being exposed in the United States’ <a href=\"https://slate.com/news-and-politics/2018/06/how-the-trump-administration-is-defending-its-indefensible-child-separation-policy.html\">current practice of separating children from families</a>. From the time that Trump seriously started running for president we have seen a widening gulf between those who care about what we do to one another and those who do not.</p>\n",
-			"date_published": "2018-06-20T09:20:40-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/20/if-we-cant.html"
 		}
 		
 	]
