@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Frank McPherson's Web Notes</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
+    <link>https://frankmcpherson.blog/</link>
+    <pubDate>Fri, 06 Jul 2018 11:14:06 -0400</pubDate>
+    <lastBuildDate>Fri, 06 Jul 2018 11:14:06 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Lisa-Shearin/e/B001JSEICI&quot;&gt;Lisa Shearin&lt;/a&gt; is one of my favorite authors. Settling in with &lt;a href=&quot;https://www.amazon.com/gp/product/198682490X/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;amp;tag=lisashearin-20&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=198682490X&amp;amp;linkId=10fc01c6e671b7f2529d1ac6769df1c2&quot;&gt;her latest&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jul 2018 11:14:04 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/06/lisa-shearin-is.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/06/lisa-shearin-is.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;What the heck?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/1ae6dc703c.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 18:53:55 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/05/what-the-heck.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/what-the-heck.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/d8e258211b.jpg&quot; alt=&quot;My office for the afternoon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I work from home, I vocation in Starbucks.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 17:26:55 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/05/i-work-from.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/i-work-from.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Today I wrote a &lt;a href=&quot;https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html&quot;&gt;new article&lt;/a&gt; on my site hosted by Netlify that includes an image that I have stored in a S3 bucket. The bucket is not set up for HTTPS. Netlify has sent me an email that mixed, insecure content has been detected on my blog.&lt;/p&gt;
+
+&lt;p&gt;Sigh. Now I have to go and figure out how get that bucket, which is hosting my &lt;a href=&quot;http://frankm.org&quot;&gt;personal profile&lt;/a&gt; set up with HTTPS. Fortunately, it is a simple bucket, but really, this whole ham-handed push to HTTPS is getting old, fast.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 17:14:40 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/05/today-i-wrote.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/today-i-wrote.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Micro.blog has a setting that I’ve been using that sends a copy of my content to a Github repo, and if that repo is configured for &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github pages&lt;/a&gt; then you basically end up with a second copy of your micro.blog site.&lt;/p&gt;
+
+&lt;p&gt;When I changed the theme for this blog the Jekyll build at Github started to fail. Every time I post something here I was getting error messages from Github. So, this afternoon I’ve been trying to fix the problem, deciding to just remove all the contents in Github and start over.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, now that I have removed everything, and even generated a new access token, nothing is transferring from here to there. I don’t know whether I broke something over perhaps exceeded some time of commit limit on a public repo.&lt;/p&gt;
+
+&lt;p&gt;I wonder if I can put it into a new repo?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 16:38:56 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/05/microblog-has-a.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/microblog-has-a.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am doing some cleanup. This is a test post to see if it worked. Once more, with feeling!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 16:14:02 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/05/i-am-doing.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/i-am-doing.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html&quot;&gt;Using NotePlan To Manage Personal Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been using NotePlan for a few months and have been really happy with it, here I explain how I use it to manage personal projects.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 15:33:33 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/05/using-noteplan-to.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/using-noteplan-to.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve successfully upgtraded &lt;a href=&quot;http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/&quot;&gt;my Mintbox&lt;/a&gt; to Mint 19. Now to figure out all the stuff.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jul 2018 22:51:22 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/04/ive-successfully-upgtraded.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/ive-successfully-upgtraded.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am upgrading my MintBox to Mint 19.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jul 2018 16:24:01 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/04/i-am-upgrading.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/04/i-am-upgrading.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve owned iPads that have Siri for several years and not used it much until today, having tested Siri shortcuts.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jul 2018 15:21:03 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/04/ive-owned-ipads.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/04/ive-owned-ipads.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I just discovered the new Siri shortcuts in settings. It noticed three web sites that I opened, including this site. I recorded a shortcut, “open my blog” and now I can tell Siri to open this site in Safari. It also noticed a Workflow that I had created, so I think it might be possible to create one in which I do tell Siri to share a web page.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jul 2018 11:34:37 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/04/i-just-discovered.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/04/i-just-discovered.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.imore.com/ios-12-preview&quot;&gt;www.imore.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I want “Siri, share this with micro.blog.”&lt;/p&gt;
+
+&lt;p&gt;Installed the iOS 12 beta on my iPad Mini and notice a nice performance improvement but not much else exciting.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jul 2018 11:22:29 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/04/wwwimorecom-i-want.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/04/wwwimorecom-i-want.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;On this July 4 take the time to &lt;a href=&quot;http://www.ushistory.org/declaration/document/&quot;&gt;read the ideas&lt;/a&gt; upon which we declared our right of Independence.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jul 2018 10:44:08 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/04/on-this-july.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/04/on-this-july.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Wonder if the neighbors have fireworks&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/bb51fbdcff.jpg&quot; width=&quot;398&quot; height=&quot;398&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 21:38:27 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/03/wonder-if-the.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/04/wonder-if-the.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am patiently waiting to upgrade my Mintbox to &lt;a href=&quot;https://fosspost.org/reviews/distributions/linuxmint-19-review&quot;&gt;Mint 19&lt;/a&gt;. Waiting on the upgrade to be pushed.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 14:07:11 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/03/i-am-patiently.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/03/i-am-patiently.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;What do you think about blog archives? I personally like a index of post blog posts that I’ve written to make it easier to go back and see my writing at that time. &lt;a href=&quot;http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fh44njkhogn65tpq%2FwebnotesArchive.opml%3Fdl%3D0#&quot;&gt;The software&lt;/a&gt; I used in the past made it easy to see those monthly archives, but micro.blog does not. I can create an index using &lt;a href=&quot;https://fjmnotes.com&quot;&gt;a Wordpress site&lt;/a&gt;, but I think I would prefer something built in to micro.blog.  If I were a programmer I suspect the JSON feed would be useful.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 13:59:30 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/03/what-do-you.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/03/what-do-you.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;You may have noticed that I made a change to the layout and appearance of this site. The new theme is similar in appearance to the theme on &lt;a href=&quot;https://writing.frankmcpherson.net&quot;&gt;my Jekyll site&lt;/a&gt;. I may be contrarian, but I prefer blogs that make text easier to read over blogs that emphasize graphics. (I also dislike white text on black backgrounds because that messes up my eyes.)&lt;/p&gt;
+
+&lt;p&gt;One thing that I notice is that in this format the date of the post is at the top of the post, giving the appearance of a title and that makes me wish that such posts were all consolidated on to one page like &lt;a href=&quot;http://webnotes.frankmcpherson.net&quot;&gt;previous incarnations&lt;/a&gt; of my blog.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 13:44:38 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/03/you-may-have.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/03/you-may-have.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;After &lt;a href=&quot;https://www.cnet.com/news/ios-12-beta-on-an-old-iphone-5s-what-happened-speed-test/&quot;&gt;reading about the performance improvements&lt;/a&gt; coming with iOS 12, I’ve decided to install the beta on my iPad Mini 4.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 11:38:21 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/03/after-reading-about.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/03/after-reading-about.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://frankmcpherson.blog/2018/06/30/microsoft-details-secret.html&quot;&gt;When I first heard the rumor&lt;/a&gt; about Microsoft’s foldable tablet called Andromeda my reaction was why? Now I hear &lt;a href=&quot;https://www.slashgear.com/microsoft-surface-phone-andromeda-what-went-wrong-again-03536394/&quot;&gt;it may not happen after all&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I still wouldn’t mind an iPad Mini that worked with the Apple Pencil.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 11:07:29 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/03/when-i-first.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/03/when-i-first.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve used &lt;a href=&quot;http://www.manton.org/2018/07/micro-blog-hosted-footer-html-and-redirects.html&quot;&gt;the new micro.blog footer HTML&lt;/a&gt; to enable integration with Instagram.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jul 2018 11:57:55 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/02/ive-used-the.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/02/ive-used-the.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.manton.org/2018/07/indieauth-for-micro-blog.html&quot;&gt;Manton has improved IndieAuth for micro.blog&lt;/a&gt; and therefore I have now integrated my Instagram account with my blog and I have added a Firefox extension for sharing web pages and creating new posts.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, Omnibear didn’t work as expected. More learning to do.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jul 2018 11:50:52 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/02/manton-has-improved.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/02/manton-has-improved.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I think we need to look beyond Trump toward the powers and principalities that made his candidacy and election successful.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2018 14:43:36 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/01/i-think-we.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/01/i-think-we.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;artshow.scripting.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Watch art at the link above.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2018 14:19:26 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/01/artshowscriptingcom-what-art.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/01/artshowscriptingcom-what-art.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Blogging Since 1999</title>
+        
+        <description>&lt;p&gt;I’ve &lt;a href=&quot;https://writing.frankmcpherson.net/stories/2018/06/30/my-internet-writing-story.html&quot;&gt;ported a blog post I wrote in 2014 using Fargo to the site I am setting up&lt;/a&gt; using Jekyll and Netlify. The post is an historical account, current at that time, of the tools I used to write and host content on the web. I’ve been blogging since 1999, which means I am approaching 20 years of blogging.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, not all of my early content, almost 8 years worth, is accessible due to how that content was stored. However, there is access to the last decade worth of my writing, some of it good, most of it meh. I’ve &lt;a href=&quot;https://writing.frankmcpherson.net/about/&quot;&gt;pointed to the sites hosting those last 7 years&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 18:30:04 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/blogging-since.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/blogging-since.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Looking back at &lt;a href=&quot;http://web.archive.org/web/20021016214953/http://fmcpherson.weblogger.com/2001/09/22&quot;&gt;another blog post I wrote after 9/11&lt;/a&gt;, and reflecting on the current state of the United States, I can’t help but wonder whether what is happening now is leading to a new generation of terrorists.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 18:19:27 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/221927.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/221927.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Looking back at &lt;a href=&quot;http://web.archive.org/web/20020706073849/http://fmcpherson.weblogger.com/2001/09/15&quot;&gt;what I wrote 17 years ago after 9/11&lt;/a&gt;, as bad was it was then it would be hard to imagine then how things are now.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 18:14:04 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/looking-back-at.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/looking-back-at.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2018/6/29/17518582/microsoft-surface-dual-screen-andromeda-device-pocketable&quot;&gt;Microsoft details secret ‘pocketable’ Surface device in leaked email - The Verge&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What I find most intriguing about this leak is the idea of Microsoft inventing a new hardware category. Although, doesn’t a pocketable Surface device sound like a Pocket PC? I am not entirely sure I need a dual screen device, but something the size of an iPad Mini optimized for a stylus might get my money.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 15:35:37 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/microsoft-details-secret.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/microsoft-details-secret.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Finished reading: &lt;a href=&quot;https://micro.blog/books/9780062291103&quot;&gt;WHEN SOCIETY BECOMES AN ADDICT&lt;/a&gt; by Anne Wilson Schaef, ISBN: 9780062291103 📚&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 15:17:35 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/finished-reading-when.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/finished-reading-when.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Finished reading: Area 51: Redemption  by Bob Mayer&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 15:05:23 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/finished-reading-area.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/finished-reading-area.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Currently reading: &lt;a href=&quot;https://micro.blog/books/9781633199323&quot;&gt;If These Walls Could Talk: Detroit Red Wings&lt;/a&gt; by Ken Daniels, ISBN: 9781633199323 📚&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 14:58:44 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/185844.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/185844.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It is 91 degrees out, 58% humidity, dew point 74 degrees. With the air conditioning going nearly full time, there is a ten degree difference between basement and top floor of our town house. Sitting in the basement watching a baseball game is too cold for shorts.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 14:48:05 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/it-is-degrees.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/it-is-degrees.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Well, that was interesting. I updated my Pi3 with the latest release of Raspbian and then decided to clone my new Jekyll repo and edit &lt;a href=&quot;https://writing.frankmcpherson.net/about/&quot;&gt;the about page&lt;/a&gt; on my Raspberry Pi. Just because I could. I committed and pushed the update to the repo and checked the about page on the new site, and the new edits did not appear. Went to the Netlify site, logged in, and found the deploy failed with some error relating to node. I think during deploy nodejs 8 was attempted to be installed and it failed.&lt;/p&gt;
+
+&lt;p&gt;Next, I tried a fresh re-deploy and selected clear cache and this time deployment was successful.&lt;/p&gt;
+
+&lt;p&gt;So, what I learned here is that it appears whenever Netlify sees and pulls an update from the repo it seems to rebuild the container/VM that is hosting the site that includes installing nodejs, installing ruby gems (Jekyll uses ruby) then does a Jekyll build and ultimately deploys the site from the site fielder.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 13:41:47 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/well-that-was.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/well-that-was.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://xn--sr8hvo.ws/&quot;&gt;Web rings&lt;/a&gt; are still a thing?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 12:09:51 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/web-rings-are.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/web-rings-are.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Via &lt;a href=&quot;http://scripting.com/2018/06/30.html#a140709&quot;&gt;Scripting News&lt;/a&gt;: “I don’t think any person should die because they are too poor to live.”&lt;/p&gt;
+
+&lt;p&gt;Sounds like a good Democrat party theme to me.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 12:03:56 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/via-scripting-news.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/via-scripting-news.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Long Form Writing and Trying Out Netlify</title>
+        
+        <description>&lt;p&gt;Unlike most others here at micro.blog, I consider &lt;a href=&quot;https://frankmcpherson.blog/&quot;&gt;my micro.blog&lt;/a&gt; as my blog. The reason is that I distinguish blogs from long form writing and publishing on the Internet. For me, a blog post is 1 to 3 paragraphs and written in about 15 minutes or less.&lt;/p&gt;
+
+&lt;p&gt;I blog to share a thought or something of interest to me, I write to formulate and share ideas.&lt;/p&gt;
+
+&lt;p&gt;When I set up my micro.blog account and associated a personal blog domain to it, I decided that I would use my then current blog, &lt;a href=&quot;http://writing.frankmcpherson.org&quot;&gt;Let’s Be Frank&lt;/a&gt;, for long form writing. The “broad” push to HTTPS is going to make that a problem because that blog is managed using an app written by Dave Winer called &lt;a href=&quot;http://1999.io&quot;&gt;1999.io&lt;/a&gt;, and it has a lot of Javascript libraries that I don’t think he is every going to convert to HTTPS.&lt;/p&gt;
+
+&lt;p&gt;So, stay there and maybe figure out how to convert to HTTPS or look somewhere else? I recently &lt;a href=&quot;https://www.baty.net/2018/back-to-netlify/&quot;&gt;learned about Netlify from Jack Baty&lt;/a&gt; and after checking out its web site, I determined it has much of what I was looking for: &lt;a href=&quot;https://www.netlify.com/pricing/&quot;&gt;low price&lt;/a&gt;, easy HTTPS implementation, and flexibility.&lt;/p&gt;
+
+&lt;p&gt;Netlify does not provide a Content Management System, but it integrates with Github to provide continuous deployment, so you can use static site generators like Jekyll for publishing content. Since I have a little experience with Jekyll, I decided to try out Netlify by following &lt;a href=&quot;https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/&quot;&gt;their Jekyll tutorial&lt;/a&gt; and it didn’t take me long to get a site up and available via HTTPS.&lt;/p&gt;
+
+&lt;p&gt;The upside with the approach I have so far is that I can write and publish content from any device, particularly my iPad. All you really need to do is add a file in the proper naming format to the posts folder of your Github repository. I’ve cloned the repository to Working Copy on my iPad and found a Drafts action that will save a new item to Working Copy and insert the proper header informatation that Jekyll requires.&lt;/p&gt;
+
+&lt;p&gt;Right now &lt;a href=&quot;https://writing.frankmcpherson.net&quot;&gt;the new site&lt;/a&gt; is very much a work in progress and there may be changes. Oh, and I am aware of the irony of me writing this post here but this is is where you know me and I am not a stickler to such self determined rules.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jun 2018 11:38:04 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/30/long-form-writing.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/long-form-writing.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Got my invite to &lt;a href=&quot;https://www.blog.google/products/google-one/one-simple-way-get-more-out-google/&quot;&gt;Google One&lt;/a&gt; today, which I’ve accepted although I am not sure of the point.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jun 2018 11:58:47 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/26/got-my-invite.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/26/got-my-invite.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The bridge freeway oasis is unique to the Chicago area and is &lt;a href=&quot;http://www.chicagotribune.com/news/ct-met-ohare-oasis-tollway-expansion-met-20180622-story.html#nws=true&quot;&gt;slowly being removed.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jun 2018 08:44:14 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/25/the-bridge-freeway.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/25/the-bridge-freeway.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/a80a662dc8.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jun 2018 21:37:06 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/24/013706.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/25/013706.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Yum&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/d6409e8885.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jun 2018 18:40:44 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/24/yum.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/24/yum.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Do you think of micro.blog as a blog or an alternative to Twitter?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jun 2018 15:07:29 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/24/do-you-think.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/24/do-you-think.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Greatness is neither self determined nor self declared.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jun 2018 10:36:13 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/21/greatness-is-neither.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/21/greatness-is-neither.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve got Android Messages for Web enabled and I found that it does work with Chrome on iOS, however I haven’t received notifications for new in-bound messages on iOS. You can also set up Messages for Web with multiple computers but only one can be active at a time. I have to admit, this seems to work pretty well and helps me get past a limitation with Pushbullet on iOS.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Jun 2018 17:53:22 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/20/ive-got-android.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/20/ive-got-android.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;If we can’t agree that there are things humans should not do to other humans, particularly to those who are vulnerable, then we have a problem and that is being exposed in the United States’ &lt;a href=&quot;https://slate.com/news-and-politics/2018/06/how-the-trump-administration-is-defending-its-indefensible-child-separation-policy.html&quot;&gt;current practice of separating children from families&lt;/a&gt;. From the time that Trump seriously started running for president we have seen a widening gulf between those who care about what we do to one another and those who do not.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Jun 2018 09:20:40 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/20/if-we-cant.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/20/if-we-cant.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I don’t get the need for &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&quot;&gt;Google Podcasts&lt;/a&gt;. There is already a section for Podcasts in Google Play Music that I have been using and have subscriptions. Google Podcasts isn’t even smart enough to import my existing subscriptions.&lt;/p&gt;
+
+&lt;p&gt;I don’t listen to many podcasts any more now that I don’t spend an hour a day in the car commuting to an office.  In fact, most of my recent podcast listening has been using Apple’s Podcast app on an iPad.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jun 2018 14:18:33 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/19/i-dont-get.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/19/i-dont-get.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am curious to know whether &lt;a href=&quot;https://www.zdnet.com/article/googles-android-messages-for-web-is-here-this-is-how-it-lets-you-text-from-pcs-macs&quot;&gt;the new web messenging feature of Android Messages&lt;/a&gt; will work in a browser on an iPad. I’ve been using Pushbullet for this type of remote texting, and that works well from an Android tablet or Windows PC, but the iOS version of Pushbullet does not support SMS.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jun 2018 14:08:19 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/19/i-am-curious.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/19/i-am-curious.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve been hanging out at the new Starbucks down the road from my house.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/9069db1e4a.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jun 2018 17:00:09 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/16/ive-been-hanging.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/16/ive-been-hanging.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I think I know what happened. With previous posts I published from Ulysses I did not enable markdown in the publishing dialog and therefore the publisher converted the markdown to HTML so it appeared correct in Wordpress. In the previous post I enabled markdown, and since Wordpress was not configured to use markdown it did not render properly. So, to have enabled markdown in the writing settings of the WP-Admin console, which fixed the problem.&lt;/p&gt;
+
+&lt;p&gt;In other words…. operator error! :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jun 2018 15:59:22 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/16/195922.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/16/195922.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I just published &lt;a href=&quot;https://the-narthex.org/2018/06/16/daryl-madden-unlearn/&quot;&gt;a post on one of my Wordpress blogs&lt;/a&gt; using Ulysses for iOS, which I have used to publish before, and for some reason the markdown for hyperlinks was not properly recognized. Does anyone know if something has changed with Wordpress?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jun 2018 15:37:11 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/16/i-just-published.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/16/i-just-published.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It is really disappointing that Apple removed all handwriting recognition keyboards for iOS. I would really like to be able to use the Apple Pencil in all of apps, which I should be able to at least do with a HWR keyboard. It looks like MyScript Stack and Stylus were all removed from the store.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jun 2018 10:02:21 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/15/140221.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/15/140221.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>The Overthrow Will Not Be By Force.</title>
+        
+        <description>&lt;p&gt;Too many people in the United States think our government will be overthrown by force when the reality is it is happening in just the opposite manner. The strong arguments against gun control in the U.S. is evidence of this, as the argument centers around needing to keep guns as protection against government oppression. The powers that be don’t need to take guns away, they just need us to keep arguing about them, which fossilizes idealogy and keeps attention away from what is really happening.&lt;/p&gt;
+
+&lt;p&gt;The constitution enables authoritarianism when Congress and the Supreme Court do not function in their jobs as overseers of the Presidency. When Congress and the Supreme Court simply align with a president due to party affliation, you have a dictator in practice.&lt;/p&gt;
+
+&lt;p&gt;Today the process nearly complete, and gerrymandering will seal the deal. Gerrymandering removes the one power citizens have, which is to vote. You don’t need to burn down the flag nor rip up the Constitution, all that is needed is idealogical compliance to what the Presidency wants.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Jun 2018 11:01:33 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/06/13/the-overthrow-will.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/13/the-overthrow-will.html</guid>
+      </item>
+    
+  </channel>
+</rss>
