@@ -1,0 +1,211 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Frank McPherson's Web Notes",
+	"home_page_url": "https://frankmcpherson.blog/",
+	"feed_url": "https://frankmcpherson.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/06/lisa-shearin-is.html",
+	      	
+			"content_html": "<p><a href=\"https://www.amazon.com/Lisa-Shearin/e/B001JSEICI\">Lisa Shearin</a> is one of my favorite authors. Settling in with <a href=\"https://www.amazon.com/gp/product/198682490X/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=lisashearin-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=198682490X&amp;linkId=10fc01c6e671b7f2529d1ac6769df1c2\">her latest</a></p>\n",
+			"date_published": "2018-07-06T11:14:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/06/lisa-shearin-is.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/05/what-the-heck.html",
+	      	
+			"content_html": "<p>What the heck?</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/1ae6dc703c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-05T18:53:55-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/05/what-the-heck.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/05/i-work-from.html",
+	      	
+			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/d8e258211b.jpg\" alt=\"My office for the afternoon\" /></p>\n\n<p>I work from home, I vocation in Starbucks.</p>\n",
+			"date_published": "2018-07-05T17:26:55-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/05/i-work-from.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/05/today-i-wrote.html",
+	      	
+			"content_html": "<p>Today I wrote a <a href=\"https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html\">new article</a> on my site hosted by Netlify that includes an image that I have stored in a S3 bucket. The bucket is not set up for HTTPS. Netlify has sent me an email that mixed, insecure content has been detected on my blog.</p>\n\n<p>Sigh. Now I have to go and figure out how get that bucket, which is hosting my <a href=\"http://frankm.org\">personal profile</a> set up with HTTPS. Fortunately, it is a simple bucket, but really, this whole ham-handed push to HTTPS is getting old, fast.</p>\n",
+			"date_published": "2018-07-05T17:14:40-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/05/today-i-wrote.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/05/microblog-has-a.html",
+	      	
+			"content_html": "<p>Micro.blog has a setting that I’ve been using that sends a copy of my content to a Github repo, and if that repo is configured for <a href=\"https://pages.github.com/\">Github pages</a> then you basically end up with a second copy of your micro.blog site.</p>\n\n<p>When I changed the theme for this blog the Jekyll build at Github started to fail. Every time I post something here I was getting error messages from Github. So, this afternoon I’ve been trying to fix the problem, deciding to just remove all the contents in Github and start over.</p>\n\n<p>Unfortunately, now that I have removed everything, and even generated a new access token, nothing is transferring from here to there. I don’t know whether I broke something over perhaps exceeded some time of commit limit on a public repo.</p>\n\n<p>I wonder if I can put it into a new repo?</p>\n",
+			"date_published": "2018-07-05T16:38:56-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/05/microblog-has-a.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/05/i-am-doing.html",
+	      	
+			"content_html": "<p>I am doing some cleanup. This is a test post to see if it worked. Once more, with feeling!</p>\n",
+			"date_published": "2018-07-05T16:14:02-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/05/i-am-doing.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/05/using-noteplan-to.html",
+	      	
+			"content_html": "<p><a href=\"https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html\">Using NotePlan To Manage Personal Projects</a></p>\n\n<p>I’ve been using NotePlan for a few months and have been really happy with it, here I explain how I use it to manage personal projects.</p>\n",
+			"date_published": "2018-07-05T15:33:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/05/using-noteplan-to.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/05/ive-successfully-upgtraded.html",
+	      	
+			"content_html": "<p>I’ve successfully upgtraded <a href=\"http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/\">my Mintbox</a> to Mint 19. Now to figure out all the stuff.</p>\n",
+			"date_published": "2018-07-04T22:51:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/04/ive-successfully-upgtraded.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/04/i-am-upgrading.html",
+	      	
+			"content_html": "<p>I am upgrading my MintBox to Mint 19.</p>\n",
+			"date_published": "2018-07-04T16:24:01-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/04/i-am-upgrading.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/04/ive-owned-ipads.html",
+	      	
+			"content_html": "<p>I’ve owned iPads that have Siri for several years and not used it much until today, having tested Siri shortcuts.</p>\n",
+			"date_published": "2018-07-04T15:21:03-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/04/ive-owned-ipads.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/04/i-just-discovered.html",
+	      	
+			"content_html": "<p>I just discovered the new Siri shortcuts in settings. It noticed three web sites that I opened, including this site. I recorded a shortcut, “open my blog” and now I can tell Siri to open this site in Safari. It also noticed a Workflow that I had created, so I think it might be possible to create one in which I do tell Siri to share a web page.</p>\n",
+			"date_published": "2018-07-04T11:34:37-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/04/i-just-discovered.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/04/wwwimorecom-i-want.html",
+	      	
+			"content_html": "<p><a href=\"https://www.imore.com/ios-12-preview\">www.imore.com</a></p>\n\n<p>I want “Siri, share this with micro.blog.”</p>\n\n<p>Installed the iOS 12 beta on my iPad Mini and notice a nice performance improvement but not much else exciting.</p>\n",
+			"date_published": "2018-07-04T11:22:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/04/wwwimorecom-i-want.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/04/on-this-july.html",
+	      	
+			"content_html": "<p>On this July 4 take the time to <a href=\"http://www.ushistory.org/declaration/document/\">read the ideas</a> upon which we declared our right of Independence.</p>\n",
+			"date_published": "2018-07-04T10:44:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/04/on-this-july.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/04/wonder-if-the.html",
+	      	
+			"content_html": "<p>Wonder if the neighbors have fireworks</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/bb51fbdcff.jpg\" width=\"398\" height=\"398\" /></p>\n",
+			"date_published": "2018-07-03T21:38:27-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/wonder-if-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/i-am-patiently.html",
+	      	
+			"content_html": "<p>I am patiently waiting to upgrade my Mintbox to <a href=\"https://fosspost.org/reviews/distributions/linuxmint-19-review\">Mint 19</a>. Waiting on the upgrade to be pushed.</p>\n",
+			"date_published": "2018-07-03T14:07:11-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/i-am-patiently.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/what-do-you.html",
+	      	
+			"content_html": "<p>What do you think about blog archives? I personally like a index of post blog posts that I’ve written to make it easier to go back and see my writing at that time. <a href=\"http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fh44njkhogn65tpq%2FwebnotesArchive.opml%3Fdl%3D0#\">The software</a> I used in the past made it easy to see those monthly archives, but micro.blog does not. I can create an index using <a href=\"https://fjmnotes.com\">a Wordpress site</a>, but I think I would prefer something built in to micro.blog.  If I were a programmer I suspect the JSON feed would be useful.</p>\n",
+			"date_published": "2018-07-03T13:59:30-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/what-do-you.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/you-may-have.html",
+	      	
+			"content_html": "<p>You may have noticed that I made a change to the layout and appearance of this site. The new theme is similar in appearance to the theme on <a href=\"https://writing.frankmcpherson.net\">my Jekyll site</a>. I may be contrarian, but I prefer blogs that make text easier to read over blogs that emphasize graphics. (I also dislike white text on black backgrounds because that messes up my eyes.)</p>\n\n<p>One thing that I notice is that in this format the date of the post is at the top of the post, giving the appearance of a title and that makes me wish that such posts were all consolidated on to one page like <a href=\"http://webnotes.frankmcpherson.net\">previous incarnations</a> of my blog.</p>\n",
+			"date_published": "2018-07-03T13:44:38-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/you-may-have.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/after-reading-about.html",
+	      	
+			"content_html": "<p>After <a href=\"https://www.cnet.com/news/ios-12-beta-on-an-old-iphone-5s-what-happened-speed-test/\">reading about the performance improvements</a> coming with iOS 12, I’ve decided to install the beta on my iPad Mini 4.</p>\n",
+			"date_published": "2018-07-03T11:38:21-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/after-reading-about.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/03/when-i-first.html",
+	      	
+			"content_html": "<p><a href=\"http://frankmcpherson.blog/2018/06/30/microsoft-details-secret.html\">When I first heard the rumor</a> about Microsoft’s foldable tablet called Andromeda my reaction was why? Now I hear <a href=\"https://www.slashgear.com/microsoft-surface-phone-andromeda-what-went-wrong-again-03536394/\">it may not happen after all</a>.</p>\n\n<p>I still wouldn’t mind an iPad Mini that worked with the Apple Pencil.</p>\n",
+			"date_published": "2018-07-03T11:07:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/03/when-i-first.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/02/ive-used-the.html",
+	      	
+			"content_html": "<p>I’ve used <a href=\"http://www.manton.org/2018/07/micro-blog-hosted-footer-html-and-redirects.html\">the new micro.blog footer HTML</a> to enable integration with Instagram.</p>\n",
+			"date_published": "2018-07-02T11:57:55-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/02/ive-used-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/02/manton-has-improved.html",
+	      	
+			"content_html": "<p><a href=\"http://www.manton.org/2018/07/indieauth-for-micro-blog.html\">Manton has improved IndieAuth for micro.blog</a> and therefore I have now integrated my Instagram account with my blog and I have added a Firefox extension for sharing web pages and creating new posts.</p>\n\n<p>Unfortunately, Omnibear didn’t work as expected. More learning to do.</p>\n",
+			"date_published": "2018-07-02T11:50:52-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/02/manton-has-improved.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/01/i-think-we.html",
+	      	
+			"content_html": "<p>I think we need to look beyond Trump toward the powers and principalities that made his candidacy and election successful.</p>\n",
+			"date_published": "2018-07-01T14:43:36-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/01/i-think-we.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/01/artshowscriptingcom-what-art.html",
+	      	
+			"content_html": "<p><a href=\"http://artshow.scripting.com/\">artshow.scripting.com</a></p>\n\n<p>Watch art at the link above.</p>\n",
+			"date_published": "2018-07-01T14:19:26-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/01/artshowscriptingcom-what-art.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/blogging-since.html",
+	      	
+			"title": "Blogging Since 1999",
+			
+			"content_html": "<p>I’ve <a href=\"https://writing.frankmcpherson.net/stories/2018/06/30/my-internet-writing-story.html\">ported a blog post I wrote in 2014 using Fargo to the site I am setting up</a> using Jekyll and Netlify. The post is an historical account, current at that time, of the tools I used to write and host content on the web. I’ve been blogging since 1999, which means I am approaching 20 years of blogging.</p>\n\n<p>Unfortunately, not all of my early content, almost 8 years worth, is accessible due to how that content was stored. However, there is access to the last decade worth of my writing, some of it good, most of it meh. I’ve <a href=\"https://writing.frankmcpherson.net/about/\">pointed to the sites hosting those last 7 years</a>.</p>\n",
+			"date_published": "2018-06-30T18:30:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/blogging-since.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/06/30/221927.html",
+	      	
+			"content_html": "<p>Looking back at <a href=\"http://web.archive.org/web/20021016214953/http://fmcpherson.weblogger.com/2001/09/22\">another blog post I wrote after 9/11</a>, and reflecting on the current state of the United States, I can’t help but wonder whether what is happening now is leading to a new generation of terrorists.</p>\n",
+			"date_published": "2018-06-30T18:19:27-04:00",
+			"url": "https://frankmcpherson.blog/2018/06/30/221927.html"
+		}
+		
+	]
+}
