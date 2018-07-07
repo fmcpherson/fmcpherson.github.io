@@ -6,11 +6,35 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/07/do-the-ends.html",
+	      	
+			"content_html": "<p>Do the ends justify the means?</p>\n",
+			"date_published": "2018-07-07T16:05:17-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/07/do-the-ends.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/06/the-backup-of.html",
+	      	
+			"content_html": "<p>The backup of this site in GitHub has refreshed, and that repo has been pulled down to my iPad. Backup of backup</p>\n",
+			"date_published": "2018-07-06T14:36:10-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/06/the-backup-of.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/06/lisa-shearin-is.html",
 	      	
 			"content_html": "<p><a href=\"https://www.amazon.com/Lisa-Shearin/e/B001JSEICI\">Lisa Shearin</a> is one of my favorite authors. Settling in with <a href=\"https://www.amazon.com/gp/product/198682490X/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=lisashearin-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=198682490X&amp;linkId=10fc01c6e671b7f2529d1ac6769df1c2\">her latest</a></p>\n",
 			"date_published": "2018-07-06T11:14:04-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/06/lisa-shearin-is.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/06/moved-to-the.html",
+	      	
+			"content_html": "<p>Moved to the patio. May be here most of the day. #staycation</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/30b7c7dbc6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-06T11:07:15-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/06/moved-to-the.html"
 		},
 		
 		{
@@ -179,32 +203,6 @@
 			"content_html": "<p>I think we need to look beyond Trump toward the powers and principalities that made his candidacy and election successful.</p>\n",
 			"date_published": "2018-07-01T14:43:36-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/01/i-think-we.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/01/artshowscriptingcom-what-art.html",
-	      	
-			"content_html": "<p><a href=\"http://artshow.scripting.com/\">artshow.scripting.com</a></p>\n\n<p>Watch art at the link above.</p>\n",
-			"date_published": "2018-07-01T14:19:26-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/01/artshowscriptingcom-what-art.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/30/blogging-since.html",
-	      	
-			"title": "Blogging Since 1999",
-			
-			"content_html": "<p>I’ve <a href=\"https://writing.frankmcpherson.net/stories/2018/06/30/my-internet-writing-story.html\">ported a blog post I wrote in 2014 using Fargo to the site I am setting up</a> using Jekyll and Netlify. The post is an historical account, current at that time, of the tools I used to write and host content on the web. I’ve been blogging since 1999, which means I am approaching 20 years of blogging.</p>\n\n<p>Unfortunately, not all of my early content, almost 8 years worth, is accessible due to how that content was stored. However, there is access to the last decade worth of my writing, some of it good, most of it meh. I’ve <a href=\"https://writing.frankmcpherson.net/about/\">pointed to the sites hosting those last 7 years</a>.</p>\n",
-			"date_published": "2018-06-30T18:30:04-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/30/blogging-since.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/06/30/221927.html",
-	      	
-			"content_html": "<p>Looking back at <a href=\"http://web.archive.org/web/20021016214953/http://fmcpherson.weblogger.com/2001/09/22\">another blog post I wrote after 9/11</a>, and reflecting on the current state of the United States, I can’t help but wonder whether what is happening now is leading to a new generation of terrorists.</p>\n",
-			"date_published": "2018-06-30T18:19:27-04:00",
-			"url": "https://frankmcpherson.blog/2018/06/30/221927.html"
 		}
 		
 	]
