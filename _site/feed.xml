@@ -4,8 +4,26 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sat, 07 Jul 2018 16:05:19 -0400</pubDate>
-    <lastBuildDate>Sat, 07 Jul 2018 16:05:19 -0400</lastBuildDate>
+    <pubDate>Mon, 09 Jul 2018 11:47:40 -0400</pubDate>
+    <lastBuildDate>Mon, 09 Jul 2018 11:47:40 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I really dislike &lt;a href=&quot;https://www.cnet.com/news/starbucks-will-ditch-plastic-straws-for-fancy-designer-lids/#ftag=CAD590a51e&quot;&gt;these new lids&lt;/a&gt; that Starbucks is starting to use.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 11:47:36 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/09/i-really-dislike.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/09/i-really-dislike.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am running the iOS 12 beta in my iPad Mini and therefore need to learn the &lt;a href=&quot;https://lifehacker.com/the-iphone-x-gestures-you-should-master-1821395834&quot;&gt;iPhone X gestures&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 11:41:32 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/09/i-am-running.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/09/i-am-running.html</guid>
+      </item>
     
       <item>
       	
@@ -497,28 +515,6 @@
         <pubDate>Tue, 19 Jun 2018 14:08:19 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/06/19/i-am-curious.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/06/19/i-am-curious.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve been hanging out at the new Starbucks down the road from my house.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/9069db1e4a.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Jun 2018 17:00:09 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/16/ive-been-hanging.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/16/ive-been-hanging.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I think I know what happened. With previous posts I published from Ulysses I did not enable markdown in the publishing dialog and therefore the publisher converted the markdown to HTML so it appeared correct in Wordpress. In the previous post I enabled markdown, and since Wordpress was not configured to use markdown it did not render properly. So, to have enabled markdown in the writing settings of the WP-Admin console, which fixed the problem.&lt;/p&gt;
-
-&lt;p&gt;In other words…. operator error! :)&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Jun 2018 15:59:22 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/16/195922.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/16/195922.html</guid>
       </item>
     
   </channel>
