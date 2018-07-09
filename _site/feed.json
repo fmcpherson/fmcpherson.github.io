@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/09/i-really-dislike.html",
+	      	
+			"content_html": "<p>I really dislike <a href=\"https://www.cnet.com/news/starbucks-will-ditch-plastic-straws-for-fancy-designer-lids/#ftag=CAD590a51e\">these new lids</a> that Starbucks is starting to use.</p>\n",
+			"date_published": "2018-07-09T11:47:36-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/09/i-really-dislike.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/09/i-am-running.html",
+	      	
+			"content_html": "<p>I am running the iOS 12 beta in my iPad Mini and therefore need to learn the <a href=\"https://lifehacker.com/the-iphone-x-gestures-you-should-master-1821395834\">iPhone X gestures</a>.</p>\n",
+			"date_published": "2018-07-09T11:41:32-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/09/i-am-running.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/07/do-the-ends.html",
 	      	
 			"content_html": "<p>Do the ends justify the means?</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I’ve used <a href=\"http://www.manton.org/2018/07/micro-blog-hosted-footer-html-and-redirects.html\">the new micro.blog footer HTML</a> to enable integration with Instagram.</p>\n",
 			"date_published": "2018-07-02T11:57:55-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/02/ive-used-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/02/manton-has-improved.html",
-	      	
-			"content_html": "<p><a href=\"http://www.manton.org/2018/07/indieauth-for-micro-blog.html\">Manton has improved IndieAuth for micro.blog</a> and therefore I have now integrated my Instagram account with my blog and I have added a Firefox extension for sharing web pages and creating new posts.</p>\n\n<p>Unfortunately, Omnibear didn’t work as expected. More learning to do.</p>\n",
-			"date_published": "2018-07-02T11:50:52-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/02/manton-has-improved.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/01/i-think-we.html",
-	      	
-			"content_html": "<p>I think we need to look beyond Trump toward the powers and principalities that made his candidacy and election successful.</p>\n",
-			"date_published": "2018-07-01T14:43:36-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/01/i-think-we.html"
 		}
 		
 	]
