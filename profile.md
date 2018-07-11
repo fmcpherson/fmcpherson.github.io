@@ -1,7 +1,7 @@
 ---
 title: "Profile"
 permalink: "/profile/"
-layout: page
+layout: null
 order: 3
 date: 2018-07-02 11:29:07 -0400
 ---
