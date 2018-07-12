@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/11/according-to-this.html",
+	      	
+			"content_html": "<p>According to <a href=\"http://www.informationclearinghouse.info/article41086.htm\">this site</a> the United States has NOT been at war only 5 of my 52 years. Throughout its existence the United States has been at war 93% of the time.</p>\n\n<p>Christian nation? Not according to Jesus.</p>\n",
+			"date_published": "2018-07-11T15:24:53-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/11/according-to-this.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/10/on-the-gripping.html",
 	      	
 			"content_html": "<p>On the gripping hand, in a year the price of <a href=\"https://www.laptopmag.com/articles/microsoft-surface-go-specs-price\">the Surface Go</a> may become low enough to make it a worthwhile replacement of my Surface 3. The Surface 3 is my only personally-owned Windows 10 machine.</p>\n\n<p>For me, the main problem with the Go is its price, I think Microsoft either needs to bundle the keyboard or drop the price down at least $100. What makes the Go appealing is the built-in kickstand and mouse support, both of which are things I miss using the iPad Pro.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>You may have noticed that I made a change to the layout and appearance of this site. The new theme is similar in appearance to the theme on <a href=\"https://writing.frankmcpherson.net\">my Jekyll site</a>. I may be contrarian, but I prefer blogs that make text easier to read over blogs that emphasize graphics. (I also dislike white text on black backgrounds because that messes up my eyes.)</p>\n\n<p>One thing that I notice is that in this format the date of the post is at the top of the post, giving the appearance of a title and that makes me wish that such posts were all consolidated on to one page like <a href=\"http://webnotes.frankmcpherson.net\">previous incarnations</a> of my blog.</p>\n",
 			"date_published": "2018-07-03T13:44:38-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/03/you-may-have.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/03/after-reading-about.html",
-	      	
-			"content_html": "<p>After <a href=\"https://www.cnet.com/news/ios-12-beta-on-an-old-iphone-5s-what-happened-speed-test/\">reading about the performance improvements</a> coming with iOS 12, I’ve decided to install the beta on my iPad Mini 4.</p>\n",
-			"date_published": "2018-07-03T11:38:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/03/after-reading-about.html"
 		}
 		
 	]
