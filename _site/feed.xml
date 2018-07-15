@@ -4,8 +4,105 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Wed, 11 Jul 2018 15:48:18 -0400</pubDate>
-    <lastBuildDate>Wed, 11 Jul 2018 15:48:18 -0400</lastBuildDate>
+    <pubDate>Sun, 15 Jul 2018 13:03:31 -0400</pubDate>
+    <lastBuildDate>Sun, 15 Jul 2018 13:03:31 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://kottke.org/18/07/the-story-of-the-last-survivor-of-the-atlantic-slave-trade&quot;&gt;The story of the last survivor of the Atlantic slave trade&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 13:03:00 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/15/the-story-of.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/the-story-of.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Interesting story about &lt;a href=&quot;https://www.strongtowns.org/journal/2018/7/9/evolution-of-the-corner-store&quot;&gt;corner stores&lt;/a&gt;. When I was growing up the nearest grocery store, one of these corner stores, was DeRidders. In the late 70s a fire gutted the building and the owner built a &lt;a href=&quot;https://goo.gl/maps/uGbj5AdMq6K2&quot;&gt;much smaller “party” store across the U.S. highway from the old site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In its day DeRidders was one of maybe a half dozen grocery stores in my small home town. Four were located on the three quarter mile long Main Street. Today only one grocery store remains in my home town, and it competes with a Walmart Superstore ten miles away.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 00:45:46 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/15/interesting-story-about.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/interesting-story-about.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.msn.com/en-us/money/news/the-last-sears-in-chicago-is-closing/ar-AAzRFpI&quot;&gt;The last Sears store in Chicago&lt;/a&gt; is closing today. Sears has been in Chicago since 1887.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 00:24:53 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/15/the-last-sears.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/the-last-sears.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;A couple of six pointers strolled through our back yard, nibbling on trees along the way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/d20aea9e8f.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/e70c4bd3df.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 23:06:45 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/14/a-couple-of.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/a-couple-of.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I have updated &lt;a href=&quot;https://frankm.org/&quot;&gt;my profile page&lt;/a&gt; and learned something about content delivery networks along the way. I host my profile in a S3 bucket that I have now configured for HTTPS. The only way to use Amazon’s SSL certificate is by using their CDN, Cloudfront.&lt;/p&gt;
+
+&lt;p&gt;The fun begins when you make changes to said web page and they never seem to appear, even though you know for certain the latest version of that page is in the bucket. Turns out you need to invalidate that page in the Cloudfront console to force it to be refreshed in the cache. Along the way I made changes to the TTL for the page.&lt;/p&gt;
+
+&lt;p&gt;All fun geeky stuff, but really too many hoops to serve a simple web page with one picture.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 23:02:13 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/14/i-have-updated.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/i-have-updated.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://blog.ayjay.org/the-world-of-the-deal/&quot;&gt;Alan Jacobs:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In Trump’s world, you fit into one of three categories. You may be a mark, you may be leverage, you may be a loser.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 14:12:25 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/14/alan-jacobs-in.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/alan-jacobs-in.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://bostonreview.net/archives/BR30.2/raboteau.php&quot;&gt;bostonreview.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At its best, democracy balances the rights of the individual with the responsibility to participate in the public conversations and tasks that make civic community possible. However, the possibility of so stressing rights that we forget responsibility is a perennial threat to American liberty. The choice of privileging one over the other comes down to a simple, but profound question: “What is freedom for?”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 13:57:29 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/14/bostonreviewnet-at-its.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/bostonreviewnet-at-its.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Remember when Wimbledon was for the serve and volley? Watching Serena complain about the bad bounces coming from the chewed up grass and dirt in the baseline has me thinking, get up the court toward the net where the grass is greener. Not to mention a volley eliminates the bad bounce.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 12:13:18 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/14/remember-when-wimbledon.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/remember-when-wimbledon.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Watching tennis in HD has me wondering how I could have done so on a 19 inch set while growing up. Like playing tennis with a wood racquet.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Jul 2018 11:48:16 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/14/watching-tennis-in.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/watching-tennis-in.html</guid>
+      </item>
     
       <item>
       	
@@ -420,105 +517,6 @@
         <pubDate>Sat, 30 Jun 2018 12:09:51 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/06/30/web-rings-are.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/web-rings-are.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Via &lt;a href=&quot;http://scripting.com/2018/06/30.html#a140709&quot;&gt;Scripting News&lt;/a&gt;: “I don’t think any person should die because they are too poor to live.”&lt;/p&gt;
-
-&lt;p&gt;Sounds like a good Democrat party theme to me.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Jun 2018 12:03:56 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/30/via-scripting-news.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/via-scripting-news.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Long Form Writing and Trying Out Netlify</title>
-        
-        <description>&lt;p&gt;Unlike most others here at micro.blog, I consider &lt;a href=&quot;https://frankmcpherson.blog/&quot;&gt;my micro.blog&lt;/a&gt; as my blog. The reason is that I distinguish blogs from long form writing and publishing on the Internet. For me, a blog post is 1 to 3 paragraphs and written in about 15 minutes or less.&lt;/p&gt;
-
-&lt;p&gt;I blog to share a thought or something of interest to me, I write to formulate and share ideas.&lt;/p&gt;
-
-&lt;p&gt;When I set up my micro.blog account and associated a personal blog domain to it, I decided that I would use my then current blog, &lt;a href=&quot;http://writing.frankmcpherson.org&quot;&gt;Let’s Be Frank&lt;/a&gt;, for long form writing. The “broad” push to HTTPS is going to make that a problem because that blog is managed using an app written by Dave Winer called &lt;a href=&quot;http://1999.io&quot;&gt;1999.io&lt;/a&gt;, and it has a lot of Javascript libraries that I don’t think he is every going to convert to HTTPS.&lt;/p&gt;
-
-&lt;p&gt;So, stay there and maybe figure out how to convert to HTTPS or look somewhere else? I recently &lt;a href=&quot;https://www.baty.net/2018/back-to-netlify/&quot;&gt;learned about Netlify from Jack Baty&lt;/a&gt; and after checking out its web site, I determined it has much of what I was looking for: &lt;a href=&quot;https://www.netlify.com/pricing/&quot;&gt;low price&lt;/a&gt;, easy HTTPS implementation, and flexibility.&lt;/p&gt;
-
-&lt;p&gt;Netlify does not provide a Content Management System, but it integrates with Github to provide continuous deployment, so you can use static site generators like Jekyll for publishing content. Since I have a little experience with Jekyll, I decided to try out Netlify by following &lt;a href=&quot;https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/&quot;&gt;their Jekyll tutorial&lt;/a&gt; and it didn’t take me long to get a site up and available via HTTPS.&lt;/p&gt;
-
-&lt;p&gt;The upside with the approach I have so far is that I can write and publish content from any device, particularly my iPad. All you really need to do is add a file in the proper naming format to the posts folder of your Github repository. I’ve cloned the repository to Working Copy on my iPad and found a Drafts action that will save a new item to Working Copy and insert the proper header informatation that Jekyll requires.&lt;/p&gt;
-
-&lt;p&gt;Right now &lt;a href=&quot;https://writing.frankmcpherson.net&quot;&gt;the new site&lt;/a&gt; is very much a work in progress and there may be changes. Oh, and I am aware of the irony of me writing this post here but this is is where you know me and I am not a stickler to such self determined rules.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Jun 2018 11:38:04 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/30/long-form-writing.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/long-form-writing.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Got my invite to &lt;a href=&quot;https://www.blog.google/products/google-one/one-simple-way-get-more-out-google/&quot;&gt;Google One&lt;/a&gt; today, which I’ve accepted although I am not sure of the point.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Jun 2018 11:58:47 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/26/got-my-invite.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/26/got-my-invite.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The bridge freeway oasis is unique to the Chicago area and is &lt;a href=&quot;http://www.chicagotribune.com/news/ct-met-ohare-oasis-tollway-expansion-met-20180622-story.html#nws=true&quot;&gt;slowly being removed.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Jun 2018 08:44:14 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/25/the-bridge-freeway.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/25/the-bridge-freeway.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/a80a662dc8.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Jun 2018 21:37:06 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/24/013706.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/25/013706.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Yum&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/d6409e8885.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Jun 2018 18:40:44 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/24/yum.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/24/yum.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Do you think of micro.blog as a blog or an alternative to Twitter?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Jun 2018 15:07:29 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/24/do-you-think.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/24/do-you-think.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Greatness is neither self determined nor self declared.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Jun 2018 10:36:13 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/21/greatness-is-neither.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/21/greatness-is-neither.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve got Android Messages for Web enabled and I found that it does work with Chrome on iOS, however I haven’t received notifications for new in-bound messages on iOS. You can also set up Messages for Web with multiple computers but only one can be active at a time. I have to admit, this seems to work pretty well and helps me get past a limitation with Pushbullet on iOS.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Jun 2018 17:53:22 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/20/ive-got-android.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/20/ive-got-android.html</guid>
       </item>
     
   </channel>
