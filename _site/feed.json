@@ -6,6 +6,78 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/15/the-story-of.html",
+	      	
+			"content_html": "<p><a href=\"https://kottke.org/18/07/the-story-of-the-last-survivor-of-the-atlantic-slave-trade\">The story of the last survivor of the Atlantic slave trade</a></p>\n",
+			"date_published": "2018-07-15T13:03:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/15/the-story-of.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/15/interesting-story-about.html",
+	      	
+			"content_html": "<p>Interesting story about <a href=\"https://www.strongtowns.org/journal/2018/7/9/evolution-of-the-corner-store\">corner stores</a>. When I was growing up the nearest grocery store, one of these corner stores, was DeRidders. In the late 70s a fire gutted the building and the owner built a <a href=\"https://goo.gl/maps/uGbj5AdMq6K2\">much smaller “party” store across the U.S. highway from the old site</a>.</p>\n\n<p>In its day DeRidders was one of maybe a half dozen grocery stores in my small home town. Four were located on the three quarter mile long Main Street. Today only one grocery store remains in my home town, and it competes with a Walmart Superstore ten miles away.</p>\n",
+			"date_published": "2018-07-15T00:45:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/15/interesting-story-about.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/15/the-last-sears.html",
+	      	
+			"content_html": "<p><a href=\"https://www.msn.com/en-us/money/news/the-last-sears-in-chicago-is-closing/ar-AAzRFpI\">The last Sears store in Chicago</a> is closing today. Sears has been in Chicago since 1887.</p>\n",
+			"date_published": "2018-07-15T00:24:53-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/15/the-last-sears.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/15/a-couple-of.html",
+	      	
+			"content_html": "<p>A couple of six pointers strolled through our back yard, nibbling on trees along the way.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d20aea9e8f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://frankmcpherson.blog/uploads/2018/e70c4bd3df.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-14T23:06:45-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/14/a-couple-of.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/15/i-have-updated.html",
+	      	
+			"content_html": "<p>I have updated <a href=\"https://frankm.org/\">my profile page</a> and learned something about content delivery networks along the way. I host my profile in a S3 bucket that I have now configured for HTTPS. The only way to use Amazon’s SSL certificate is by using their CDN, Cloudfront.</p>\n\n<p>The fun begins when you make changes to said web page and they never seem to appear, even though you know for certain the latest version of that page is in the bucket. Turns out you need to invalidate that page in the Cloudfront console to force it to be refreshed in the cache. Along the way I made changes to the TTL for the page.</p>\n\n<p>All fun geeky stuff, but really too many hoops to serve a simple web page with one picture.</p>\n",
+			"date_published": "2018-07-14T23:02:13-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/14/i-have-updated.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/14/alan-jacobs-in.html",
+	      	
+			"content_html": "<p><a href=\"https://blog.ayjay.org/the-world-of-the-deal/\">Alan Jacobs:</a></p>\n\n<blockquote>\n  <p>In Trump’s world, you fit into one of three categories. You may be a mark, you may be leverage, you may be a loser.</p>\n</blockquote>\n",
+			"date_published": "2018-07-14T14:12:25-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/14/alan-jacobs-in.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/14/bostonreviewnet-at-its.html",
+	      	
+			"content_html": "<p><a href=\"http://bostonreview.net/archives/BR30.2/raboteau.php\">bostonreview.net</a></p>\n\n<blockquote>\n  <p>At its best, democracy balances the rights of the individual with the responsibility to participate in the public conversations and tasks that make civic community possible. However, the possibility of so stressing rights that we forget responsibility is a perennial threat to American liberty. The choice of privileging one over the other comes down to a simple, but profound question: “What is freedom for?”</p>\n</blockquote>\n",
+			"date_published": "2018-07-14T13:57:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/14/bostonreviewnet-at-its.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/14/remember-when-wimbledon.html",
+	      	
+			"content_html": "<p>Remember when Wimbledon was for the serve and volley? Watching Serena complain about the bad bounces coming from the chewed up grass and dirt in the baseline has me thinking, get up the court toward the net where the grass is greener. Not to mention a volley eliminates the bad bounce.</p>\n",
+			"date_published": "2018-07-14T12:13:18-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/14/remember-when-wimbledon.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/14/watching-tennis-in.html",
+	      	
+			"content_html": "<p>Watching tennis in HD has me wondering how I could have done so on a 19 inch set while growing up. Like playing tennis with a wood racquet.</p>\n",
+			"date_published": "2018-07-14T11:48:16-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/14/watching-tennis-in.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/11/according-to-this.html",
 	      	
 			"content_html": "<p>According to <a href=\"http://www.informationclearinghouse.info/article41086.htm\">this site</a> the United States has NOT been at war only 5 of my 52 years. Throughout its existence the United States has been at war 93% of the time.</p>\n\n<p>Christian nation? Not according to Jesus.</p>\n",
@@ -131,78 +203,6 @@
 			"content_html": "<p>I’ve successfully upgtraded <a href=\"http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/\">my Mintbox</a> to Mint 19. Now to figure out all the stuff.</p>\n",
 			"date_published": "2018-07-04T22:51:22-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/04/ive-successfully-upgtraded.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/04/i-am-upgrading.html",
-	      	
-			"content_html": "<p>I am upgrading my MintBox to Mint 19.</p>\n",
-			"date_published": "2018-07-04T16:24:01-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/04/i-am-upgrading.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/04/ive-owned-ipads.html",
-	      	
-			"content_html": "<p>I’ve owned iPads that have Siri for several years and not used it much until today, having tested Siri shortcuts.</p>\n",
-			"date_published": "2018-07-04T15:21:03-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/04/ive-owned-ipads.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/04/i-just-discovered.html",
-	      	
-			"content_html": "<p>I just discovered the new Siri shortcuts in settings. It noticed three web sites that I opened, including this site. I recorded a shortcut, “open my blog” and now I can tell Siri to open this site in Safari. It also noticed a Workflow that I had created, so I think it might be possible to create one in which I do tell Siri to share a web page.</p>\n",
-			"date_published": "2018-07-04T11:34:37-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/04/i-just-discovered.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/04/wwwimorecom-i-want.html",
-	      	
-			"content_html": "<p><a href=\"https://www.imore.com/ios-12-preview\">www.imore.com</a></p>\n\n<p>I want “Siri, share this with micro.blog.”</p>\n\n<p>Installed the iOS 12 beta on my iPad Mini and notice a nice performance improvement but not much else exciting.</p>\n",
-			"date_published": "2018-07-04T11:22:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/04/wwwimorecom-i-want.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/04/on-this-july.html",
-	      	
-			"content_html": "<p>On this July 4 take the time to <a href=\"http://www.ushistory.org/declaration/document/\">read the ideas</a> upon which we declared our right of Independence.</p>\n",
-			"date_published": "2018-07-04T10:44:08-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/04/on-this-july.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/04/wonder-if-the.html",
-	      	
-			"content_html": "<p>Wonder if the neighbors have fireworks</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/bb51fbdcff.jpg\" width=\"398\" height=\"398\" /></p>\n",
-			"date_published": "2018-07-03T21:38:27-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/03/wonder-if-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/03/i-am-patiently.html",
-	      	
-			"content_html": "<p>I am patiently waiting to upgrade my Mintbox to <a href=\"https://fosspost.org/reviews/distributions/linuxmint-19-review\">Mint 19</a>. Waiting on the upgrade to be pushed.</p>\n",
-			"date_published": "2018-07-03T14:07:11-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/03/i-am-patiently.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/03/what-do-you.html",
-	      	
-			"content_html": "<p>What do you think about blog archives? I personally like a index of post blog posts that I’ve written to make it easier to go back and see my writing at that time. <a href=\"http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fh44njkhogn65tpq%2FwebnotesArchive.opml%3Fdl%3D0#\">The software</a> I used in the past made it easy to see those monthly archives, but micro.blog does not. I can create an index using <a href=\"https://fjmnotes.com\">a Wordpress site</a>, but I think I would prefer something built in to micro.blog.  If I were a programmer I suspect the JSON feed would be useful.</p>\n",
-			"date_published": "2018-07-03T13:59:30-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/03/what-do-you.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/03/you-may-have.html",
-	      	
-			"content_html": "<p>You may have noticed that I made a change to the layout and appearance of this site. The new theme is similar in appearance to the theme on <a href=\"https://writing.frankmcpherson.net\">my Jekyll site</a>. I may be contrarian, but I prefer blogs that make text easier to read over blogs that emphasize graphics. (I also dislike white text on black backgrounds because that messes up my eyes.)</p>\n\n<p>One thing that I notice is that in this format the date of the post is at the top of the post, giving the appearance of a title and that makes me wish that such posts were all consolidated on to one page like <a href=\"http://webnotes.frankmcpherson.net\">previous incarnations</a> of my blog.</p>\n",
-			"date_published": "2018-07-03T13:44:38-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/03/you-may-have.html"
 		}
 		
 	]
