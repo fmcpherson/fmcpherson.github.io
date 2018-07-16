@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/16/despite-what-you.html",
+	      	
+			"content_html": "<p>Despite what you might hear about one person or another having “all the qualifications” to be a Supreme Court Justice, <a href=\"https://www.history.com/news/7-things-you-might-not-know-about-the-u-s-supreme-court\">there are actually no constitutional qualifications</a> for a Supreme Court Justice.</p>\n\n<p>When someone says a person is qualified, what they really mean is that they think that person agrees with their ideology.</p>\n",
+			"date_published": "2018-07-16T09:12:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/16/despite-what-you.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/16/my-latest-theological.html",
+	      	
+			"content_html": "<p>My latest theological essay: <a href=\"https://writing.frankmcpherson.net/theology/2018/07/15/thy-kingdom-come,-my-kingdom-go.html\">Thy Kingdom Come, My Kingdom Go</a></p>\n",
+			"date_published": "2018-07-15T20:33:55-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/15/my-latest-theological.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/15/the-story-of.html",
 	      	
 			"content_html": "<p><a href=\"https://kottke.org/18/07/the-story-of-the-last-survivor-of-the-atlantic-slave-trade\">The story of the last survivor of the Atlantic slave trade</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I am doing some cleanup. This is a test post to see if it worked. Once more, with feeling!</p>\n",
 			"date_published": "2018-07-05T16:14:02-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/05/i-am-doing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/05/using-noteplan-to.html",
-	      	
-			"content_html": "<p><a href=\"https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html\">Using NotePlan To Manage Personal Projects</a></p>\n\n<p>I’ve been using NotePlan for a few months and have been really happy with it, here I explain how I use it to manage personal projects.</p>\n",
-			"date_published": "2018-07-05T15:33:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/05/using-noteplan-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/05/ive-successfully-upgtraded.html",
-	      	
-			"content_html": "<p>I’ve successfully upgtraded <a href=\"http://www.fit-pc.com/web/products/mintbox/mintbox-mini-pro/\">my Mintbox</a> to Mint 19. Now to figure out all the stuff.</p>\n",
-			"date_published": "2018-07-04T22:51:22-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/04/ive-successfully-upgtraded.html"
 		}
 		
 	]
