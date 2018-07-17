@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/17/dave-winer-picks.html",
+	      	
+			"content_html": "<p><a href=\"http://scripting.com/2018/07/17.html#a135225\">Dave Winer picks up on a point</a> that <a href=\"http://frankmcpherson.blog/2018/07/16/i-dont-find.html\">I wrote about yesterday</a>. Trump’s behavior regarding Putin and Russia is driven by money and ego.</p>\n",
+			"date_published": "2018-07-17T11:45:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/17/dave-winer-picks.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/17/153235.html",
+	      	
+			"content_html": "<p>When I first saw the title of this book, <a href=\"http://howtothinkbook.com/\">How to Think</a>, my reaction was, “do we really need to teach people how to think?” Then I thought, yes, yes we do! More thinking and less reacting is needed.</p>\n\n<p>From the author:</p>\n<blockquote>\n  <p>“Eventually two points occurred to me. The first is that many of our fiercest disputes occur because the people involved simply aren’t thinking: they’re reacting or emoting or virtue-signaling or ingroup-identifying. The second is that I have spent my entire career thinking and trying to teach others to think.”</p>\n</blockquote>\n",
+			"date_published": "2018-07-17T11:32:35-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/17/153235.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/16/the-yellow-represents.html",
+	      	
+			"content_html": "<p>The yellow represents a severe thunderstorm warning. The blue pin is my house, and immediately below is the rest of our condo complex. If I walked 5 minutes out my front door I would be out of the warned area.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8378076369.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-16T16:12:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/16/the-yellow-represents.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/16/i-dont-find.html",
+	      	
+			"content_html": "<p>I don’t find it <a href=\"https://www.cnn.com/2018/07/16/politics/donald-trump-vladimir-putin-press-conference/index.html\">shocking</a> that Trump has a very favorable view towards Putin and Russia. Russia is about the only place that will give Trump a loan. Putin has not personally offended Trump in any way, and Trump likely does admire what Putin has.</p>\n\n<p>All Putin has to do is continue stroking Trump’s ego.</p>\n",
+			"date_published": "2018-07-16T15:52:10-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/16/i-dont-find.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/16/here-is-an.html",
+	      	
+			"content_html": "<p><a href=\"https://github.com/tpn/pdfs\">Here is an incredible catalog</a> of 1,000 technical-oriented PDFs hosted on Github.</p>\n",
+			"date_published": "2018-07-16T15:14:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/16/here-is-an.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/16/despite-what-you.html",
 	      	
 			"content_html": "<p>Despite what you might hear about one person or another having “all the qualifications” to be a Supreme Court Justice, <a href=\"https://www.history.com/news/7-things-you-might-not-know-about-the-u-s-supreme-court\">there are actually no constitutional qualifications</a> for a Supreme Court Justice.</p>\n\n<p>When someone says a person is qualified, what they really mean is that they think that person agrees with their ideology.</p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>Moved to the patio. May be here most of the day. #staycation</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/30b7c7dbc6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-06T11:07:15-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/06/moved-to-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/05/what-the-heck.html",
-	      	
-			"content_html": "<p>What the heck?</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/1ae6dc703c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-05T18:53:55-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/05/what-the-heck.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/05/i-work-from.html",
-	      	
-			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/d8e258211b.jpg\" alt=\"My office for the afternoon\" /></p>\n\n<p>I work from home, I vocation in Starbucks.</p>\n",
-			"date_published": "2018-07-05T17:26:55-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/05/i-work-from.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/05/today-i-wrote.html",
-	      	
-			"content_html": "<p>Today I wrote a <a href=\"https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html\">new article</a> on my site hosted by Netlify that includes an image that I have stored in a S3 bucket. The bucket is not set up for HTTPS. Netlify has sent me an email that mixed, insecure content has been detected on my blog.</p>\n\n<p>Sigh. Now I have to go and figure out how get that bucket, which is hosting my <a href=\"http://frankm.org\">personal profile</a> set up with HTTPS. Fortunately, it is a simple bucket, but really, this whole ham-handed push to HTTPS is getting old, fast.</p>\n",
-			"date_published": "2018-07-05T17:14:40-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/05/today-i-wrote.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/05/microblog-has-a.html",
-	      	
-			"content_html": "<p>Micro.blog has a setting that I’ve been using that sends a copy of my content to a Github repo, and if that repo is configured for <a href=\"https://pages.github.com/\">Github pages</a> then you basically end up with a second copy of your micro.blog site.</p>\n\n<p>When I changed the theme for this blog the Jekyll build at Github started to fail. Every time I post something here I was getting error messages from Github. So, this afternoon I’ve been trying to fix the problem, deciding to just remove all the contents in Github and start over.</p>\n\n<p>Unfortunately, now that I have removed everything, and even generated a new access token, nothing is transferring from here to there. I don’t know whether I broke something over perhaps exceeded some time of commit limit on a public repo.</p>\n\n<p>I wonder if I can put it into a new repo?</p>\n",
-			"date_published": "2018-07-05T16:38:56-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/05/microblog-has-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/05/i-am-doing.html",
-	      	
-			"content_html": "<p>I am doing some cleanup. This is a test post to see if it worked. Once more, with feeling!</p>\n",
-			"date_published": "2018-07-05T16:14:02-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/05/i-am-doing.html"
 		}
 		
 	]
