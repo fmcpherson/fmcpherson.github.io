@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/20/azure-has-a.html",
+	      	
+			"content_html": "<p><a href=\"https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html\">Azure has a different approach to static sites</a> because it associates a VM to the site rather than storage. The big difference is that you can’t associate a custom domain to the free tier, you will have to pay for the VM and it looks like you will need to buy a certificate. The upside to this approach is that you can implement SSL without having to use a CDN.</p>\n",
+			"date_published": "2018-07-20T10:28:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/20/azure-has-a.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/20/googles-static-website.html",
+	      	
+			"content_html": "<p><a href=\"https://cloud.google.com/storage/docs/hosting-static-website\">Google’s static website hosting</a> is pretty much the same as AWS, and it also requires using a CDN if you want to implement HTTPS.</p>\n",
+			"date_published": "2018-07-20T10:21:24-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/20/googles-static-website.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/17/dave-winer-picks.html",
 	      	
 			"content_html": "<p><a href=\"http://scripting.com/2018/07/17.html#a135225\">Dave Winer picks up on a point</a> that <a href=\"http://frankmcpherson.blog/2018/07/16/i-dont-find.html\">I wrote about yesterday</a>. Trump’s behavior regarding Putin and Russia is driven by money and ego.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>The backup of this site in GitHub has refreshed, and that repo has been pulled down to my iPad. Backup of backup</p>\n",
 			"date_published": "2018-07-06T14:36:10-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/06/the-backup-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/06/lisa-shearin-is.html",
-	      	
-			"content_html": "<p><a href=\"https://www.amazon.com/Lisa-Shearin/e/B001JSEICI\">Lisa Shearin</a> is one of my favorite authors. Settling in with <a href=\"https://www.amazon.com/gp/product/198682490X/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=lisashearin-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=198682490X&amp;linkId=10fc01c6e671b7f2529d1ac6769df1c2\">her latest</a></p>\n",
-			"date_published": "2018-07-06T11:14:04-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/06/lisa-shearin-is.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/06/moved-to-the.html",
-	      	
-			"content_html": "<p>Moved to the patio. May be here most of the day. #staycation</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/30b7c7dbc6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-06T11:07:15-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/06/moved-to-the.html"
 		}
 		
 	]
