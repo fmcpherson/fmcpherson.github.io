@@ -4,8 +4,26 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Tue, 17 Jul 2018 11:45:47 -0400</pubDate>
-    <lastBuildDate>Tue, 17 Jul 2018 11:45:47 -0400</lastBuildDate>
+    <pubDate>Fri, 20 Jul 2018 10:28:13 -0400</pubDate>
+    <lastBuildDate>Fri, 20 Jul 2018 10:28:13 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html&quot;&gt;Azure has a different approach to static sites&lt;/a&gt; because it associates a VM to the site rather than storage. The big difference is that you can’t associate a custom domain to the free tier, you will have to pay for the VM and it looks like you will need to buy a certificate. The upside to this approach is that you can implement SSL without having to use a CDN.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jul 2018 10:28:08 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/20/azure-has-a.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/azure-has-a.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://cloud.google.com/storage/docs/hosting-static-website&quot;&gt;Google’s static website hosting&lt;/a&gt; is pretty much the same as AWS, and it also requires using a CDN if you want to implement HTTPS.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jul 2018 10:21:24 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/20/googles-static-website.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/googles-static-website.html</guid>
+      </item>
     
       <item>
       	
@@ -504,24 +522,6 @@
         <pubDate>Sat, 30 Jun 2018 18:30:04 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/06/30/blogging-since.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/blogging-since.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Looking back at &lt;a href=&quot;http://web.archive.org/web/20021016214953/http://fmcpherson.weblogger.com/2001/09/22&quot;&gt;another blog post I wrote after 9/11&lt;/a&gt;, and reflecting on the current state of the United States, I can’t help but wonder whether what is happening now is leading to a new generation of terrorists.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Jun 2018 18:19:27 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/30/221927.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/221927.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Looking back at &lt;a href=&quot;http://web.archive.org/web/20020706073849/http://fmcpherson.weblogger.com/2001/09/15&quot;&gt;what I wrote 17 years ago after 9/11&lt;/a&gt;, as bad was it was then it would be hard to imagine then how things are now.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Jun 2018 18:14:04 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/30/looking-back-at.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/looking-back-at.html</guid>
       </item>
     
   </channel>
