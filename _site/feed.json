@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/20/i-recently-rewrote.html",
+	      	
+			"content_html": "<p>I recently rewrote <a href=\"https://frankm.org\">my profile page</a> and implemented HTTPS using Amazon S3 and Cloudfront.  In my opinion S3 provides one of the easiest and least expensive ways to host a simple, static web site. Unfortunately HTTPS adds complexity, both in what you need to do to build the site and also in how you maintain it.</p>\n\n<p>I did a brief survey and I think that that the simplest way to set up a web site with HTTPS is to host with a service like <a href=\"https://www.bluehost.com\">Bluehost</a>, which provides a free SSL certificate. <a href=\"https://my.bluehost.com/hosting/help/141#shared\">Bluehosts’s $8.99/month price</a> is reasonable, but not as cheap as Amazon for a really small site like mine, which is a single HTML page.</p>\n\n<p>So, in my opinion with the current push to HTTPS,  you are better off going with a service provider that includes HTTPS as part of the service. If you are more technical and willing to fiddle with things, you can save money with S3/Cloudfront.</p>\n",
+			"date_published": "2018-07-20T14:50:42-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/20/i-recently-rewrote.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/20/you-can-use.html",
+	      	
+			"content_html": "<p>You can <a href=\"https://www.troyhunt.com/everything-you-need-to-know-about-loading-a-free-lets-encrypt-certificate-into-an-azure-website/\">use Let’s Encrypt with Azure</a>.</p>\n",
+			"date_published": "2018-07-20T10:42:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/20/you-can-use.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/20/azure-has-a.html",
 	      	
 			"content_html": "<p><a href=\"https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html\">Azure has a different approach to static sites</a> because it associates a VM to the site rather than storage. The big difference is that you can’t associate a custom domain to the free tier, you will have to pay for the VM and it looks like you will need to buy a certificate. The upside to this approach is that you can implement SSL without having to use a CDN.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I am running the iOS 12 beta in my iPad Mini and therefore need to learn the <a href=\"https://lifehacker.com/the-iphone-x-gestures-you-should-master-1821395834\">iPhone X gestures</a>.</p>\n",
 			"date_published": "2018-07-09T11:41:32-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/09/i-am-running.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/07/do-the-ends.html",
-	      	
-			"content_html": "<p>Do the ends justify the means?</p>\n",
-			"date_published": "2018-07-07T16:05:17-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/07/do-the-ends.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/06/the-backup-of.html",
-	      	
-			"content_html": "<p>The backup of this site in GitHub has refreshed, and that repo has been pulled down to my iPad. Backup of backup</p>\n",
-			"date_published": "2018-07-06T14:36:10-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/06/the-backup-of.html"
 		}
 		
 	]
