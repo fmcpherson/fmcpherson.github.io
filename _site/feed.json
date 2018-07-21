@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/21/pro-tip-during.html",
+	      	
+			"content_html": "<p>Pro tip: during a rain storm the best indoor place to hear the rain fall is an attached garage, assuming it is not insulated. An attic may be as good, but mine isn’t accessible. I stood in my garage for several minutes this morning listening to the rain.</p>\n",
+			"date_published": "2018-07-21T10:30:12-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/21/pro-tip-during.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/20/what-is-solid.html",
+	      	
+			"content_html": "<p>What is <a href=\"https://solid.mit.edu/\">Solid</a>?</p>\n",
+			"date_published": "2018-07-20T15:00:43-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/20/what-is-solid.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/20/i-recently-rewrote.html",
 	      	
 			"content_html": "<p>I recently rewrote <a href=\"https://frankm.org\">my profile page</a> and implemented HTTPS using Amazon S3 and Cloudfront.  In my opinion S3 provides one of the easiest and least expensive ways to host a simple, static web site. Unfortunately HTTPS adds complexity, both in what you need to do to build the site and also in how you maintain it.</p>\n\n<p>I did a brief survey and I think that that the simplest way to set up a web site with HTTPS is to host with a service like <a href=\"https://www.bluehost.com\">Bluehost</a>, which provides a free SSL certificate. <a href=\"https://my.bluehost.com/hosting/help/141#shared\">Bluehosts’s $8.99/month price</a> is reasonable, but not as cheap as Amazon for a really small site like mine, which is a single HTML page.</p>\n\n<p>So, in my opinion with the current push to HTTPS,  you are better off going with a service provider that includes HTTPS as part of the service. If you are more technical and willing to fiddle with things, you can save money with S3/Cloudfront.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.wired.com/story/surface-go-microsofts-big-bet-on-a-tiny-computer-future/\">Surface Go Is Microsoft’s Big Bet on a Tiny-Computer Future</a></p>\n\n<p>I am curious to see how much smaller the Surface Go is compared to the Surface 3. Unfortunately for Microsoft, I’ve replaced the Surface 3 with a iPad Pro 10.5 and it is hard to see why I would want the new Go rather than the iPad.</p>\n",
 			"date_published": "2018-07-09T22:25:41-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/09/surface-go-is.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/09/i-really-dislike.html",
-	      	
-			"content_html": "<p>I really dislike <a href=\"https://www.cnet.com/news/starbucks-will-ditch-plastic-straws-for-fancy-designer-lids/#ftag=CAD590a51e\">these new lids</a> that Starbucks is starting to use.</p>\n",
-			"date_published": "2018-07-09T11:47:36-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/09/i-really-dislike.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/09/i-am-running.html",
-	      	
-			"content_html": "<p>I am running the iOS 12 beta in my iPad Mini and therefore need to learn the <a href=\"https://lifehacker.com/the-iphone-x-gestures-you-should-master-1821395834\">iPhone X gestures</a>.</p>\n",
-			"date_published": "2018-07-09T11:41:32-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/09/i-am-running.html"
 		}
 		
 	]
