@@ -4,8 +4,30 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 20 Jul 2018 10:28:13 -0400</pubDate>
-    <lastBuildDate>Fri, 20 Jul 2018 10:28:13 -0400</lastBuildDate>
+    <pubDate>Fri, 20 Jul 2018 14:50:46 -0400</pubDate>
+    <lastBuildDate>Fri, 20 Jul 2018 14:50:46 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I recently rewrote &lt;a href=&quot;https://frankm.org&quot;&gt;my profile page&lt;/a&gt; and implemented HTTPS using Amazon S3 and Cloudfront.  In my opinion S3 provides one of the easiest and least expensive ways to host a simple, static web site. Unfortunately HTTPS adds complexity, both in what you need to do to build the site and also in how you maintain it.&lt;/p&gt;
+
+&lt;p&gt;I did a brief survey and I think that that the simplest way to set up a web site with HTTPS is to host with a service like &lt;a href=&quot;https://www.bluehost.com&quot;&gt;Bluehost&lt;/a&gt;, which provides a free SSL certificate. &lt;a href=&quot;https://my.bluehost.com/hosting/help/141#shared&quot;&gt;Bluehosts’s $8.99/month price&lt;/a&gt; is reasonable, but not as cheap as Amazon for a really small site like mine, which is a single HTML page.&lt;/p&gt;
+
+&lt;p&gt;So, in my opinion with the current push to HTTPS,  you are better off going with a service provider that includes HTTPS as part of the service. If you are more technical and willing to fiddle with things, you can save money with S3/Cloudfront.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jul 2018 14:50:42 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/20/i-recently-rewrote.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/i-recently-rewrote.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;You can &lt;a href=&quot;https://www.troyhunt.com/everything-you-need-to-know-about-loading-a-free-lets-encrypt-certificate-into-an-azure-website/&quot;&gt;use Let’s Encrypt with Azure&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jul 2018 10:42:46 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/20/you-can-use.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/you-can-use.html</guid>
+      </item>
     
       <item>
       	
@@ -498,30 +520,6 @@
         <pubDate>Sun, 01 Jul 2018 14:43:36 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/07/01/i-think-we.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/07/01/i-think-we.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;artshow.scripting.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Watch art at the link above.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jul 2018 14:19:26 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/01/artshowscriptingcom-what-art.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/01/artshowscriptingcom-what-art.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Blogging Since 1999</title>
-        
-        <description>&lt;p&gt;I’ve &lt;a href=&quot;https://writing.frankmcpherson.net/stories/2018/06/30/my-internet-writing-story.html&quot;&gt;ported a blog post I wrote in 2014 using Fargo to the site I am setting up&lt;/a&gt; using Jekyll and Netlify. The post is an historical account, current at that time, of the tools I used to write and host content on the web. I’ve been blogging since 1999, which means I am approaching 20 years of blogging.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, not all of my early content, almost 8 years worth, is accessible due to how that content was stored. However, there is access to the last decade worth of my writing, some of it good, most of it meh. I’ve &lt;a href=&quot;https://writing.frankmcpherson.net/about/&quot;&gt;pointed to the sites hosting those last 7 years&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Jun 2018 18:30:04 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/06/30/blogging-since.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/06/30/blogging-since.html</guid>
       </item>
     
   </channel>
