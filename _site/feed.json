@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/22/american-christianity-is.html",
+	      	
+			"content_html": "<p>American Christianity is as much an oxymoron as Roman Catholicism.</p>\n",
+			"date_published": "2018-07-22T12:23:01-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/22/american-christianity-is.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/21/review-of-the.html",
 	      	
 			"content_html": "<p><a href=\"https://archive.org/stream/byte-magazine-1983-01/1983_01_BYTE_08-01_Looking_Ahead#page/n373/mode/1up\">Review of the Timex Sinclair 1000</a> in the January 1983 issue of Byte magazine.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I have updated <a href=\"https://frankm.org/\">my profile page</a> and learned something about content delivery networks along the way. I host my profile in a S3 bucket that I have now configured for HTTPS. The only way to use Amazon’s SSL certificate is by using their CDN, Cloudfront.</p>\n\n<p>The fun begins when you make changes to said web page and they never seem to appear, even though you know for certain the latest version of that page is in the bucket. Turns out you need to invalidate that page in the Cloudfront console to force it to be refreshed in the cache. Along the way I made changes to the TTL for the page.</p>\n\n<p>All fun geeky stuff, but really too many hoops to serve a simple web page with one picture.</p>\n",
 			"date_published": "2018-07-14T23:02:13-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/14/i-have-updated.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/14/alan-jacobs-in.html",
-	      	
-			"content_html": "<p><a href=\"https://blog.ayjay.org/the-world-of-the-deal/\">Alan Jacobs:</a></p>\n\n<blockquote>\n  <p>In Trump’s world, you fit into one of three categories. You may be a mark, you may be leverage, you may be a loser.</p>\n</blockquote>\n",
-			"date_published": "2018-07-14T14:12:25-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/14/alan-jacobs-in.html"
 		}
 		
 	]
