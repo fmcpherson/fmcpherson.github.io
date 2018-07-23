@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/23/what-bothers-me.html",
+	      	
+			"content_html": "<p>What bothers me more is the number of people who find <a href=\"https://twitter.com/jeffjarvis/status/1021334339399843840\">the president’s behavior</a> acceptable. We have a huge disconnect in what is acceptable competency of a U.S. President. I want a person who can kill thousands on my behalf to be competent. For too many competency was not at all important in deciding between Clinton and Trump.</p>\n",
+			"date_published": "2018-07-23T09:50:34-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/23/what-bothers-me.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/22/american-christianity-is.html",
 	      	
 			"content_html": "<p>American Christianity is as much an oxymoron as Roman Catholicism.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>A couple of six pointers strolled through our back yard, nibbling on trees along the way.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d20aea9e8f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://frankmcpherson.blog/uploads/2018/e70c4bd3df.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-14T23:06:45-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/14/a-couple-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/15/i-have-updated.html",
-	      	
-			"content_html": "<p>I have updated <a href=\"https://frankm.org/\">my profile page</a> and learned something about content delivery networks along the way. I host my profile in a S3 bucket that I have now configured for HTTPS. The only way to use Amazon’s SSL certificate is by using their CDN, Cloudfront.</p>\n\n<p>The fun begins when you make changes to said web page and they never seem to appear, even though you know for certain the latest version of that page is in the bucket. Turns out you need to invalidate that page in the Cloudfront console to force it to be refreshed in the cache. Along the way I made changes to the TTL for the page.</p>\n\n<p>All fun geeky stuff, but really too many hoops to serve a simple web page with one picture.</p>\n",
-			"date_published": "2018-07-14T23:02:13-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/14/i-have-updated.html"
 		}
 		
 	]
