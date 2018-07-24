@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/24/i-guess-that.html",
+	      	
+			"content_html": "<p>I guess that I am getting old, I don’t get microcasts. For my ears, podcasts can be too long AND too short. Something that you say in two minutes can be written. Printed words, on the web, is the primary way I consume information. Audio adds anothe format requiring additional hardware. I recognize that I may be exhibiting how I have been programmed by media companies all these years.</p>\n",
+			"date_published": "2018-07-24T08:47:54-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/24/i-guess-that.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/23/potus-is-not.html",
+	      	
+			"content_html": "<p>POTUS is <a href=\"https://www.seattletimes.com/nation-world/bidenrsquos-corvette-fact-is-nations-leaders-not-allowed-to-drive/\">not allowed to drive a car</a>. I am beginning to think POTUS should not be allowed to use social networks either. Congress could pass a law. Do we really want to end up in a war because of a tweet?</p>\n",
+			"date_published": "2018-07-23T15:29:21-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/23/potus-is-not.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/23/190039.html",
+	      	
+			"content_html": "<p>I did not know that <a href=\"https://frankmcpherson.blog\">my micro.blog site</a> is actually <a href=\"http://manton.org/2016/07/06/building-on-jekyll.html\">based on Jekyll</a>, but it makes sense given that I can get a copy stored on Github.</p>\n",
+			"date_published": "2018-07-23T15:00:39-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/23/190039.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/23/what-bothers-me.html",
 	      	
 			"content_html": "<p>What bothers me more is the number of people who find <a href=\"https://twitter.com/jeffjarvis/status/1021334339399843840\">the president’s behavior</a> acceptable. We have a huge disconnect in what is acceptable competency of a U.S. President. I want a person who can kill thousands on my behalf to be competent. For too many competency was not at all important in deciding between Clinton and Trump.</p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p><a href=\"https://kottke.org/18/07/the-story-of-the-last-survivor-of-the-atlantic-slave-trade\">The story of the last survivor of the Atlantic slave trade</a></p>\n",
 			"date_published": "2018-07-15T13:03:00-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/15/the-story-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/15/interesting-story-about.html",
-	      	
-			"content_html": "<p>Interesting story about <a href=\"https://www.strongtowns.org/journal/2018/7/9/evolution-of-the-corner-store\">corner stores</a>. When I was growing up the nearest grocery store, one of these corner stores, was DeRidders. In the late 70s a fire gutted the building and the owner built a <a href=\"https://goo.gl/maps/uGbj5AdMq6K2\">much smaller “party” store across the U.S. highway from the old site</a>.</p>\n\n<p>In its day DeRidders was one of maybe a half dozen grocery stores in my small home town. Four were located on the three quarter mile long Main Street. Today only one grocery store remains in my home town, and it competes with a Walmart Superstore ten miles away.</p>\n",
-			"date_published": "2018-07-15T00:45:46-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/15/interesting-story-about.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/15/the-last-sears.html",
-	      	
-			"content_html": "<p><a href=\"https://www.msn.com/en-us/money/news/the-last-sears-in-chicago-is-closing/ar-AAzRFpI\">The last Sears store in Chicago</a> is closing today. Sears has been in Chicago since 1887.</p>\n",
-			"date_published": "2018-07-15T00:24:53-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/15/the-last-sears.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/15/a-couple-of.html",
-	      	
-			"content_html": "<p>A couple of six pointers strolled through our back yard, nibbling on trees along the way.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d20aea9e8f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://frankmcpherson.blog/uploads/2018/e70c4bd3df.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-14T23:06:45-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/14/a-couple-of.html"
 		}
 		
 	]
