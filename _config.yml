@@ -27,3 +27,4 @@ gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Frank McPherson"
+podcast: false
