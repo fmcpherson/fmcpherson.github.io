@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/26/one-thing-lacking.html",
+	      	
+			"content_html": "<p>One thing lacking is discourse and the desire to find lasting solutions to problems. There is a difference in a dogmatic view to problems, by which I mean a view in which solutions are pre-determined and implemented no matter what, and a scientific view that presents ideas (hypothesis) that are proven not to be false.</p>\n\n<p>The key element to an hypothesis, or an idea, is the opennes to it being wrong.</p>\n",
+			"date_published": "2018-07-26T09:17:09-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/26/one-thing-lacking.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/25/i-am-now.html",
+	      	
+			"content_html": "<p>I am now deep in beta land with the iOS 12 beta on my iPad Mini and Android P on my Pixel.</p>\n",
+			"date_published": "2018-07-25T19:30:19-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/25/i-am-now.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/25/android-ps-final.html",
 	      	
 			"content_html": "<p><a href=\"https://www.engadget.com/2018/07/25/android-p-final-preview-release/\">Android P’s final test release is here</a></p>\n\n<p>Google has released the final public beta for Android P, so I have decided to install it on my Pixel 2. I’ve enabled the gesture navigation and so far everything works great and the phone seems faster.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"http://scripting.com/2018/07/17.html#a135225\">Dave Winer picks up on a point</a> that <a href=\"http://frankmcpherson.blog/2018/07/16/i-dont-find.html\">I wrote about yesterday</a>. Trump’s behavior regarding Putin and Russia is driven by money and ego.</p>\n",
 			"date_published": "2018-07-17T11:45:05-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/17/dave-winer-picks.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/17/153235.html",
-	      	
-			"content_html": "<p>When I first saw the title of this book, <a href=\"http://howtothinkbook.com/\">How to Think</a>, my reaction was, “do we really need to teach people how to think?” Then I thought, yes, yes we do! More thinking and less reacting is needed.</p>\n\n<p>From the author:</p>\n<blockquote>\n  <p>“Eventually two points occurred to me. The first is that many of our fiercest disputes occur because the people involved simply aren’t thinking: they’re reacting or emoting or virtue-signaling or ingroup-identifying. The second is that I have spent my entire career thinking and trying to teach others to think.”</p>\n</blockquote>\n",
-			"date_published": "2018-07-17T11:32:35-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/17/153235.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/16/the-yellow-represents.html",
-	      	
-			"content_html": "<p>The yellow represents a severe thunderstorm warning. The blue pin is my house, and immediately below is the rest of our condo complex. If I walked 5 minutes out my front door I would be out of the warned area.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8378076369.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-16T16:12:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/16/the-yellow-represents.html"
 		}
 		
 	]
