@@ -4,8 +4,28 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Wed, 25 Jul 2018 19:25:43 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Jul 2018 19:25:43 -0400</lastBuildDate>
+    <pubDate>Thu, 26 Jul 2018 09:19:13 -0400</pubDate>
+    <lastBuildDate>Thu, 26 Jul 2018 09:19:13 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;One thing lacking is discourse and the desire to find lasting solutions to problems. There is a difference in a dogmatic view to problems, by which I mean a view in which solutions are pre-determined and implemented no matter what, and a scientific view that presents ideas (hypothesis) that are proven not to be false.&lt;/p&gt;
+
+&lt;p&gt;The key element to an hypothesis, or an idea, is the opennes to it being wrong.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 09:17:09 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/26/one-thing-lacking.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/26/one-thing-lacking.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am now deep in beta land with the iOS 12 beta on my iPad Mini and Android P on my Pixel.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Jul 2018 19:30:19 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/25/i-am-now.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/25/i-am-now.html</guid>
+      </item>
     
       <item>
       	
@@ -500,28 +520,6 @@
         <pubDate>Thu, 05 Jul 2018 18:53:55 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/07/05/what-the-heck.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/what-the-heck.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/d8e258211b.jpg&quot; alt=&quot;My office for the afternoon&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I work from home, I vocation in Starbucks.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Jul 2018 17:26:55 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/05/i-work-from.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/i-work-from.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Today I wrote a &lt;a href=&quot;https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html&quot;&gt;new article&lt;/a&gt; on my site hosted by Netlify that includes an image that I have stored in a S3 bucket. The bucket is not set up for HTTPS. Netlify has sent me an email that mixed, insecure content has been detected on my blog.&lt;/p&gt;
-
-&lt;p&gt;Sigh. Now I have to go and figure out how get that bucket, which is hosting my &lt;a href=&quot;http://frankm.org&quot;&gt;personal profile&lt;/a&gt; set up with HTTPS. Fortunately, it is a simple bucket, but really, this whole ham-handed push to HTTPS is getting old, fast.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Jul 2018 17:14:40 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/05/today-i-wrote.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/today-i-wrote.html</guid>
       </item>
     
   </channel>
