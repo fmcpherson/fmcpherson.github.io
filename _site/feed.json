@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/25/android-ps-final.html",
+	      	
+			"content_html": "<p><a href=\"https://www.engadget.com/2018/07/25/android-p-final-preview-release/\">Android P’s final test release is here</a></p>\n\n<p>Google has released the final public beta for Android P, so I have decided to install it on my Pixel 2. I’ve enabled the gesture navigation and so far everything works great and the phone seems faster.</p>\n",
+			"date_published": "2018-07-25T19:25:30-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/25/android-ps-final.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/24/i-agree-with.html",
+	      	
+			"content_html": "<p><a href=\"https://www.slashgear.com/keep-your-iphone-or-galaxy-note-ipad-best-tablet-android-guide-23538525/\">I agree with Slashgear</a> that users ought to be looking at lower cost tablets over more expensive smartphones. The majority of my personal computing is done on a tablet, either an iPad Mini or an iPad Pro. I use my smartphone when when I don’t have my tablet or in location where using a tablet is not practical.</p>\n",
+			"date_published": "2018-07-24T10:56:58-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/24/i-agree-with.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/24/a-costco-bundle.html",
+	      	
+			"content_html": "<p><a href=\"https://www.costco.com/Microsoft-Surface-Go-Bundle---Intel-Pentium---1800-x-1200-Display---Windows-10-in-S-Mode---Surface-Type-Cover.product.100428070.html\">A Costco bundle like this</a> is how I purchased my Surface 3.</p>\n\n<p>If I didn’t own the iPad Pro 10.5 I would probably be all over the Surface Pro Go.</p>\n",
+			"date_published": "2018-07-24T10:45:37-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/24/a-costco-bundle.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/24/trumps-tax-cuts.html",
+	      	
+			"content_html": "<p>Trumps tax cuts <a href=\"https://www.bloomberg.com/view/articles/2018-07-18/trump-s-tax-cut-hasn-t-done-anything-for-workers\">are not cutting it</a>. The idea of cutting taxes will result in more jobs and higher wages is a myth. Corporations are hyper-optimized for shareholder return, which is done by cutting jobs and maintaining or lowering wages.</p>\n\n<p>In almost all areas in the United States, mistakes are being made on the fundamentals. If the premise upon which a decision is based is wrong, then the decision and its consequences are wrong.</p>\n\n<p>The foundation is cracking, and nobody is willing to face up to this reality.</p>\n",
+			"date_published": "2018-07-24T10:42:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/24/trumps-tax-cuts.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/07/24/while-i-am.html",
+	      	
+			"content_html": "<p>While I am at it, despite that I use <a href=\"https://micro.blog\">micro.blog</a>, I have to confess that I don’t “get” micro.blogs. Perhaps I am being too literal. To me, a blog, is a blog, but there are titleless posts and posts with titles. Blogging back in 1999 was oriented around dates, and a weblog was a log of what one saw and reacted to on the web on a particular date. (In otherwords, titleless posts.)</p>\n\n<p>Now, I do get the idea of <a href=\"https://kfitz.info/feeds-and-gardens/\">coherent interaction relating to a blog post</a> that is probably the real, special sauce, to micro.blog. Back in 1999 we tried to implement this concept through link backs, but that had the challenge of notification of when someone did a link back so that you can participate in the “conversation.”</p>\n\n<p><a href=\"https://indieweb.org/Webmention\">Webmentions</a> may be a better technlogical implementation of the link back concept. Ironic that the micro.blog blog doesn’t seem to support it.</p>\n\n<p>Again, being honest, I don’t write what I write on my blogs for the comments or the likes or the shares. I selfishly write for me, and if you the reader get value out of what I write, all the better.</p>\n",
+			"date_published": "2018-07-24T09:04:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/24/while-i-am.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/24/i-guess-that.html",
 	      	
 			"content_html": "<p>I guess that I am getting old, I don’t get microcasts. For my ears, podcasts can be too long AND too short. Something that you say in two minutes can be written. Printed words, on the web, is the primary way I consume information. Audio adds anothe format requiring additional hardware. I recognize that I may be exhibiting how I have been programmed by media companies all these years.</p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>The yellow represents a severe thunderstorm warning. The blue pin is my house, and immediately below is the rest of our condo complex. If I walked 5 minutes out my front door I would be out of the warned area.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8378076369.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-16T16:12:33-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/16/the-yellow-represents.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/16/i-dont-find.html",
-	      	
-			"content_html": "<p>I don’t find it <a href=\"https://www.cnn.com/2018/07/16/politics/donald-trump-vladimir-putin-press-conference/index.html\">shocking</a> that Trump has a very favorable view towards Putin and Russia. Russia is about the only place that will give Trump a loan. Putin has not personally offended Trump in any way, and Trump likely does admire what Putin has.</p>\n\n<p>All Putin has to do is continue stroking Trump’s ego.</p>\n",
-			"date_published": "2018-07-16T15:52:10-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/16/i-dont-find.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/16/here-is-an.html",
-	      	
-			"content_html": "<p><a href=\"https://github.com/tpn/pdfs\">Here is an incredible catalog</a> of 1,000 technical-oriented PDFs hosted on Github.</p>\n",
-			"date_published": "2018-07-16T15:14:48-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/16/here-is-an.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/16/despite-what-you.html",
-	      	
-			"content_html": "<p>Despite what you might hear about one person or another having “all the qualifications” to be a Supreme Court Justice, <a href=\"https://www.history.com/news/7-things-you-might-not-know-about-the-u-s-supreme-court\">there are actually no constitutional qualifications</a> for a Supreme Court Justice.</p>\n\n<p>When someone says a person is qualified, what they really mean is that they think that person agrees with their ideology.</p>\n",
-			"date_published": "2018-07-16T09:12:08-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/16/despite-what-you.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/16/my-latest-theological.html",
-	      	
-			"content_html": "<p>My latest theological essay: <a href=\"https://writing.frankmcpherson.net/theology/2018/07/15/thy-kingdom-come,-my-kingdom-go.html\">Thy Kingdom Come, My Kingdom Go</a></p>\n",
-			"date_published": "2018-07-15T20:33:55-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/15/my-latest-theological.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/15/the-story-of.html",
-	      	
-			"content_html": "<p><a href=\"https://kottke.org/18/07/the-story-of-the-last-survivor-of-the-atlantic-slave-trade\">The story of the last survivor of the Atlantic slave trade</a></p>\n",
-			"date_published": "2018-07-15T13:03:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/15/the-story-of.html"
 		}
 		
 	]
