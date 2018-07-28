@@ -4,12 +4,52 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Thu, 26 Jul 2018 09:19:13 -0400</pubDate>
-    <lastBuildDate>Thu, 26 Jul 2018 09:19:13 -0400</lastBuildDate>
+    <pubDate>Sat, 28 Jul 2018 11:27:22 -0400</pubDate>
+    <lastBuildDate>Sat, 28 Jul 2018 11:27:22 -0400</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;One thing lacking is discourse and the desire to find lasting solutions to problems. There is a difference in a dogmatic view to problems, by which I mean a view in which solutions are pre-determined and implemented no matter what, and a scientific view that presents ideas (hypothesis) that are proven not to be false.&lt;/p&gt;
+        <description>&lt;p&gt;Which is more important, what you spend your time doing or who you spend your time with?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Jul 2018 11:26:03 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/28/which-is-more.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/28/which-is-more.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve been running &lt;a href=&quot;https://android-developers.googleblog.com/2018/07/final-preview-update-official-android-p.html&quot;&gt;Android P&lt;/a&gt; on my Pixel 2 for 24 hours and so far have seen no problems and I do believe the phone runs faster than when running Oreo.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 17:33:21 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/26/ive-been-running.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/26/ive-been-running.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Here is something that I find ironic. &lt;a href=&quot;https://www.wired.com/story/google-chrome-https-not-secure-label/&quot;&gt;Google is taking the lead&lt;/a&gt; towards pushing all web hosting on the Internet to use HTTPS. I have a blog that is hosted on Blogger, which is owned by Google. You can only &lt;a href=&quot;http://www.tech2watch.info/&quot;&gt;access that blog by HTTP&lt;/a&gt;, &lt;a href=&quot;https://www.tech2watch.info&quot;&gt;HTTPS does not work&lt;/a&gt; automatically as it does Wordpress and many other blog hosting sites.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 11:12:54 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/26/here-is-something.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/26/here-is-something.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Nothing threatens individual freedom and the meaning of life like war, poverty, terror. But there are also indirect and only slightly more remote dangers. One of these is the stupefaction of man . . . by mass culture with its intentional or commercially motivated lowering of intellectual level and content, with its stress on entertainment or utilitarianism, and with its carefully protective censorship. – &lt;a href=&quot;https://www.newyorker.com/news/our-columnists/fifty-years-later-andrei-sakharovs-most-famous-essay-is-a-powerful-model-of-writing-for-social-change&quot;&gt;Andrei Sakharov&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The New Yorker article I link to above that includes the quote above is very good, recommended.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 11:02:53 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/26/nothing-threatens-individual.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/26/nothing-threatens-individual.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;One thing lacking is discourse and the desire to find lasting solutions to problems. There is a difference in a dogmatic view to problems, by which I mean a view in which solutions are pre-determined and implemented no matter what, and a scientific view that &lt;a href=&quot;https://www.newyorker.com/news/our-columnists/fifty-years-later-andrei-sakharovs-most-famous-essay-is-a-powerful-model-of-writing-for-social-change&quot;&gt;presents ideas&lt;/a&gt; (hypothesis) that are proven not to be false.&lt;/p&gt;
 
 &lt;p&gt;The key element to an hypothesis, or an idea, is the opennes to it being wrong.&lt;/p&gt;
 </description>
@@ -222,304 +262,6 @@
         <pubDate>Fri, 20 Jul 2018 14:50:42 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/07/20/i-recently-rewrote.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/i-recently-rewrote.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;You can &lt;a href=&quot;https://www.troyhunt.com/everything-you-need-to-know-about-loading-a-free-lets-encrypt-certificate-into-an-azure-website/&quot;&gt;use Let’s Encrypt with Azure&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jul 2018 10:42:46 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/20/you-can-use.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/you-can-use.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html&quot;&gt;Azure has a different approach to static sites&lt;/a&gt; because it associates a VM to the site rather than storage. The big difference is that you can’t associate a custom domain to the free tier, you will have to pay for the VM and it looks like you will need to buy a certificate. The upside to this approach is that you can implement SSL without having to use a CDN.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jul 2018 10:28:08 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/20/azure-has-a.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/azure-has-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://cloud.google.com/storage/docs/hosting-static-website&quot;&gt;Google’s static website hosting&lt;/a&gt; is pretty much the same as AWS, and it also requires using a CDN if you want to implement HTTPS.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jul 2018 10:21:24 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/20/googles-static-website.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/googles-static-website.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;http://scripting.com/2018/07/17.html#a135225&quot;&gt;Dave Winer picks up on a point&lt;/a&gt; that &lt;a href=&quot;http://frankmcpherson.blog/2018/07/16/i-dont-find.html&quot;&gt;I wrote about yesterday&lt;/a&gt;. Trump’s behavior regarding Putin and Russia is driven by money and ego.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Jul 2018 11:45:05 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/17/dave-winer-picks.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/17/dave-winer-picks.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;When I first saw the title of this book, &lt;a href=&quot;http://howtothinkbook.com/&quot;&gt;How to Think&lt;/a&gt;, my reaction was, “do we really need to teach people how to think?” Then I thought, yes, yes we do! More thinking and less reacting is needed.&lt;/p&gt;
-
-&lt;p&gt;From the author:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“Eventually two points occurred to me. The first is that many of our fiercest disputes occur because the people involved simply aren’t thinking: they’re reacting or emoting or virtue-signaling or ingroup-identifying. The second is that I have spent my entire career thinking and trying to teach others to think.”&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 17 Jul 2018 11:32:35 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/17/153235.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/17/153235.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The yellow represents a severe thunderstorm warning. The blue pin is my house, and immediately below is the rest of our condo complex. If I walked 5 minutes out my front door I would be out of the warned area.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/8378076369.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jul 2018 16:12:33 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/16/the-yellow-represents.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/16/the-yellow-represents.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I don’t find it &lt;a href=&quot;https://www.cnn.com/2018/07/16/politics/donald-trump-vladimir-putin-press-conference/index.html&quot;&gt;shocking&lt;/a&gt; that Trump has a very favorable view towards Putin and Russia. Russia is about the only place that will give Trump a loan. Putin has not personally offended Trump in any way, and Trump likely does admire what Putin has.&lt;/p&gt;
-
-&lt;p&gt;All Putin has to do is continue stroking Trump’s ego.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jul 2018 15:52:10 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/16/i-dont-find.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/16/i-dont-find.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/tpn/pdfs&quot;&gt;Here is an incredible catalog&lt;/a&gt; of 1,000 technical-oriented PDFs hosted on Github.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jul 2018 15:14:48 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/16/here-is-an.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/16/here-is-an.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Despite what you might hear about one person or another having “all the qualifications” to be a Supreme Court Justice, &lt;a href=&quot;https://www.history.com/news/7-things-you-might-not-know-about-the-u-s-supreme-court&quot;&gt;there are actually no constitutional qualifications&lt;/a&gt; for a Supreme Court Justice.&lt;/p&gt;
-
-&lt;p&gt;When someone says a person is qualified, what they really mean is that they think that person agrees with their ideology.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jul 2018 09:12:08 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/16/despite-what-you.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/16/despite-what-you.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;My latest theological essay: &lt;a href=&quot;https://writing.frankmcpherson.net/theology/2018/07/15/thy-kingdom-come,-my-kingdom-go.html&quot;&gt;Thy Kingdom Come, My Kingdom Go&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jul 2018 20:33:55 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/15/my-latest-theological.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/16/my-latest-theological.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://kottke.org/18/07/the-story-of-the-last-survivor-of-the-atlantic-slave-trade&quot;&gt;The story of the last survivor of the Atlantic slave trade&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jul 2018 13:03:00 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/15/the-story-of.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/the-story-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Interesting story about &lt;a href=&quot;https://www.strongtowns.org/journal/2018/7/9/evolution-of-the-corner-store&quot;&gt;corner stores&lt;/a&gt;. When I was growing up the nearest grocery store, one of these corner stores, was DeRidders. In the late 70s a fire gutted the building and the owner built a &lt;a href=&quot;https://goo.gl/maps/uGbj5AdMq6K2&quot;&gt;much smaller “party” store across the U.S. highway from the old site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In its day DeRidders was one of maybe a half dozen grocery stores in my small home town. Four were located on the three quarter mile long Main Street. Today only one grocery store remains in my home town, and it competes with a Walmart Superstore ten miles away.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jul 2018 00:45:46 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/15/interesting-story-about.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/interesting-story-about.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.msn.com/en-us/money/news/the-last-sears-in-chicago-is-closing/ar-AAzRFpI&quot;&gt;The last Sears store in Chicago&lt;/a&gt; is closing today. Sears has been in Chicago since 1887.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jul 2018 00:24:53 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/15/the-last-sears.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/the-last-sears.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;A couple of six pointers strolled through our back yard, nibbling on trees along the way.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/d20aea9e8f.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/e70c4bd3df.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Jul 2018 23:06:45 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/14/a-couple-of.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/a-couple-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I have updated &lt;a href=&quot;https://frankm.org/&quot;&gt;my profile page&lt;/a&gt; and learned something about content delivery networks along the way. I host my profile in a S3 bucket that I have now configured for HTTPS. The only way to use Amazon’s SSL certificate is by using their CDN, Cloudfront.&lt;/p&gt;
-
-&lt;p&gt;The fun begins when you make changes to said web page and they never seem to appear, even though you know for certain the latest version of that page is in the bucket. Turns out you need to invalidate that page in the Cloudfront console to force it to be refreshed in the cache. Along the way I made changes to the TTL for the page.&lt;/p&gt;
-
-&lt;p&gt;All fun geeky stuff, but really too many hoops to serve a simple web page with one picture.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Jul 2018 23:02:13 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/14/i-have-updated.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/15/i-have-updated.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://blog.ayjay.org/the-world-of-the-deal/&quot;&gt;Alan Jacobs:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In Trump’s world, you fit into one of three categories. You may be a mark, you may be leverage, you may be a loser.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sat, 14 Jul 2018 14:12:25 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/14/alan-jacobs-in.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/alan-jacobs-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;http://bostonreview.net/archives/BR30.2/raboteau.php&quot;&gt;bostonreview.net&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;At its best, democracy balances the rights of the individual with the responsibility to participate in the public conversations and tasks that make civic community possible. However, the possibility of so stressing rights that we forget responsibility is a perennial threat to American liberty. The choice of privileging one over the other comes down to a simple, but profound question: “What is freedom for?”&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sat, 14 Jul 2018 13:57:29 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/14/bostonreviewnet-at-its.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/bostonreviewnet-at-its.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Remember when Wimbledon was for the serve and volley? Watching Serena complain about the bad bounces coming from the chewed up grass and dirt in the baseline has me thinking, get up the court toward the net where the grass is greener. Not to mention a volley eliminates the bad bounce.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Jul 2018 12:13:18 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/14/remember-when-wimbledon.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/remember-when-wimbledon.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Watching tennis in HD has me wondering how I could have done so on a 19 inch set while growing up. Like playing tennis with a wood racquet.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Jul 2018 11:48:16 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/14/watching-tennis-in.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/14/watching-tennis-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;According to &lt;a href=&quot;http://www.informationclearinghouse.info/article41086.htm&quot;&gt;this site&lt;/a&gt; the United States has NOT been at war only 5 of my 52 years. Throughout its existence the United States has been at war 93% of the time.&lt;/p&gt;
-
-&lt;p&gt;Christian nation? Not according to Jesus.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Jul 2018 15:24:53 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/11/according-to-this.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/11/according-to-this.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;On the gripping hand, in a year the price of &lt;a href=&quot;https://www.laptopmag.com/articles/microsoft-surface-go-specs-price&quot;&gt;the Surface Go&lt;/a&gt; may become low enough to make it a worthwhile replacement of my Surface 3. The Surface 3 is my only personally-owned Windows 10 machine.&lt;/p&gt;
-
-&lt;p&gt;For me, the main problem with the Go is its price, I think Microsoft either needs to bundle the keyboard or drop the price down at least $100. What makes the Go appealing is the built-in kickstand and mouse support, both of which are things I miss using the iPad Pro.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Jul 2018 14:42:25 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/10/on-the-gripping.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/10/on-the-gripping.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.wired.com/story/surface-go-microsofts-big-bet-on-a-tiny-computer-future/&quot;&gt;Surface Go Is Microsoft’s Big Bet on a Tiny-Computer Future&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I am curious to see how much smaller the Surface Go is compared to the Surface 3. Unfortunately for Microsoft, I’ve replaced the Surface 3 with a iPad Pro 10.5 and it is hard to see why I would want the new Go rather than the iPad.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jul 2018 22:25:41 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/09/surface-go-is.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/10/surface-go-is.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I really dislike &lt;a href=&quot;https://www.cnet.com/news/starbucks-will-ditch-plastic-straws-for-fancy-designer-lids/#ftag=CAD590a51e&quot;&gt;these new lids&lt;/a&gt; that Starbucks is starting to use.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jul 2018 11:47:36 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/09/i-really-dislike.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/09/i-really-dislike.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I am running the iOS 12 beta in my iPad Mini and therefore need to learn the &lt;a href=&quot;https://lifehacker.com/the-iphone-x-gestures-you-should-master-1821395834&quot;&gt;iPhone X gestures&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jul 2018 11:41:32 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/09/i-am-running.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/09/i-am-running.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Do the ends justify the means?&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Jul 2018 16:05:17 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/07/do-the-ends.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/07/do-the-ends.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The backup of this site in GitHub has refreshed, and that repo has been pulled down to my iPad. Backup of backup&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Jul 2018 14:36:10 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/06/the-backup-of.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/06/the-backup-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Lisa-Shearin/e/B001JSEICI&quot;&gt;Lisa Shearin&lt;/a&gt; is one of my favorite authors. Settling in with &lt;a href=&quot;https://www.amazon.com/gp/product/198682490X/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;amp;tag=lisashearin-20&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=198682490X&amp;amp;linkId=10fc01c6e671b7f2529d1ac6769df1c2&quot;&gt;her latest&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Jul 2018 11:14:04 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/06/lisa-shearin-is.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/06/lisa-shearin-is.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Moved to the patio. May be here most of the day. #staycation&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/30b7c7dbc6.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Jul 2018 11:07:15 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/06/moved-to-the.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/06/moved-to-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;What the heck?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/1ae6dc703c.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Jul 2018 18:53:55 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/05/what-the-heck.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/05/what-the-heck.html</guid>
       </item>
     
   </channel>
