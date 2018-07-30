@@ -4,8 +4,19 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sat, 28 Jul 2018 11:27:22 -0400</pubDate>
-    <lastBuildDate>Sat, 28 Jul 2018 11:27:22 -0400</lastBuildDate>
+    <pubDate>Mon, 30 Jul 2018 11:04:55 -0400</pubDate>
+    <lastBuildDate>Mon, 30 Jul 2018 11:04:55 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;One reaction to &lt;a href=&quot;https://www.cnbc.com/2018/07/10/eu-hits-alphabet-google-with-android-antitrust-fine.html&quot;&gt;the EU decision regarding Android&lt;/a&gt; is that Google may have erred by making Android open source. A close source Android likely would have been bad for consumers and have prevented it from being as widely used as it is. We would likely be dealing with more than two defacto mobile OS standards.&lt;/p&gt;
+
+&lt;p&gt;So, is &lt;a href=&quot;https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism&quot;&gt;Fuchsia the solution to Googles Android EU problem&lt;/a&gt;?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jul 2018 11:04:41 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/07/30/one-reaction-to.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/30/one-reaction-to.html</guid>
+      </item>
     
       <item>
       	
@@ -249,19 +260,6 @@
         <pubDate>Fri, 20 Jul 2018 15:00:43 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/07/20/what-is-solid.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/what-is-solid.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I recently rewrote &lt;a href=&quot;https://frankm.org&quot;&gt;my profile page&lt;/a&gt; and implemented HTTPS using Amazon S3 and Cloudfront.  In my opinion S3 provides one of the easiest and least expensive ways to host a simple, static web site. Unfortunately HTTPS adds complexity, both in what you need to do to build the site and also in how you maintain it.&lt;/p&gt;
-
-&lt;p&gt;I did a brief survey and I think that that the simplest way to set up a web site with HTTPS is to host with a service like &lt;a href=&quot;https://www.bluehost.com&quot;&gt;Bluehost&lt;/a&gt;, which provides a free SSL certificate. &lt;a href=&quot;https://my.bluehost.com/hosting/help/141#shared&quot;&gt;Bluehosts’s $8.99/month price&lt;/a&gt; is reasonable, but not as cheap as Amazon for a really small site like mine, which is a single HTML page.&lt;/p&gt;
-
-&lt;p&gt;So, in my opinion with the current push to HTTPS,  you are better off going with a service provider that includes HTTPS as part of the service. If you are more technical and willing to fiddle with things, you can save money with S3/Cloudfront.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jul 2018 14:50:42 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/20/i-recently-rewrote.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/20/i-recently-rewrote.html</guid>
       </item>
     
   </channel>
