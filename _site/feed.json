@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/07/31/new-feature-to.html",
+	      	
+			"content_html": "<p><a href=\"http://manton.org/2018/07/31/151054.html\">New feature</a> to try on this blog… <a href=\"https://github.com/cleverdevil/micromemories\">On This Day</a>.</p>\n",
+			"date_published": "2018-07-31T11:26:34-04:00",
+			"url": "https://frankmcpherson.blog/2018/07/31/new-feature-to.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/30/one-reaction-to.html",
 	      	
 			"content_html": "<p>One reaction to <a href=\"https://www.cnbc.com/2018/07/10/eu-hits-alphabet-google-with-android-antitrust-fine.html\">the EU decision regarding Android</a> is that Google may have erred by making Android open source. A close source Android likely would have been bad for consumers and have prevented it from being as widely used as it is. We would likely be dealing with more than two defacto mobile OS standards.</p>\n\n<p>So, is <a href=\"https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism\">Fuchsia the solution to Googles Android EU problem</a>?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Pro tip: during a rain storm the best indoor place to hear the rain fall is an attached garage, assuming it is not insulated. An attic may be as good, but mine isn’t accessible. I stood in my garage for several minutes this morning listening to the rain.</p>\n",
 			"date_published": "2018-07-21T10:30:12-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/21/pro-tip-during.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/20/what-is-solid.html",
-	      	
-			"content_html": "<p>What is <a href=\"https://solid.mit.edu/\">Solid</a>?</p>\n",
-			"date_published": "2018-07-20T15:00:43-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/20/what-is-solid.html"
 		}
 		
 	]
