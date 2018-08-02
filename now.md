@@ -2,8 +2,8 @@
 title: "Now"
 permalink: "/now/"
 layout: page
-order: 1
-date: 2018-06-30 18:42:05 -0400
+order: 4
+date: 2018-07-31 11:27:45 -0400
 ---
 I am currently:
 
