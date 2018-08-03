@@ -6,6 +6,62 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/03/good-morning.html",
+	      	
+			"content_html": "<p>Good morning!</p>\n",
+			"date_published": "2018-08-03T09:09:52-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/03/good-morning.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/03/musician-joe-walsh.html",
+	      	
+			"content_html": "<p><a href=\"https://laughingsquid.com/joe-walsh-explains-lifes-been-good/\">Musician Joe Walsh Hilariously Explains the Meaning of ‘Life’s Been Good’ to a Live Audience</a></p>\n\n<p>Great story behind the song.</p>\n",
+			"date_published": "2018-08-02T23:04:34-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/02/musician-joe-walsh.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/03/surface-go-review.html",
+	      	
+			"content_html": "<p><a href=\"https://www.engadget.com/2018/08/02/surface-go-review/\">Surface Go review: The ideal cheap Windows tablet… almost</a></p>\n\n<p>I bought the Surface 3 because of its support for an active digitizer. Now that the iPad supports the Apple Pencil and it is cheaper than the Surface Go, it would be really hard for me to pick the Go over the iPad.</p>\n",
+			"date_published": "2018-08-02T22:44:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/02/surface-go-review.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/02/the-founders-of.html",
+	      	
+			"content_html": "<p>The founders of the United States did not intend the President to be the most powerful man in the world.</p>\n",
+			"date_published": "2018-08-02T11:03:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/02/the-founders-of.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/02/ive-been-keeping.html",
+	      	
+			"content_html": "<p>I’ve been keeping an eye out for the Acer Chromebook Spin 13, but <a href=\"https://liliputing.com/2018/08/acer-chromebook-13-chromebook-spin-13-coming-in-september-for-650-and-up.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Liliputing+%28Liliputing%29\">now that I see the pricing</a> I am conflicted. At that $750 price it might be worth just buying the current Google Pixelbook.</p>\n",
+			"date_published": "2018-08-02T10:49:12-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/02/ive-been-keeping.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/02/good-quote-said.html",
+	      	
+			"content_html": "<p><a href=\"https://john.philpin.com/2018/03/31/as-democracy-is.html\">Good quote</a>. Said differently, democracy is not what our small self wants. We much rather just have someone take care of us. True originalists understand that the founders did not build a Presidency, they built a Congress.</p>\n\n<p>The problem is that for the last 100 years Congress has been about building a Presidency.</p>\n",
+			"date_published": "2018-08-02T10:39:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/02/good-quote-said.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/01/i-have-not.html",
+	      	
+			"content_html": "<p>I have not been in the habit of migrating my blog posts between blog platforms, so I don’t intend to move posts into this site. My previous blogs are still online <a href=\"http://webnotes.frankmcpherson.net/\">here</a> and <a href=\"http://writing.frankmcpherson.org/\">here</a>. To go even further back in time you can find posts <a href=\"https://fjmnotes.com/2008/05/\">starting in 2008</a> on <a href=\"https://fjmnotes.com\">my Wordpress blog</a>, to which I consolidate copies of all my social network updates and these blogs posts via a IFTTT recipe.</p>\n",
+			"date_published": "2018-08-01T13:51:18-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/01/i-have-not.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/07/31/everything-you-want.html",
 	      	
 			"content_html": "<p>Everything you want to know <a href=\"https://www.reddit.com/r/Crostini/wiki/index\">about Crostini</a>.</p>\n",
@@ -147,62 +203,6 @@
 			"content_html": "<p>What bothers me more is the number of people who find <a href=\"https://twitter.com/jeffjarvis/status/1021334339399843840\">the president’s behavior</a> acceptable. We have a huge disconnect in what is acceptable competency of a U.S. President. I want a person who can kill thousands on my behalf to be competent. For too many competency was not at all important in deciding between Clinton and Trump.</p>\n",
 			"date_published": "2018-07-23T09:50:34-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/23/what-bothers-me.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/22/american-christianity-is.html",
-	      	
-			"content_html": "<p>American Christianity is as much an oxymoron as Roman Catholicism.</p>\n",
-			"date_published": "2018-07-22T12:23:01-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/22/american-christianity-is.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/21/review-of-the.html",
-	      	
-			"content_html": "<p><a href=\"https://archive.org/stream/byte-magazine-1983-01/1983_01_BYTE_08-01_Looking_Ahead#page/n373/mode/1up\">Review of the Timex Sinclair 1000</a> in the January 1983 issue of Byte magazine.</p>\n",
-			"date_published": "2018-07-21T17:14:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/21/review-of-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/21/if-you-were.html",
-	      	
-			"content_html": "<p>If you were a teenager in the 80s and did anything with a computer, you probably coveted Compute! Now you can <a href=\"https://archive.org/details/compute-magazine\">go back in time and browse through old issues</a> thanks to the Internet Archive.</p>\n",
-			"date_published": "2018-07-21T13:19:31-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/21/if-you-were.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/21/my-first-computer.html",
-	      	
-			"content_html": "<p>My first computer was the <a href=\"http://oldcomputers.net/ts1000.html\">Timex Sinclair</a> 1000 that my grandmother gave me as a birthday present in 1983. I got that computer because it was cheap enough for my grandmother to buy, and she somehow determined back then that computers where the future.</p>\n\n<p>One of the unique things about the TS1000 is that it had a membrane keyboard and each key had multiple functions, most notably certain function key combinations produced BASIC reserve words geared towards making it easy to learn how to program. The TS1000’s keyboard could be seen today as a predecessor to today’s on-screen keyboards.</p>\n\n<p>Back in the 80s and early 90s all personal computers came with an operating system and the BASIC programming language. While you could buy some pre-packaged software, the most common way to add programs to a computer was by either writing yourself or by typing one that was <a href=\"https://arstechnica.com/staff/2012/12/first-encounter-compute-magazine-and-its-glorious-tedious-type-in-code/\">printed in a magazine</a>.</p>\n\n<p>The TS1000 was an educational computer and the forefather to the <a href=\"https://www.raspberrypi.org/\">Raspberry Pi</a> that you can buy today for as little as $30. I have several Raspberry Pis that I tinker with, and I think parents ought to buy them for any child who is at all interested in studying computers.</p>\n",
-			"date_published": "2018-07-21T13:14:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/21/my-first-computer.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/21/153925.html",
-	      	
-			"content_html": "<p>What scares me most is that Trump supporters do not appear to have lines, by which I mean there is nothing Trump can do that will lose their support. Ought right determination to not change one’s mind, no matter what is frightening. Progress requires an openness to admitting that one is wrong.</p>\n",
-			"date_published": "2018-07-21T11:39:25-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/21/153925.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/21/buffy-the-vampire.html",
-	      	
-			"content_html": "<p><a href=\"https://www.slashgear.com/buffy-the-vampire-slayer-reboot-revealed-with-joss-whedon-onboard-20538369/\">Buffy The Vampire Slayer reboot revealed with Joss Whedon onboard - SlashGear</a></p>\n\n<p>I have mixed feeling about this news. As time has past I have accepted the series is done and moved on. In some ways it would be nice to leave it be. On the other hand, knowing Joss is behind this has me curious to see where he takes the story. I think Joss is smart enough to know a reboot cannot try to be the same. In the meantime, lots can happen for this to not happen.</p>\n",
-			"date_published": "2018-07-21T11:31:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/21/buffy-the-vampire.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/21/i-find-the.html",
-	      	
-			"content_html": "<p>I find the renewed interest in RSS interesting and refreshing.</p>\n",
-			"date_published": "2018-07-21T11:19:37-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/21/i-find-the.html"
 		}
 		
 	]
