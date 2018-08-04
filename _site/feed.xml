@@ -4,12 +4,38 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 03 Aug 2018 10:22:00 -0400</pubDate>
-    <lastBuildDate>Fri, 03 Aug 2018 10:22:00 -0400</lastBuildDate>
+    <pubDate>Sat, 04 Aug 2018 12:11:18 -0400</pubDate>
+    <lastBuildDate>Sat, 04 Aug 2018 12:11:18 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.axios.com/dnc-warns-candidates-to-not-use-zte-huawei-devices-b9a9246c-1f26-42cb-8989-b2c307011750.html&quot;&gt;Democratic National Committee warns candidates to not use ZTE, Huawei devices - Axios&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe the DNC should be teaching their members about social engineering, phishing, and good security hygiene. Most hacks occur between the brain and the fingers.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Aug 2018 12:08:53 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/04/democratic-national-committee.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/04/democratic-national-committee.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.computerworld.com/article/3293900/android/snap-between-apps-android.html&quot;&gt;A better way to snap between apps on Android - Computerworld&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I am still in the process of building muscle memory around the gestures in Android P, but this looks like a useful addition to Android.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Aug 2018 13:21:10 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/03/a-better-way.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/03/a-better-way.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;I am pretty much following &lt;a href=&quot;https://indieweb.org/POSSE&quot;&gt;POSSE&lt;/a&gt;, hosting my content with domains I own on either &lt;a href=&quot;https://frankmcpherson.blog&quot;&gt;micro.blog&lt;/a&gt; or &lt;a href=&quot;https://writing.frankmcpherson.net&quot;&gt;Netlify&lt;/a&gt;, and syndicating that content to &lt;a href=&quot;https://twitter.com/frankm&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/writtenbyfrank&quot;&gt;Facebook&lt;/a&gt;, and &lt;a href=&quot;https://fjmnotes.com&quot;&gt;Wordpress&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One problem with this approach is that syndication only occurs once. If I make edits, like I just did (you will notice a typo in the related tweet) the corresponding syndicated item is not changed. I think this highlights one of the main differences between blogs and social networks. Blogs abide the reality that we make mistakes and provides an easy why to correct those mistakes, and social networks do not.&lt;/p&gt;
+
+&lt;p&gt;One strange thing syndicating to Wordpress is that just about every post I make there gets liked by someone new. While I know some of the likes are from real people, it feels like bots.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Aug 2018 10:09:17 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/08/03/the-am-pretty.html</link>
@@ -41,6 +67,8 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://www.engadget.com/2018/08/02/surface-go-review/&quot;&gt;Surface Go review: The ideal cheap Windows tablet… almost&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I bought the Surface 3 because of its support for an active digitizer. Now that the iPad supports the Apple Pencil and it is cheaper than the Surface Go, it would be really hard for me to pick the Go over the iPad.&lt;/p&gt;
+
+&lt;p&gt;Ever since I bought the iPad Pro 10.5 my Surface 3 has been relegated to role as my only computer running Windows 10. I picked up a refurbed dock for a low price, and the Surface 3 sits in that dock pretty much unused until I have a need to run Windows on a computer that I own. So far all releases of Windows 10 run on it, so I don’t really have a need to replace or retire it until it can no longer be patched.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Aug 2018 22:44:05 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/08/02/surface-go-review.html</link>
@@ -240,24 +268,6 @@
         <pubDate>Tue, 24 Jul 2018 08:47:54 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/07/24/i-guess-that.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/07/24/i-guess-that.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;POTUS is &lt;a href=&quot;https://www.seattletimes.com/nation-world/bidenrsquos-corvette-fact-is-nations-leaders-not-allowed-to-drive/&quot;&gt;not allowed to drive a car&lt;/a&gt;. I am beginning to think POTUS should not be allowed to use social networks either. Congress could pass a law. Do we really want to end up in a war because of a tweet?&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Jul 2018 15:29:21 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/23/potus-is-not.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/23/potus-is-not.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I did not know that &lt;a href=&quot;https://frankmcpherson.blog&quot;&gt;my micro.blog site&lt;/a&gt; is actually &lt;a href=&quot;http://manton.org/2016/07/06/building-on-jekyll.html&quot;&gt;based on Jekyll&lt;/a&gt;, but it makes sense given that I can get a copy stored on Github.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Jul 2018 15:00:39 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/23/190039.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/23/190039.html</guid>
       </item>
     
   </channel>
