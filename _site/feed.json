@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/05/saving-jesus-redux.html",
+	      	
+			"content_html": "<p><a href=\"https://the-narthex.org/2011/03/11/saving-jesus-redux/\">Saving Jesus Redux – Learning From Others, Seeking The Way</a></p>\n\n<p>I hope the embedded video I provides food for thought.</p>\n",
+			"date_published": "2018-08-05T14:40:47-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/05/saving-jesus-redux.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/04/android-p-will.html",
+	      	
+			"content_html": "<p><a href=\"https://androidcommunity.com/android-p-will-reportedly-be-rolled-out-on-august-20-20180803/\">Android P will reportedly be rolled out on August 20 - Android Community</a></p>\n\n<p>I’ve been running Android P on my Pixel 2 for a couple of weeks and I have not had any problems with it. I also think it is an iterative improvement on Oreo, meaning that if you don’t have It you aren’t necessarily missing out.</p>\n\n<p><a href=\"https://www.androidpolice.com/2018/07/24/every-new-android-p-feature-weve-found-far-continuously-updated/\">Android Police has a complete rundown</a> of all the new things. Oddly, my favorite may be the charging sound, as I have had cases when I thought I was charging my phone when I wasn’t because the charger was completely plugged in.  The cleaned up settings and notifications are nice, and the navigation improvements are ok but not amazing. I am still looking for significant improvement in battery life.</p>\n",
+			"date_published": "2018-08-04T12:50:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/04/android-p-will.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/04/democratic-national-committee.html",
 	      	
 			"content_html": "<p><a href=\"https://www.axios.com/dnc-warns-candidates-to-not-use-zte-huawei-devices-b9a9246c-1f26-42cb-8989-b2c307011750.html\">Democratic National Committee warns candidates to not use ZTE, Huawei devices - Axios</a></p>\n\n<p>Maybe the DNC should be teaching their members about social engineering, phishing, and good security hygiene. Most hacks occur between the brain and the fingers.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Trumps tax cuts <a href=\"https://www.bloomberg.com/view/articles/2018-07-18/trump-s-tax-cut-hasn-t-done-anything-for-workers\">are not cutting it</a>. The idea of cutting taxes will result in more jobs and higher wages is a myth. Corporations are hyper-optimized for shareholder return, which is done by cutting jobs and maintaining or lowering wages.</p>\n\n<p>In almost all areas in the United States, mistakes are being made on the fundamentals. If the premise upon which a decision is based is wrong, then the decision and its consequences are wrong.</p>\n\n<p>The foundation is cracking, and nobody is willing to face up to this reality.</p>\n",
 			"date_published": "2018-07-24T10:42:22-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/24/trumps-tax-cuts.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/24/while-i-am.html",
-	      	
-			"content_html": "<p>While I am at it, despite that I use <a href=\"https://micro.blog\">micro.blog</a>, I have to confess that I don’t “get” micro.blogs. Perhaps I am being too literal. To me, a blog, is a blog, but there are titleless posts and posts with titles. Blogging back in 1999 was oriented around dates, and a weblog was a log of what one saw and reacted to on the web on a particular date. (In otherwords, titleless posts.)</p>\n\n<p>Now, I do get the idea of <a href=\"https://kfitz.info/feeds-and-gardens/\">coherent interaction relating to a blog post</a> that is probably the real, special sauce, to micro.blog. Back in 1999 we tried to implement this concept through link backs, but that had the challenge of notification of when someone did a link back so that you can participate in the “conversation.”</p>\n\n<p><a href=\"https://indieweb.org/Webmention\">Webmentions</a> may be a better technlogical implementation of the link back concept. Ironic that the micro.blog blog doesn’t seem to support it.</p>\n\n<p>Again, being honest, I don’t write what I write on my blogs for the comments or the likes or the shares. I selfishly write for me, and if you the reader get value out of what I write, all the better.</p>\n",
-			"date_published": "2018-07-24T09:04:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/24/while-i-am.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/24/i-guess-that.html",
-	      	
-			"content_html": "<p>I guess that I am getting old, I don’t get microcasts. For my ears, podcasts can be too long AND too short. Something that you say in two minutes can be written. Printed words, on the web, is the primary way I consume information. Audio adds anothe format requiring additional hardware. I recognize that I may be exhibiting how I have been programmed by media companies all these years.</p>\n",
-			"date_published": "2018-07-24T08:47:54-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/24/i-guess-that.html"
 		}
 		
 	]
