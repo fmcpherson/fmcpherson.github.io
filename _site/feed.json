@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/06/google-has-formally.html",
+	      	
+			"content_html": "<p><a href=\"https://blog.google/products/android/introducing-android-9-pie/\">Google has formally released Android 9</a>, which will informally be known as Android Pie (P is for Pie). The nanny, otherwise known as Digital Wellbeing, will launch in the fall. I am not surprised by the release as the beta I have been running has been very stable.</p>\n",
+			"date_published": "2018-08-06T16:38:10-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/06/google-has-formally.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/06/i-thought-this.html",
+	      	
+			"content_html": "<p>I thought this weekend I had my first fatality due to <a href=\"https://frankmcpherson.blog/2018/07/26/ive-been-running.html\">upgrading my Pixel 2 to Android P</a>. The Starbucks app on my phone lost my login information and I couldn’t get it to signin. It took me a day to contemplate the issue before I decided to uninstall and reinstall the app, which fixed the problem.</p>\n",
+			"date_published": "2018-08-06T10:01:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/06/i-thought-this.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/06/frank-rich-in.html",
 	      	
 			"content_html": "<p><a href=\"http://nymag.com/daily/intelligencer/2018/08/frank-rich-2008-financial-crisis-end-of-american-dream.html\">Frank Rich: In 2008, America Stopped Believing in the American Dream</a></p>\n<blockquote>\n  <p>In Behold, America, a fascinating new look at “the entangled history” of “America First” and “the American Dream,” out this fall, Sarah Churchwell unearths a 1900 editorial in the New York Post fretting about how multimillionaires “are very rarely, if ever, content with a position of equality.” The paper hypothesized that “the American dream,” a term not yet in common parlance, could be ended by their greed. A similar 1908 editorial in the Leavenworth, Kansas, Times, again invoking “American dreams,” championed “the equitable distribution of wealth” while making pointed note of the vast discrepancy between the pay of an insurance-company executive and a headmaster: “Why do we accord highest place to money mongers and lowest place to teachers of ideals?”</p>\n</blockquote>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://www.engadget.com/2018/07/25/android-p-final-preview-release/\">Android P’s final test release is here</a></p>\n\n<p>Google has released the final public beta for Android P, so I have decided to install it on my Pixel 2. I’ve enabled the gesture navigation and so far everything works great and the phone seems faster.</p>\n",
 			"date_published": "2018-07-25T19:25:30-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/25/android-ps-final.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/24/i-agree-with.html",
-	      	
-			"content_html": "<p><a href=\"https://www.slashgear.com/keep-your-iphone-or-galaxy-note-ipad-best-tablet-android-guide-23538525/\">I agree with Slashgear</a> that users ought to be looking at lower cost tablets over more expensive smartphones. The majority of my personal computing is done on a tablet, either an iPad Mini or an iPad Pro. I use my smartphone when when I don’t have my tablet or in location where using a tablet is not practical.</p>\n",
-			"date_published": "2018-07-24T10:56:58-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/24/i-agree-with.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/24/a-costco-bundle.html",
-	      	
-			"content_html": "<p><a href=\"https://www.costco.com/Microsoft-Surface-Go-Bundle---Intel-Pentium---1800-x-1200-Display---Windows-10-in-S-Mode---Surface-Type-Cover.product.100428070.html\">A Costco bundle like this</a> is how I purchased my Surface 3.</p>\n\n<p>If I didn’t own the iPad Pro 10.5 I would probably be all over the Surface Pro Go.</p>\n",
-			"date_published": "2018-07-24T10:45:37-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/24/a-costco-bundle.html"
 		}
 		
 	]
