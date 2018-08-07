@@ -6,9 +6,25 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/07/do-we-still.html",
+	      	
+			"content_html": "<p>Do we still know what parts of the Internet are the public’s and which part is the corporations? <a href=\"https://www.history.com/news/who-invented-the-internet\">The Internet began as a U.S. Department of Defense project</a>, funded by taxpayers and therefore owned by the public. At a minimum that part of the Internet should be open with free speech protections, but can we even find it?</p>\n\n<p>Our unwillingness to create new utilities, owned and protected by the government (too much like socialism) is to our detriment. Government should do more than spend billions on defense and enable corporate owners to get rich.</p>\n",
+			"date_published": "2018-08-07T09:08:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/07/do-we-still.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/07/i-have-built.html",
+	      	
+			"content_html": "<p>I have built myself a remote Linux Ubuntu/XFCE session using <a href=\"https://cepa.io/2018/08/05/building-an-ultimate-remote-linux-workstation/\">these instructions</a> and a VM I created at <a href=\"https://www.cloudatcost.com\">CloudAtClost</a>. The VM I created had 2 vCPUs and 2 GB of RAM and runs pretty well, at least for text entry and email processing. Now, if only I could find a working X2GO client for iOS, the one in the app store does not run on my iPad Pro.</p>\n",
+			"date_published": "2018-08-06T20:02:42-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/06/i-have-built.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/06/google-has-formally.html",
 	      	
-			"content_html": "<p><a href=\"https://blog.google/products/android/introducing-android-9-pie/\">Google has formally released Android 9</a>, which will informally be known as Android Pie (P is for Pie). The nanny, otherwise known as Digital Wellbeing, will launch in the fall. I am not surprised by the release as the beta I have been running has been very stable.</p>\n",
+			"content_html": "<p><a href=\"https://blog.google/products/android/introducing-android-9-pie/\">Google has formally released Android 9</a>, which will informally be known as Android Pie (P is for Pie). The nanny, otherwise known as <a href=\"https://www.android.com/versions/pie-9-0/\">Digital Wellbeing</a>, will launch in the fall. I am not surprised by the release as the beta I have been running has been very stable.</p>\n",
 			"date_published": "2018-08-06T16:38:10-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/06/google-has-formally.html"
 		},
@@ -187,22 +203,6 @@
 			"content_html": "<p>One thing lacking is discourse and the desire to find lasting solutions to problems. There is a difference in a dogmatic view to problems, by which I mean a view in which solutions are pre-determined and implemented no matter what, and a scientific view that <a href=\"https://www.newyorker.com/news/our-columnists/fifty-years-later-andrei-sakharovs-most-famous-essay-is-a-powerful-model-of-writing-for-social-change\">presents ideas</a> (hypothesis) that are proven not to be false.</p>\n\n<p>The key element to an hypothesis, or an idea, is the opennes to it being wrong.</p>\n",
 			"date_published": "2018-07-26T09:17:09-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/26/one-thing-lacking.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/25/i-am-now.html",
-	      	
-			"content_html": "<p>I am now deep in beta land with the iOS 12 beta on my iPad Mini and Android P on my Pixel.</p>\n",
-			"date_published": "2018-07-25T19:30:19-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/25/i-am-now.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/25/android-ps-final.html",
-	      	
-			"content_html": "<p><a href=\"https://www.engadget.com/2018/07/25/android-p-final-preview-release/\">Android P’s final test release is here</a></p>\n\n<p>Google has released the final public beta for Android P, so I have decided to install it on my Pixel 2. I’ve enabled the gesture navigation and so far everything works great and the phone seems faster.</p>\n",
-			"date_published": "2018-07-25T19:25:30-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/25/android-ps-final.html"
 		}
 		
 	]
