@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/07/do-we-still.html",
+	      	
+			"content_text": "Do we still know what parts of the Internet are...",
+			"date_published": "2018-08-07T09:08:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/07/do-we-still.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/07/i-have-built.html",
+	      	
+			"content_text": "I have built myself a remote Linux Ubuntu/XFCE session using...",
+			"date_published": "2018-08-06T20:02:42-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/06/i-have-built.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/06/google-has-formally.html",
 	      	
 			"content_text": "Google has formally released Android 9, which will informally be...",
