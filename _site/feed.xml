@@ -4,12 +4,32 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Mon, 06 Aug 2018 16:39:11 -0400</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 16:39:11 -0400</lastBuildDate>
+    <pubDate>Tue, 07 Aug 2018 09:08:51 -0400</pubDate>
+    <lastBuildDate>Tue, 07 Aug 2018 09:08:51 -0400</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;&lt;a href=&quot;https://blog.google/products/android/introducing-android-9-pie/&quot;&gt;Google has formally released Android 9&lt;/a&gt;, which will informally be known as Android Pie (P is for Pie). The nanny, otherwise known as Digital Wellbeing, will launch in the fall. I am not surprised by the release as the beta I have been running has been very stable.&lt;/p&gt;
+        <description>&lt;p&gt;Do we still know what parts of the Internet are the public’s and which part is the corporations? &lt;a href=&quot;https://www.history.com/news/who-invented-the-internet&quot;&gt;The Internet began as a U.S. Department of Defense project&lt;/a&gt;, funded by taxpayers and therefore owned by the public. At a minimum that part of the Internet should be open with free speech protections, but can we even find it?&lt;/p&gt;
+
+&lt;p&gt;Our unwillingness to create new utilities, owned and protected by the government (too much like socialism) is to our detriment. Government should do more than spend billions on defense and enable corporate owners to get rich.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Aug 2018 09:08:33 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/07/do-we-still.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/07/do-we-still.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I have built myself a remote Linux Ubuntu/XFCE session using &lt;a href=&quot;https://cepa.io/2018/08/05/building-an-ultimate-remote-linux-workstation/&quot;&gt;these instructions&lt;/a&gt; and a VM I created at &lt;a href=&quot;https://www.cloudatcost.com&quot;&gt;CloudAtClost&lt;/a&gt;. The VM I created had 2 vCPUs and 2 GB of RAM and runs pretty well, at least for text entry and email processing. Now, if only I could find a working X2GO client for iOS, the one in the app store does not run on my iPad Pro.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 20:02:42 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/06/i-have-built.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/07/i-have-built.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://blog.google/products/android/introducing-android-9-pie/&quot;&gt;Google has formally released Android 9&lt;/a&gt;, which will informally be known as Android Pie (P is for Pie). The nanny, otherwise known as &lt;a href=&quot;https://www.android.com/versions/pie-9-0/&quot;&gt;Digital Wellbeing&lt;/a&gt;, will launch in the fall. I am not surprised by the release as the beta I have been running has been very stable.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Aug 2018 16:38:10 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/08/06/google-has-formally.html</link>
@@ -245,26 +265,6 @@
         <pubDate>Thu, 26 Jul 2018 09:17:09 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/07/26/one-thing-lacking.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/07/26/one-thing-lacking.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I am now deep in beta land with the iOS 12 beta on my iPad Mini and Android P on my Pixel.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Jul 2018 19:30:19 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/25/i-am-now.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/25/i-am-now.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.engadget.com/2018/07/25/android-p-final-preview-release/&quot;&gt;Android P’s final test release is here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Google has released the final public beta for Android P, so I have decided to install it on my Pixel 2. I’ve enabled the gesture navigation and so far everything works great and the phone seems faster.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Jul 2018 19:25:30 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/07/25/android-ps-final.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/07/25/android-ps-final.html</guid>
       </item>
     
   </channel>
