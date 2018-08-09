@@ -24,7 +24,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "2044"
 gems: ["jekyll-paginate"]
+itunes_description: "I am a technology consultant for DXC Technology and mobile enthusiast. "
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Frank McPherson"
+itunes_email: ""
 podcast: false
