@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/09/inessential-the-public.html",
+	      	
+			"content_html": "<p><a href=\"http://inessential.com/2018/08/08/the_public_square\">inessential: The Public Square</a></p>\n\n<p>I fear calling the web a public square, thinking that is is truly open, is a myth. All of the infrastructure upon which the web runs is owned by corporations. The technology upon which the web is built is intended to be open, but they are under control of corporations.</p>\n\n<p>Corporations pushed the web towards HTML5 in support of apps that they utlimately control. Corporations own the browsers that we use and with coding changes can force all of use towards a direction they want. The network infrastructure upon which the packets ride are owned by corporations who can, and have, allowed governments to capture and review those packets.</p>\n\n<p>Sure, you can host content on a web server running in your house. What happens when Comcast or AT&amp;T decides to not sell Internet access to you? What happens when the coporations that control DNS remove your domain from their servers, or direct requests somewhere else?</p>\n\n<p>None of this is truly open. All of it is at risk if it does not serve coporate interests. Right now the best we have are degrees of openness.</p>\n",
+			"date_published": "2018-08-09T11:22:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/09/inessential-the-public.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/08/most-of-the.html",
+	      	
+			"content_html": "<p>Most of <a href=\"https://www.theverge.com/2018/8/8/17663494/microsoft-surface-go-review-specs-performance\">the reviews</a> that I have read about the Surface Go have been positive. First, I note that all reviews are of the high-end, 8 GB model. Second, I can’t help but feel that everyone is desperate for a competitor to the iPad and therefore will praise up any attempt.</p>\n\n<p>Personally, I think the main issue is price. At a minimum Microsoft should be bundling the keyboard with the device at the price of that $650 price. I would love to see info on how many Surfaces are sold without keyboard.</p>\n\n<p>Now, it may look as though I am really down on the Surface Go, while I think I am neutral. I do think that if you are looking at a device for viewing video, you might want to give the Go a ago because of the built-in stand. If you just consume content you can live without the keyboard and stylus.</p>\n",
+			"date_published": "2018-08-08T16:30:20-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/08/most-of-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/07/i-started-using.html",
+	      	
+			"content_html": "<p>I started using Instapaper because Pocket charges to highlight text. Now that <a href=\"http://blog.instapaper.com/post/176732408411\">Instapaper plans to charge $30 a year for notes</a>, I need to decide whether I want to stay or switch back to Pocket.</p>\n",
+			"date_published": "2018-08-07T17:52:40-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/07/i-started-using.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/07/there-are-some.html",
+	      	
+			"content_html": "<p>There are some <a href=\"https://palash.tk/Start-Photography-With-Android\">good suggestions here</a> of alternatives to the Camera app that you find on your Android phone. I confess that I don’t think much about the pictures that I take, I just use the build-in camera and upload to Google.</p>\n",
+			"date_published": "2018-08-07T13:25:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/07/there-are-some.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/07/do-we-still.html",
 	      	
 			"content_html": "<p>Do we still know what parts of the Internet are the public’s and which part is the corporations? <a href=\"https://www.history.com/news/who-invented-the-internet\">The Internet began as a U.S. Department of Defense project</a>, funded by taxpayers and therefore owned by the public. At a minimum that part of the Internet should be open with free speech protections, but can we even find it?</p>\n\n<p>Our unwillingness to create new utilities, owned and protected by the government (too much like socialism) is to our detriment. Government should do more than spend billions on defense and enable corporate owners to get rich.</p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p>Which is more important, what you spend your time doing or who you spend your time with?</p>\n",
 			"date_published": "2018-07-28T11:26:03-04:00",
 			"url": "https://frankmcpherson.blog/2018/07/28/which-is-more.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/26/ive-been-running.html",
-	      	
-			"content_html": "<p>I’ve been running <a href=\"https://android-developers.googleblog.com/2018/07/final-preview-update-official-android-p.html\">Android P</a> on my Pixel 2 for 24 hours and so far have seen no problems and I do believe the phone runs faster than when running Oreo.</p>\n",
-			"date_published": "2018-07-26T17:33:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/26/ive-been-running.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/26/here-is-something.html",
-	      	
-			"content_html": "<p>Here is something that I find ironic. <a href=\"https://www.wired.com/story/google-chrome-https-not-secure-label/\">Google is taking the lead</a> towards pushing all web hosting on the Internet to use HTTPS. I have a blog that is hosted on Blogger, which is owned by Google. You can only <a href=\"http://www.tech2watch.info/\">access that blog by HTTP</a>, <a href=\"https://www.tech2watch.info\">HTTPS does not work</a> automatically as it does Wordpress and many other blog hosting sites.</p>\n",
-			"date_published": "2018-07-26T11:12:54-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/26/here-is-something.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/26/nothing-threatens-individual.html",
-	      	
-			"content_html": "<blockquote>\n  <p>Nothing threatens individual freedom and the meaning of life like war, poverty, terror. But there are also indirect and only slightly more remote dangers. One of these is the stupefaction of man . . . by mass culture with its intentional or commercially motivated lowering of intellectual level and content, with its stress on entertainment or utilitarianism, and with its carefully protective censorship. – <a href=\"https://www.newyorker.com/news/our-columnists/fifty-years-later-andrei-sakharovs-most-famous-essay-is-a-powerful-model-of-writing-for-social-change\">Andrei Sakharov</a></p>\n</blockquote>\n\n<p>The New Yorker article I link to above that includes the quote above is very good, recommended.</p>\n",
-			"date_published": "2018-07-26T11:02:53-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/26/nothing-threatens-individual.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/26/one-thing-lacking.html",
-	      	
-			"content_html": "<p>One thing lacking is discourse and the desire to find lasting solutions to problems. There is a difference in a dogmatic view to problems, by which I mean a view in which solutions are pre-determined and implemented no matter what, and a scientific view that <a href=\"https://www.newyorker.com/news/our-columnists/fifty-years-later-andrei-sakharovs-most-famous-essay-is-a-powerful-model-of-writing-for-social-change\">presents ideas</a> (hypothesis) that are proven not to be false.</p>\n\n<p>The key element to an hypothesis, or an idea, is the opennes to it being wrong.</p>\n",
-			"date_published": "2018-07-26T09:17:09-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/26/one-thing-lacking.html"
 		}
 		
 	]
