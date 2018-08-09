@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Frank McPherson's Web Notes</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
+    <description>I am a technology consultant for DXC Technology and mobile enthusiast. </description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Tue, 07 Aug 2018 09:08:51 -0400</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 09:08:51 -0400</lastBuildDate>
+    <pubDate>Thu, 09 Aug 2018 11:22:57 -0400</pubDate>
+    <lastBuildDate>Thu, 09 Aug 2018 11:22:57 -0400</lastBuildDate>
 	<itunes:image href="https://micro.blog/frankm/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Frank McPherson</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Frank McPherson</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
