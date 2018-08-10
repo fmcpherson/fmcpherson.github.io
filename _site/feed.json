@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/10/happy-anniversary.html",
+	      	
+			"content_html": "<p>Happy anniversary</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/404bedfba9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-10T12:28:18-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/10/happy-anniversary.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/10/155150.html",
+	      	
+			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/66e2ed8bc0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-10T11:51:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/10/155150.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/09/ohi.html",
+	      	
+			"content_html": "<p>O-Hi</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/a7bf512bea.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-09T15:31:09-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/09/ohi.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/09/road-trip-happyanniversary.html",
+	      	
+			"content_html": "<p>Road trip #happyanniversary</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/da85437b6d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-09T13:57:38-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/09/road-trip-happyanniversary.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/09/inessential-the-public.html",
 	      	
 			"content_html": "<p><a href=\"http://inessential.com/2018/08/08/the_public_square\">inessential: The Public Square</a></p>\n\n<p>I fear calling the web a public square, thinking that is is truly open, is a myth. All of the infrastructure upon which the web runs is owned by corporations. The technology upon which the web is built is intended to be open, but they are under control of corporations.</p>\n\n<p>Corporations pushed the web towards HTML5 in support of apps that they utlimately control. Corporations own the browsers that we use and with coding changes can force all of use towards a direction they want. The network infrastructure upon which the packets ride are owned by corporations who can, and have, allowed governments to capture and review those packets.</p>\n\n<p>Sure, you can host content on a web server running in your house. What happens when Comcast or AT&amp;T decides to not sell Internet access to you? What happens when the coporations that control DNS remove your domain from their servers, or direct requests somewhere else?</p>\n\n<p>None of this is truly open. All of it is at risk if it does not serve coporate interests. Right now the best we have are degrees of openness.</p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p>I have not been in the habit of migrating my blog posts between blog platforms, so I don’t intend to move posts into this site. My previous blogs are still online <a href=\"http://webnotes.frankmcpherson.net/\">here</a> and <a href=\"http://writing.frankmcpherson.org/\">here</a>. To go even further back in time you can find posts <a href=\"https://fjmnotes.com/2008/05/\">starting in 2008</a> on <a href=\"https://fjmnotes.com\">my Wordpress blog</a>, to which I consolidate copies of all my social network updates and these blogs posts via a IFTTT recipe.</p>\n",
 			"date_published": "2018-08-01T13:51:18-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/01/i-have-not.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/31/everything-you-want.html",
-	      	
-			"content_html": "<p>Everything you want to know <a href=\"https://www.reddit.com/r/Crostini/wiki/index\">about Crostini</a>.</p>\n",
-			"date_published": "2018-07-31T11:30:39-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/31/everything-you-want.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/31/new-feature-to.html",
-	      	
-			"content_html": "<p><a href=\"http://manton.org/2018/07/31/151054.html\">New feature</a> to try on this blog… <a href=\"https://github.com/cleverdevil/micromemories\">On This Day</a>. What this feature will do is show all the entries posted on a given date, no matter the year. If I had been using this site a year ago and you clicked On This Day above then you would see what I wrote this year and last year on this day.</p>\n",
-			"date_published": "2018-07-31T11:26:34-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/31/new-feature-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/30/one-reaction-to.html",
-	      	
-			"content_html": "<p>One reaction to <a href=\"https://www.cnbc.com/2018/07/10/eu-hits-alphabet-google-with-android-antitrust-fine.html\">the EU decision regarding Android</a> is that Google may have erred by making Android open source. A close source Android likely would have been bad for consumers and have prevented it from being as widely used as it is. We would likely be dealing with more than two defacto mobile OS standards.</p>\n\n<p>So, is <a href=\"https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism\">Fuchsia the solution to Googles Android EU problem</a>?</p>\n",
-			"date_published": "2018-07-30T11:04:41-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/30/one-reaction-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/07/28/which-is-more.html",
-	      	
-			"content_html": "<p>Which is more important, what you spend your time doing or who you spend your time with?</p>\n",
-			"date_published": "2018-07-28T11:26:03-04:00",
-			"url": "https://frankmcpherson.blog/2018/07/28/which-is-more.html"
 		}
 		
 	]
