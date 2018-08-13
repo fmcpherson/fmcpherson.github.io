@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/12/i-didnt-come.html",
+	      	
+			"content_html": "<p>I didn’t come to micro.blog because I was leaving somewhere else, consequently I don’t see it as an alternative to anything.</p>\n",
+			"date_published": "2018-08-12T17:17:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/12/i-didnt-come.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/10/stop.html",
+	      	
+			"content_html": "<p>Stop!</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/27ec8b9e45.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-10T16:04:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/10/stop.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/10/happy-anniversary.html",
 	      	
 			"content_html": "<p>Happy anniversary</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/404bedfba9.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I’ve been keeping an eye out for the Acer Chromebook Spin 13, but <a href=\"https://liliputing.com/2018/08/acer-chromebook-13-chromebook-spin-13-coming-in-september-for-650-and-up.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Liliputing+%28Liliputing%29\">now that I see the pricing</a> I am conflicted. At that $750 price it might be worth just buying the current Google Pixelbook.</p>\n",
 			"date_published": "2018-08-02T10:49:12-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/02/ive-been-keeping.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/02/good-quote-said.html",
-	      	
-			"content_html": "<p><a href=\"https://john.philpin.com/2018/03/31/as-democracy-is.html\">Good quote</a>. Said differently, democracy is not what our small self wants. We much rather just have someone take care of us. True originalists understand that the founders did not build a Presidency, they built a Congress.</p>\n\n<p>The problem is that for the last 100 years Congress has been about building a Presidency.</p>\n",
-			"date_published": "2018-08-02T10:39:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/02/good-quote-said.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/01/i-have-not.html",
-	      	
-			"content_html": "<p>I have not been in the habit of migrating my blog posts between blog platforms, so I don’t intend to move posts into this site. My previous blogs are still online <a href=\"http://webnotes.frankmcpherson.net/\">here</a> and <a href=\"http://writing.frankmcpherson.org/\">here</a>. To go even further back in time you can find posts <a href=\"https://fjmnotes.com/2008/05/\">starting in 2008</a> on <a href=\"https://fjmnotes.com\">my Wordpress blog</a>, to which I consolidate copies of all my social network updates and these blogs posts via a IFTTT recipe.</p>\n",
-			"date_published": "2018-08-01T13:51:18-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/01/i-have-not.html"
 		}
 		
 	]
