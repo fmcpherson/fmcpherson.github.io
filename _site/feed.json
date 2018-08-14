@@ -6,9 +6,27 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/14/pro-tip-if.html",
+	      	
+			"content_html": "<p><a href=\"https://www.cnet.com/how-to/google-location-tracking-turn-it-off-for-real/\">Pro tip</a>: If you do not want your location tracked, do not have on your person something that contains a radio, like a smartphone. Otherwise, always assume that your whereabouts can be tracked.</p>\n\n<p>People managed to survive hundreds, neigh thousands, of years without carrying a smartphone every where they go. You can do it.</p>\n",
+			"date_published": "2018-08-14T09:21:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/14/pro-tip-if.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/13/my-microblog-wish.html",
+	      	
+			"title": "My Micro.blog Wish",
+			
+			"content_html": "<p>I think of micro.blog as a publishing platform, for two reasons. First, what I write is published to <a href=\"https://frankmcpherson.blog\">my blog</a>. Second, what I write is published to other distribution channels, specifically for me <a href=\"https://twitter.com/frankm\">Twitter</a> and <a href=\"https://www.facebook.com/writtenbyfrank\">Facebook</a>, but it could also include Medium and LinkedIn.</p>\n\n<p>What would make micro.blog perfect for me is the ability to designate, at the time I am writing, to which distribution channels I want a particular item published to. All things that I write are appropriate for my blog, but some things I might only want to also be published to Twitter and yet other things I would prefer published to Facebook.</p>\n\n<p>To me, the ability to control what gets published where, from the app in which I am writing, is particularly important if I were to publish to the LinkedIn and Medium channels that could be considered more “professional.”</p>\n\n<p>Right now, cross-posting is all or nothing. Everything I write in micro.blog is cross posted to Twitter and Facebook and frankly some posts, like this one, don’t make sense for those audiences.</p>\n\n<p>I recognize there are drawbacks to cross posting, specifically, it’s a write once experience meaning that edits don’t get re-published to Twitter and Facebook because there just isn’t a mechanism to do so.</p>\n",
+			"date_published": "2018-08-13T18:05:57-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/13/my-microblog-wish.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/13/would-you-buy.html",
 	      	
-			"content_html": "<p>Would you buy a smartphone specifically because it could also <a href=\"https://www.theverge.com/2018/8/13/17675072/galaxy-note-smartphone-software-feature-history-computer\">serve as your desktop computer</a>? History such solutions have not worked well because there are too many compromises. In my opinion high performance wireless video is the missing ingredient.</p>\n",
+			"content_html": "<p>Would you buy a smartphone specifically because it could also <a href=\"https://www.theverge.com/2018/8/13/17675072/galaxy-note-smartphone-software-feature-history-computer\">serve as your desktop computer</a>? History shows such solutions have not worked well because there are too many compromises. In my opinion high performance wireless video is the missing ingredient.</p>\n",
 			"date_published": "2018-08-13T16:31:37-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/13/would-you-buy.html"
 		},
@@ -187,22 +205,6 @@
 			"content_html": "<p><a href=\"https://laughingsquid.com/joe-walsh-explains-lifes-been-good/\">Musician Joe Walsh Hilariously Explains the Meaning of ‘Life’s Been Good’ to a Live Audience</a></p>\n\n<p>Great story behind the song.</p>\n",
 			"date_published": "2018-08-02T23:04:34-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/02/musician-joe-walsh.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/03/surface-go-review.html",
-	      	
-			"content_html": "<p><a href=\"https://www.engadget.com/2018/08/02/surface-go-review/\">Surface Go review: The ideal cheap Windows tablet… almost</a></p>\n\n<p>I bought the Surface 3 because of its support for an active digitizer. Now that the iPad supports the Apple Pencil and it is cheaper than the Surface Go, it would be really hard for me to pick the Go over the iPad.</p>\n\n<p>Ever since I bought the iPad Pro 10.5 my Surface 3 has been relegated to role as my only computer running Windows 10. I picked up a refurbed dock for a low price, and the Surface 3 sits in that dock pretty much unused until I have a need to run Windows on a computer that I own. So far all releases of Windows 10 run on it, so I don’t really have a need to replace or retire it until it can no longer be patched.</p>\n",
-			"date_published": "2018-08-02T22:44:05-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/02/surface-go-review.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/02/the-founders-of.html",
-	      	
-			"content_html": "<p>The founders of the United States did not intend the President to be the most powerful man in the world.</p>\n",
-			"date_published": "2018-08-02T11:03:48-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/02/the-founders-of.html"
 		}
 		
 	]
