@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/14/pro-tip-if.html",
+	      	
+			"content_text": "Pro tip: If you do not want your location tracked,...",
+			"date_published": "2018-08-14T09:21:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/14/pro-tip-if.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/13/my-microblog-wish.html",
+	      	
+			"title": "My Micro.blog Wish",
+			
+			"content_text": "I think of micro.blog as a publishing platform, for two...",
+			"date_published": "2018-08-13T18:05:57-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/13/my-microblog-wish.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/13/would-you-buy.html",
 	      	
 			"content_text": "Would you buy a smartphone specifically because it could also...",
