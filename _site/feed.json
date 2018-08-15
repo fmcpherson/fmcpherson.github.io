@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/14/i-am-rethinking.html",
+	      	
+			"content_html": "<p>I am re-thinking how I use tabs in my browser, and experimenting with the idea of only keeping one tab open at a time. Old school, but perhaps more focused.</p>\n",
+			"date_published": "2018-08-14T12:05:15-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/14/i-am-rethinking.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/14/pro-tip-if.html",
 	      	
 			"content_html": "<p><a href=\"https://www.cnet.com/how-to/google-location-tracking-turn-it-off-for-real/\">Pro tip</a>: If you do not want your location tracked, do not have on your person something that contains a radio, like a smartphone. Otherwise, always assume that your whereabouts can be tracked.</p>\n\n<p>People managed to survive hundreds, neigh thousands, of years without carrying a smartphone every where they go. You can do it.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Good morning!</p>\n",
 			"date_published": "2018-08-03T09:09:52-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/03/good-morning.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/03/musician-joe-walsh.html",
-	      	
-			"content_html": "<p><a href=\"https://laughingsquid.com/joe-walsh-explains-lifes-been-good/\">Musician Joe Walsh Hilariously Explains the Meaning of ‘Life’s Been Good’ to a Live Audience</a></p>\n\n<p>Great story behind the song.</p>\n",
-			"date_published": "2018-08-02T23:04:34-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/02/musician-joe-walsh.html"
 		}
 		
 	]
