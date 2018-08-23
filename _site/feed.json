@@ -6,6 +6,78 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/22/no-joy-in.html",
+	      	
+			"content_html": "<p>No joy in Wrigleyville; the mighty <a href=\"https://www.freep.com/story/sports/mlb/tigers/2018/08/21/detroit-tigers-chicago-cubs-score/1058989002/\">Cubs could not score more than one run last night</a>. I hope to see more runs by the Cubs tonight. I say put the no guy in the line up.</p>\n",
+			"date_published": "2018-08-22T10:00:25-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/22/no-joy-in.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/22/fox-theatre.html",
+	      	
+			"content_html": "<p>Fox Theatre</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/cafb7ffb09.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-21T21:02:51-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/fox-theatre.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/22/tie-game-after.html",
+	      	
+			"content_html": "<p>Tie game after a Rizzo dinner to right field.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/4cf9b34fb3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-21T20:45:21-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/tie-game-after.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/22/deeeetroit.html",
+	      	
+			"content_html": "<p>Deeeetroit</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8d5b07954d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-21T20:44:25-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/deeeetroit.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/21/230515.html",
+	      	
+			"content_html": "<p>Is there a Cubs victory at the end of this rainbow?</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/cf9c5390c4.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-21T19:05:15-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/230515.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/21/221813.html",
+	      	
+			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/d4b29c67db.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-21T18:18:13-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/221813.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/21/the-cubs-picked.html",
+	      	
+			"content_html": "<p><a href=\"https://www.mlb.com/news/daniel-murphy-claimed-off-waivers-traded/c-291272560\">The Cubs picked up Daniel Murphy</a> in a trade with the Nats. It is an interesting signing of a player who seems to hurt the Cubs whenever he plays them. A bit surprising as a depth sign at Second considering they have Zobrist.</p>\n\n<p>I am heading down to Comerica Park to watch the Cubs and Tigers play.</p>\n",
+			"date_published": "2018-08-21T16:47:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/the-cubs-picked.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/21/a-comment-on.html",
+	      	
+			"content_html": "<p><a href=\"https://micro.blog/Ron/816098\">A comment</a> on <a href=\"http://frankmcpherson.blog/2018/08/21/google-is-releasing.html\">my post about Google Fit</a> recommended I look at <a href=\"https://exist.io/\">Exist</a> to analyze my data, and find it interesting.</p>\n",
+			"date_published": "2018-08-21T16:44:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/a-comment-on.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/21/icro-is-a.html",
+	      	
+			"content_html": "<p>Icro is a micro.blog app for iOS, and <a href=\"https://github.com/hartlco/Icro\">it is now open source</a>. I like the full screen display of Icro and the fact that when I return to the app it displays were I last left off in my timeline. However, I like how the micro.blog app for iOS displays conversations. I wish the micro.blog app had a full display rather than its current split between timeline and options.</p>\n",
+			"date_published": "2018-08-21T16:02:44-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/21/icro-is-a.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/21/google-is-releasing.html",
 	      	
 			"content_html": "<p>Google is releasing <a href=\"https://techcrunch.com/2018/08/21/google-fit-gets-a-redesign-adds-heart-points-and-coaching/\">a new version of Google Fit</a>. I use Google Fit to track my walking. My issues with it are less to do with the apps and more to do with the data.</p>\n\n<p>It is not obvious how to download your fitness data and Google doesn’t really provide much in the way of analyzing data. When looking at data like this you want to see trends so you can answer questions like, did I walk more than last week? Did I walk more than last month? Last year? Improvement is measured over time not in a point of time. It is shocking to me that a company that bills itself as data driven is does not provide much, if anything, for analyzing this data.</p>\n",
@@ -131,80 +203,6 @@
 			"content_html": "<p>I think <a href=\"https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech\">the problem with articles like this one</a> from the Verge about free speech and social networks is that they don’t get to the root cause, which are the conclusions and decisions people are making based on what they hear.</p>\n\n<p>For example, there is no skepticism applied when one is telling another what they want to hear. When a politician holds a rally for their base, does anyone attending that rally ask themselves why the event is being held? What is the purpose? Is that I am being told true, or simply being said to earn my support.</p>\n",
 			"date_published": "2018-08-14T12:38:37-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/14/163837.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/and-here-is.html",
-	      	
-			"content_html": "<p>And <a href=\"http://www.deadlinedetroit.com/articles/20418/new_yorker_magazine_the_fight_for_purity_in_michigan_and_the_democratic_party?utm_campaign=Feed%3A+DeadlineDetroit+%28Deadline+Detroit%29&amp;utm_medium=feed&amp;utm_source=feedburner\">here is why health care in the United States is a mess</a>. I believe single-payer is the best method but most of the population in the United States has been convinced otherwise by the health industry, which will lose money under single payer.</p>\n",
-			"date_published": "2018-08-14T12:09:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/and-here-is.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/i-am-rethinking.html",
-	      	
-			"content_html": "<p>I am re-thinking how I use tabs in my browser, and experimenting with the idea of only keeping one tab open at a time. Old school, but perhaps more focused.</p>\n",
-			"date_published": "2018-08-14T12:05:15-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/i-am-rethinking.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/pro-tip-if.html",
-	      	
-			"content_html": "<p><a href=\"https://www.cnet.com/how-to/google-location-tracking-turn-it-off-for-real/\">Pro tip</a>: If you do not want your location tracked, do not have on your person something that contains a radio, like a smartphone. Otherwise, always assume that your whereabouts can be tracked.</p>\n\n<p>People managed to survive hundreds, neigh thousands, of years without carrying a smartphone every where they go. You can do it.</p>\n",
-			"date_published": "2018-08-14T09:21:31-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/pro-tip-if.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/13/my-microblog-wish.html",
-	      	
-			"title": "My Micro.blog Wish",
-			
-			"content_html": "<p>I think of micro.blog as a publishing platform, for two reasons. First, what I write is published to <a href=\"https://frankmcpherson.blog\">my blog</a>. Second, what I write is published to other distribution channels, specifically for me <a href=\"https://twitter.com/frankm\">Twitter</a> and <a href=\"https://www.facebook.com/writtenbyfrank\">Facebook</a>, but it could also include Medium and LinkedIn.</p>\n\n<p>What would make micro.blog perfect for me is the ability to designate, at the time I am writing, to which distribution channels I want a particular item published to. All things that I write are appropriate for my blog, but some things I might only want to also be published to Twitter and yet other things I would prefer published to Facebook.</p>\n\n<p>To me, the ability to control what gets published where, from the app in which I am writing, is particularly important if I were to publish to the LinkedIn and Medium channels that could be considered more “professional.”</p>\n\n<p>Right now, cross-posting is all or nothing. Everything I write in micro.blog is cross posted to Twitter and Facebook and frankly some posts, like this one, don’t make sense for those audiences.</p>\n\n<p>I recognize there are drawbacks to cross posting, specifically, it’s a write once experience meaning that edits don’t get re-published to Twitter and Facebook because there just isn’t a mechanism to do so.</p>\n",
-			"date_published": "2018-08-13T18:05:57-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/13/my-microblog-wish.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/13/would-you-buy.html",
-	      	
-			"content_html": "<p>Would you buy a smartphone specifically because it could also <a href=\"https://www.theverge.com/2018/8/13/17675072/galaxy-note-smartphone-software-feature-history-computer\">serve as your desktop computer</a>? History shows such solutions have not worked well because there are too many compromises. In my opinion high performance wireless video is the missing ingredient.</p>\n",
-			"date_published": "2018-08-13T16:31:37-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/13/would-you-buy.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/12/i-didnt-come.html",
-	      	
-			"content_html": "<p>I didn’t come to micro.blog because I was leaving somewhere else, consequently I don’t see it as an alternative to anything.</p>\n",
-			"date_published": "2018-08-12T17:17:46-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/12/i-didnt-come.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/10/stop.html",
-	      	
-			"content_html": "<p>Stop!</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/27ec8b9e45.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-10T16:04:50-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/10/stop.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/10/happy-anniversary.html",
-	      	
-			"content_html": "<p>Happy anniversary</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/404bedfba9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-10T12:28:18-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/10/happy-anniversary.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/10/155150.html",
-	      	
-			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/66e2ed8bc0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-10T11:51:50-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/10/155150.html"
 		}
 		
 	]
