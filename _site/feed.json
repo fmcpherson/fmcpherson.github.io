@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/22/fox-theatre-at.html",
+	      	
+			"content_html": "<p>Fox Theatre at night. I really like how this picture turned out.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/0f3a7adbe6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-22T10:50:35-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/22/fox-theatre-at.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/22/i-took-pictures.html",
+	      	
+			"content_html": "<p>I took <a href=\"https://photos.app.goo.gl/MCexbh1uGB8NjVkP6\">pictures while at the Cubs/Tigers game</a> last night.</p>\n",
+			"date_published": "2018-08-22T10:18:07-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/22/i-took-pictures.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/22/no-joy-in.html",
 	      	
 			"content_html": "<p>No joy in Wrigleyville; the mighty <a href=\"https://www.freep.com/story/sports/mlb/tigers/2018/08/21/detroit-tigers-chicago-cubs-score/1058989002/\">Cubs could not score more than one run last night</a>. I hope to see more runs by the Cubs tonight. I say put the no guy in the line up.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I am a long time user of Evernote, my first note was created in March 2008, but I have experience with that the original Windows app <a href=\"https://www.fastcompany.com/90216018/inside-evernotes-brain\">described in this article</a>. My main attraction to Evernote has been how its purpose aligns to how I view personal computing.</p>\n",
 			"date_published": "2018-08-14T13:04:48-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/14/i-am-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/most-political-decisions.html",
-	      	
-			"content_html": "<p>Most political decisions are being made based on emotions and not fact because emotion-based decision making has been taught to us by media ever since the first advertisement. The Internet is optimized for advertising and therefore emotion. And at the end of day, every opinion expressed on the Internet, including this one, is advertising.</p>\n",
-			"date_published": "2018-08-14T12:42:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/most-political-decisions.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/163837.html",
-	      	
-			"content_html": "<p>I think <a href=\"https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech\">the problem with articles like this one</a> from the Verge about free speech and social networks is that they don’t get to the root cause, which are the conclusions and decisions people are making based on what they hear.</p>\n\n<p>For example, there is no skepticism applied when one is telling another what they want to hear. When a politician holds a rally for their base, does anyone attending that rally ask themselves why the event is being held? What is the purpose? Is that I am being told true, or simply being said to earn my support.</p>\n",
-			"date_published": "2018-08-14T12:38:37-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/163837.html"
 		}
 		
 	]
