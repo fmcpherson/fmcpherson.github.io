@@ -4,8 +4,77 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Wed, 22 Aug 2018 11:07:43 -0400</pubDate>
-    <lastBuildDate>Wed, 22 Aug 2018 11:07:43 -0400</lastBuildDate>
+    <pubDate>Fri, 24 Aug 2018 12:07:33 -0400</pubDate>
+    <lastBuildDate>Fri, 24 Aug 2018 12:07:33 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I don’t understand the fixation with creating note taking applications that support markdown. Markdown is a markup language and by definition markup is used for presentation or publishing content.&lt;/p&gt;
+
+&lt;p&gt;Markdown makes sense for indicating how you want writing to appear in a published format like a web page or a document. But, do I really need markdown for raw text-based notes that I really am not going to publish? For me marked up content is harder to read.&lt;/p&gt;
+
+&lt;p&gt;An example of where I see markdown being used the wrong way is in Noteplan. I can markup my notes for &lt;strong&gt;bold&lt;/strong&gt; or &lt;em&gt;italic&lt;/em&gt; but I don’t just see the rendered result I see the markup, asterisks and underlines AND the bold and italic that that is harder for me to read.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Aug 2018 11:59:12 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/24/i-dont-understand.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/24/i-dont-understand.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.esquire.com/news-politics/politics/a22700465/charlottesville-anniversary-race-america/&quot;&gt;Charles P. Pierce&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Indians extirpated. Slavery. The burning of convents in Boston. Red Scares. Blacklists. Lynching. Charlottesville.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All of these were perpetrated by people who, by any measure you can imagine, were more free than any other people who’d ever lived. That’s the virus working. I am so free that I insist that my freedom includes the freedom to deny you yours.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 14:29:19 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/23/charles-p-pierce.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/23/charles-p-pierce.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://photos.app.goo.gl/6tfJR8vhyzwvd3Ek6&quot;&gt;Last night the Cubs played much better&lt;/a&gt; and broke out of a hitting slump to beat the Tigers 8 to 2.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 13:09:36 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/23/last-night-the.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/23/last-night-the.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.freep.com/story/entertainment/music/aretha-franklin/2018/08/22/aretha-franklin-pancreatic-cancer/1065729002/&quot;&gt;A well written article&lt;/a&gt; about pancreatic cancer by the Detroit Free Press.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 12:35:20 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/23/a-well-written.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/23/a-well-written.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Moon over Detroit&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/7376b88bbe.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Aug 2018 20:48:51 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/22/moon-over-detroit.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/23/moon-over-detroit.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Nice seats, eh buddy?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/d642868758.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Aug 2018 19:08:20 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/08/22/nice-seats-eh.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/22/nice-seats-eh.html</guid>
+      </item>
     
       <item>
       	
@@ -212,73 +281,6 @@
         <pubDate>Thu, 16 Aug 2018 09:01:20 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/08/16/one-thing-i.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/08/16/one-thing-i.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Does owning your own domain = owning your content? I am not so sure.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Aug 2018 08:36:10 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/16/does-owning-your.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/16/does-owning-your.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.politico.com/magazine/amp/story/2018/08/14/americas-newspapers-just-played-right-into-trumps-hands-219360?utm_source=API+Need+to+Know+newsletter&amp;amp;utm_campaign=298c4fe52c-EMAIL_CAMPAIGN_2018_08_15_12_12&amp;amp;utm_medium=email&amp;amp;utm_term=0_e3bf78af04-298c4fe52c-34806089&amp;amp;__twitter_impression=true&quot;&gt;The plan&lt;/a&gt; by several newspapers across the country to all write editorials on the same day intended to rebut Trump’s claim that the press is the enemy of the people is a bad idea.&lt;/p&gt;
-
-&lt;p&gt;At the end of the day, the press needs to just do its job. One thing that I do think might be helpful is to point out that every president has issues with the press, they likely can produce past video of democrat and republican presidents taking issue with them.&lt;/p&gt;
-
-&lt;p&gt;And here is the thing, in this context, &lt;strong&gt;the President of the United States is not “the people.”&lt;/strong&gt; Consequently, a press that does NOT explicitly agree with the President is NOT an enemy of the people, if anything they may be an enemy of the President.&lt;/p&gt;
-
-&lt;p&gt;Trump promotes the idea that he is just “one of us.” He, like all Presidents before him, is not just one of us.&lt;/p&gt;
-
-&lt;p&gt;The President serves us, and the Congress, the Supreme Court and yes, the Press, are the institutions identified by the founders of our country as being responsible to make sure the President serves faithfully by upholding his oath. By definition this means that when a person takes the oath of President of the United States, that person ceases being just one of us.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Aug 2018 13:00:36 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/15/the-plan-by.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/15/the-plan-by.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://medium.com/taking-note/evernote-founders-impossible-mission-f769b5af8594&quot;&gt;On Preserving Human Memory: Evernote Founder’s Impossible Mission&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It is always neat to read the story behind a favorite product. I am happy that Evernote has seemed to survive.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Aug 2018 18:27:41 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/14/on-preserving-human.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/14/on-preserving-human.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.poynter.org/news/200-newspapers-will-write-pro-journalism-editorials-will-they-also-listen&quot;&gt;This Poynter article&lt;/a&gt; makes so many good points, I wish everyone would read it. The worst thing that has happened  in the last 30 years is the general belief that it is wrong to change one’s mind, particularly if one is viewed as a leader. A real leader knows they always can learn, and therefore can always be wrong.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Aug 2018 17:16:29 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/14/this-poynter-article.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/14/this-poynter-article.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.poynter.org/news/200-newspapers-will-write-pro-journalism-editorials-will-they-also-listen&quot;&gt;Vanderbilt Chancellor Nicholas S. Zeppos&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;It is important for you to know what you believe, but it is more important for you to ask yourself regularly, “Why do I believe what I believe?”&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 14 Aug 2018 17:10:51 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/14/vanderbilt-chancellor-nicholas.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/14/vanderbilt-chancellor-nicholas.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I am a long time user of Evernote, my first note was created in March 2008, but I have experience with that the original Windows app &lt;a href=&quot;https://www.fastcompany.com/90216018/inside-evernotes-brain&quot;&gt;described in this article&lt;/a&gt;. My main attraction to Evernote has been how its purpose aligns to how I view personal computing.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Aug 2018 13:04:48 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/14/i-am-a.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/14/i-am-a.html</guid>
       </item>
     
   </channel>
