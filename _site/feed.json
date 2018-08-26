@@ -6,6 +6,54 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/24/i-dont-understand.html",
+	      	
+			"content_html": "<p>I don’t understand the fixation with creating note taking applications that support markdown. Markdown is a markup language and by definition markup is used for presentation or publishing content.</p>\n\n<p>Markdown makes sense for indicating how you want writing to appear in a published format like a web page or a document. But, do I really need markdown for raw text-based notes that I really am not going to publish? For me marked up content is harder to read.</p>\n\n<p>An example of where I see markdown being used the wrong way is in Noteplan. I can markup my notes for <strong>bold</strong> or <em>italic</em> but I don’t just see the rendered result I see the markup, asterisks and underlines AND the bold and italic that that is harder for me to read.</p>\n",
+			"date_published": "2018-08-24T11:59:12-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/24/i-dont-understand.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/23/charles-p-pierce.html",
+	      	
+			"content_html": "<p><a href=\"https://www.esquire.com/news-politics/politics/a22700465/charlottesville-anniversary-race-america/\">Charles P. Pierce</a>:</p>\n<blockquote>\n  <p>Indians extirpated. Slavery. The burning of convents in Boston. Red Scares. Blacklists. Lynching. Charlottesville.</p>\n</blockquote>\n\n<blockquote>\n  <p>All of these were perpetrated by people who, by any measure you can imagine, were more free than any other people who’d ever lived. That’s the virus working. I am so free that I insist that my freedom includes the freedom to deny you yours.</p>\n</blockquote>\n",
+			"date_published": "2018-08-23T14:29:19-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/23/charles-p-pierce.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/23/last-night-the.html",
+	      	
+			"content_html": "<p><a href=\"https://photos.app.goo.gl/6tfJR8vhyzwvd3Ek6\">Last night the Cubs played much better</a> and broke out of a hitting slump to beat the Tigers 8 to 2.</p>\n",
+			"date_published": "2018-08-23T13:09:36-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/23/last-night-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/23/a-well-written.html",
+	      	
+			"content_html": "<p><a href=\"https://www.freep.com/story/entertainment/music/aretha-franklin/2018/08/22/aretha-franklin-pancreatic-cancer/1065729002/\">A well written article</a> about pancreatic cancer by the Detroit Free Press.</p>\n",
+			"date_published": "2018-08-23T12:35:20-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/23/a-well-written.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/23/moon-over-detroit.html",
+	      	
+			"content_html": "<p>Moon over Detroit</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/7376b88bbe.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-22T20:48:51-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/22/moon-over-detroit.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/22/nice-seats-eh.html",
+	      	
+			"content_html": "<p>Nice seats, eh buddy?</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d642868758.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-22T19:08:20-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/22/nice-seats-eh.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/22/fox-theatre-at.html",
 	      	
 			"content_html": "<p>Fox Theatre at night. I really like how this picture turned out.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/0f3a7adbe6.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -155,54 +203,6 @@
 			"content_html": "<p>One thing I do not like about Android Pie is that it is not obvious how to uninstall apps. When you tap and hold an app icon in the drawer the uninstall option does not display until you move the icon towards the top.</p>\n",
 			"date_published": "2018-08-16T09:01:20-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/16/one-thing-i.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/16/does-owning-your.html",
-	      	
-			"content_html": "<p>Does owning your own domain = owning your content? I am not so sure.</p>\n",
-			"date_published": "2018-08-16T08:36:10-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/16/does-owning-your.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/15/the-plan-by.html",
-	      	
-			"content_html": "<p><a href=\"https://www.politico.com/magazine/amp/story/2018/08/14/americas-newspapers-just-played-right-into-trumps-hands-219360?utm_source=API+Need+to+Know+newsletter&amp;utm_campaign=298c4fe52c-EMAIL_CAMPAIGN_2018_08_15_12_12&amp;utm_medium=email&amp;utm_term=0_e3bf78af04-298c4fe52c-34806089&amp;__twitter_impression=true\">The plan</a> by several newspapers across the country to all write editorials on the same day intended to rebut Trump’s claim that the press is the enemy of the people is a bad idea.</p>\n\n<p>At the end of the day, the press needs to just do its job. One thing that I do think might be helpful is to point out that every president has issues with the press, they likely can produce past video of democrat and republican presidents taking issue with them.</p>\n\n<p>And here is the thing, in this context, <strong>the President of the United States is not “the people.”</strong> Consequently, a press that does NOT explicitly agree with the President is NOT an enemy of the people, if anything they may be an enemy of the President.</p>\n\n<p>Trump promotes the idea that he is just “one of us.” He, like all Presidents before him, is not just one of us.</p>\n\n<p>The President serves us, and the Congress, the Supreme Court and yes, the Press, are the institutions identified by the founders of our country as being responsible to make sure the President serves faithfully by upholding his oath. By definition this means that when a person takes the oath of President of the United States, that person ceases being just one of us.</p>\n",
-			"date_published": "2018-08-15T13:00:36-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/15/the-plan-by.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/on-preserving-human.html",
-	      	
-			"content_html": "<p><a href=\"https://medium.com/taking-note/evernote-founders-impossible-mission-f769b5af8594\">On Preserving Human Memory: Evernote Founder’s Impossible Mission</a></p>\n\n<p>It is always neat to read the story behind a favorite product. I am happy that Evernote has seemed to survive.</p>\n",
-			"date_published": "2018-08-14T18:27:41-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/on-preserving-human.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/this-poynter-article.html",
-	      	
-			"content_html": "<p><a href=\"https://www.poynter.org/news/200-newspapers-will-write-pro-journalism-editorials-will-they-also-listen\">This Poynter article</a> makes so many good points, I wish everyone would read it. The worst thing that has happened  in the last 30 years is the general belief that it is wrong to change one’s mind, particularly if one is viewed as a leader. A real leader knows they always can learn, and therefore can always be wrong.</p>\n",
-			"date_published": "2018-08-14T17:16:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/this-poynter-article.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/vanderbilt-chancellor-nicholas.html",
-	      	
-			"content_html": "<p><a href=\"https://www.poynter.org/news/200-newspapers-will-write-pro-journalism-editorials-will-they-also-listen\">Vanderbilt Chancellor Nicholas S. Zeppos</a>:</p>\n<blockquote>\n  <p>It is important for you to know what you believe, but it is more important for you to ask yourself regularly, “Why do I believe what I believe?”</p>\n</blockquote>\n",
-			"date_published": "2018-08-14T17:10:51-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/vanderbilt-chancellor-nicholas.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/14/i-am-a.html",
-	      	
-			"content_html": "<p>I am a long time user of Evernote, my first note was created in March 2008, but I have experience with that the original Windows app <a href=\"https://www.fastcompany.com/90216018/inside-evernotes-brain\">described in this article</a>. My main attraction to Evernote has been how its purpose aligns to how I view personal computing.</p>\n",
-			"date_published": "2018-08-14T13:04:48-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/14/i-am-a.html"
 		}
 		
 	]
