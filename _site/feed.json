@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/27/i-like-what.html",
+	      	
+			"content_html": "<p>I like <a href=\"http://scripting.com/2018/08/26/161533.html\">what Dave writes here</a> about Inclusivity. However, while it may be a slight nit, I think the two views of America has been liberty versus equality.</p>\n\n<p>The Declaration of Independence is an aspiration statement of all men being equal, although we know that black men where not considered men at that time. Nor were women considered equal with men. The United States was written to define and contain our government and therefore maintain our liberty.</p>\n\n<p>Over the centuries we have been striving towards the aspiration of the Declaration but clearly not all people are on board. Some would say the push for true equality is impinging on their liberty.</p>\n\n<p>Here is the thing…we think liberty is about our government, but on its own it says nothing about what one does with that liberty. Some will claim it makes them free to do whatever they want, while others will say it makes us free to make the best society for everyone.</p>\n",
+			"date_published": "2018-08-27T09:19:32-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/27/i-like-what.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/26/rob-bell.html",
+	      	
+			"content_html": "<p>Rob Bell</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/7179fed4be.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-25T20:44:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/25/rob-bell.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/26/peter-rollins.html",
+	      	
+			"content_html": "<p>Peter Rollins</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/3dd42b61c8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-25T20:19:15-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/25/peter-rollins.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/25/plain-text-lists.html",
+	      	
+			"content_html": "<p><a href=\"https://www.plaintextlist.com/\">Plain Text Lists</a></p>\n\n<p>A web site of lists, in plain text. A good resource.</p>\n",
+			"date_published": "2018-08-25T15:03:01-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/25/plain-text-lists.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/25/i-checked-out.html",
+	      	
+			"content_html": "<p>I checked out <a href=\"https://github.com/felixrieseberg/windows95\">the Windows 95 app</a> in Electron running on my Mintbox, and I have to admit that seeing the old UI and the inclusion of icons to set up AOL, Compuserve, and the Microsoft Network, brings back some good memories. Wish it included Solitaire, although the mouse isn’t fast enough.</p>\n",
+			"date_published": "2018-08-24T22:52:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/24/i-checked-out.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/24/i-dont-understand.html",
 	      	
 			"content_html": "<p>I don’t understand the fixation with creating note taking applications that support markdown. Markdown is a markup language and by definition markup is used for presentation or publishing content.</p>\n\n<p>Markdown makes sense for indicating how you want writing to appear in a published format like a web page or a document. But, do I really need markdown for raw text-based notes that I really am not going to publish? For me marked up content is harder to read.</p>\n\n<p>An example of where I see markdown being used the wrong way is in Noteplan. I can markup my notes for <strong>bold</strong> or <em>italic</em> but I don’t just see the rendered result I see the markup, asterisks and underlines AND the bold and italic that that is harder for me to read.</p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>While I faithfully use Google Calendar and Contacts, I seem to switch tasks apps after a few months. A few months ago I started using a new app and I’ve written <a href=\"https://writing.frankmcpherson.net/ipad/2018/08/18/managing-tasks-with-noteplan.html\">an article about why I like Noteplan</a>.</p>\n",
 			"date_published": "2018-08-18T15:54:38-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/18/while-i-faithfully.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/18/its-dream-cruise.html",
-	      	
-			"content_html": "<p>It’s Dream Cruise weekend in Detroit and it is always fun to see classic cars. Today I felt out of place witb out Terrain at the gas station.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/e7585136a5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-18T14:58:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/18/its-dream-cruise.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/16/in-my-opinion.html",
-	      	
-			"content_html": "<p>In my opinion, there is a problem with viewing the Internet as publicly owned. The Internet is corporate owned and has been for some time and corporations who own it are going to make decisions that are in their best interests.</p>\n\n<p>No part of the Internet is publicly owned, the last vestiges of that were given up when the FCC killed net neutrality.</p>\n\n<p>If we truly want a free and open Internet we need to <a href=\"https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets\">build a new one</a> that is not controlled by corporations. <a href=\"http://scripting.com/2018/08/16/132055.html\">You can talk all you want about how you want companies to act</a>, but they will not act in the public’s best interests unless it just happens to coincided with their own interests.</p>\n\n<p>Yes, there are companies like Apple that give the impression they do make decisions in the public’s best interests, but I think Apple’s stances on privacy are self serving, it is their competitive differentiator.</p>\n\n<p>You can say much the same thing about the corporate owned media in the United States. The press that existed at the time the first amendment was written is different than how how it exists today.</p>\n\n<p>There is little to no concept of “public square” today because nearly motive is driven by profit and no where enough motive is driven by public good.</p>\n",
-			"date_published": "2018-08-16T16:35:48-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/16/in-my-opinion.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/16/is-it-time.html",
-	      	
-			"content_html": "<p><a href=\"https://www.lawfareblog.com/it-time-space-force\">Is It Time for a Space Force</a>?</p>\n\n<p>Answer: No!</p>\n\n<p>Can you say, expanding <a href=\"https://www.history.com/this-day-in-history/eisenhower-warns-of-military-industrial-complex\">military industrial complex</a>? We can’t afford to provide health care to the citizens of this country because all our tax dollars are used to make suppliers to the military wealthy. When is the last time you heard of cuts to the defense budget?</p>\n",
-			"date_published": "2018-08-16T09:51:03-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/16/is-it-time.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/16/universal-method-to.html",
-	      	
-			"content_html": "<p><a href=\"https://www.quantamagazine.org/universal-method-to-sort-complex-information-found-20180813/\">Universal Method to Sort Complex Information Found</a></p>\n\n<p>One thing I enjoyed when I was in college, studying computer science, were lectures on things like this that were way over my head.</p>\n\n<p>What I really want to know is, is this a new way to determine <a href=\"https://oracleofbacon.org/\">six degrees of Kevin Bacon</a>?</p>\n",
-			"date_published": "2018-08-16T09:16:56-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/16/universal-method-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/16/one-thing-i.html",
-	      	
-			"content_html": "<p>One thing I do not like about Android Pie is that it is not obvious how to uninstall apps. When you tap and hold an app icon in the drawer the uninstall option does not display until you move the icon towards the top.</p>\n",
-			"date_published": "2018-08-16T09:01:20-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/16/one-thing-i.html"
 		}
 		
 	]
