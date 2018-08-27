@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/27/i-like-what.html",
+	      	
+			"content_text": "I like what Dave writes here about Inclusivity. However, while...",
+			"date_published": "2018-08-27T09:19:32-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/27/i-like-what.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/26/rob-bell.html",
+	      	
+			"content_text": "Rob Bell\n\n\n",
+			"date_published": "2018-08-25T20:44:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/25/rob-bell.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/26/peter-rollins.html",
+	      	
+			"content_text": "Peter Rollins\n\n\n",
+			"date_published": "2018-08-25T20:19:15-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/25/peter-rollins.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/25/plain-text-lists.html",
+	      	
+			"content_text": "Plain Text Lists A web site of lists, in plain...",
+			"date_published": "2018-08-25T15:03:01-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/25/plain-text-lists.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/25/i-checked-out.html",
+	      	
+			"content_text": "I checked out the Windows 95 app in Electron running...",
+			"date_published": "2018-08-24T22:52:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/24/i-checked-out.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/24/i-dont-understand.html",
 	      	
 			"content_text": "I don’t understand the fixation with creating note taking applications...",
