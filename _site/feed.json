@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/28/why-did-google.html",
+	      	
+			"content_html": "<p>Why did Google put Digital Wellbeing in settings? Shouldn’t it be an app?</p>\n",
+			"date_published": "2018-08-28T16:46:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/28/why-did-google.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/27/i-like-what.html",
 	      	
 			"content_html": "<p>I like <a href=\"http://scripting.com/2018/08/26/161533.html\">what Dave writes here</a> about Inclusivity. However, while it may be a slight nit, I think the two views of America has been liberty versus equality.</p>\n\n<p>The Declaration of Independence is an aspiration statement of all men being equal, although we know that black men where not considered men at that time. Nor were women considered equal with men. The United States was written to define and contain our government and therefore maintain our liberty.</p>\n\n<p>Over the centuries we have been striving towards the aspiration of the Declaration but clearly not all people are on board. Some would say the push for true equality is impinging on their liberty.</p>\n\n<p>Here is the thing…we think liberty is about our government, but on its own it says nothing about what one does with that liberty. Some will claim it makes them free to do whatever they want, while others will say it makes us free to make the best society for everyone.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://www.bloomberg.com/graphics/2018-us-land-use/\">Here’s How America Uses Its Land</a></p>\n\n<p>I find the above article from Bloomberg fascinating, particularly that enough land is used to produce beer and Christmas trees to show up on the overall graphic.</p>\n",
 			"date_published": "2018-08-18T16:45:34-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/18/heres-how-america.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/18/while-i-faithfully.html",
-	      	
-			"content_html": "<p>While I faithfully use Google Calendar and Contacts, I seem to switch tasks apps after a few months. A few months ago I started using a new app and I’ve written <a href=\"https://writing.frankmcpherson.net/ipad/2018/08/18/managing-tasks-with-noteplan.html\">an article about why I like Noteplan</a>.</p>\n",
-			"date_published": "2018-08-18T15:54:38-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/18/while-i-faithfully.html"
 		}
 		
 	]
