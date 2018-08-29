@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/29/what-the-hell.html",
+	      	
+			"content_text": "What The Hell Was The Microsoft Network? For me, the...",
+			"date_published": "2018-08-29T14:09:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/29/what-the-hell.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/29/apparently-google-announced.html",
+	      	
+			"content_text": "Apparently Google announced they will be releasing a new version...",
+			"date_published": "2018-08-29T13:42:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/29/apparently-google-announced.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/29/forget-trump-we.html",
+	      	
+			"content_text": "Forget Trump, we have bigger problems. Like all this pumpkin...",
+			"date_published": "2018-08-29T09:05:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/29/forget-trump-we.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/28/chrome-unboxed-has.html",
+	      	
+			"content_text": "Chrome Unboxed has an article about which Chromebooks will not...",
+			"date_published": "2018-08-28T17:34:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/28/chrome-unboxed-has.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/28/why-did-google.html",
 	      	
 			"content_text": "Why did Google put Digital Wellbeing in settings? Shouldn’t it...",
