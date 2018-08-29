@@ -6,9 +6,41 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/29/what-the-hell.html",
+	      	
+			"content_html": "<p><a href=\"http://www.codersnotes.com/notes/the-microsoft-network/\">What The Hell Was The Microsoft Network?</a></p>\n\n<p>For me, the Microsoft Network was the beginning of a wonderful relationship, good times, and writing books.</p>\n",
+			"date_published": "2018-08-29T14:09:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/29/what-the-hell.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/29/apparently-google-announced.html",
+	      	
+			"content_html": "<p>Apparently Google announced they will be releasing a new version of Wear OS within the next month. <a href=\"https://www.cnet.com/news/google-wear-os-updates-hint-at-fitness-smartwatches-to-come/\">Articles are available</a> from several sources, all appearing pretty much the same. It would be nice to see a video of the changes, but apparently that has not been provided by Google.</p>\n\n<p>I’ve been running the new version of Google Fit for four days, and I am pretty happy with the change. I had already made the mental shift from steps to move minutes. Fit has even suggested in an increase in my goals after using the defaults and monitoring my activity for a few days.</p>\n\n<p>One problem that I do have with my watch, which is a Fossil Q Explorist, is that the battery life has been worse since upgrading my phone to Android P. I am not sure that is the exact correlation, but it feels to be the case. I’ve had several occurrences of the battery running out on my watch by early evening, which was not an issue in the past.</p>\n",
+			"date_published": "2018-08-29T13:42:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/29/apparently-google-announced.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/29/forget-trump-we.html",
+	      	
+			"content_html": "<p>Forget Trump, we have bigger problems. Like all this pumpkin stuff appearing before October. Can we please stop with the early holiday stuff?!</p>\n",
+			"date_published": "2018-08-29T09:05:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/29/forget-trump-we.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/28/chrome-unboxed-has.html",
+	      	
+			"content_html": "<p>Chrome Unboxed has <a href=\"https://chromeunboxed.com/news/linux-apps-older-chromebooks-pixel-kernel-3-14/\">an article</a> about which Chromebooks will not support Linux apps. Perhaps a better question is, which of Chromebooks will run Linux apps well?</p>\n",
+			"date_published": "2018-08-28T17:34:05-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/28/chrome-unboxed-has.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/28/why-did-google.html",
 	      	
-			"content_html": "<p>Why did Google put Digital Wellbeing in settings? Shouldn’t it be an app?</p>\n",
+			"content_html": "<p>Why did Google put Digital Wellbeing in settings? Shouldn’t it be an app?</p>\n\n<p>So, I have 14 minutes of screen time and unlocked my phone 13 times today, that doesn’t seem like much, but how do I know as the data isn’t related to anything.</p>\n",
 			"date_published": "2018-08-28T16:46:50-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/28/why-did-google.html"
 		},
@@ -171,38 +203,6 @@
 			"content_html": "<p><a href=\"https://www.mlb.com/news/daniel-murphy-claimed-off-waivers-traded/c-291272560\">The Cubs picked up Daniel Murphy</a> in a trade with the Nats. It is an interesting signing of a player who seems to hurt the Cubs whenever he plays them. A bit surprising as a depth sign at Second considering they have Zobrist.</p>\n\n<p>I am heading down to Comerica Park to watch the Cubs and Tigers play.</p>\n",
 			"date_published": "2018-08-21T16:47:46-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/21/the-cubs-picked.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/21/a-comment-on.html",
-	      	
-			"content_html": "<p><a href=\"https://micro.blog/Ron/816098\">A comment</a> on <a href=\"http://frankmcpherson.blog/2018/08/21/google-is-releasing.html\">my post about Google Fit</a> recommended I look at <a href=\"https://exist.io/\">Exist</a> to analyze my data, and find it interesting.</p>\n",
-			"date_published": "2018-08-21T16:44:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/a-comment-on.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/21/icro-is-a.html",
-	      	
-			"content_html": "<p>Icro is a micro.blog app for iOS, and <a href=\"https://github.com/hartlco/Icro\">it is now open source</a>. I like the full screen display of Icro and the fact that when I return to the app it displays were I last left off in my timeline. However, I like how the micro.blog app for iOS displays conversations. I wish the micro.blog app had a full display rather than its current split between timeline and options.</p>\n",
-			"date_published": "2018-08-21T16:02:44-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/icro-is-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/21/google-is-releasing.html",
-	      	
-			"content_html": "<p>Google is releasing <a href=\"https://techcrunch.com/2018/08/21/google-fit-gets-a-redesign-adds-heart-points-and-coaching/\">a new version of Google Fit</a>. I use Google Fit to track my walking. My issues with it are less to do with the apps and more to do with the data.</p>\n\n<p>It is not obvious how to download your fitness data and Google doesn’t really provide much in the way of analyzing data. When looking at data like this you want to see trends so you can answer questions like, did I walk more than last week? Did I walk more than last month? Last year? Improvement is measured over time not in a point of time. It is shocking to me that a company that bills itself as data driven is does not provide much, if anything, for analyzing this data.</p>\n",
-			"date_published": "2018-08-21T11:08:01-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/google-is-releasing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/18/heres-how-america.html",
-	      	
-			"content_html": "<p><a href=\"https://www.bloomberg.com/graphics/2018-us-land-use/\">Here’s How America Uses Its Land</a></p>\n\n<p>I find the above article from Bloomberg fascinating, particularly that enough land is used to produce beer and Christmas trees to show up on the overall graphic.</p>\n",
-			"date_published": "2018-08-18T16:45:34-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/18/heres-how-america.html"
 		}
 		
 	]
