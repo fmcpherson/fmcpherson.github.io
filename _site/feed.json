@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/08/30/if-this-works.html",
+	      	
+			"content_html": "<p>If this works, I will have created a new post using my smartphone.</p>\n",
+			"date_published": "2018-08-30T16:59:14-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/30/if-this-works.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/29/what-the-hell.html",
 	      	
 			"content_html": "<p><a href=\"http://www.codersnotes.com/notes/the-microsoft-network/\">What The Hell Was The Microsoft Network?</a></p>\n\n<p>For me, the Microsoft Network was the beginning of a wonderful relationship, good times, and writing books.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/d4b29c67db.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-21T18:18:13-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/21/221813.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/21/the-cubs-picked.html",
-	      	
-			"content_html": "<p><a href=\"https://www.mlb.com/news/daniel-murphy-claimed-off-waivers-traded/c-291272560\">The Cubs picked up Daniel Murphy</a> in a trade with the Nats. It is an interesting signing of a player who seems to hurt the Cubs whenever he plays them. A bit surprising as a depth sign at Second considering they have Zobrist.</p>\n\n<p>I am heading down to Comerica Park to watch the Cubs and Tigers play.</p>\n",
-			"date_published": "2018-08-21T16:47:46-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/the-cubs-picked.html"
 		}
 		
 	]
