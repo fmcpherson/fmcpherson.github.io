@@ -6,6 +6,62 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/01/waiting-on-a.html",
+	      	
+			"content_html": "<p>Waiting on a storm</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8ef0bc44e0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-01T15:58:43-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/01/waiting-on-a.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/31/the-funeral-for.html",
+	      	
+			"content_html": "<p>The funeral for Aretha Franklin is still going. Jesse Jackson is speaking right now.</p>\n",
+			"date_published": "2018-08-31T15:37:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/31/the-funeral-for.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/31/ive-got-the.html",
+	      	
+			"content_html": "<p>I’ve got the new update to iOS 12 installed and the notification bug is gone. Happy.</p>\n",
+			"date_published": "2018-08-31T15:35:50-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/31/ive-got-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/31/apples-ios-has.html",
+	      	
+			"content_html": "<p>Apple’s iOS has had <a href=\"https://techcrunch.com/2018/08/31/apples-new-ios-12-beta-fixes-the-annoying-please-update-bug/\">an annoying notification bug</a> that I have been seeing on my iPad Mini running the iOS 12 beta and my iPad Pro running the 11.x betas.</p>\n",
+			"date_published": "2018-08-31T12:51:59-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/31/apples-ios-has.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/31/the-live-stream.html",
+	      	
+			"content_html": "<p>The live stream of the Aretha Franklin tribute concert is at <a href=\"http://wxyz.com\">wxyz.com</a>. Started at 6 PM and still going, I wonder when it will end?</p>\n",
+			"date_published": "2018-08-30T21:23:16-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/30/the-live-stream.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/31/watching-the-live.html",
+	      	
+			"content_html": "<p>Watching the live stream of the Areatha tribute concert tonight at Chene Park</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/adf7ca268c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-30T21:10:26-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/30/watching-the-live.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/08/30/success-so-what.html",
+	      	
+			"content_html": "<p>Success, so what about a picture? Sad trombone; not ready yet.</p>\n",
+			"date_published": "2018-08-30T17:17:14-04:00",
+			"url": "https://frankmcpherson.blog/2018/08/30/success-so-what.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/08/30/if-this-works.html",
 	      	
 			"content_html": "<p>If this works, I will have created a new post using my smartphone.</p>\n",
@@ -147,62 +203,6 @@
 			"content_html": "<p>Fox Theatre at night. I really like how this picture turned out.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/0f3a7adbe6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-22T10:50:35-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/22/fox-theatre-at.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/22/i-took-pictures.html",
-	      	
-			"content_html": "<p>I took <a href=\"https://photos.app.goo.gl/MCexbh1uGB8NjVkP6\">pictures while at the Cubs/Tigers game</a> last night.</p>\n",
-			"date_published": "2018-08-22T10:18:07-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/22/i-took-pictures.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/22/no-joy-in.html",
-	      	
-			"content_html": "<p>No joy in Wrigleyville; the mighty <a href=\"https://www.freep.com/story/sports/mlb/tigers/2018/08/21/detroit-tigers-chicago-cubs-score/1058989002/\">Cubs could not score more than one run last night</a>. I hope to see more runs by the Cubs tonight. I say put the no guy in the line up.</p>\n",
-			"date_published": "2018-08-22T10:00:25-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/22/no-joy-in.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/22/fox-theatre.html",
-	      	
-			"content_html": "<p>Fox Theatre</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/cafb7ffb09.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-21T21:02:51-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/fox-theatre.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/22/tie-game-after.html",
-	      	
-			"content_html": "<p>Tie game after a Rizzo dinner to right field.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/4cf9b34fb3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-21T20:45:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/tie-game-after.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/22/deeeetroit.html",
-	      	
-			"content_html": "<p>Deeeetroit</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8d5b07954d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-21T20:44:25-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/deeeetroit.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/21/230515.html",
-	      	
-			"content_html": "<p>Is there a Cubs victory at the end of this rainbow?</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/cf9c5390c4.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-21T19:05:15-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/230515.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/21/221813.html",
-	      	
-			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/d4b29c67db.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-21T18:18:13-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/21/221813.html"
 		}
 		
 	]
