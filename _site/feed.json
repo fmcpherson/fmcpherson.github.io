@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/02/i-first-learned.html",
+	      	
+			"content_html": "<p>I first learned how to blog by reading <a href=\"http://scripting.com\">Scripting News</a> and using Dave’s tools. While I like most everything about those tools, I really like <a href=\"http://this.how/scriptingNews/nightlyArchive.opml#1535919507000\">the glossary</a> and wish other blog platforms had it. A glossary saves time by automatically creating links to items I always link to. It’s a bit like a wiki or pre-saved short links.</p>\n",
+			"date_published": "2018-09-02T17:46:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/02/i-first-learned.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/01/waiting-on-a.html",
 	      	
 			"content_html": "<p>Waiting on a storm</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8ef0bc44e0.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Nice seats, eh buddy?</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/d642868758.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-22T19:08:20-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/22/nice-seats-eh.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/22/fox-theatre-at.html",
-	      	
-			"content_html": "<p>Fox Theatre at night. I really like how this picture turned out.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/0f3a7adbe6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-22T10:50:35-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/22/fox-theatre-at.html"
 		}
 		
 	]
