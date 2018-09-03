@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/02/i-first-learned.html",
+	      	
+			"content_text": "I first learned how to blog by reading Scripting News...",
+			"date_published": "2018-09-02T17:46:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/02/i-first-learned.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/01/waiting-on-a.html",
 	      	
 			"content_text": "Waiting on a storm\n\n\n",
