@@ -6,9 +6,25 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/10/ive-been-waiting.html",
+	      	
+			"content_html": "<p>I’ve been waiting all day for Sunday night. Go Pack go!</p>\n",
+			"date_published": "2018-09-09T20:02:07-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/09/ive-been-waiting.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/09/do-the-announcers.html",
+	      	
+			"content_html": "<p>Do the announcers of NFL games not know how idiotic the phrase “cannot tackle with all of your body weight” is? How does a defender tackle someone with half or part of their body weight?</p>\n",
+			"date_published": "2018-09-09T15:18:58-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/09/do-the-announcers.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/09/so-you-cant.html",
 	      	
-			"content_html": "<p>So, you can’t tackle an NFL quarterback anymore?</p>\n",
+			"content_html": "<p>So, you can’t tackle a NFL quarterback anymore?</p>\n",
 			"date_published": "2018-09-09T14:49:53-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/09/so-you-cant.html"
 		},
@@ -16,7 +32,7 @@
 		{
 			"id": "http://frankm.micro.blog/2018/09/09/forgotten-in-how.html",
 	      	
-			"content_html": "<p>Forgotten in how the women’s final of the U.S. Open ended is that the problems started with one of the most asinine rules of professional sports. Just stop having tennis chair umpire’s policing “coaching” from the stands. No gesture made by a coach is not going to make a difference, the players still have to execute. Further, the rule is not in any way consistently applied.</p>\n\n<p>Tennis is not “special” because players are on their own, and fans pay good money to watch the players decide that match, not umpires.</p>\n",
+			"content_html": "<p>Forgotten in how the women’s final of the U.S. Open ended is that the problems started with one of the most asinine rules of professional sports. Just stop having tennis chair umpires policing “coaching” from the stands. No gesture made by a coach is going to make a difference, the players still have to execute. Further, the rule is not in any way consistently applied.</p>\n\n<p>Tennis is not “special” because players are on their own, and fans pay good money to watch the players decide that match, not umpires.</p>\n",
 			"date_published": "2018-09-08T20:31:49-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/08/forgotten-in-how.html"
 		},
@@ -189,22 +205,6 @@
 			"content_html": "<p>Apple’s iOS has had <a href=\"https://techcrunch.com/2018/08/31/apples-new-ios-12-beta-fixes-the-annoying-please-update-bug/\">an annoying notification bug</a> that I have been seeing on my iPad Mini running the iOS 12 beta and my iPad Pro running the 11.x betas.</p>\n",
 			"date_published": "2018-08-31T12:51:59-04:00",
 			"url": "https://frankmcpherson.blog/2018/08/31/apples-ios-has.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/31/the-live-stream.html",
-	      	
-			"content_html": "<p>The live stream of the Aretha Franklin tribute concert is at <a href=\"http://wxyz.com\">wxyz.com</a>. Started at 6 PM and still going, I wonder when it will end?</p>\n",
-			"date_published": "2018-08-30T21:23:16-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/30/the-live-stream.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/31/watching-the-live.html",
-	      	
-			"content_html": "<p>Watching the live stream of the Areatha tribute concert tonight at Chene Park</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/adf7ca268c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-30T21:10:26-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/30/watching-the-live.html"
 		}
 		
 	]
