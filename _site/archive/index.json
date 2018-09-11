@@ -6,9 +6,25 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/10/ive-been-waiting.html",
+	      	
+			"content_text": "I’ve been waiting all day for Sunday night. Go Pack...",
+			"date_published": "2018-09-09T20:02:07-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/09/ive-been-waiting.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/09/do-the-announcers.html",
+	      	
+			"content_text": "Do the announcers of NFL games not know how idiotic...",
+			"date_published": "2018-09-09T15:18:58-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/09/do-the-announcers.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/09/so-you-cant.html",
 	      	
-			"content_text": "So, you can’t tackle an NFL quarterback anymore?\n",
+			"content_text": "So, you can’t tackle a NFL quarterback anymore?\n",
 			"date_published": "2018-09-09T14:49:53-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/09/so-you-cant.html"
 		},
