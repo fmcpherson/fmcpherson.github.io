@@ -4,8 +4,86 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Mon, 10 Sep 2018 10:13:10 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Sep 2018 10:13:10 -0400</lastBuildDate>
+    <pubDate>Tue, 11 Sep 2018 08:51:30 -0400</pubDate>
+    <lastBuildDate>Tue, 11 Sep 2018 08:51:30 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>The Right To Not Be Forgotten</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;http://scripting.com&quot;&gt;Dave Winer&lt;/a&gt; has been writing about owning and archiving what one writes and publishes on the web for a very long time. I think the heart of the matter is that if one is to think of the web as a library there has to be a mechanism for it to be long-lived.&lt;/p&gt;
+
+&lt;p&gt;In other words, permanence. The interesting thing is that many people dislike the web’s permanence, and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Right_to_be_forgotten&quot;&gt;European Union even has a law&lt;/a&gt; in place intended to enable people to disrupt that permanence.&lt;/p&gt;
+
+&lt;p&gt;If you do see the value, however, there needs to be permanent access to what is written and a way to get to it. Permanently storing files is a whole lot easier than permanent access.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://scripting.com/2018/09/10/161928.html&quot;&gt;Dave currently thinks&lt;/a&gt; Github may be as good as anything given that it is owned by Microsoft, a company one expects will be around for a while Still, given that it is a corporate asset, Github exists at the pleasure of Microsoft and not the public.&lt;/p&gt;
+
+&lt;p&gt;To Dave’s point, one thing I like about micro.blog is its support for Github. Micro.blog writes a copy of both the source markdown and the rendered HTML of what I write here to Github, and that provides one degree of backup. However, it gets even better because I use git to maintain a clone of that repository on my local computers, which provides me an easy backup copy of what I write on a computer I own.&lt;/p&gt;
+
+&lt;p&gt;The markdown is source for jekyll, which itself is an open source blog platform, and that source boils down to plain text files. BTW, jekyll itself works in this manner with Github pages which is good enough for many people, but I happen to like social layer and community that micro.blog provides.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 16:51:56 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/10/dave-winer-has.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/dave-winer-has.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.omegacenter.info/death-in-church-new-life-ahead/&quot;&gt;Barbara Brown Taylor&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Human beings were so charmed by the illusion of control Newton’s metaphor offered that we began to see ourselves as machines too. Believing that Newton told us the truth about how the world works, we modeled our institutions on atomistic principles.
+…
+Our “God view” came to resemble our worldview. In this century, even much of our practical theology has also become mechanical and atomistic. Walk into many churches and you will hear God described as a being who behaves almost as predictably as Newton’s universe. Say you believe in God and you will be saved.  Sin against God and you will be condemned. Say you are sorry and you will be forgiven.  Obey the law and you will be blessed.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 15:55:46 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/10/barbara-brown-taylor.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/barbara-brown-taylor.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.omegacenter.info/schism-or-evolution/&quot;&gt;Ilia Delio, OSF&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The Benedict Church holds that orthodoxy or the true teaching of the Church resides in the unbroken apostolic tradition of the Petrine tradition, the men ordained and ontologically changed by the sacrament of Holy Orders.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my opinion, the above is the closest I’ve seen written to what I think is the root problem within the Roman Catholic church. It is too simplistic to state the problem is gay priests or celibacy or not ordaining women, all those are simply symptoms to the problem, a problem more closely related to why the Roman Catholic church exists as an institution.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 15:14:09 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/10/ilia-delio-osf.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/ilia-delio-osf.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Whenever I see &lt;a href=&quot;https://9to5mac.com/2018/09/10/kuo-iphone-6-1-ipad-pro-usb-c-macbook-touch-id-apple-watch-ecg/&quot;&gt;an article&lt;/a&gt; about an Apple product that has the words “low price” I ask, define low price.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 13:24:48 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/10/whenever-i-see.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/whenever-i-see.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The Packers made &lt;a href=&quot;http://www.espn.com/nfl/story/_/id/24629977/aaron-rodgers-knee-green-back-packers-returns-game&quot;&gt;an incredible comeback&lt;/a&gt; last night because of Aaron Rodgers. The fact that team is so dependent on one player is nearly negligent. Wouldn’t it be prudent to have an experienced backup?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 13:22:04 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/10/the-packers-made.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/the-packers-made.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://techpinions.com/the-post-pc-era-never-really-happened-and-likely-wont/53610&quot;&gt;The ‘Post-PC Era’ Never Really Happened…and Likely Won’t&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course not, &lt;a href=&quot;https://realpersonalcomputing.com/2011/12/26/post-pc-era-or-the-beginning-of-the-personal-computing-era/&quot;&gt;I wrote about this nearly seven years ago&lt;/a&gt;. Post-PC has always really been the transformation to the &lt;strong&gt;real&lt;/strong&gt; personal computing and not how personal computing had been previously defined.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 13:15:21 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/10/the-postpc-era.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/the-postpc-era.html</guid>
+      </item>
     
       <item>
       	
@@ -47,7 +125,7 @@
     
       <item>
       	
-        <description>&lt;p&gt;Osaka is playing with seemingly with no pressure. At twenty years old you figure you will be in many more slams, so no pressure if you lose.&lt;/p&gt;
+        <description>&lt;p&gt;Osaka is playing with seemingly no pressure. At twenty years old you figure you will be in many more slams, so no pressure if you lose.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Sep 2018 16:58:24 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/09/08/osaka-is-playing.html</link>
@@ -231,62 +309,6 @@
         <pubDate>Mon, 03 Sep 2018 11:03:04 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/09/03/what-makes-a.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/09/03/what-makes-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Annoyed. Nice outside on the patio, but too humid to be comfortable. It has definitely been muggier this summer than I can remember of past summers.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Sep 2018 10:24:59 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/03/annoyed-nice-outside.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/03/annoyed-nice-outside.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I first learned how to blog by reading &lt;a href=&quot;http://scripting.com&quot;&gt;Scripting News&lt;/a&gt; and using Dave’s tools. While I like most everything about those tools, I really like &lt;a href=&quot;http://this.how/scriptingNews/nightlyArchive.opml#1535919507000&quot;&gt;the glossary&lt;/a&gt; and wish other blog platforms had it. A glossary saves time by automatically creating links to items I always link to. It’s a bit like a wiki or pre-saved short links.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 Sep 2018 17:46:04 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/02/i-first-learned.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/02/i-first-learned.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Waiting on a storm&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/8ef0bc44e0.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Sep 2018 15:58:43 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/01/waiting-on-a.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/01/waiting-on-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The funeral for Aretha Franklin is still going. Jesse Jackson is speaking right now.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 Aug 2018 15:37:33 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/31/the-funeral-for.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/31/the-funeral-for.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve got the new update to iOS 12 installed and the notification bug is gone. Happy.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 Aug 2018 15:35:50 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/31/ive-got-the.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/31/ive-got-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Apple’s iOS has had &lt;a href=&quot;https://techcrunch.com/2018/08/31/apples-new-ios-12-beta-fixes-the-annoying-please-update-bug/&quot;&gt;an annoying notification bug&lt;/a&gt; that I have been seeing on my iPad Mini running the iOS 12 beta and my iPad Pro running the 11.x betas.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 Aug 2018 12:51:59 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/08/31/apples-ios-has.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/08/31/apples-ios-has.html</guid>
       </item>
     
   </channel>
