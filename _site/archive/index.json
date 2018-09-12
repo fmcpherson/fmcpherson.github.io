@@ -6,6 +6,56 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/10/dave-winer-has.html",
+	      	
+			"title": "The Right To Not Be Forgotten",
+			
+			"content_text": "Dave Winer has been writing about owning and archiving what...",
+			"date_published": "2018-09-10T16:51:56-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/dave-winer-has.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/barbara-brown-taylor.html",
+	      	
+			"content_text": "Barbara Brown Taylor: Human beings were so charmed by the...",
+			"date_published": "2018-09-10T15:55:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/barbara-brown-taylor.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/ilia-delio-osf.html",
+	      	
+			"content_text": "Ilia Delio, OSF: The Benedict Church holds that orthodoxy or...",
+			"date_published": "2018-09-10T15:14:09-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/ilia-delio-osf.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/whenever-i-see.html",
+	      	
+			"content_text": "Whenever I see an article about an Apple product that...",
+			"date_published": "2018-09-10T13:24:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/whenever-i-see.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/the-packers-made.html",
+	      	
+			"content_text": "The Packers made an incredible comeback last night because of...",
+			"date_published": "2018-09-10T13:22:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/the-packers-made.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/the-postpc-era.html",
+	      	
+			"content_text": "The ‘Post-PC Era’ Never Really Happened…and Likely Won’t Of course...",
+			"date_published": "2018-09-10T13:15:21-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/the-postpc-era.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/10/ive-been-waiting.html",
 	      	
 			"content_text": "I’ve been waiting all day for Sunday night. Go Pack...",
@@ -40,7 +90,7 @@
 		{
 			"id": "http://frankm.micro.blog/2018/09/08/osaka-is-playing.html",
 	      	
-			"content_text": "Osaka is playing with seemingly with no pressure. At twenty...",
+			"content_text": "Osaka is playing with seemingly no pressure. At twenty years...",
 			"date_published": "2018-09-08T16:58:24-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/08/osaka-is-playing.html"
 		},
