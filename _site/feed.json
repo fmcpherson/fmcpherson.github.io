@@ -6,6 +6,56 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/10/dave-winer-has.html",
+	      	
+			"title": "The Right To Not Be Forgotten",
+			
+			"content_html": "<p><a href=\"http://scripting.com\">Dave Winer</a> has been writing about owning and archiving what one writes and publishes on the web for a very long time. I think the heart of the matter is that if one is to think of the web as a library there has to be a mechanism for it to be long-lived.</p>\n\n<p>In other words, permanence. The interesting thing is that many people dislike the web’s permanence, and the <a href=\"https://en.wikipedia.org/wiki/Right_to_be_forgotten\">European Union even has a law</a> in place intended to enable people to disrupt that permanence.</p>\n\n<p>If you do see the value, however, there needs to be permanent access to what is written and a way to get to it. Permanently storing files is a whole lot easier than permanent access.</p>\n\n<p><a href=\"http://scripting.com/2018/09/10/161928.html\">Dave currently thinks</a> Github may be as good as anything given that it is owned by Microsoft, a company one expects will be around for a while Still, given that it is a corporate asset, Github exists at the pleasure of Microsoft and not the public.</p>\n\n<p>To Dave’s point, one thing I like about micro.blog is its support for Github. Micro.blog writes a copy of both the source markdown and the rendered HTML of what I write here to Github, and that provides one degree of backup. However, it gets even better because I use git to maintain a clone of that repository on my local computers, which provides me an easy backup copy of what I write on a computer I own.</p>\n\n<p>The markdown is source for jekyll, which itself is an open source blog platform, and that source boils down to plain text files. BTW, jekyll itself works in this manner with Github pages which is good enough for many people, but I happen to like social layer and community that micro.blog provides.</p>\n",
+			"date_published": "2018-09-10T16:51:56-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/dave-winer-has.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/barbara-brown-taylor.html",
+	      	
+			"content_html": "<p><a href=\"https://www.omegacenter.info/death-in-church-new-life-ahead/\">Barbara Brown Taylor</a>:</p>\n<blockquote>\n  <p>Human beings were so charmed by the illusion of control Newton’s metaphor offered that we began to see ourselves as machines too. Believing that Newton told us the truth about how the world works, we modeled our institutions on atomistic principles.\n…\nOur “God view” came to resemble our worldview. In this century, even much of our practical theology has also become mechanical and atomistic. Walk into many churches and you will hear God described as a being who behaves almost as predictably as Newton’s universe. Say you believe in God and you will be saved.  Sin against God and you will be condemned. Say you are sorry and you will be forgiven.  Obey the law and you will be blessed.</p>\n</blockquote>\n",
+			"date_published": "2018-09-10T15:55:46-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/barbara-brown-taylor.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/ilia-delio-osf.html",
+	      	
+			"content_html": "<p><a href=\"https://www.omegacenter.info/schism-or-evolution/\">Ilia Delio, OSF</a>:</p>\n<blockquote>\n  <p>The Benedict Church holds that orthodoxy or the true teaching of the Church resides in the unbroken apostolic tradition of the Petrine tradition, the men ordained and ontologically changed by the sacrament of Holy Orders.</p>\n</blockquote>\n\n<p>In my opinion, the above is the closest I’ve seen written to what I think is the root problem within the Roman Catholic church. It is too simplistic to state the problem is gay priests or celibacy or not ordaining women, all those are simply symptoms to the problem, a problem more closely related to why the Roman Catholic church exists as an institution.</p>\n",
+			"date_published": "2018-09-10T15:14:09-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/ilia-delio-osf.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/whenever-i-see.html",
+	      	
+			"content_html": "<p>Whenever I see <a href=\"https://9to5mac.com/2018/09/10/kuo-iphone-6-1-ipad-pro-usb-c-macbook-touch-id-apple-watch-ecg/\">an article</a> about an Apple product that has the words “low price” I ask, define low price.</p>\n",
+			"date_published": "2018-09-10T13:24:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/whenever-i-see.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/the-packers-made.html",
+	      	
+			"content_html": "<p>The Packers made <a href=\"http://www.espn.com/nfl/story/_/id/24629977/aaron-rodgers-knee-green-back-packers-returns-game\">an incredible comeback</a> last night because of Aaron Rodgers. The fact that team is so dependent on one player is nearly negligent. Wouldn’t it be prudent to have an experienced backup?</p>\n",
+			"date_published": "2018-09-10T13:22:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/the-packers-made.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/10/the-postpc-era.html",
+	      	
+			"content_html": "<p><a href=\"https://techpinions.com/the-post-pc-era-never-really-happened-and-likely-wont/53610\">The ‘Post-PC Era’ Never Really Happened…and Likely Won’t</a></p>\n\n<p>Of course not, <a href=\"https://realpersonalcomputing.com/2011/12/26/post-pc-era-or-the-beginning-of-the-personal-computing-era/\">I wrote about this nearly seven years ago</a>. Post-PC has always really been the transformation to the <strong>real</strong> personal computing and not how personal computing had been previously defined.</p>\n",
+			"date_published": "2018-09-10T13:15:21-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/10/the-postpc-era.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/10/ive-been-waiting.html",
 	      	
 			"content_html": "<p>I’ve been waiting all day for Sunday night. Go Pack go!</p>\n",
@@ -40,7 +90,7 @@
 		{
 			"id": "http://frankm.micro.blog/2018/09/08/osaka-is-playing.html",
 	      	
-			"content_html": "<p>Osaka is playing with seemingly with no pressure. At twenty years old you figure you will be in many more slams, so no pressure if you lose.</p>\n",
+			"content_html": "<p>Osaka is playing with seemingly no pressure. At twenty years old you figure you will be in many more slams, so no pressure if you lose.</p>\n",
 			"date_published": "2018-09-08T16:58:24-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/08/osaka-is-playing.html"
 		},
@@ -157,54 +207,6 @@
 			"content_html": "<p>What makes a country great is that people desire to move to it. People who don’t understand the irony in that sentence need to open their eyes!</p>\n\n<p>True greatness is neither self determined not sef proclaimed.</p>\n",
 			"date_published": "2018-09-03T11:03:04-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/03/what-makes-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/03/annoyed-nice-outside.html",
-	      	
-			"content_html": "<p>Annoyed. Nice outside on the patio, but too humid to be comfortable. It has definitely been muggier this summer than I can remember of past summers.</p>\n",
-			"date_published": "2018-09-03T10:24:59-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/03/annoyed-nice-outside.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/02/i-first-learned.html",
-	      	
-			"content_html": "<p>I first learned how to blog by reading <a href=\"http://scripting.com\">Scripting News</a> and using Dave’s tools. While I like most everything about those tools, I really like <a href=\"http://this.how/scriptingNews/nightlyArchive.opml#1535919507000\">the glossary</a> and wish other blog platforms had it. A glossary saves time by automatically creating links to items I always link to. It’s a bit like a wiki or pre-saved short links.</p>\n",
-			"date_published": "2018-09-02T17:46:04-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/02/i-first-learned.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/01/waiting-on-a.html",
-	      	
-			"content_html": "<p>Waiting on a storm</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/8ef0bc44e0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-01T15:58:43-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/01/waiting-on-a.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/31/the-funeral-for.html",
-	      	
-			"content_html": "<p>The funeral for Aretha Franklin is still going. Jesse Jackson is speaking right now.</p>\n",
-			"date_published": "2018-08-31T15:37:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/31/the-funeral-for.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/31/ive-got-the.html",
-	      	
-			"content_html": "<p>I’ve got the new update to iOS 12 installed and the notification bug is gone. Happy.</p>\n",
-			"date_published": "2018-08-31T15:35:50-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/31/ive-got-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/08/31/apples-ios-has.html",
-	      	
-			"content_html": "<p>Apple’s iOS has had <a href=\"https://techcrunch.com/2018/08/31/apples-new-ios-12-beta-fixes-the-annoying-please-update-bug/\">an annoying notification bug</a> that I have been seeing on my iPad Mini running the iOS 12 beta and my iPad Pro running the 11.x betas.</p>\n",
-			"date_published": "2018-08-31T12:51:59-04:00",
-			"url": "https://frankmcpherson.blog/2018/08/31/apples-ios-has.html"
 		}
 		
 	]
