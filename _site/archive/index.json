@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Frank McPherson's Web Notes",
+	"icon": "https://micro.blog/frankm/avatar.jpg",
 	"home_page_url": "https://frankmcpherson.blog/",
 	"feed_url": "https://frankmcpherson.blog/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/13/really-disappointed-by.html",
+	      	
+			"content_text": "Really disappointed by the news that Google will be shutting...",
+			"date_published": "2018-09-13T09:02:13-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/13/really-disappointed-by.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/12/there-is-an.html",
+	      	
+			"content_text": "There is an event going on this afternoon at which...",
+			"date_published": "2018-09-12T08:55:12-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/12/there-is-an.html"
+		},
 		
 		{
 			"id": "http://frankm.micro.blog/2018/09/10/dave-winer-has.html",
