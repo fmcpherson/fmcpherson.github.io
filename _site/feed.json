@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Frank McPherson's Web Notes",
+	"icon": "https://micro.blog/frankm/avatar.jpg",
 	"home_page_url": "https://frankmcpherson.blog/",
 	"feed_url": "https://frankmcpherson.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/13/really-disappointed-by.html",
+	      	
+			"content_html": "<p>Really disappointed by the news that <a href=\"https://www.theverge.com/2018/9/12/17848500/google-inbox-shut-down-sunset-snooze-email-march-2019\">Google will be shutting down Inbox</a>. I think it is the best email app for smartphones because it makes it real easy to triage email.</p>\n\n<p>I am not surprised by the news, we say this coming and I’ve been using the Gmail app on desktop and tablets and Inbox on my Pixel and iPad Mini.</p>\n",
+			"date_published": "2018-09-13T09:02:13-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/13/really-disappointed-by.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/12/there-is-an.html",
+	      	
+			"content_html": "<p>There is an event going on this afternoon at which <a href=\"https://www.theverge.com/2018/9/12/17849898/apple-confirms-iphone-xs-iphone-xs-max-iphone-xr-names\">rumor has it</a> we might see what is called an iPhone XS or iPhone super-sized.</p>\n",
+			"date_published": "2018-09-12T08:55:12-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/12/there-is-an.html"
+		},
 		
 		{
 			"id": "http://frankm.micro.blog/2018/09/10/dave-winer-has.html",
@@ -189,24 +206,6 @@
 			"content_html": "<p>I host an application on Amazon Lightsail, and I originally provisioned the then lowest priced instance, which cost $5 per month for 1 vCPU and 512 MB of RAM.</p>\n\n<p>Two months ago I determined the app needed more memory, so I decided it worth upgrading to the $10 per month, 1 vCPU and 1 GB of RAM plan.</p>\n\n<p>Last month Amazon released <a href=\"https://aws.amazon.com/lightsail/pricing/?fl=sp2\">new monthly pricing</a> that lowered the price of the 1 vCPU and 1 GB instance to $5 per month.</p>\n\n<p>Cloud computing is the one thing that I use where the cost truly decreases over time and it just happens. I did not know about the change in pricing until I got the bill for last month and saw it was lower.</p>\n",
 			"date_published": "2018-09-04T17:31:06-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/04/i-host-an.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/04/212456.html",
-	      	
-			"title": "Real Respect Not Displays",
-			
-			"content_html": "<p>I don’t get <a href=\"https://boingboing.net/2018/09/03/after-nike-hires-colin-kaepern.html\">the mindset of conservatives</a>. They say things like they want small government and want government out of people’s lives and yet they want to dictate their beliefs to people with whom they disagree.</p>\n\n<p>If America is about liberty, then one expressing that liberty by protesting is in fact a high form of patriotism.</p>\n\n<p>Second, people need to understand that public displays of patriotism, which is what standing during a national anthem is, is done by non-democratic countries too. Such displays are not uniquely American. See above for what is uniquely American.</p>\n\n<p>Finally, in my upbringing kneeling is a sign of reverence. One can make the argument that kneeling is even a higher display of respect than standing. If Colin and the other NFL players did something like turn their back, or lie down, or start break dancing THAT would be disrespectful.</p>\n\n<p>Worse, what is most disrespectful to veterans is not voting. Actively working to prevent citizens from voting. Not challenging the President when he sends our military in to conflict. And not demanding that Congress uphold its constitutional responsibility to declare war. Wouldn’t making sure every vet gets the physical and mental health care they need be a true sign of respect? What is more respectful, actually caring about active military and veterans or puttinng on appearances of respect?</p>\n\n<p>P.S. Go to any sporting event and you will find people walking, talking, and otherwise not paying attention during the national anthem.</p>\n",
-			"date_published": "2018-09-04T17:24:56-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/04/212456.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/03/what-makes-a.html",
-	      	
-			"content_html": "<p>What makes a country great is that people desire to move to it. People who don’t understand the irony in that sentence need to open their eyes!</p>\n\n<p>True greatness is neither self determined not sef proclaimed.</p>\n",
-			"date_published": "2018-09-03T11:03:04-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/03/what-makes-a.html"
 		}
 		
 	]
