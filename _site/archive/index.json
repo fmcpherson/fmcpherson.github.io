@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/14/i-am-wearing.html",
+	      	
+			"content_text": "I am wearing a Fossil Q Explorist, third generation. Battery...",
+			"date_published": "2018-09-14T09:41:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/14/i-am-wearing.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/13/water-shortages-affecting.html",
+	      	
+			"content_text": "Water shortages affecting beer production. Oh the horror!\n",
+			"date_published": "2018-09-13T17:31:49-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/13/water-shortages-affecting.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/13/where-is-the.html",
+	      	
+			"content_text": "Where is the Siri Shortcuts app? I have the official...",
+			"date_published": "2018-09-13T17:23:26-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/13/where-is-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/13/can-one-use.html",
+	      	
+			"content_text": "Can one use an Apple Watch without an iPhone? If...",
+			"date_published": "2018-09-13T17:05:24-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/13/can-one-use.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/13/while-you-can.html",
 	      	
 			"content_text": "While you can configure the Gmail app to use the...",
