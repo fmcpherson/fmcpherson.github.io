@@ -4,14 +4,27 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Thu, 13 Sep 2018 09:04:27 -0400</pubDate>
-    <lastBuildDate>Thu, 13 Sep 2018 09:04:27 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Sep 2018 16:45:31 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 16:45:31 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;While you can configure the Gmail app to use the same categories as Inbox, Gmail does not have a simple way to archive all messages in a category. For example, I want see all Updates, scan through the list, and quickly archive them after I’ve read what I want to read. Gmail also does not have a button to snooze an app, but at least you can configure one of the two swipe actions to snooze.&lt;/p&gt;
+
+&lt;p&gt;Ack! Just realize that when I implemented categories (Primary, Social, Promotions, Updates, and Forums) in the Gmail app on my phone, that changes the web version of Gmail too. Worse, there is no single button way to archive all email of a category. You first have to select all messages and then buttons appear to mark read, archive, delete, etc..&lt;/p&gt;
+
+&lt;p&gt;So, Google, give me an easy way to archive all email in a category in Gmail and I will be unaffected by the demise of Inbox. Think about how fast it is to triage email in Inbox and enable that same capability in Gmail.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Sep 2018 09:08:28 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/13/while-you-can.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/13/while-you-can.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;Really disappointed by the news that &lt;a href=&quot;https://www.theverge.com/2018/9/12/17848500/google-inbox-shut-down-sunset-snooze-email-march-2019&quot;&gt;Google will be shutting down Inbox&lt;/a&gt;. I think it is the best email app for smartphones because it makes it real easy to triage email.&lt;/p&gt;
 
-&lt;p&gt;I am not surprised by the news, we say this coming and I’ve been using the Gmail app on desktop and tablets and Inbox on my Pixel and iPad Mini.&lt;/p&gt;
+&lt;p&gt;I am not surprised by the news, we saw this coming and I’ve been using the Gmail app on desktop and tablets and Inbox on my Pixel and iPad Mini.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 09:02:13 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/09/13/really-disappointed-by.html</link>
@@ -282,21 +295,6 @@ Our “God view” came to resemble our worldview. In this century, even much of
         <pubDate>Wed, 05 Sep 2018 09:24:33 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/09/05/in-theory-does.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/09/05/in-theory-does.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I host an application on Amazon Lightsail, and I originally provisioned the then lowest priced instance, which cost $5 per month for 1 vCPU and 512 MB of RAM.&lt;/p&gt;
-
-&lt;p&gt;Two months ago I determined the app needed more memory, so I decided it worth upgrading to the $10 per month, 1 vCPU and 1 GB of RAM plan.&lt;/p&gt;
-
-&lt;p&gt;Last month Amazon released &lt;a href=&quot;https://aws.amazon.com/lightsail/pricing/?fl=sp2&quot;&gt;new monthly pricing&lt;/a&gt; that lowered the price of the 1 vCPU and 1 GB instance to $5 per month.&lt;/p&gt;
-
-&lt;p&gt;Cloud computing is the one thing that I use where the cost truly decreases over time and it just happens. I did not know about the change in pricing until I got the bill for last month and saw it was lower.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 04 Sep 2018 17:31:06 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/04/i-host-an.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/04/i-host-an.html</guid>
       </item>
     
   </channel>
