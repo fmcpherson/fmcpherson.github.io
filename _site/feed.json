@@ -7,9 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/13/while-you-can.html",
+	      	
+			"content_html": "<p>While you can configure the Gmail app to use the same categories as Inbox, Gmail does not have a simple way to archive all messages in a category. For example, I want see all Updates, scan through the list, and quickly archive them after I’ve read what I want to read. Gmail also does not have a button to snooze an app, but at least you can configure one of the two swipe actions to snooze.</p>\n\n<p>Ack! Just realize that when I implemented categories (Primary, Social, Promotions, Updates, and Forums) in the Gmail app on my phone, that changes the web version of Gmail too. Worse, there is no single button way to archive all email of a category. You first have to select all messages and then buttons appear to mark read, archive, delete, etc..</p>\n\n<p>So, Google, give me an easy way to archive all email in a category in Gmail and I will be unaffected by the demise of Inbox. Think about how fast it is to triage email in Inbox and enable that same capability in Gmail.</p>\n",
+			"date_published": "2018-09-13T09:08:28-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/13/while-you-can.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/13/really-disappointed-by.html",
 	      	
-			"content_html": "<p>Really disappointed by the news that <a href=\"https://www.theverge.com/2018/9/12/17848500/google-inbox-shut-down-sunset-snooze-email-march-2019\">Google will be shutting down Inbox</a>. I think it is the best email app for smartphones because it makes it real easy to triage email.</p>\n\n<p>I am not surprised by the news, we say this coming and I’ve been using the Gmail app on desktop and tablets and Inbox on my Pixel and iPad Mini.</p>\n",
+			"content_html": "<p>Really disappointed by the news that <a href=\"https://www.theverge.com/2018/9/12/17848500/google-inbox-shut-down-sunset-snooze-email-march-2019\">Google will be shutting down Inbox</a>. I think it is the best email app for smartphones because it makes it real easy to triage email.</p>\n\n<p>I am not surprised by the news, we saw this coming and I’ve been using the Gmail app on desktop and tablets and Inbox on my Pixel and iPad Mini.</p>\n",
 			"date_published": "2018-09-13T09:02:13-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/13/really-disappointed-by.html"
 		},
@@ -198,14 +206,6 @@
 			"content_html": "<p><a href=\"http://www.latimes.com/socal/burbank-leader/opinion/tn-blr-me-intheory-20180904-story.html\">In Theory: Does religious belief make the world more violent?</a></p>\n\n<p>Understanding of the above question and a good answer require contemplation on the words  “religious beliefs.”</p>\n\n<p>Beliefs most often translate into emotionally driven actions. People do certain things because they strongly feel (emotion) they are right.</p>\n\n<p>The word “religion” means to bind, so religious beliefs is a binding together of people with common beliefs, often translated in to emotion driven actions.</p>\n\n<p>Religious and non-religious people have beliefs and emotions, removing religion isn’t going to remove those beliefs.</p>\n\n<p>One can say religion heightens those emotions. It can and has been a method for “getting people worked up” in such a way that emotions are heightened.</p>\n\n<p>Here too there is nothing particularly unique about religion. Dictators and Presidents, atheist and believers, have and will conduct events that heighten emotions.</p>\n\n<p>So, no, removing religious beliefs is not going to decrease or eliminate violence because emotions are part of who we are. Further, there will always be people who know how to manipulate emotions. Mature religion teaches us about our emotions, and helps us to know them and manage them. (Genesis 4:7) Mature religion is the antidote, not the problem.</p>\n",
 			"date_published": "2018-09-05T09:24:33-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/05/in-theory-does.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/04/i-host-an.html",
-	      	
-			"content_html": "<p>I host an application on Amazon Lightsail, and I originally provisioned the then lowest priced instance, which cost $5 per month for 1 vCPU and 512 MB of RAM.</p>\n\n<p>Two months ago I determined the app needed more memory, so I decided it worth upgrading to the $10 per month, 1 vCPU and 1 GB of RAM plan.</p>\n\n<p>Last month Amazon released <a href=\"https://aws.amazon.com/lightsail/pricing/?fl=sp2\">new monthly pricing</a> that lowered the price of the 1 vCPU and 1 GB instance to $5 per month.</p>\n\n<p>Cloud computing is the one thing that I use where the cost truly decreases over time and it just happens. I did not know about the change in pricing until I got the bill for last month and saw it was lower.</p>\n",
-			"date_published": "2018-09-04T17:31:06-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/04/i-host-an.html"
 		}
 		
 	]
