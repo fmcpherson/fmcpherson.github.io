@@ -7,9 +7,33 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/15/sitting-on-the.html",
+	      	
+			"content_html": "<p>Sitting on the patio reading with coffee and nature. My most favorite thing that I have not been able to do enough of this summer thanks to the humidity. Thankful for fall.</p>\n",
+			"date_published": "2018-09-15T10:37:41-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/15/sitting-on-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/14/ive-factory-reset.html",
+	      	
+			"content_html": "<p>I’ve factory reset <a href=\"https://www.fossil.com/us/en/products/gen-3-smartwatch-q-explorist-luggage-leather-sku-FTW4004P.html?gclid=CjwKCAjwuO3cBRAyEiwAzOxKsi94BGhVSDK_JrykDn_BN5wCumApf4cobXA-rx4hByuSfhADR5oQJxoCBikQAvD_BwE&amp;cid=pds:conv:google:PLA:Prospecting:ListingAds:Watches:PriorityTerms&amp;ef_id=W1IqXQAABXHzfe4i:20180914202955:s\">my Fossil Q</a> and it seems to be drawing less power, but I’ll need to watch it more over time. I am reminded that I believe this happened when I last upgraded Android my phone, when that is done something seems to happen to the Bluetooth communication between watch and phone. The solution is to break the pair, which results in a factor reset of the watch.</p>\n",
+			"date_published": "2018-09-14T16:30:17-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/14/ive-factory-reset.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/14/dana-blankenhorn-moores.html",
+	      	
+			"content_html": "<p><a href=\"http://www.danablankenhorn.com/2018/08/the-math.html\">Dana Blankenhorn</a>:</p>\n<blockquote>\n  <p>Moore’s Law of Politics holds that technology slows our aging, but we remain set in our ways. The way you thought when you were a kid likely determines how you vote today, and as we age our memories get longer.</p>\n</blockquote>\n",
+			"date_published": "2018-09-14T16:08:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/14/dana-blankenhorn-moores.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/14/daniel-blankenhorn-our.html",
 	      	
-			"content_html": "<p><a href=\"http://www.danablankenhorn.com/2018/09/moores-law-of-politics.html\">Daniel Blankenhorn</a>:</p>\n<blockquote>\n  <p>Our country, and our planet, continue careening toward disaster, poised between the pull of Moore’s Law and the pushback of Moore’s Law of Politics. The balance is finely drawn.</p>\n</blockquote>\n",
+			"content_html": "<p><a href=\"http://www.danablankenhorn.com/2018/09/moores-law-of-politics.html\">Dana Blankenhorn</a>:</p>\n<blockquote>\n  <p>Our country, and our planet, continue careening toward disaster, poised between the pull of Moore’s Law and the pushback of Moore’s Law of Politics. The balance is finely drawn.</p>\n</blockquote>\n",
 			"date_published": "2018-09-14T16:04:32-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/14/daniel-blankenhorn-our.html"
 		},
@@ -182,30 +206,6 @@
 			"content_html": "<p><a href=\"https://www.vox.com/policy-and-politics/2018/9/6/17825406/trump-woodward-op-ed-nyt-anonymous-impeachment\">The anonymous New York Times Trump op-ed tells us what we already knew: Trump is unfit</a></p>\n\n<blockquote>\n  <p>The Founding Fathers were not unaware of the possibility that a demagogue or a knave might win the presidency. That’s why they checked the executive with an independent Congress and built in powers of impeachment. That Republicans in this Congress have proven so subservient to — or scared of — Trump that they have let the fate of the country hinge on whether his staff can adequately distract and calm him is a subversion of the constitutional order and an abdication of responsibility.</p>\n</blockquote>\n",
 			"date_published": "2018-09-06T18:05:26-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/06/the-anonymous-new.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/06/maybe-it-is.html",
-	      	
-			"content_html": "<p>Maybe it is just me, but I think Google Chrome’s new UI is a little cartoonish.</p>\n",
-			"date_published": "2018-09-06T17:55:50-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/06/maybe-it-is.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/06/125419.html",
-	      	
-			"content_html": "<p><img src=\"http://frankmcpherson.blog/uploads/2018/dd90ad916c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-06T08:54:19-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/06/125419.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/06/happy-day-if.html",
-	      	
-			"content_html": "<p>Happy <a href=\"https://906day.com/\">906 Day</a>!</p>\n\n<p>If you are near Lake Superior, today is a good day to take ride, pick up a pasty, and enjoy the beauty of the lake.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/81827420da.jpg\" width=\"600\" height=\"450\" /></p>\n\n<p>Take a few moments to <a href=\"https://upsupply.co/upper-peninsula\">learn about the Upper Peninsula of Michigan</a>.</p>\n",
-			"date_published": "2018-09-06T08:42:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/06/happy-day-if.html"
 		}
 		
 	]
