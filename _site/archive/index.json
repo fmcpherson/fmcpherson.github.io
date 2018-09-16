@@ -7,9 +7,33 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/15/sitting-on-the.html",
+	      	
+			"content_text": "Sitting on the patio reading with coffee and nature. My...",
+			"date_published": "2018-09-15T10:37:41-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/15/sitting-on-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/14/ive-factory-reset.html",
+	      	
+			"content_text": "I’ve factory reset my Fossil Q and it seems to...",
+			"date_published": "2018-09-14T16:30:17-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/14/ive-factory-reset.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/14/dana-blankenhorn-moores.html",
+	      	
+			"content_text": "Dana Blankenhorn: Moore’s Law of Politics holds that technology slows...",
+			"date_published": "2018-09-14T16:08:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/14/dana-blankenhorn-moores.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/14/daniel-blankenhorn-our.html",
 	      	
-			"content_text": "Daniel Blankenhorn: Our country, and our planet, continue careening toward...",
+			"content_text": "Dana Blankenhorn: Our country, and our planet, continue careening toward...",
 			"date_published": "2018-09-14T16:04:32-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/14/daniel-blankenhorn-our.html"
 		},
