@@ -7,6 +7,40 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/17/boethius-nothing-is.html",
+	      	
+			"content_html": "<p>Boethius:</p>\n<blockquote>\n  <p>Nothing is miserable unless you think it so; and on the other hand, nothing brings happiness unless you are content with it.</p>\n</blockquote>\n\n<p>from “The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure” by Greg Lukianoff, Jonathan Haidt\n<a href=\"http://a.co/fMQ9JIi\">http://a.co/fMQ9JIi</a></p>\n",
+			"date_published": "2018-09-16T22:39:04-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/16/boethius-nothing-is.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/15/i-think-there.html",
+	      	
+			"content_html": "<p>I think there is a possibility for <a href=\"https://9to5mac.com/guides/siri-shortcuts/\">Siri shortcuts</a> to be a really big hit for Apple, and Google needs to beef up Assistant to match. Over time I expect Siri to speed up how you use your iOS device.</p>\n\n<p>For example, right now I can tell Siri to open my blog and she starts Safari and opens this site. That saves me several taps. Right now I just made a shortcut to send text that I copy to the clipboard to Drafts. Highlight, copy to clipboard and then tell Siri to send this to Drafts.</p>\n\n<p>And this is just with the built-in functionality, soon I will be able to “program” my own shortcuts.</p>\n",
+			"date_published": "2018-09-15T18:10:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/15/i-think-there.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/15/keep-an-eye.html",
+	      	
+			"title": "Keep An Eye On The Watch",
+			
+			"content_html": "<p>I think the smart watch market is fascinating. On one hand you have Apple, with one design and software innovation and on the other hand you have a multitude of watch designers producing a variety of different looking watches at different price points using comparatively mediocre Wear OS. It also highlights the advantage of designing your own chips because Wear OS has been constrained by slow chip development by Qualcomm.</p>\n\n<p>BTW, if one is in the market for a Wear OS watch, wait until when watches with the new chips release later this year, early next. I know a number of new watches are being released to coincide with the new version of Wear OS coming next month, but I expect the new chip to provide better battery life and processing for the future.</p>\n",
+			"date_published": "2018-09-15T17:55:34-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/15/keep-an-eye.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/15/yesterday-i-did.html",
+	      	
+			"content_html": "<p><a href=\"https://frankmcpherson.blog/2018/09/14/ive-factory-reset.html\">Yesterday I did</a> a factory reset of my Fossil Q Explorist watch in the hope I would see improved battery life. So far I have had success. Before the reset the watch consumed 15% battery in an hour, today so far my watch has only consumed 7% in two hours. I only have a minimal set of apps on the watch, but I really think the problem occurred when I upgraded my phone to Android Pie. Moral is to do a reset upon such upgrades.</p>\n",
+			"date_published": "2018-09-15T11:03:40-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/15/yesterday-i-did.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/15/sitting-on-the.html",
 	      	
 			"content_html": "<p>Sitting on the patio reading with coffee and nature. My most favorite thing that I have not been able to do enough of this summer thanks to the humidity. Thankful for fall.</p>\n",
@@ -174,38 +208,6 @@
 			"content_html": "<p>Forgotten in how the women’s final of the U.S. Open ended is that the problems started with one of the most asinine rules of professional sports. Just stop having tennis chair umpires policing “coaching” from the stands. No gesture made by a coach is going to make a difference, the players still have to execute. Further, the rule is not in any way consistently applied.</p>\n\n<p>Tennis is not “special” because players are on their own, and fans pay good money to watch the players decide that match, not umpires.</p>\n",
 			"date_published": "2018-09-08T20:31:49-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/08/forgotten-in-how.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/08/osaka-is-playing.html",
-	      	
-			"content_html": "<p>Osaka is playing with seemingly no pressure. At twenty years old you figure you will be in many more slams, so no pressure if you lose.</p>\n",
-			"date_published": "2018-09-08T16:58:24-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/08/osaka-is-playing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/08/the-us-open.html",
-	      	
-			"content_html": "<p>The U.S. Open Women’s final feels a bit right now like when Sharapova beat Williams at Wimbledon.</p>\n",
-			"date_published": "2018-09-08T16:37:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/08/the-us-open.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/07/incompetency-is-the.html",
-	      	
-			"content_html": "<p><a href=\"https://politicalwire.com/2018/09/07/we-are-a-superpower-run-by-a-simpleton/\">Incompetency</a> is the primary reason why I could not and did not vote for Trump.  Current politics makes the problem worse. Not enough people took competency seriously enough and we are starting to pay the price.</p>\n\n<p>The problem is that too many people confuse politics with competency, by which I mean they don’t think Trump is incompetent they just think Democrats and Republicans are simply preventing him from doing the job.</p>\n",
-			"date_published": "2018-09-07T11:50:39-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/07/incompetency-is-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/06/the-anonymous-new.html",
-	      	
-			"content_html": "<p><a href=\"https://www.vox.com/policy-and-politics/2018/9/6/17825406/trump-woodward-op-ed-nyt-anonymous-impeachment\">The anonymous New York Times Trump op-ed tells us what we already knew: Trump is unfit</a></p>\n\n<blockquote>\n  <p>The Founding Fathers were not unaware of the possibility that a demagogue or a knave might win the presidency. That’s why they checked the executive with an independent Congress and built in powers of impeachment. That Republicans in this Congress have proven so subservient to — or scared of — Trump that they have let the fate of the country hinge on whether his staff can adequately distract and calm him is a subversion of the constitutional order and an abdication of responsibility.</p>\n</blockquote>\n",
-			"date_published": "2018-09-06T18:05:26-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/06/the-anonymous-new.html"
 		}
 		
 	]
