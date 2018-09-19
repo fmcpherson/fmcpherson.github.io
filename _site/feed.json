@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/18/dave-is-giving.html",
+	      	
+			"content_html": "<p><a href=\"http://scripting.com/2018/09/18.html#a141548\">Dave is giving the Republicans way too much credit</a>. Kavanaugh most likely will withdraw himself as candidate at the urging of the Republicans or Trump. They have plenty of alternatives who will enable their agenda equally well.</p>\n\n<p>Or, they could go through the process to make it all look nice and approve him anyway.</p>\n",
+			"date_published": "2018-09-18T11:35:26-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/18/dave-is-giving.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/18/ive-installed-the.html",
+	      	
+			"content_html": "<p>I’ve installed <a href=\"https://9to5mac.com/guides/siri-shortcuts/\">the new Shortcuts app</a> and so far see some good and some not so good.</p>\n\n<p>Good: I created a Siri Shortcut that turns on Do Not Disturb until a time I specify and the launches the Kindle app.</p>\n\n<p>Not so good: I’ve created a Siri Shortcut for a <a href=\"https://developer.apple.com/design/human-interface-guidelines/ios/extensions/sharing-and-actions/\">action extension</a> workflow I have that shares the current web page in Safari as a link formatted in markdown. What I want to do is open a page in Safari, evoke Siri and say “share this page” however once Siri starts Safari is not accessible so the web page and URL cannot be obtained.</p>\n\n<p>Basically, I was hoping Siri Shortcuts would understand the context of what is on screen, but it cannot because once you launch Siri she has focus. As far as I can tell, you have to use the share extension to do what I am trying to do.</p>\n",
+			"date_published": "2018-09-17T21:41:30-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/17/ive-installed-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/17/siri-shortcuts-is.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theverge.com/2018/9/17/17847104/apple-siri-shortcuts-ios-12-app-download-features\">Siri Shortcuts is apparently available</a> in the App Store but not yet for me. Still waiting.</p>\n",
+			"date_published": "2018-09-17T14:04:08-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/17/siri-shortcuts-is.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/17/essential-apps-that.html",
+	      	
+			"content_html": "<p><a href=\"https://www.wareable.com/sport/the-best-google-fit-compatible-apps-and-devices\">Essential apps that work with Google Fit</a> I am looking for a simple way to log the time I went to bed and got up, and I don’t see a way to do that in Google Fit.</p>\n",
+			"date_published": "2018-09-17T10:40:30-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/17/essential-apps-that.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/17/boethius-nothing-is.html",
 	      	
 			"content_html": "<p>Boethius:</p>\n<blockquote>\n  <p>Nothing is miserable unless you think it so; and on the other hand, nothing brings happiness unless you are content with it.</p>\n</blockquote>\n\n<p>from “The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure” by Greg Lukianoff, Jonathan Haidt\n<a href=\"http://a.co/fMQ9JIi\">http://a.co/fMQ9JIi</a></p>\n",
@@ -176,38 +208,6 @@
 			"content_html": "<p><a href=\"https://techpinions.com/the-post-pc-era-never-really-happened-and-likely-wont/53610\">The ‘Post-PC Era’ Never Really Happened…and Likely Won’t</a></p>\n\n<p>Of course not, <a href=\"https://realpersonalcomputing.com/2011/12/26/post-pc-era-or-the-beginning-of-the-personal-computing-era/\">I wrote about this nearly seven years ago</a>. Post-PC has always really been the transformation to the <strong>real</strong> personal computing and not how personal computing had been previously defined.</p>\n",
 			"date_published": "2018-09-10T13:15:21-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/10/the-postpc-era.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/10/ive-been-waiting.html",
-	      	
-			"content_html": "<p>I’ve been waiting all day for Sunday night. Go Pack go!</p>\n",
-			"date_published": "2018-09-09T20:02:07-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/09/ive-been-waiting.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/09/do-the-announcers.html",
-	      	
-			"content_html": "<p>Do the announcers of NFL games not know how idiotic the phrase “cannot tackle with all of your body weight” is? How does a defender tackle someone with half or part of their body weight?</p>\n",
-			"date_published": "2018-09-09T15:18:58-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/09/do-the-announcers.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/09/so-you-cant.html",
-	      	
-			"content_html": "<p>So, you can’t tackle a NFL quarterback anymore?</p>\n",
-			"date_published": "2018-09-09T14:49:53-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/09/so-you-cant.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/09/forgotten-in-how.html",
-	      	
-			"content_html": "<p>Forgotten in how the women’s final of the U.S. Open ended is that the problems started with one of the most asinine rules of professional sports. Just stop having tennis chair umpires policing “coaching” from the stands. No gesture made by a coach is going to make a difference, the players still have to execute. Further, the rule is not in any way consistently applied.</p>\n\n<p>Tennis is not “special” because players are on their own, and fans pay good money to watch the players decide that match, not umpires.</p>\n",
-			"date_published": "2018-09-08T20:31:49-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/08/forgotten-in-how.html"
 		}
 		
 	]
