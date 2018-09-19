@@ -4,8 +4,52 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sun, 16 Sep 2018 22:41:00 -0400</pubDate>
-    <lastBuildDate>Sun, 16 Sep 2018 22:41:00 -0400</lastBuildDate>
+    <pubDate>Tue, 18 Sep 2018 11:37:30 -0400</pubDate>
+    <lastBuildDate>Tue, 18 Sep 2018 11:37:30 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://scripting.com/2018/09/18.html#a141548&quot;&gt;Dave is giving the Republicans way too much credit&lt;/a&gt;. Kavanaugh most likely will withdraw himself as candidate at the urging of the Republicans or Trump. They have plenty of alternatives who will enable their agenda equally well.&lt;/p&gt;
+
+&lt;p&gt;Or, they could go through the process to make it all look nice and approve him anyway.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Sep 2018 11:35:26 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/18/dave-is-giving.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/18/dave-is-giving.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve installed &lt;a href=&quot;https://9to5mac.com/guides/siri-shortcuts/&quot;&gt;the new Shortcuts app&lt;/a&gt; and so far see some good and some not so good.&lt;/p&gt;
+
+&lt;p&gt;Good: I created a Siri Shortcut that turns on Do Not Disturb until a time I specify and the launches the Kindle app.&lt;/p&gt;
+
+&lt;p&gt;Not so good: I’ve created a Siri Shortcut for a &lt;a href=&quot;https://developer.apple.com/design/human-interface-guidelines/ios/extensions/sharing-and-actions/&quot;&gt;action extension&lt;/a&gt; workflow I have that shares the current web page in Safari as a link formatted in markdown. What I want to do is open a page in Safari, evoke Siri and say “share this page” however once Siri starts Safari is not accessible so the web page and URL cannot be obtained.&lt;/p&gt;
+
+&lt;p&gt;Basically, I was hoping Siri Shortcuts would understand the context of what is on screen, but it cannot because once you launch Siri she has focus. As far as I can tell, you have to use the share extension to do what I am trying to do.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 21:41:30 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/17/ive-installed-the.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/18/ive-installed-the.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2018/9/17/17847104/apple-siri-shortcuts-ios-12-app-download-features&quot;&gt;Siri Shortcuts is apparently available&lt;/a&gt; in the App Store but not yet for me. Still waiting.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 14:04:08 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/17/siri-shortcuts-is.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/17/siri-shortcuts-is.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.wareable.com/sport/the-best-google-fit-compatible-apps-and-devices&quot;&gt;Essential apps that work with Google Fit&lt;/a&gt; I am looking for a simple way to log the time I went to bed and got up, and I don’t see a way to do that in Google Fit.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 10:40:30 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/17/essential-apps-that.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/17/essential-apps-that.html</guid>
+      </item>
     
       <item>
       	
@@ -244,44 +288,6 @@ Our “God view” came to resemble our worldview. In this century, even much of
         <pubDate>Mon, 10 Sep 2018 13:15:21 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/09/10/the-postpc-era.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/the-postpc-era.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve been waiting all day for Sunday night. Go Pack go!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Sep 2018 20:02:07 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/09/ive-been-waiting.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/10/ive-been-waiting.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Do the announcers of NFL games not know how idiotic the phrase “cannot tackle with all of your body weight” is? How does a defender tackle someone with half or part of their body weight?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Sep 2018 15:18:58 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/09/do-the-announcers.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/09/do-the-announcers.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;So, you can’t tackle a NFL quarterback anymore?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Sep 2018 14:49:53 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/09/so-you-cant.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/09/so-you-cant.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Forgotten in how the women’s final of the U.S. Open ended is that the problems started with one of the most asinine rules of professional sports. Just stop having tennis chair umpires policing “coaching” from the stands. No gesture made by a coach is going to make a difference, the players still have to execute. Further, the rule is not in any way consistently applied.&lt;/p&gt;
-
-&lt;p&gt;Tennis is not “special” because players are on their own, and fans pay good money to watch the players decide that match, not umpires.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Sep 2018 20:31:49 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/08/forgotten-in-how.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/09/forgotten-in-how.html</guid>
       </item>
     
   </channel>
