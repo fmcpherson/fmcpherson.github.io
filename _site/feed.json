@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/20/johnathan-has-compiled.html",
+	      	
+			"content_html": "<p>Johnathan has compiled <a href=\"https://johnathan.org/posts/2018/09/all-the-iphone-xs-and-xs-max-reviews-in-one-place.html\">a list of all the iPhone XS and XS Max reviews</a>.</p>\n",
+			"date_published": "2018-09-20T15:56:02-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/20/johnathan-has-compiled.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/18/dave-is-giving.html",
 	      	
 			"content_html": "<p><a href=\"http://scripting.com/2018/09/18.html#a141548\">Dave is giving the Republicans way too much credit</a>. Kavanaugh most likely will withdraw himself as candidate at the urging of the Republicans or Trump. They have plenty of alternatives who will enable their agenda equally well.</p>\n\n<p>Or, they could go through the process to make it all look nice and approve him anyway.</p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>The Packers made <a href=\"http://www.espn.com/nfl/story/_/id/24629977/aaron-rodgers-knee-green-back-packers-returns-game\">an incredible comeback</a> last night because of Aaron Rodgers. The fact that team is so dependent on one player is nearly negligent. Wouldn’t it be prudent to have an experienced backup?</p>\n",
 			"date_published": "2018-09-10T13:22:04-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/10/the-packers-made.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/10/the-postpc-era.html",
-	      	
-			"content_html": "<p><a href=\"https://techpinions.com/the-post-pc-era-never-really-happened-and-likely-wont/53610\">The ‘Post-PC Era’ Never Really Happened…and Likely Won’t</a></p>\n\n<p>Of course not, <a href=\"https://realpersonalcomputing.com/2011/12/26/post-pc-era-or-the-beginning-of-the-personal-computing-era/\">I wrote about this nearly seven years ago</a>. Post-PC has always really been the transformation to the <strong>real</strong> personal computing and not how personal computing had been previously defined.</p>\n",
-			"date_published": "2018-09-10T13:15:21-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/10/the-postpc-era.html"
 		}
 		
 	]
