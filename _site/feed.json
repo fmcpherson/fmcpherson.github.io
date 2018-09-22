@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/22/the-first-android.html",
+	      	
+			"content_html": "<p><a href=\"https://www.cnet.com/news/the-first-android-phone-was-an-ugly-thing-and-i-loved-it/\">The first Android phone was an ugly thing, and I loved it - CNET</a></p>\n\n<p>It was not my first smartphone, but I was a proud owner of the T-Mobile G1, the first Google phone. For me the G1 was more about the Google experience than the hardware. I’ve always felt that Google’s Internet first, information first approach aligned better to my needs than Apple’s end user experience first, hardware design first approach.</p>\n",
+			"date_published": "2018-09-22T13:45:12-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/22/the-first-android.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/20/johnathan-has-compiled.html",
 	      	
 			"content_html": "<p>Johnathan has compiled <a href=\"https://johnathan.org/posts/2018/09/all-the-iphone-xs-and-xs-max-reviews-in-one-place.html\">a list of all the iPhone XS and XS Max reviews</a>.</p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>Whenever I see <a href=\"https://9to5mac.com/2018/09/10/kuo-iphone-6-1-ipad-pro-usb-c-macbook-touch-id-apple-watch-ecg/\">an article</a> about an Apple product that has the words “low price” I ask, define low price.</p>\n",
 			"date_published": "2018-09-10T13:24:48-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/10/whenever-i-see.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/10/the-packers-made.html",
-	      	
-			"content_html": "<p>The Packers made <a href=\"http://www.espn.com/nfl/story/_/id/24629977/aaron-rodgers-knee-green-back-packers-returns-game\">an incredible comeback</a> last night because of Aaron Rodgers. The fact that team is so dependent on one player is nearly negligent. Wouldn’t it be prudent to have an experienced backup?</p>\n",
-			"date_published": "2018-09-10T13:22:04-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/10/the-packers-made.html"
 		}
 		
 	]
