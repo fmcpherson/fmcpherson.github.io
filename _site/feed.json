@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/09/27/nytimes-on-politics.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/25/us/politics/on-politics-jerry-brown-democrats.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">NYTimes: On Politics With Lisa Lerer: Jerry Brown Says We’re Doomed</a></p>\n\n<p>“Trump had his theme of national nativism, and he’s pushing that, so I think the opposite of that is a more inclusive — a more generous — sense of what it is to be an American,” he said.</p>\n",
+			"date_published": "2018-09-26T22:07:24-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/26/nytimes-on-politics.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/26/why-its-pointless.html",
 	      	
 			"content_html": "<p><a href=\"https://www.castlechurchbrewing.com/blog/why-its-pointless-to-preach-about-morals?utm_source=Castle+Church+Newsletter&amp;utm_campaign=18abb70072-CASTLE+CHURCH+Weekly+Summary&amp;utm_medium=email&amp;utm_term=0_8ea6a897f0-18abb70072-228238469&amp;mc_cid=18abb70072&amp;mc_eid=dd26c2cf1c#/\">Why It’s Pointless to Preach about Morals</a></p>\n\n<blockquote>\n  <p>We base everything from our private morality to our public policies and every major value in between on this nebulous thing called “rights.”…</p>\n</blockquote>\n\n<blockquote>\n  <p>But there are some issues with basing everything on rights. For one, they’ve tended to be negatively defined. “I won’t bother you if you don’t bother me.”…</p>\n</blockquote>\n\n<blockquote>\n  <p>This negative definition of rights is what inspired an entire book by the great 20th century German theologian Dietrich Bonhoeffer reflecting on the culture shock of his time spent teaching in New York. He was puzzled that we Americans seem to talk a lot about what we are “free from,” but hardly anyone ever brings up what we might be “free for.” Yes, there are all these things which we don’t want to infringe upon our lives. But what are we living for? What positive thing should we be seeking to enrich and improve our lives?</p>\n</blockquote>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>While you can configure the Gmail app to use the same categories as Inbox, Gmail does not have a simple way to archive all messages in a category. For example, I want to see all Updates, scan through the list, and quickly archive them after I’ve read what I want to read. Gmail also does not have a button to snooze a message, but at least you can configure one of the two swipe actions to snooze.</p>\n\n<p>Ack! Just realize that when I implemented categories (Primary, Social, Promotions, Updates, and Forums) in the Gmail app on my phone, that changes the web version of Gmail too. Worse, there is no single button way to archive all email of a category. You first have to select all messages and then buttons appear to mark read, archive, delete, etc..</p>\n\n<p>So, Google, give me an easy way to archive all email in a category in Gmail and I will be unaffected by the demise of Inbox. Think about how fast it is to triage email in Inbox and enable that same capability in Gmail.</p>\n",
 			"date_published": "2018-09-13T09:08:28-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/13/while-you-can.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/13/really-disappointed-by.html",
-	      	
-			"content_html": "<p>Really disappointed by the news that <a href=\"https://www.theverge.com/2018/9/12/17848500/google-inbox-shut-down-sunset-snooze-email-march-2019\">Google will be shutting down Inbox</a>. I think it is the best email app for smartphones because it makes it real easy to triage email.</p>\n\n<p>I am not surprised by the news, we saw this coming and I’ve been using the Gmail app on desktop and tablets and Inbox on my Pixel and iPad Mini.</p>\n",
-			"date_published": "2018-09-13T09:02:13-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/13/really-disappointed-by.html"
 		}
 		
 	]
