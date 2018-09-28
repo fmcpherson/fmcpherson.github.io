@@ -4,8 +4,28 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Wed, 26 Sep 2018 22:11:31 -0400</pubDate>
-    <lastBuildDate>Wed, 26 Sep 2018 22:11:31 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Sep 2018 21:43:48 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Sep 2018 21:43:48 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I clearly started the wrong Rams receiver.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Sep 2018 21:43:25 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/27/i-clearly-started.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/28/i-clearly-started.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.cnet.com/news/every-android-version-from-the-t-mobile-g1-to-android-pie/&quot;&gt;Every Android version from the T-Mobile G1 to Android Pie - CNET&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article provided a nice overview of all the features that have been added to Android over the years.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Sep 2018 22:58:18 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/09/26/every-android-version.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/27/every-android-version.html</guid>
+      </item>
     
       <item>
       	
@@ -260,28 +280,6 @@
         <pubDate>Thu, 13 Sep 2018 17:23:26 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/09/13/where-is-the.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/09/13/where-is-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Can one &lt;a href=&quot;https://www.zdnet.com/article/apple-finally-moves-beyond-the-shadow-of-steve-jobs-with-a-truly-life-changing-product/?ftag=TREc64629f&amp;amp;bhid=22245710784390860490896261461221&quot;&gt;use an Apple Watch&lt;/a&gt; without an iPhone? If not, the barrier to entry for someone who does not own an IPhone is awfully high.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Sep 2018 17:05:24 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/13/can-one-use.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/13/can-one-use.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;While you can configure the Gmail app to use the same categories as Inbox, Gmail does not have a simple way to archive all messages in a category. For example, I want to see all Updates, scan through the list, and quickly archive them after I’ve read what I want to read. Gmail also does not have a button to snooze a message, but at least you can configure one of the two swipe actions to snooze.&lt;/p&gt;
-
-&lt;p&gt;Ack! Just realize that when I implemented categories (Primary, Social, Promotions, Updates, and Forums) in the Gmail app on my phone, that changes the web version of Gmail too. Worse, there is no single button way to archive all email of a category. You first have to select all messages and then buttons appear to mark read, archive, delete, etc..&lt;/p&gt;
-
-&lt;p&gt;So, Google, give me an easy way to archive all email in a category in Gmail and I will be unaffected by the demise of Inbox. Think about how fast it is to triage email in Inbox and enable that same capability in Gmail.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Sep 2018 09:08:28 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/13/while-you-can.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/13/while-you-can.html</guid>
       </item>
     
   </channel>
