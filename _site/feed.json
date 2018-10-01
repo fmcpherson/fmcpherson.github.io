@@ -7,6 +7,64 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/01/i-dont-know.html",
+	      	
+			"content_html": "<p>I don’t know <a href=\"http://scripting.com/2018/09/29/004408.html\">how we fix societal issues</a>. The society we live in so large with some many people needing to change, it just doesn’t seem possible.</p>\n\n<p>Take for example the Civil Rights movement. I bet some thought that surely we had that race thing behind us. Sure, there will always be bigots, but it’s not so entrenched in the fabric of society any more, is it?</p>\n\n<p>What we have learned in the last two years is no, society really hasn’t changed much since the 60s, white people just pat themselves for the appearance.</p>\n",
+			"date_published": "2018-10-01T09:37:22-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/01/i-dont-know.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/28/just-discovered-the.html",
+	      	
+			"content_html": "<p>Just discovered the iOS 12 space bar / touchpad function to move the cursor. Very cool.</p>\n",
+			"date_published": "2018-09-28T16:56:54-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/28/just-discovered-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/28/wear-os-update.html",
+	      	
+			"content_html": "<p><a href=\"https://www.slashgear.com/wear-os-update-how-to-download-install-info-28548073/\">Wear OS update today: 5 reasons to be excited - SlashGear</a></p>\n\n<p>Awaiting the update for my Fossil Q Explorist.</p>\n",
+			"date_published": "2018-09-28T16:08:26-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/28/wear-os-update.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/28/liberals-who-are.html",
+	      	
+			"content_html": "<p>Liberals who are angry about the pending appointment to the Supreme Court need to remember, they could have avoided this if they had voted for Hilary.</p>\n",
+			"date_published": "2018-09-28T15:28:20-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/28/liberals-who-are.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/28/they-liked-his.html",
+	      	
+			"title": "They Liked His Anger",
+			
+			"content_html": "<p>The Senate Judiciary Committee’s recommendation for a full vote on Kavanaugh demonstrates the value of diversity. All the Republicans on the committee are men who identified with Kavanaugh’s anger. Lindsey Graham seemed to channel it the most. In that moment it no longer mattered whether Kavanaugh is qualified for the job (I don’t think he is) or guilty of sexual assault because by god they like the man just because he got pissed off! And that too is how we end up with Trump as President because enough voters liked him and didn’t care about his ability to actually do the job.</p>\n\n<p>Senators have a constitutional responsibility to determine whether a person is competent to be a Supreme Court justice and not just like the candidates. The Senators who supported Kavanaugh have failed their duty.</p>\n",
+			"date_published": "2018-09-28T15:26:41-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/28/they-liked-his.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/28/i-love-september.html",
+	      	
+			"content_html": "<p>I love September baseball.</p>\n",
+			"date_published": "2018-09-28T15:03:24-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/28/i-love-september.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/09/28/of-the-mail.html",
+	      	
+			"content_html": "<p>Of the mail apps that I’ve seen so far, <a href=\"https://sparkmailapp.com/\">Spark</a> might be the closest to providing the functionality of Google Inbox. If/when it releases for Android and web it may be a full replacement.</p>\n",
+			"date_published": "2018-09-28T12:13:39-04:00",
+			"url": "https://frankmcpherson.blog/2018/09/28/of-the-mail.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/09/28/brett-kavanaugh-and.html",
 	      	
 			"content_html": "<p><a href=\"https://www.newyorker.com/news/current/brett-kavanaughs-adolescent-temper-tantrum-before-the-senate-judiciary-committee\">Brett Kavanaugh and the Adolescent Aggression of Conservative Masculinity</a></p>\n\n<p>To Republicans complaining about partisanship I simply ask what is possibility more partisan than not even having a hearing on a SCOTUS nominee simply because the president is a Democrat? You have no integrity to make any such complaint.</p>\n",
@@ -148,64 +206,6 @@
 			"content_html": "<p>I think there is a possibility for <a href=\"https://9to5mac.com/guides/siri-shortcuts/\">Siri shortcuts</a> to be a really big hit for Apple, and Google needs to beef up Assistant to match. Over time I expect Siri to speed up how you use your iOS device.</p>\n\n<p>For example, right now I can tell Siri to open my blog and she starts Safari and opens this site. That saves me several taps. Right now I just made a shortcut to send text that I copy to the clipboard to Drafts. Highlight, copy to clipboard and then tell Siri to send this to Drafts.</p>\n\n<p>And this is just with the built-in functionality, soon I will be able to “program” my own shortcuts.</p>\n",
 			"date_published": "2018-09-15T18:10:31-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/15/i-think-there.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/15/keep-an-eye.html",
-	      	
-			"title": "Keep An Eye On The Watch",
-			
-			"content_html": "<p>I think the smart watch market is fascinating. On one hand you have Apple, with one design and software innovation and on the other hand you have a multitude of watch designers producing a variety of different looking watches at different price points using comparatively mediocre Wear OS. It also highlights the advantage of designing your own chips because Wear OS has been constrained by slow chip development by Qualcomm.</p>\n\n<p>BTW, if one is in the market for a Wear OS watch, wait until when watches with the new chips release later this year, early next. I know a number of new watches are being released to coincide with the new version of Wear OS coming next month, but I expect the new chip to provide better battery life and processing for the future.</p>\n",
-			"date_published": "2018-09-15T17:55:34-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/15/keep-an-eye.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/15/yesterday-i-did.html",
-	      	
-			"content_html": "<p><a href=\"https://frankmcpherson.blog/2018/09/14/ive-factory-reset.html\">Yesterday I did</a> a factory reset of my Fossil Q Explorist watch in the hope I would see improved battery life. So far I have had success. Before the reset the watch consumed 15% battery in an hour, today so far my watch has only consumed 7% in two hours. I only have a minimal set of apps on the watch, but I really think the problem occurred when I upgraded my phone to Android Pie. Moral is to do a reset upon such upgrades.</p>\n",
-			"date_published": "2018-09-15T11:03:40-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/15/yesterday-i-did.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/15/sitting-on-the.html",
-	      	
-			"content_html": "<p>Sitting on the patio reading with coffee and nature. My most favorite thing that I have not been able to do enough of this summer thanks to the humidity. Thankful for fall.</p>\n",
-			"date_published": "2018-09-15T10:37:41-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/15/sitting-on-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/14/ive-factory-reset.html",
-	      	
-			"content_html": "<p>I’ve factory reset <a href=\"https://www.fossil.com/us/en/products/gen-3-smartwatch-q-explorist-luggage-leather-sku-FTW4004P.html?gclid=CjwKCAjwuO3cBRAyEiwAzOxKsi94BGhVSDK_JrykDn_BN5wCumApf4cobXA-rx4hByuSfhADR5oQJxoCBikQAvD_BwE&amp;cid=pds:conv:google:PLA:Prospecting:ListingAds:Watches:PriorityTerms&amp;ef_id=W1IqXQAABXHzfe4i:20180914202955:s\">my Fossil Q</a> and it seems to be drawing less power, but I’ll need to watch it more over time. I am reminded that I believe this happened when I last upgraded Android my phone, when that is done something seems to happen to the Bluetooth communication between watch and phone. The solution is to break the pair, which results in a factor reset of the watch.</p>\n",
-			"date_published": "2018-09-14T16:30:17-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/14/ive-factory-reset.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/14/dana-blankenhorn-moores.html",
-	      	
-			"content_html": "<p><a href=\"http://www.danablankenhorn.com/2018/08/the-math.html\">Dana Blankenhorn</a>:</p>\n<blockquote>\n  <p>Moore’s Law of Politics holds that technology slows our aging, but we remain set in our ways. The way you thought when you were a kid likely determines how you vote today, and as we age our memories get longer.</p>\n</blockquote>\n",
-			"date_published": "2018-09-14T16:08:22-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/14/dana-blankenhorn-moores.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/14/daniel-blankenhorn-our.html",
-	      	
-			"content_html": "<p><a href=\"http://www.danablankenhorn.com/2018/09/moores-law-of-politics.html\">Dana Blankenhorn</a>:</p>\n<blockquote>\n  <p>Our country, and our planet, continue careening toward disaster, poised between the pull of Moore’s Law and the pushback of Moore’s Law of Politics. The balance is finely drawn.</p>\n</blockquote>\n",
-			"date_published": "2018-09-14T16:04:32-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/14/daniel-blankenhorn-our.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/14/i-am-wearing.html",
-	      	
-			"content_html": "<p>I am wearing a Fossil Q Explorist, third generation. Battery life has been good enough to get through my day up until recently. It’s hard to get solid evidence because the Wear OS app does not provide much useful info on power drainers. It feels as though the problem started when upgrading my Pixel 2 to Android P. Doing a factory resert and re-pair to see if that fixes it.</p>\n",
-			"date_published": "2018-09-14T09:41:22-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/14/i-am-wearing.html"
 		}
 		
 	]
