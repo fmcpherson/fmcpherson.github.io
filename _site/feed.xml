@@ -4,8 +4,29 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Tue, 02 Oct 2018 09:28:04 -0400</pubDate>
-    <lastBuildDate>Tue, 02 Oct 2018 09:28:04 -0400</lastBuildDate>
+    <pubDate>Wed, 03 Oct 2018 09:24:04 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Oct 2018 09:24:04 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;How much do the Trump rallys cost the U.S. taxpayer? We are definitely paying for the secret service and police protection, what about the transportation and all other accommodations? You can say the same thing about every weekend trip to his golf courses and resorts.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Oct 2018 09:22:50 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/10/03/how-much-do.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/10/03/how-much-do.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://medium.com/s/the-big-disruption/the-big-disruption-36fbed0268cf&quot;&gt;The Big Disruption: A Totally Fictional But Essentially True Silicon Valley Story&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When Fred died of old age a few years later, all the employees gathered to pay their respects. During the dedication of a commemorative aquarium in the company’s main building, the founder of Anahata, a man named Bobby Bonilo, told his employees that it was Fred who had taught him how to run his company. Fred, he said, had proven that it was fine to have one eye and waddle if you were better than anyone else at doing those things.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 02 Oct 2018 10:51:11 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/10/02/the-big-disruption.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/10/02/the-big-disruption.html</guid>
+      </item>
     
       <item>
       	
@@ -258,32 +279,6 @@
         <pubDate>Thu, 20 Sep 2018 15:56:02 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/09/20/johnathan-has-compiled.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/09/20/johnathan-has-compiled.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;http://scripting.com/2018/09/18.html#a141548&quot;&gt;Dave is giving the Republicans way too much credit&lt;/a&gt;. Kavanaugh most likely will withdraw himself as candidate at the urging of the Republicans or Trump. They have plenty of alternatives who will enable their agenda equally well.&lt;/p&gt;
-
-&lt;p&gt;Or, they could go through the process to make it all look nice and approve him anyway.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Sep 2018 11:35:26 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/18/dave-is-giving.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/18/dave-is-giving.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve installed &lt;a href=&quot;https://9to5mac.com/guides/siri-shortcuts/&quot;&gt;the new Shortcuts app&lt;/a&gt; and so far see some good and some not so good.&lt;/p&gt;
-
-&lt;p&gt;Good: I created a Siri Shortcut that turns on Do Not Disturb until a time I specify and the launches the Kindle app.&lt;/p&gt;
-
-&lt;p&gt;Not so good: I’ve created a Siri Shortcut for a &lt;a href=&quot;https://developer.apple.com/design/human-interface-guidelines/ios/extensions/sharing-and-actions/&quot;&gt;action extension&lt;/a&gt; workflow I have that shares the current web page in Safari as a link formatted in markdown. What I want to do is open a page in Safari, evoke Siri and say “share this page” however once Siri starts Safari is not accessible so the web page and URL cannot be obtained.&lt;/p&gt;
-
-&lt;p&gt;Basically, I was hoping Siri Shortcuts would understand the context of what is on screen, but it cannot because once you launch Siri she has focus. As far as I can tell, you have to use the share extension to do what I am trying to do.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Sep 2018 21:41:30 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/09/17/ive-installed-the.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/09/18/ive-installed-the.html</guid>
       </item>
     
   </channel>
