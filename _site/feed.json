@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/04/ben-thompson-this.html",
+	      	
+			"content_html": "<p><a href=\"https://stratechery.com/2018/data-factories/\">Ben Thompson</a>:</p>\n<blockquote>\n  <p>This gets at how it is privacy regulations in particular go wrong: in the attempt to make rules that protect people without their agency, those wishing to take said agency cannot even know what exactly Facebook knows about them because, well, privacy. Meanwhile, websites throw up pop-ups and overlays that no one reads, or ban entire continents, not because their users care but because a regulator said so.</p>\n</blockquote>\n",
+			"date_published": "2018-10-04T10:06:57-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/04/ben-thompson-this.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/04/love-notes-to.html",
 	      	
 			"content_html": "<p><a href=\"http://lovenotestonewton.moosefuel.media/\">Love Notes to Newton – A film about a little green computer and the people who love it.</a></p>\n\n<p>I need to make time to watch this documentary.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p><a href=\"https://www.castlechurchbrewing.com/blog/why-its-pointless-to-preach-about-morals?utm_source=Castle+Church+Newsletter&amp;utm_campaign=18abb70072-CASTLE+CHURCH+Weekly+Summary&amp;utm_medium=email&amp;utm_term=0_8ea6a897f0-18abb70072-228238469&amp;mc_cid=18abb70072&amp;mc_eid=dd26c2cf1c#/\">Why It’s Pointless to Preach about Morals</a></p>\n\n<blockquote>\n  <p>We base everything from our private morality to our public policies and every major value in between on this nebulous thing called “rights.”…</p>\n</blockquote>\n\n<blockquote>\n  <p>But there are some issues with basing everything on rights. For one, they’ve tended to be negatively defined. “I won’t bother you if you don’t bother me.”…</p>\n</blockquote>\n\n<blockquote>\n  <p>This negative definition of rights is what inspired an entire book by the great 20th century German theologian Dietrich Bonhoeffer reflecting on the culture shock of his time spent teaching in New York. He was puzzled that we Americans seem to talk a lot about what we are “free from,” but hardly anyone ever brings up what we might be “free for.” Yes, there are all these things which we don’t want to infringe upon our lives. But what are we living for? What positive thing should we be seeking to enrich and improve our lives?</p>\n</blockquote>\n",
 			"date_published": "2018-09-26T09:12:29-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/26/why-its-pointless.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/24/warning-redirection-in.html",
-	      	
-			"content_html": "<p>WARNING: <a href=\"https://www.vanityfair.com/news/2018/09/trump-wanted-to-nuke-rosenstein-to-save-kavanaughs-bacon/amp?mbid=social_twitter&amp;__twitter_impression=true\">redirection in progress</a>!</p>\n",
-			"date_published": "2018-09-24T16:22:26-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/24/warning-redirection-in.html"
 		}
 		
 	]
