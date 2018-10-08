@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/08/i-am-seeing.html",
+	      	
+			"content_html": "<p>I am seeing a <a href=\"https://www.aboutchromebooks.com/news/google-pixel-slate-images-keyboard-cover-specifications-nocturne/\">fair amount of excitement</a> in anticipation of a possible Google tablet being announced tomorrow. The tablet will run the latest iteration of Chrome OS that runs Android and Linux apps.</p>\n\n<p>Google does not have a tablet in its hardware lineup, so I understand it feels it has an opportunity to provide an alternative to the iPad. However, I am a bit skeptical about the potential for success. I think Apple may have what little there is of the tablet market sown up with the iPad.</p>\n\n<p>It looks like <a href=\"https://www.aboutchromebooks.com/news/pixel-slate-nocturne-intel-configurations-celeron-m3-i5-i7/\">there could be four different models</a> of the Google tablet, no doubt to address different price points. I am interested to see what will be the lowest price for the tablet and how much functionality it will provide.</p>\n",
+			"date_published": "2018-10-08T10:18:14-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/08/i-am-seeing.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/07/one-way-to.html",
 	      	
 			"content_html": "<p>One way to trump the Supreme Court is to <a href=\"https://en.m.wikipedia.org/wiki/Constitutional_convention_(political_meeting)\">ratify amendments to the Constitution</a>.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>Of the mail apps that I’ve seen so far, <a href=\"https://sparkmailapp.com/\">Spark</a> might be the closest to providing the functionality of Google Inbox. If/when it releases for Android and web it may be a full replacement.</p>\n",
 			"date_published": "2018-09-28T12:13:39-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/28/of-the-mail.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/28/brett-kavanaugh-and.html",
-	      	
-			"content_html": "<p><a href=\"https://www.newyorker.com/news/current/brett-kavanaughs-adolescent-temper-tantrum-before-the-senate-judiciary-committee\">Brett Kavanaugh and the Adolescent Aggression of Conservative Masculinity</a></p>\n\n<p>To Republicans complaining about partisanship I simply ask what is possibility more partisan than not even having a hearing on a SCOTUS nominee simply because the president is a Democrat? You have no integrity to make any such complaint.</p>\n",
-			"date_published": "2018-09-27T22:22:36-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/27/brett-kavanaugh-and.html"
 		}
 		
 	]
