@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/09/my-flickr-pro.html",
+	      	
+			"content_html": "<p>My Flickr Pro account is coming up for renewal and I am wrestling over whether to renew it. The cost has doubled since I first signed up and I don’t think I get double the value. On the other hand, I’ve used Flickr for more than a decade and there is a part of me that wants to see it continue. If the price had remained the same, I don’t think I would be having this internal debate.</p>\n",
+			"date_published": "2018-10-09T09:19:00-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/09/my-flickr-pro.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/08/210343.html",
+	      	
+			"content_html": "<p>It strikes me that <a href=\"https://www.biblegateway.com/passage/?search=Galatians+3%3A28&amp;version=NIV\">what Paul wrote</a> about had much to do in <a href=\"https://www.axios.com/west-anti-establishment-revolt-populism-ab8eeced-5f9b-45b4-b8df-8b6c8b2eba66.html?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=newsletter_axiosfutureofwork&amp;stream=future\">opposition to this</a>.</p>\n",
+			"date_published": "2018-10-08T17:03:43-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/08/210343.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/08/mother-jones-the.html",
+	      	
+			"content_html": "<p><a href=\"https://www.motherjones.com/politics/2018/10/inside-the-unlikely-movement-that-could-restore-voting-rights-to-1-4-million-floridians/\">Mother Jones</a>:</p>\n<blockquote>\n  <p>The issue made national headlines in 2000, when Republican officials in Florida alleged that thousands of people with felony records were illegally registered to vote and needed to be removed from the rolls. African Americans made up only 11 percent of registered voters in the state but 44 percent of those on the purge list, which turned out to be riddled with errors. After the election, the state conceded that 12,000 eligible voters had been wrongly labeled as ex-felons and barred from voting. That was 22 times George W. Bush’s 537-vote margin of victory over Al Gore in Florida.</p>\n</blockquote>\n\n<p>Active voter suppression and the result.</p>\n",
+			"date_published": "2018-10-08T16:47:32-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/08/mother-jones-the.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/08/i-am-seeing.html",
 	      	
 			"content_html": "<p>I am seeing a <a href=\"https://www.aboutchromebooks.com/news/google-pixel-slate-images-keyboard-cover-specifications-nocturne/\">fair amount of excitement</a> in anticipation of a possible Google tablet being announced tomorrow. The tablet will run the latest iteration of Chrome OS that runs Android and Linux apps.</p>\n\n<p>Google does not have a tablet in its hardware lineup, so I understand it feels it has an opportunity to provide an alternative to the iPad. However, I am a bit skeptical about the potential for success. I think Apple may have what little there is of the tablet market sown up with the iPad.</p>\n\n<p>It looks like <a href=\"https://www.aboutchromebooks.com/news/pixel-slate-nocturne-intel-configurations-celeron-m3-i5-i7/\">there could be four different models</a> of the Google tablet, no doubt to address different price points. I am interested to see what will be the lowest price for the tablet and how much functionality it will provide.</p>\n",
@@ -184,32 +208,6 @@
 			"content_html": "<p>Liberals who are angry about the pending appointment to the Supreme Court need to remember, they could have avoided this if they had voted for Hilary.</p>\n",
 			"date_published": "2018-09-28T15:28:20-04:00",
 			"url": "https://frankmcpherson.blog/2018/09/28/liberals-who-are.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/28/they-liked-his.html",
-	      	
-			"title": "They Liked His Anger",
-			
-			"content_html": "<p>The Senate Judiciary Committee’s recommendation for a full vote on Kavanaugh demonstrates the value of diversity. All the Republicans on the committee are men who identified with Kavanaugh’s anger. Lindsey Graham seemed to channel it the most. In that moment it no longer mattered whether Kavanaugh is qualified for the job (I don’t think he is) or guilty of sexual assault because by god they like the man just because he got pissed off! And that too is how we end up with Trump as President because enough voters liked him and didn’t care about his ability to actually do the job.</p>\n\n<p>Senators have a constitutional responsibility to determine whether a person is competent to be a Supreme Court justice and not just like the candidates. The Senators who supported Kavanaugh have failed their duty.</p>\n",
-			"date_published": "2018-09-28T15:26:41-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/28/they-liked-his.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/28/i-love-september.html",
-	      	
-			"content_html": "<p>I love September baseball.</p>\n",
-			"date_published": "2018-09-28T15:03:24-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/28/i-love-september.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/09/28/of-the-mail.html",
-	      	
-			"content_html": "<p>Of the mail apps that I’ve seen so far, <a href=\"https://sparkmailapp.com/\">Spark</a> might be the closest to providing the functionality of Google Inbox. If/when it releases for Android and web it may be a full replacement.</p>\n",
-			"date_published": "2018-09-28T12:13:39-04:00",
-			"url": "https://frankmcpherson.blog/2018/09/28/of-the-mail.html"
 		}
 		
 	]
