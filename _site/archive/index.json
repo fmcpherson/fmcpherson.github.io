@@ -7,6 +7,26 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/11/my-definition-of.html",
+	      	
+			"title": "My Definition Of A Tablet",
+			
+			"content_text": "I do not think we should define a tablet as...",
+			"date_published": "2018-10-11T15:23:17-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/11/my-definition-of.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/10/changes-google-needs.html",
+	      	
+			"title": "Changes Google Needs To Make",
+			
+			"content_text": "I have a hard time swallowing the $150 price increase...",
+			"date_published": "2018-10-10T09:46:35-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/10/changes-google-needs.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/10/i-am-confused.html",
 	      	
 			"content_text": "I am confused about the value of the new Call...",
