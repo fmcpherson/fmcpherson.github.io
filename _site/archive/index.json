@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/12/handson-with-googles.html",
+	      	
+			"content_text": "Hands-on with Google’s Pixel Slate One advantage the Pixel Slate...",
+			"date_published": "2018-10-12T15:31:38-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/12/handson-with-googles.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/11/more-thoughts-about.html",
+	      	
+			"title": "More Thoughts About The Google Pixel Slate",
+			
+			"content_text": "Google classifies the Pixel Slate as a Tablet with Google...",
+			"date_published": "2018-10-11T15:40:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/11/more-thoughts-about.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/11/my-definition-of.html",
 	      	
 			"title": "My Definition Of A Tablet",
