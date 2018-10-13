@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/13/still-standing.html",
+	      	
+			"title": "Still Standing",
+			
+			"content_text": "We saw Elton John last night for the first and...",
+			"date_published": "2018-10-13T12:09:06-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/13/still-standing.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/13/sir-elton-john.html",
+	      	
+			"content_text": "Sir Elton John\n\n\n",
+			"date_published": "2018-10-12T20:15:23-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/12/sir-elton-john.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/12/handson-with-googles.html",
 	      	
 			"content_text": "Hands-on with Google’s Pixel Slate One advantage the Pixel Slate...",
