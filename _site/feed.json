@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/13/still-standing.html",
+	      	
+			"title": "Still Standing",
+			
+			"content_html": "<p>We saw Elton John last night for the first and last time, as this is his farewell tour and I believe it to be true. The show was fantastic, particularly when you consider that Elton is 71 years old. He played for a little over two and a half hours, with no intermission. After each song he would stand up, acknowledge the crowd as he did a circle around the piano seat, take a drink of water, sit down and launch into another song.</p>\n\n<p>I’ve never seen a musical act with so much percussion. Two full drum sets, three drummers, including tympani, bells, and tambourine. The dude playing the tambourine, which was well miced, got more video time than the guitars. The act, however, had no cowbell.</p>\n\n<p>Finally, a couple notes on Little Caesar’s Arena. It was the first concert that we attended at LCA. In an email the day before we were told the arena would open at 6:30 PM and encouraged people to come early, Elton was starting promptly at 8 PM. The arena didn’t open until 7 PM, which was very annoying.</p>\n\n<p>We had seats in the upper bowl, which frankly were the cheapest seats. The climb to the seats in the upper bowl is pretty steep, and I felt bad for some of thr elderly and disabled who made the climb.</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/06bb8f467c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-13T12:09:06-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/13/still-standing.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/13/sir-elton-john.html",
+	      	
+			"content_html": "<p>Sir Elton John</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/6b2832f062.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-12T20:15:23-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/12/sir-elton-john.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/12/handson-with-googles.html",
 	      	
 			"content_html": "<p><a href=\"https://techcrunch.com/2018/10/09/hands-on-with-googles-pixel-slate/\">Hands-on with Google’s Pixel Slate</a></p>\n\n<p>One advantage the Pixel Slate has over the iPad Pro is the support for micel</p>\n",
@@ -196,22 +214,6 @@
 			"content_html": "<p><a href=\"http://scripting.com/2018/10/02.html#a021728\">Dave is developing another iteration</a> of his blogging tools, this time using Github for the storage.</p>\n",
 			"date_published": "2018-10-03T11:03:48-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/03/dave-is-developing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/03/this-in-the.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/30/us/migrant-children-tent-city-texas.html\">This</a>, in the United States of America.</p>\n",
-			"date_published": "2018-10-03T09:28:40-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/03/this-in-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/03/how-much-do.html",
-	      	
-			"content_html": "<p>How much do the Trump rallys cost the U.S. taxpayer? We are definitely paying for the secret service and police protection, what about the transportation and all other accommodations? You can say the same thing about every weekend trip to his golf courses and resorts.</p>\n",
-			"date_published": "2018-10-03T09:22:50-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/03/how-much-do.html"
 		}
 		
 	]
