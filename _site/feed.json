@@ -17,6 +17,14 @@
 		},
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/13/still-going.html",
+	      	
+			"content_html": "<p>Still going</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/dcaa270bbe.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-12T21:46:17-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/12/still-going.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/13/sir-elton-john.html",
 	      	
 			"content_html": "<p>Sir Elton John</p>\n\n<p><img src=\"http://frankmcpherson.blog/uploads/2018/6b2832f062.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -206,14 +214,6 @@
 			"content_html": "<p>From the Republican’s point of view, the credibility of the Supreme Court and the sanctity of the Constitution is not what is at stake. What is at stake is putting in permanent place Supreme Court justices that support only their ideology.</p>\n\n<p>The simple problem we have is that nobody in positions of Power in this country, be they elected officials, corporations, or oligarchs, are factoring consequences in to their decisions. The only consequence they do fear is not getting their way.</p>\n\n<p>At one point you might have been able to say they these people are simply doing what they thinks is best for the United States and that there can be different approaches toward the same ends. I no longer believe this to be true, the ultimate motivation is staying in power and satisfying the people responsible for that power.</p>\n",
 			"date_published": "2018-10-03T11:13:04-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/03/from-the-republicans.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/03/dave-is-developing.html",
-	      	
-			"content_html": "<p><a href=\"http://scripting.com/2018/10/02.html#a021728\">Dave is developing another iteration</a> of his blogging tools, this time using Github for the storage.</p>\n",
-			"date_published": "2018-10-03T11:03:48-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/03/dave-is-developing.html"
 		}
 		
 	]
