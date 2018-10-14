@@ -4,8 +4,8 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Sat, 13 Oct 2018 12:09:15 -0400</pubDate>
-    <lastBuildDate>Sat, 13 Oct 2018 12:09:15 -0400</lastBuildDate>
+    <pubDate>Sat, 13 Oct 2018 21:14:41 -0400</pubDate>
+    <lastBuildDate>Sat, 13 Oct 2018 21:14:41 -0400</lastBuildDate>
     
       <item>
       	
@@ -24,6 +24,17 @@
         <pubDate>Sat, 13 Oct 2018 12:09:06 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/10/13/still-standing.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/10/13/still-standing.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Still going&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://frankmcpherson.blog/uploads/2018/dcaa270bbe.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Oct 2018 21:46:17 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/10/12/still-going.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/10/13/still-going.html</guid>
       </item>
     
       <item>
@@ -319,15 +330,6 @@
         <pubDate>Wed, 03 Oct 2018 11:13:04 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/10/03/from-the-republicans.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/10/03/from-the-republicans.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;http://scripting.com/2018/10/02.html#a021728&quot;&gt;Dave is developing another iteration&lt;/a&gt; of his blogging tools, this time using Github for the storage.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Oct 2018 11:03:48 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/10/03/dave-is-developing.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/10/03/dave-is-developing.html</guid>
       </item>
     
   </channel>
