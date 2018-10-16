@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/16/are-good-speakers.html",
+	      	
+			"content_html": "<p>Are good speakers really an important component for a smartphone? Google’s commitment to dual front facing speakers is a head scratcher. I know it was HTC’s thing back in the day, but if I am listening to audo on my Pixel I am using a headset. If I want to fill a room with sound I will connect to an external speaker using Bluetooth or Chromecast.</p>\n",
+			"date_published": "2018-10-16T09:57:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/16/are-good-speakers.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/15/how-much-screen.html",
+	      	
+			"content_html": "<p>How much screen time is too much screen time? Looking at the <a href=\"https://www.android.com/versions/pie-9-0/digital-wellbeing-beta/\">Digital Wellbeing Android app</a>, there were only two days last weekn when my Pixel 2 screen was on for more than an hour. Only three times last week I uinlocked my phone more than 20 times.</p>\n\n<p>The main problem I see with Digital Wellbeing is that it doesn’t easily show history or averages. You open the app and see your current consumption, but that info is not useful when it is not related to anything. The <a href=\"https://support.apple.com/en-us/HT208982\">Screen Time setting in iOS</a> shows averages and how that relates to prior weeks.</p>\n\n<p>Still, while the information in Screen Time is interesting, it says I pick up my iOS devices (two iPads) on average 42 times a day, I have no idea what that means? Is it good? bad?</p>\n",
+			"date_published": "2018-10-15T12:15:39-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/15/how-much-screen.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/15/there-is-established.html",
+	      	
+			"content_html": "<p>There is <a href=\"http://www.who.int/tobacco/media/en/TobaccoExplained.pdf\">established history</a> of corporations lying about the affects of their productions on people and the world. <a href=\"https://www.gq.com/story/billionaires-climate-change\">Why would we think</a> they scrapped that playbook just because they got caught once?</p>\n",
+			"date_published": "2018-10-15T11:59:43-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/15/there-is-established.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/15/why-would-you.html",
 	      	
 			"content_html": "<p><a href=\"https://amp.usatoday.com/amp/1366662002?__twitter_impression=true\">Why would you believe</a> a Republican?</p>\n",
@@ -188,32 +212,6 @@
 			"content_html": "<p><a href=\"https://www.mlbtraderumors.com/2018/10/cubs-notes-maddon-offense-hamels-bullpen-bryant.html\">Theo Epstein on the Cub’s hitters</a>:</p>\n<blockquote>\n  <p>It’s probably time to stop evaluating this in terms of talent and start evaluating it in terms of production</p>\n</blockquote>\n\n<p>Yes, exactly! Looking forward on the conclusions and actions taken as a result of such an evaluation.</p>\n",
 			"date_published": "2018-10-04T10:14:39-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/04/theo-epstein-on.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/04/ben-thompson-this.html",
-	      	
-			"content_html": "<p><a href=\"https://stratechery.com/2018/data-factories/\">Ben Thompson</a>:</p>\n<blockquote>\n  <p>This gets at how it is privacy regulations in particular go wrong: in the attempt to make rules that protect people without their agency, those wishing to take said agency cannot even know what exactly Facebook knows about them because, well, privacy. Meanwhile, websites throw up pop-ups and overlays that no one reads, or ban entire continents, not because their users care but because a regulator said so.</p>\n</blockquote>\n",
-			"date_published": "2018-10-04T10:06:57-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/04/ben-thompson-this.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/04/love-notes-to.html",
-	      	
-			"content_html": "<p><a href=\"http://lovenotestonewton.moosefuel.media/\">Love Notes to Newton – A film about a little green computer and the people who love it.</a></p>\n\n<p>I need to make time to watch this documentary.</p>\n",
-			"date_published": "2018-10-03T22:00:11-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/03/love-notes-to.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/03/civics-lesson.html",
-	      	
-			"title": "Civics Lesson",
-			
-			"content_html": "<p>First, one needs to learn what history says it means to be an American. Next, one needs to decide what they believe it means to be an American. How consistent are your beliefs with history?</p>\n<p>\n  Next, one needs to determine what each political party claims it stands for and challenge the assumptions for how those claims are consistent with being an American and for progress. \n  <br />\n</p>\n<p>\n  Of course, the questions of whether progress is needed, desired, and how it looks needs to be decided, ultimately by each individual. \n  <br />\n</p>\n",
-			"date_published": "2018-10-03T11:23:18-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/03/civics-lesson.html"
 		}
 		
 	]
