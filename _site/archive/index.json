@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/17/david-brooks-writes.html",
+	      	
+			"content_text": "David Brooks writes of the Hidden Tribes survey and seems...",
+			"date_published": "2018-10-17T09:10:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/17/david-brooks-writes.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/16/so-those-filters.html",
+	      	
+			"content_text": "So those filters in Discover… are those hashtags like #baseball...",
+			"date_published": "2018-10-16T14:37:29-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/16/so-those-filters.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/16/the-gist-of.html",
+	      	
+			"content_text": "The gist of the articles currently being written about Aaron...",
+			"date_published": "2018-10-16T10:57:18-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/16/the-gist-of.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/16/are-good-speakers.html",
 	      	
 			"content_text": "Are good speakers really an important component for a smartphone?...",
