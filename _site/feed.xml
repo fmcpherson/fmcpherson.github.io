@@ -4,12 +4,28 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Thu, 18 Oct 2018 09:07:16 -0400</pubDate>
-    <lastBuildDate>Thu, 18 Oct 2018 09:07:16 -0400</lastBuildDate>
+    <pubDate>Fri, 19 Oct 2018 09:45:21 -0400</pubDate>
+    <lastBuildDate>Fri, 19 Oct 2018 09:45:21 -0400</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;Back in the day before Gmail I used to run my own email server in my house. It was a bit of a pain to maintain, but it satisfied the geek in me. There is a company that is selling &lt;a href=&quot;https://thehelm.com/pages/product&quot;&gt;an IoT-like email server&lt;/a&gt; that costs $500. I’ve never heard of the company and therefore can’t vouch for it, but I find the appliance intriguing.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2018/jul/26/alexandria-ocasio-cortez-bernie-sanders-kansas-james-thompson&quot;&gt;Bernie Sanders&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;It is beyond comprehension, the degree to which the Democratic party nationally has essentially abdicated half of the states in this country to rightwing Republicans, including some of the poorest states in America, those in the south,” Sanders said. “The reason I go to Kansas and many so-called red states is that I will do everything that I can to bring new people into the political process in states which are today conservative. I do not know how you turn those states around unless you go there and get people excited&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You also can’t assume you have a state won. I believe the 2016 Presidential election would have a different outcome had Hilary actively campaigned in Michigan and Wisconsin.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Oct 2018 09:43:47 -0400</pubDate>
+        <link>https://frankmcpherson.blog/2018/10/19/bernie-sanders-it.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/10/19/bernie-sanders-it.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Back in the day before Gmail I used to run my own email server in my house. It was a bit of a pain to maintain, but it satisfied the geek in me. There is a company that is selling &lt;a href=&quot;https://thehelm.com/pages/product&quot;&gt;an IoT-like email server&lt;/a&gt; that costs $500. I’ve never heard of the company and therefore can’t vouch for it, but I find the appliance intriguing. Just found &lt;a href=&quot;https://arstechnica.com/information-technology/2018/10/meet-helm-the-startup-taking-on-gmail-with-a-server-that-runs-in-your-home/&quot;&gt;an article on Ars Technica&lt;/a&gt; about this product.&lt;/p&gt;
+
+&lt;p&gt;The solution, called Helm, sounds a lot like &lt;a href=&quot;https://twitter.com/pogoplug?lang=en&quot;&gt;Pogoplug&lt;/a&gt;, which was a personal cloud storage device that is no longer available. The risk of using a product from a small company that might not stay in business to store and access personal data is something one has to take in to consideration.&lt;/p&gt;
 
 &lt;p&gt;Out of curiosity, I looked for the oldest message in my Gmail archive, its from when I first got an account in May, 2004.&lt;/p&gt;
 </description>
@@ -305,20 +321,6 @@
         <pubDate>Mon, 08 Oct 2018 17:03:43 -0400</pubDate>
         <link>https://frankmcpherson.blog/2018/10/08/210343.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/10/08/210343.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.motherjones.com/politics/2018/10/inside-the-unlikely-movement-that-could-restore-voting-rights-to-1-4-million-floridians/&quot;&gt;Mother Jones&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;The issue made national headlines in 2000, when Republican officials in Florida alleged that thousands of people with felony records were illegally registered to vote and needed to be removed from the rolls. African Americans made up only 11 percent of registered voters in the state but 44 percent of those on the purge list, which turned out to be riddled with errors. After the election, the state conceded that 12,000 eligible voters had been wrongly labeled as ex-felons and barred from voting. That was 22 times George W. Bush’s 537-vote margin of victory over Al Gore in Florida.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Active voter suppression and the result.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Oct 2018 16:47:32 -0400</pubDate>
-        <link>https://frankmcpherson.blog/2018/10/08/mother-jones-the.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/10/08/mother-jones-the.html</guid>
       </item>
     
   </channel>
