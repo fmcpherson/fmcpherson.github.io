@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/21/game-over-for.html",
+	      	
+			"content_html": "<p>Game over for the Brewers. Used Hader too soon. ⚾️</p>\n",
+			"date_published": "2018-10-20T22:01:54-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/20/game-over-for.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/21/counsell-could-be.html",
+	      	
+			"content_html": "<p>Counsell could be over managing by putting Hader in too early. If the Brewers don’t take the lead while Hader is pitching, it might be game over. At some point you got to rely on starting pitching.</p>\n",
+			"date_published": "2018-10-20T21:05:47-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/20/counsell-could-be.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/20/i-am-watching.html",
+	      	
+			"content_html": "<p>I am watching the Michigan/Michigan State football game that feels like a game between two mediocre teams. Could go to overtime at this rate.</p>\n",
+			"date_published": "2018-10-20T15:46:41-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/20/i-am-watching.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/20/linux-apps-coming.html",
+	      	
+			"content_html": "<p><a href=\"https://chromeunboxed.com/news/linux-app-support-mediatek-arm-chromebook-acer-r13\">Linux Apps Coming To MediaTek-Powered Chromebooks Like The Acer R13</a></p>\n\n<blockquote>\n  <p>We’ll dive deeper into how Google can leverage Linux apps some other time but I would guess that Google is planning something bigger with Crostini and I really hope it involves some sort of unified apps store that includes Linux apps, PWAs and even Android apps.</p>\n</blockquote>\n\n<p>I plan to buy a new computer this year and it will likely be a Chromebook largely due to Crostini. I am working on a blog post about what I am currently considering and why.</p>\n",
+			"date_published": "2018-10-20T14:39:14-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/20/linux-apps-coming.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/20/a-got-my.html",
 	      	
 			"content_html": "<p>A got my hair cut this afternoon. I am the only one in the barbershop getting my hair cut. Dude walks in right up to my barber, who asks the guy if he can help him. Dude says he is on a scavenger hunt for sweetest day and needs a picture with a barber. Takes selfie with my barber and leaves.</p>\n",
@@ -180,38 +212,6 @@
 			"content_html": "<p>I have a hard time swallowing <a href=\"https://www.theverge.com/2018/10/9/17956202/google-pixel-3-price-expensive-why\">the $150 price increase</a> between the Google Pixel 2 and the Pixel 3. I know Google can set prices the market will bear, but when I look at the difference I ask myself is the price increase due to higher costs or a desire for a higher profit margin?</p>\n\n<p>Just about every Android phone that I have owned, from the original T-Mobile G1 to my current Pixel 2, has been either a Nexus or Made by Google phone because I value having the pure version of Android that is directly and quickly updated by Google. Having suffered during my Windows Mobile days of delayed software updates due to OEM timelines, I have tried to avoid such situations.</p>\n\n<p>I want to keep using Pixel phones, Google seems to want to be in the premium priced smartphone market. What can be done? Google can follow Apple’s lead into that premium market by doing the following:</p>\n\n<ol>\n  <li>\n    <p>Continue to support older Pixel phones for several more future releases of Android. Google forced me to by a Pixel 2 because it announced Android 9 will not support the Nexus 6P, which I previously owned. In short Google should not continue only providing two operating system upgrades for their Pixel phones. The latest version of <a href=\"https://www.apple.com/ios/ios-12/\">iOS supports five generations</a> of iPhones and Android needs to do the same for Pixel phones.</p>\n  </li>\n  <li>\n    <p>Keep selling at least two generations of Pixel phones and lower the price of the older generation. Right now the Pixel 2 is still available at the Google Store, but for how long? I think Google needs to keep selling the Pixel 2 until it announces the Pixel 4, which then builds in a lower priced Pixel.</p>\n  </li>\n</ol>\n\n<p>It seems clear to me that smartphone prices have gone up across the board because Apple increased the price of the iPhone. I don’t like the iPhone prices either, but there is one big difference today between iPhone and Pixel. The iPhone you buy today will very likely be able to run the version of iOS released four years from now, so you don’t need to buy a new iPhone in two years, you cannot say the same thing about Pixel.</p>\n\n<p>The combination of the $150 price increase, Apple’s practice to support older models of iPhones and selling older models at lower prices has me considering for the first time a switch to iPhone. I value the ability to receive updates direct from the source of the operating system.</p>\n\n<p>I prefer Android smartphones and I don’t want to switch, so I hope Google will make the changes I describe above. I also need to take a closer look at <a href=\"https://www.android.com/one/?gclid=Cj0KCQjwxvbdBRC0ARIsAKmec9bTgjNYnJ15XF1F-mkVu7nflgaw0voIk5MP2xEAMm3dJTzgbDVSttgaAse-EALw_wcB&amp;gclsrc=aw.ds&amp;dclid=CJLe6oWB_N0CFYLewAodBBgKTA\">Android One</a>, which may clean Android with updates from Google at a lower price. The bottom line is that Googe needs to know there is more to providing a premium phone than a price increase, and paying $800 for a phone that will only get operating system upgrades for two years makes no sense.</p>\n",
 			"date_published": "2018-10-10T09:46:35-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/10/changes-google-needs.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/10/i-am-confused.html",
-	      	
-			"content_html": "<p>I am confused about the value of <a href=\"https://www.buzzfeednews.com/article/nicolenguyen/pixel-3-price-google-hands-on\">the new Call Screen feature</a> that Google plans to add to Pixel phones. I assume the primary purpose is to screen telemarketing calls, but doesn’t the very act of answering the call provide a signal that the number is valid? I was under the impression the best thing to do with telemarketing is to not answer the call.</p>\n\n<p>Right now, if I get a call that I don’t recognize, which is most, I decline the call. Period.</p>\n",
-			"date_published": "2018-10-10T08:49:25-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/10/i-am-confused.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/10/i-wonder-what.html",
-	      	
-			"content_html": "<p>I wonder what the reaction would have been if Obama had campaigned as much as Trump does. Pretty sure Fox News would be all over it. And I wonder how much I as a taxpayer am paying for these campaign events.</p>\n",
-			"date_published": "2018-10-09T21:45:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/09/i-wonder-what.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/10/it-must-frustrate.html",
-	      	
-			"content_html": "<p>It must frustrate Detroit Tiger fans to see so many former Tigers in the MLB Playoffs. The Red Sox have three former Tigers playing for them in this game against the Yankees. Not to mention the Red Sox GM, who used to be the Tiger’s GM and then you have Justin Verlander over on the Astros.</p>\n\n<p>Looks like the it will be Red Sox vs. Astros in the ALCS, with Dodgers vs. Brewers in the NLCS. Both will be good series.</p>\n",
-			"date_published": "2018-10-09T21:27:13-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/09/it-must-frustrate.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/09/i-am-also.html",
-	      	
-			"content_html": "<p>I am also not thrilled by the $799 starting price on the Pixel 3. I paid $649 for the Pixel 2, and wasn’t entirely thrilled by that price. Given my use of tablets I have a hard time justifying paying more than $650 for a smartphone. Sadly, Pixel 2 may be my last Pixel phone at this pricing.</p>\n",
-			"date_published": "2018-10-09T12:28:00-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/09/i-am-also.html"
 		}
 		
 	]
