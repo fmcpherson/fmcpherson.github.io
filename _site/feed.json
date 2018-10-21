@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/21/note-which-words.html",
+	      	
+			"content_html": "<p>Note which words are not in “Make America Great Again.” Hint: Trump seems to the think our only enemies in the world are journalists and Democrats.</p>\n",
+			"date_published": "2018-10-21T13:26:33-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/21/note-which-words.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/21/game-over-for.html",
 	      	
 			"content_html": "<p>Game over for the Brewers. Used Hader too soon. ⚾️</p>\n",
@@ -202,16 +210,6 @@
 			"content_html": "<p>I do not think we should define a tablet as a screen without a keyboard, instead a tablet ought to be defined by how it is most commonly used, by which I mean you mostly use it in portrait orientation like one would a notepad of paper or a book.</p>\n\n<p>In my opinion, a tablet has at least a 7-inch screen and is comfortable to hold and use for long periods of time with the device in a portriat orientation. Consequently devices that claim to be a tablet that have a 12-inch or larger screen are not really tablets, they really fall into a tweener (with notebooks), 2-in-1 category.</p>\n\n<p>Based on how I use my iPad Pro 10.5, it is more a 2-in-1 because it is mostly used in landscape or when in portraint lying on a desk. By my defintion the only true tablets that I own are the iPad Mini 4 and the Nexus 9. The iPad and it’s 9.7-inch screen is probably the largest screen size for a tablet.</p>\n\n<p>My tablet use case definition might account for why tablets have not really overwhelmed the market. Apple had great initial success with the iPad, but sales started to taper off until the introduced the Pro line and significantly decreased the price of the regular iPad. The Pro line really fills the 2-in-1 market, while the lower price iPad has gained sales from holdouts who have wanted one the past but found them too expensive.</p>\n\n<p>Further, by my defintion, the most successful tablet maker is likely Amazon with their cheap 7-inch and 8-inch tablets.</p>\n",
 			"date_published": "2018-10-11T15:23:17-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/11/my-definition-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/10/changes-google-needs.html",
-	      	
-			"title": "Changes Google Needs To Make",
-			
-			"content_html": "<p>I have a hard time swallowing <a href=\"https://www.theverge.com/2018/10/9/17956202/google-pixel-3-price-expensive-why\">the $150 price increase</a> between the Google Pixel 2 and the Pixel 3. I know Google can set prices the market will bear, but when I look at the difference I ask myself is the price increase due to higher costs or a desire for a higher profit margin?</p>\n\n<p>Just about every Android phone that I have owned, from the original T-Mobile G1 to my current Pixel 2, has been either a Nexus or Made by Google phone because I value having the pure version of Android that is directly and quickly updated by Google. Having suffered during my Windows Mobile days of delayed software updates due to OEM timelines, I have tried to avoid such situations.</p>\n\n<p>I want to keep using Pixel phones, Google seems to want to be in the premium priced smartphone market. What can be done? Google can follow Apple’s lead into that premium market by doing the following:</p>\n\n<ol>\n  <li>\n    <p>Continue to support older Pixel phones for several more future releases of Android. Google forced me to by a Pixel 2 because it announced Android 9 will not support the Nexus 6P, which I previously owned. In short Google should not continue only providing two operating system upgrades for their Pixel phones. The latest version of <a href=\"https://www.apple.com/ios/ios-12/\">iOS supports five generations</a> of iPhones and Android needs to do the same for Pixel phones.</p>\n  </li>\n  <li>\n    <p>Keep selling at least two generations of Pixel phones and lower the price of the older generation. Right now the Pixel 2 is still available at the Google Store, but for how long? I think Google needs to keep selling the Pixel 2 until it announces the Pixel 4, which then builds in a lower priced Pixel.</p>\n  </li>\n</ol>\n\n<p>It seems clear to me that smartphone prices have gone up across the board because Apple increased the price of the iPhone. I don’t like the iPhone prices either, but there is one big difference today between iPhone and Pixel. The iPhone you buy today will very likely be able to run the version of iOS released four years from now, so you don’t need to buy a new iPhone in two years, you cannot say the same thing about Pixel.</p>\n\n<p>The combination of the $150 price increase, Apple’s practice to support older models of iPhones and selling older models at lower prices has me considering for the first time a switch to iPhone. I value the ability to receive updates direct from the source of the operating system.</p>\n\n<p>I prefer Android smartphones and I don’t want to switch, so I hope Google will make the changes I describe above. I also need to take a closer look at <a href=\"https://www.android.com/one/?gclid=Cj0KCQjwxvbdBRC0ARIsAKmec9bTgjNYnJ15XF1F-mkVu7nflgaw0voIk5MP2xEAMm3dJTzgbDVSttgaAse-EALw_wcB&amp;gclsrc=aw.ds&amp;dclid=CJLe6oWB_N0CFYLewAodBBgKTA\">Android One</a>, which may clean Android with updates from Google at a lower price. The bottom line is that Googe needs to know there is more to providing a premium phone than a price increase, and paying $800 for a phone that will only get operating system upgrades for two years makes no sense.</p>\n",
-			"date_published": "2018-10-10T09:46:35-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/10/changes-google-needs.html"
 		}
 		
 	]
