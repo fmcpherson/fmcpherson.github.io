@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/22/looks-like-google.html",
+	      	
+			"content_html": "<p>Looks like <a href=\"https://www.thurrott.com/mobile/android/189234/googles-reliability-issues-continue-with-pixel-3\">Google has not fixed their quality control issues</a> on their phones, which should cause one to pause when deciding whether to buy any of their hardware.</p>\n",
+			"date_published": "2018-10-22T15:17:49-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/22/looks-like-google.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/21/note-which-words.html",
 	      	
 			"content_html": "<p>Note which words are not in “Make America Great Again.” Hint: Trump seems to the think our only enemies in the world are journalists and Democrats.</p>\n",
@@ -200,16 +208,6 @@
 			"content_html": "<p>Google classifies the Pixel Slate as <a href=\"https://store.google.com/product/pixel_slate\">a Tablet with Google Assistant</a>. Based on <a href=\"http://frankmcpherson.blog/2018/10/11/my-definition-of.html\">my definition of tablets</a>, the Slate is not a tablet, it is a 2-in-1. If you stick to Google’s view of it as a tablet then I stand by <a href=\"http://frankmcpherson.blog/2018/10/09/first-reaction-to.html\">my initial impression</a> that the Slate could be DOA.</p>\n\n<p>My concerns about it are driven by the total cost of ownership. I start with the 8 GB, 64 GB, Intel Core M model that costs $799, and then add a keyboard, either the Google keyboard that costs $199 or the <a href=\"https://www.brydge.com/pages/gtype-keyboard-for-google-pixel-slate\">Brydge G-Type</a> that costs $159, making the minimum total cost $958; throw in the pen and that is just north of $1,000. For my money I much rather buy the Pixelbook or any one of the newer Chromebooks than pay $1000 for the Slate 2-in-1. Arguably <a href=\"https://www.microsoft.com/en-us/p/surface-pro-6/8zcnc665slq5?icid=surfacedept_nav3_surfacefamily_100218&amp;activetab=pivot:techspecstab\">the Surface Pro 6</a> is a better option, and it would definitely be better for me because I know I can use a pen with OneNote.</p>\n\n<p>The Slate does look like a nice piece of hardware, and if you want Android and Linux apps on a 2-in-1 it’s your only viable option, but is that option more appealing than an iPad Pro? Particularly a newer, larger screen, same form factor, smaller bezel iPad Pro? I am skeptical.</p>\n",
 			"date_published": "2018-10-11T15:40:29-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/11/more-thoughts-about.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/11/my-definition-of.html",
-	      	
-			"title": "My Definition Of A Tablet",
-			
-			"content_html": "<p>I do not think we should define a tablet as a screen without a keyboard, instead a tablet ought to be defined by how it is most commonly used, by which I mean you mostly use it in portrait orientation like one would a notepad of paper or a book.</p>\n\n<p>In my opinion, a tablet has at least a 7-inch screen and is comfortable to hold and use for long periods of time with the device in a portriat orientation. Consequently devices that claim to be a tablet that have a 12-inch or larger screen are not really tablets, they really fall into a tweener (with notebooks), 2-in-1 category.</p>\n\n<p>Based on how I use my iPad Pro 10.5, it is more a 2-in-1 because it is mostly used in landscape or when in portraint lying on a desk. By my defintion the only true tablets that I own are the iPad Mini 4 and the Nexus 9. The iPad and it’s 9.7-inch screen is probably the largest screen size for a tablet.</p>\n\n<p>My tablet use case definition might account for why tablets have not really overwhelmed the market. Apple had great initial success with the iPad, but sales started to taper off until the introduced the Pro line and significantly decreased the price of the regular iPad. The Pro line really fills the 2-in-1 market, while the lower price iPad has gained sales from holdouts who have wanted one the past but found them too expensive.</p>\n\n<p>Further, by my defintion, the most successful tablet maker is likely Amazon with their cheap 7-inch and 8-inch tablets.</p>\n",
-			"date_published": "2018-10-11T15:23:17-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/11/my-definition-of.html"
 		}
 		
 	]
