@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/27/on-the-road.html",
+	      	
+			"content_text": "On the road again. Start with caffeine.\n\n\n",
+			"date_published": "2018-10-27T12:43:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/27/on-the-road.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/26/ten-years-ago.html",
+	      	
+			"content_text": "Ten years ago I was bemoaning another Cubs playoff loss....",
+			"date_published": "2018-10-26T15:23:16-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/26/ten-years-ago.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/26/after-barack-obama.html",
+	      	
+			"content_text": "After Barack Obama was elected in November, 2008, I wrote...",
+			"date_published": "2018-10-26T15:15:02-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/26/after-barack-obama.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/26/words-first-written.html",
 	      	
 			"content_text": "Words first written the year that I was born.\n",
