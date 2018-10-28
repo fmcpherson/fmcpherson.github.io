@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/27/on-the-road.html",
+	      	
+			"content_html": "<p>On the road again. Start with caffeine.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/3d0a6f26bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-27T12:43:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/27/on-the-road.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/26/ten-years-ago.html",
+	      	
+			"content_html": "<p><a href=\"https://fjmnotes.com/2008/10/05/say-it-aint-so/\">Ten years ago</a> I was bemoaning another Cubs playoff loss. Ten yeas later, <a href=\"https://frankmcpherson.blog/2018/10/01/looking-back-it.html\">another Cubs playoff series loss</a>. Of course the big difference is that within those years <a href=\"http://writing.frankmcpherson.org/2016/11/03/thisIsTheYear.html\">the Cubs won it all</a>. :)</p>\n",
+			"date_published": "2018-10-26T15:23:16-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/26/ten-years-ago.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/26/after-barack-obama.html",
+	      	
+			"content_html": "<p>After Barack Obama was elected in November, 2008, <a href=\"https://fjmnotes.com/2008/11/08/history-made/\">I wrote this</a>.</p>\n",
+			"date_published": "2018-10-26T15:15:02-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/26/after-barack-obama.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/26/words-first-written.html",
 	      	
 			"content_html": "<p><a href=\"https://www.merriam-webster.com/time-traveler/1966\">Words first written</a> the year that I was born.</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>The gist of <a href=\"https://bleacherreport.com/articles/2801077-packers-put-aaron-rodgers-in-impossible-situation-and-he-keeps-delivering\">the articles</a> currently being written about Aaron Rodgers and the Packers is that the Packers are wasting what time they have left with Aaron. Frankly, I had the same complaints about how the Packer’s treated the second half of Brett Farve’s career.</p>\n\n<p>You have one of the best, if not the best, quarterbacks in the league, but you do not keep him surrounded by good talent. Good receivers, running backs, offensive line, or defense. You put in place a coach who frankly doesn’t appear to have a sense of urgency.</p>\n\n<p>The Packers were very fortunate to have drafted Aaron and that he was better than they most likely thought when he was drafted. Most teams do not replace one hall of fame quarterback with another hall of fame quarterback. It is not likely they will do the same when it comes time for Aaron to step down, and that means that every season that Aaron plays in which you don’t win a Super Bowl could be another year added to many, many years of not winning one.</p>\n",
 			"date_published": "2018-10-16T10:57:18-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/16/the-gist-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/16/are-good-speakers.html",
-	      	
-			"content_html": "<p>Are good speakers really an important component for a smartphone? Google’s commitment to dual front facing speakers is a head scratcher. I know it was HTC’s thing back in the day, but if I am listening to audo on my Pixel I am using a headset. If I want to fill a room with sound I will connect to an external speaker using Bluetooth or Chromecast.</p>\n",
-			"date_published": "2018-10-16T09:57:48-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/16/are-good-speakers.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/15/how-much-screen.html",
-	      	
-			"content_html": "<p>How much screen time is too much screen time? Looking at the <a href=\"https://www.android.com/versions/pie-9-0/digital-wellbeing-beta/\">Digital Wellbeing Android app</a>, there were only two days last weekn when my Pixel 2 screen was on for more than an hour. Only three times last week I uinlocked my phone more than 20 times.</p>\n\n<p>The main problem I see with Digital Wellbeing is that it doesn’t easily show history or averages. You open the app and see your current consumption, but that info is not useful when it is not related to anything. The <a href=\"https://support.apple.com/en-us/HT208982\">Screen Time setting in iOS</a> shows averages and how that relates to prior weeks.</p>\n\n<p>Still, while the information in Screen Time is interesting, it says I pick up my iOS devices (two iPads) on average 42 times a day, I have no idea what that means? Is it good? bad?</p>\n",
-			"date_published": "2018-10-15T12:15:39-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/15/how-much-screen.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/15/there-is-established.html",
-	      	
-			"content_html": "<p>There is <a href=\"http://www.who.int/tobacco/media/en/TobaccoExplained.pdf\">established history</a> of corporations lying about the affects of their productions on people and the world. <a href=\"https://www.gq.com/story/billionaires-climate-change\">Why would we think</a> they scrapped that playbook just because they got caught once?</p>\n",
-			"date_published": "2018-10-15T11:59:43-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/15/there-is-established.html"
 		}
 		
 	]
