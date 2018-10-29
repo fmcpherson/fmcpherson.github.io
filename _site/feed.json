@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/10/28/mackinac-bridge.html",
+	      	
+			"content_html": "<p>Mackinac Bridge</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/49fd452ec0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-28T13:25:48-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/28/mackinac-bridge.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/28/155352.html",
+	      	
+			"content_html": "<p>I am not horsing around.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/9a4b937af2.jpg\" width=\"600\" height=\"600\" /><img src=\"https://frankmcpherson.blog/uploads/2018/b8ac9e61a6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-28T11:53:52-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/28/155352.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/27/on-the-road.html",
 	      	
 			"content_html": "<p>On the road again. Start with caffeine.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/3d0a6f26bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/15/opinion/politics-race-white-tribalism.html\">David Brooks writes</a> of the <a href=\"https://hiddentribes.us/\">Hidden Tribes</a> survey and seems to conclude that our problem is a white civil war between Progressive Activitists and Devoted Conservatives.</p>\n\n<p>When I scroll down through the results, I am not so convinced, particularly when I read this definition of The Politically Disengaged, which made up 26 percent of the participants.</p>\n\n<blockquote>\n  <p>The Politically Disengaged (26 percent of the population) are untrusting, suspicious about external threats, conspiratorially minded, and pessimistic about progress. They tend to be patriotic yet detached from politics</p>\n</blockquote>\n",
 			"date_published": "2018-10-17T09:10:29-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/17/david-brooks-writes.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/16/so-those-filters.html",
-	      	
-			"content_html": "<p>So those filters in Discover… are those hashtags like #baseball or emoji? Are they automatic?</p>\n",
-			"date_published": "2018-10-16T14:37:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/16/so-those-filters.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/16/the-gist-of.html",
-	      	
-			"content_html": "<p>The gist of <a href=\"https://bleacherreport.com/articles/2801077-packers-put-aaron-rodgers-in-impossible-situation-and-he-keeps-delivering\">the articles</a> currently being written about Aaron Rodgers and the Packers is that the Packers are wasting what time they have left with Aaron. Frankly, I had the same complaints about how the Packer’s treated the second half of Brett Farve’s career.</p>\n\n<p>You have one of the best, if not the best, quarterbacks in the league, but you do not keep him surrounded by good talent. Good receivers, running backs, offensive line, or defense. You put in place a coach who frankly doesn’t appear to have a sense of urgency.</p>\n\n<p>The Packers were very fortunate to have drafted Aaron and that he was better than they most likely thought when he was drafted. Most teams do not replace one hall of fame quarterback with another hall of fame quarterback. It is not likely they will do the same when it comes time for Aaron to step down, and that means that every season that Aaron plays in which you don’t win a Super Bowl could be another year added to many, many years of not winning one.</p>\n",
-			"date_published": "2018-10-16T10:57:18-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/16/the-gist-of.html"
 		}
 		
 	]
