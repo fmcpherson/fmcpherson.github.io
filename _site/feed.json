@@ -7,6 +7,86 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/01/traditional-lunch.html",
+	      	
+			"content_html": "<p>Traditional lunch</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/15ec604f24.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-01T13:03:42-04:00",
+			"url": "https://frankmcpherson.blog/2018/11/01/traditional-lunch.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/31/boo.html",
+	      	
+			"content_html": "<p>Boo</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/e3d42c1ea0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-31T13:13:10-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/31/boo.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/31/buritto-time.html",
+	      	
+			"content_html": "<p>Buritto time.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/cfb92c79a2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-31T13:04:57-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/31/buritto-time.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/31/time-for-a.html",
+	      	
+			"content_html": "<p><a href=\"https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html\">Time For A New Computer</a></p>\n\n<p>I am planning to buy a new computer and I am gathering information on which model Chromebook that I am considering. If I learn something new, I will update this article.</p>\n",
+			"date_published": "2018-10-31T11:34:20-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/31/time-for-a.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/30/why-chromeos-i.html",
+	      	
+			"content_html": "<p><a href=\"https://writing.frankmcpherson.net/computers/2018/10/30/why-chromeos.html\">Why ChromeOS?</a></p>\n\n<p>I am planning to by a new Chromebook this year, and I am working on an article that describes which ones I am considering and why. As I was writing that article to occurred to me a more fundamental question I needed to answer is why am I even considering Chrome OS? Consequently, I’ve written the above to be foundational to the next article.</p>\n",
+			"date_published": "2018-10-30T18:19:24-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/30/why-chromeos-i.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/30/201615.html",
+	      	
+			"content_html": "<p>One thing I dislike about traveling. Change. Coins. Pennies, why haven’t we got rid of them by now?</p>\n",
+			"date_published": "2018-10-30T16:16:15-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/30/201615.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/30/untitled-blog-posts.html",
+	      	
+			"content_html": "<p><a href=\"http://fionavoss.blog/2018/06/24/untitled-blog-posts/\">Untitled blog posts were a game changer for my writing</a></p>\n\n<p>I think blog posts are a form of writing that is under appreciated. First, few people remember that blog is actually a shortcut for weblog, literally a log of the web. Most log entries are short descriptions.</p>\n\n<p>I don’t write this to criticize, there is no right or wrong, instead I want to point out that a blog has always meant to be simple and true to one’s voice. You don’t have to write volumes nor have a witty title. Just link to something on the web and perhaps explain why you think it worth sharing. For that matter the blog can simply be for yourself.</p>\n",
+			"date_published": "2018-10-30T15:59:45-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/30/untitled-blog-posts.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/30/when-did-the.html",
+	      	
+			"content_html": "<p>When did the NFL become like MLB? Lots of trades at the deadline, more than I remember ever happening before. Trades could always happen in the NFL but hadn’t for some reason.</p>\n",
+			"date_published": "2018-10-30T15:44:31-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/30/when-did-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/30/apple-benefits-from.html",
+	      	
+			"content_html": "<p><a href=\"https://www.forbes.com/sites/richardwindsoreurope/2018/10/30/apple-benefits-from-rising-prices-but-android-handset-makers-suffer/#3b5e88884955\">Apple Benefits From Rising Prices But Android Handset Makers Suffer</a></p>\n\n<p>There is a price to be paid to be a follower rather than a leader, and it looks like some companies may be suckers.</p>\n",
+			"date_published": "2018-10-30T14:52:01-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/30/apple-benefits-from.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/10/30/new-apple-pencil.html",
+	      	
+			"content_html": "<p><a href=\"https://www.slashgear.com/apple-pencil-2018-release-date-price-details-features-laser-engraving-30551919/\">New Apple Pencil 2018 charges wirelessly, has laser engraving - SlashGear</a></p>\n\n<p>The new Pencil only works with the new iPads, probably due to the new charging method. I wonder if the price of the current Pencil, which is still needed for the iPad, will go down?</p>\n",
+			"date_published": "2018-10-30T12:22:36-04:00",
+			"url": "https://frankmcpherson.blog/2018/10/30/new-apple-pencil.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/10/30/my-notes-from.html",
 	      	
 			"content_html": "<p>My Notes From The Apple Event</p>\n\n<p>Tim Cook was max PT Barnum at the Apple Event, which I find annoying after listening for 20 minutes. At this point they can just move on to the announcements, the forced excitement and employee enthused applause is becoming old.</p>\n\n<p>The $1200 price for the new MacBook Air is pretty much what I expected. Given how the MacBook has been redesigned, I am not sure why one would not just get a MacBook rather than an Air.</p>\n\n<p>Likewise, the Mac Mini got a nice spec upgrade retaining the $800 price, which is cheap for a Mac but not so much relative to other desktops. I guess if you want a low cost Mac, the Mini is the one to get, as always.</p>\n\n<p>The new iPad Pros were the star of the event, and they have me wishing I did not buy my iPad last year. For me the slightly larger screen and CPU upgrades are very appealing.</p>\n\n<p>Can the new Pencil work with older iPad Pros? I need to learn more about the Pencil, and if it works with old Pros I may buy one. Can 2 Pencils connect to an iPad at the same time?</p>\n",
@@ -124,86 +204,6 @@
 			"content_html": "<p><a href=\"https://www.thurrott.com/mobile/chrome-os/chromebook/189194/acer-chromebook-spin-13-first-impressions\">Thurrott has an Acer Chromebook Spin 13</a> for review.</p>\n",
 			"date_published": "2018-10-22T15:22:35-04:00",
 			"url": "https://frankmcpherson.blog/2018/10/22/thurrott-has-an.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/22/looks-like-google.html",
-	      	
-			"content_html": "<p>Looks like <a href=\"https://www.thurrott.com/mobile/android/189234/googles-reliability-issues-continue-with-pixel-3\">Google has not fixed their quality control issues</a> on their phones, which should cause one to pause when deciding whether to buy any of their hardware.</p>\n",
-			"date_published": "2018-10-22T15:17:49-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/22/looks-like-google.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/21/note-which-words.html",
-	      	
-			"content_html": "<p>Note which words are not in “Make America Great Again.” Hint: Trump seems to the think our only enemies in the world are journalists and Democrats.</p>\n",
-			"date_published": "2018-10-21T13:26:33-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/21/note-which-words.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/21/game-over-for.html",
-	      	
-			"content_html": "<p>Game over for the Brewers. Used Hader too soon. ⚾️</p>\n",
-			"date_published": "2018-10-20T22:01:54-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/20/game-over-for.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/21/counsell-could-be.html",
-	      	
-			"content_html": "<p>Counsell could be over managing by putting Hader in too early. If the Brewers don’t take the lead while Hader is pitching, it might be game over. At some point you got to rely on starting pitching.</p>\n",
-			"date_published": "2018-10-20T21:05:47-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/20/counsell-could-be.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/20/i-am-watching.html",
-	      	
-			"content_html": "<p>I am watching the Michigan/Michigan State football game that feels like a game between two mediocre teams. Could go to overtime at this rate.</p>\n",
-			"date_published": "2018-10-20T15:46:41-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/20/i-am-watching.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/20/linux-apps-coming.html",
-	      	
-			"content_html": "<p><a href=\"https://chromeunboxed.com/news/linux-app-support-mediatek-arm-chromebook-acer-r13\">Linux Apps Coming To MediaTek-Powered Chromebooks Like The Acer R13</a></p>\n\n<blockquote>\n  <p>We’ll dive deeper into how Google can leverage Linux apps some other time but I would guess that Google is planning something bigger with Crostini and I really hope it involves some sort of unified apps store that includes Linux apps, PWAs and even Android apps.</p>\n</blockquote>\n\n<p>I plan to buy a new computer this year and it will likely be a Chromebook largely due to Crostini. I am working on a blog post about what I am currently considering and why.</p>\n",
-			"date_published": "2018-10-20T14:39:14-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/20/linux-apps-coming.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/20/a-got-my.html",
-	      	
-			"content_html": "<p>A got my hair cut this afternoon. I am the only one in the barbershop getting my hair cut. Dude walks in right up to my barber, who asks the guy if he can help him. Dude says he is on a scavenger hunt for sweetest day and needs a picture with a barber. Takes selfie with my barber and leaves.</p>\n",
-			"date_published": "2018-10-20T14:03:06-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/20/a-got-my.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/19/171829.html",
-	      	
-			"content_html": "<p>If you want direct updates to Android from Google and the stock Android UI but don’t want to spend the money for a Pixel, watch out for the <a href=\"https://www.techradar.com/reviews/hands-on-nokia-71\">Nokia 7.1</a> or <a href=\"https://www.techradar.com/reviews/motorola-one\">Motorola One</a> that will run <a href=\"https://www.techradar.com/news/what-is-android-one\">Android One</a>.</p>\n",
-			"date_published": "2018-10-19T13:18:29-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/19/171829.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/19/so-it-turns.html",
-	      	
-			"content_html": "<p>So, it <a href=\"https://www.chron.com/sports/astros/article/Houston-Astros-Boston-Red-Sox-ALCS-Game-5-recap-13318892.php\">turns out</a> the 2018 Astros were not any better than the 2017 Cubs.</p>\n\n<p>Nothing is static, particularly baseball. It is not likely your team will be exactly the same, someone is going to get injured. More importantly, the competition is not going to stay the same, they are going to get better.</p>\n",
-			"date_published": "2018-10-19T10:09:39-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/19/so-it-turns.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/10/19/bernie-sanders-it.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theguardian.com/us-news/2018/jul/26/alexandria-ocasio-cortez-bernie-sanders-kansas-james-thompson\">Bernie Sanders</a>:</p>\n<blockquote>\n  <p>It is beyond comprehension, the degree to which the Democratic party nationally has essentially abdicated half of the states in this country to rightwing Republicans, including some of the poorest states in America, those in the south,” Sanders said. “The reason I go to Kansas and many so-called red states is that I will do everything that I can to bring new people into the political process in states which are today conservative. I do not know how you turn those states around unless you go there and get people excited</p>\n</blockquote>\n\n<p>You also can’t assume you have a state won. I believe the 2016 Presidential election would have a different outcome had Hilary actively campaigned in Michigan and Wisconsin.</p>\n",
-			"date_published": "2018-10-19T09:43:47-04:00",
-			"url": "https://frankmcpherson.blog/2018/10/19/bernie-sanders-it.html"
 		}
 		
 	]
