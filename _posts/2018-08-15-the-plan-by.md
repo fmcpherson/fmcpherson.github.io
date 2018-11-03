@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-15 13:00:36 -0400
+date: 2018-08-15 12:00:36 -0500
 guid: http://frankm.micro.blog/2018/08/15/the-plan-by.html
 ---
 [The plan](https://www.politico.com/magazine/amp/story/2018/08/14/americas-newspapers-just-played-right-into-trumps-hands-219360?utm_source=API+Need+to+Know+newsletter&utm_campaign=298c4fe52c-EMAIL_CAMPAIGN_2018_08_15_12_12&utm_medium=email&utm_term=0_e3bf78af04-298c4fe52c-34806089&__twitter_impression=true) by several newspapers across the country to all write editorials on the same day intended to rebut Trump's claim that the press is the enemy of the people is a bad idea. 
