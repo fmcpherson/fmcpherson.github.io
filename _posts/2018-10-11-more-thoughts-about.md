@@ -3,7 +3,7 @@ layout: post
 title: "More Thoughts About The Google Pixel Slate"
 microblog: false
 audio: 
-date: 2018-10-11 15:40:29 -0400
+date: 2018-10-11 14:40:29 -0500
 guid: http://frankm.micro.blog/2018/10/11/more-thoughts-about.html
 ---
 Google classifies the Pixel Slate as [a Tablet with Google Assistant](https://store.google.com/product/pixel_slate). Based on [my definition of tablets](http://frankmcpherson.blog/2018/10/11/my-definition-of.html), the Slate is not a tablet, it is a 2-in-1. If you stick to Google's view of it as a tablet then I stand by [my initial impression](http://frankmcpherson.blog/2018/10/09/first-reaction-to.html) that the Slate could be DOA. 
