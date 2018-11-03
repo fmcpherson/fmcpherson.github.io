@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-12 21:46:17 -0400
+date: 2018-10-12 20:46:17 -0500
 guid: http://frankm.micro.blog/2018/10/13/still-going.html
 ---
 Still going
