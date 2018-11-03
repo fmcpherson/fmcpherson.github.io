@@ -3,7 +3,7 @@ layout: post
 title: "Drafts or Ulysses?"
 microblog: false
 audio: 
-date: 2018-05-08 10:54:05 -0400
+date: 2018-05-08 09:54:05 -0500
 guid: http://frankm.micro.blog/2018/05/08/drafts-or-ulysses.html
 ---
 One thing I find frustrating about iOS are the number of apps that all seem to do the exact same thing. How do you decide on one over the other? An example is Drafts and Ulysses, both are good markdown editors but Drafts supports more automation. Last summer I was looking for a new editor and Ulysses came highly recommended, so I bought it, but then the company switched to a subscription model and that turned me off, I decided to not buy in to the subscription. 
