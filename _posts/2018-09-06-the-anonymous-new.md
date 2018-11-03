@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-06 18:05:26 -0400
+date: 2018-09-06 17:05:26 -0500
 guid: http://frankm.micro.blog/2018/09/06/the-anonymous-new.html
 ---
 [The anonymous New York Times Trump op-ed tells us what we already knew: Trump is unfit](https://www.vox.com/policy-and-politics/2018/9/6/17825406/trump-woodward-op-ed-nyt-anonymous-impeachment)
