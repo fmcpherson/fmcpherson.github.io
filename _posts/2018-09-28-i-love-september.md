@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-28 15:03:24 -0400
+date: 2018-09-28 14:03:24 -0500
 guid: http://frankm.micro.blog/2018/09/28/i-love-september.html
 ---
 I love September baseball. 
