@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-17 16:20:48 -0400
+date: 2018-10-17 15:20:48 -0500
 guid: http://frankm.micro.blog/2018/10/17/an-open-letter.html
 ---
 [An Open Letter To the So-Called Exhausted Majority](http://www.patheos.com/blogs/mercynotsacrifice/2018/10/16/an-open-letter-to-the-so-called-exhausted-majority/?utm_source=Newsletter&utm_medium=email&utm_campaign=Progressive+Christian&utm_content=43):
