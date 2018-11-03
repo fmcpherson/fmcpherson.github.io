@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-15 12:15:39 -0400
+date: 2018-10-15 11:15:39 -0500
 guid: http://frankm.micro.blog/2018/10/15/how-much-screen.html
 ---
 How much screen time is too much screen time? Looking at the [Digital Wellbeing Android app](https://www.android.com/versions/pie-9-0/digital-wellbeing-beta/), there were only two days last weekn when my Pixel 2 screen was on for more than an hour. Only three times last week I uinlocked my phone more than 20 times. 
