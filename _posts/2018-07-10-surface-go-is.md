@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-09 22:25:41 -0400
+date: 2018-07-09 21:25:41 -0500
 guid: http://frankm.micro.blog/2018/07/10/surface-go-is.html
 ---
 [Surface Go Is Microsoft’s Big Bet on a Tiny-Computer Future](https://www.wired.com/story/surface-go-microsofts-big-bet-on-a-tiny-computer-future/)
