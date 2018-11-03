@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-12 20:15:23 -0400
+date: 2018-10-12 19:15:23 -0500
 guid: http://frankm.micro.blog/2018/10/13/sir-elton-john.html
 ---
 Sir Elton John
