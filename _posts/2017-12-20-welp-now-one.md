@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-20 14:29:32 -0400
+date: 2017-12-20 13:29:32 -0500
 guid: http://frankm.micro.blog/2017/12/20/welp-now-one.html
 ---
 Welp, now one can access this site using [https://frankmcpherson.blog](https://frankmcpherson.blog) Wonder what this means?
