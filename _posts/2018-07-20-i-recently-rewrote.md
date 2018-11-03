@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-20 14:50:42 -0400
+date: 2018-07-20 13:50:42 -0500
 guid: http://frankm.micro.blog/2018/07/20/i-recently-rewrote.html
 ---
 I recently rewrote [my profile page](https://frankm.org) and implemented HTTPS using Amazon S3 and Cloudfront.  In my opinion S3 provides one of the easiest and least expensive ways to host a simple, static web site. Unfortunately HTTPS adds complexity, both in what you need to do to build the site and also in how you maintain it. 
