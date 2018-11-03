@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-22 13:45:12 -0400
+date: 2018-09-22 12:45:12 -0500
 guid: http://frankm.micro.blog/2018/09/22/the-first-android.html
 ---
 [The first Android phone was an ugly thing, and I loved it - CNET](https://www.cnet.com/news/the-first-android-phone-was-an-ugly-thing-and-i-loved-it/)
