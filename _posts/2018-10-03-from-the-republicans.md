@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-03 11:13:04 -0400
+date: 2018-10-03 10:13:04 -0500
 guid: http://frankm.micro.blog/2018/10/03/from-the-republicans.html
 ---
 From the Republican's point of view, the credibility of the Supreme Court and the sanctity of the Constitution is not what is at stake. What is at stake is putting in permanent place Supreme Court justices that support only their ideology. 
