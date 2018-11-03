@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-10 15:14:09 -0400
+date: 2018-09-10 14:14:09 -0500
 guid: http://frankm.micro.blog/2018/09/10/ilia-delio-osf.html
 ---
 [Ilia Delio, OSF](https://www.omegacenter.info/schism-or-evolution/): 
