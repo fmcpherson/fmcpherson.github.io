@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-16 10:57:18 -0400
+date: 2018-10-16 09:57:18 -0500
 guid: http://frankm.micro.blog/2018/10/16/the-gist-of.html
 ---
 The gist of [the articles](https://bleacherreport.com/articles/2801077-packers-put-aaron-rodgers-in-impossible-situation-and-he-keeps-delivering) currently being written about Aaron Rodgers and the Packers is that the Packers are wasting what time they have left with Aaron. Frankly, I had the same complaints about how the Packer's treated the second half of Brett Farve's career. 
