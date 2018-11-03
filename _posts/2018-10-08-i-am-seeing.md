@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-08 10:18:14 -0400
+date: 2018-10-08 09:18:14 -0500
 guid: http://frankm.micro.blog/2018/10/08/i-am-seeing.html
 ---
 I am seeing a [fair amount of excitement](https://www.aboutchromebooks.com/news/google-pixel-slate-images-keyboard-cover-specifications-nocturne/) in anticipation of a possible Google tablet being announced tomorrow. The tablet will run the latest iteration of Chrome OS that runs Android and Linux apps.
