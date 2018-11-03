@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-06 09:46:24 -0400
+date: 2018-08-06 08:46:24 -0500
 guid: http://frankm.micro.blog/2018/08/06/frank-rich-in.html
 ---
 [Frank Rich: In 2008, America Stopped Believing in the American Dream](http://nymag.com/daily/intelligencer/2018/08/frank-rich-2008-financial-crisis-end-of-american-dream.html)
