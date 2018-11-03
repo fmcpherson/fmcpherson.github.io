@@ -3,7 +3,7 @@ layout: post
 title: "The Storyline For Today's GLi Championship"
 microblog: false
 audio: 
-date: 2018-01-02 13:20:57 -0400
+date: 2018-01-02 12:20:57 -0500
 guid: http://frankm.micro.blog/2018/01/02/the-storyline-for.html
 ---
 Later today Michigan Tech will play Bowling Green in the championship game of the 53rd Great Lakes Invitational hockey tournament. It is the first GLi at the new Little Caesars's Arena and is hosted by Michigan Tech. 
