@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-04 10:06:57 -0400
+date: 2018-10-04 09:06:57 -0500
 guid: http://frankm.micro.blog/2018/10/04/ben-thompson-this.html
 ---
 [Ben Thompson](https://stratechery.com/2018/data-factories/):
