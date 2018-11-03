@@ -3,7 +3,7 @@ layout: post
 title: "My Definition Of A Tablet"
 microblog: false
 audio: 
-date: 2018-10-11 15:23:17 -0400
+date: 2018-10-11 14:23:17 -0500
 guid: http://frankm.micro.blog/2018/10/11/my-definition-of.html
 ---
 I do not think we should define a tablet as a screen without a keyboard, instead a tablet ought to be defined by how it is most commonly used, by which I mean you mostly use it in portrait orientation like one would a notepad of paper or a book. 
