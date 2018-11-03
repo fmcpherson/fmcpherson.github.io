@@ -3,7 +3,7 @@ layout: post
 title: "Keep An Eye On The Watch"
 microblog: false
 audio: 
-date: 2018-09-15 17:55:34 -0400
+date: 2018-09-15 16:55:34 -0500
 guid: http://frankm.micro.blog/2018/09/15/keep-an-eye.html
 ---
 I think the smart watch market is fascinating. On one hand you have Apple, with one design and software innovation and on the other hand you have a multitude of watch designers producing a variety of different looking watches at different price points using comparatively mediocre Wear OS. It also highlights the advantage of designing your own chips because Wear OS has been constrained by slow chip development by Qualcomm. 
