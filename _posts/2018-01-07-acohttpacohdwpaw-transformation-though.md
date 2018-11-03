@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-07 11:46:44 -0400
+date: 2018-01-07 10:46:44 -0500
 guid: http://frankm.micro.blog/2018/01/07/acohttpacohdwpaw-transformation-though.html
 ---
  [a.co](http://a.co/0hDWPAW)
