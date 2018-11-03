@@ -3,7 +3,7 @@ layout: post
 title: "Overtime Baseball"
 microblog: false
 audio: 
-date: 2018-10-01 11:12:28 -0400
+date: 2018-10-01 10:12:28 -0500
 guid: http://frankm.micro.blog/2018/10/01/overtime-baseball.html
 ---
 The Cubs and Brewers are playing game 163 starting at 1 PM EST to determine who wins the NL Central division and who will have the best record in the National League and with it home field advantage through the NL portion of the playoffs.
