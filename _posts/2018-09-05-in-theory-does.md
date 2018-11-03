@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-05 09:24:33 -0400
+date: 2018-09-05 08:24:33 -0500
 guid: http://frankm.micro.blog/2018/09/05/in-theory-does.html
 ---
 [In Theory: Does religious belief make the world more violent?](http://www.latimes.com/socal/burbank-leader/opinion/tn-blr-me-intheory-20180904-story.html)
