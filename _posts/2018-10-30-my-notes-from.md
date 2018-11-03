@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-30 11:54:17 -0400
+date: 2018-10-30 10:54:17 -0500
 guid: http://frankm.micro.blog/2018/10/30/my-notes-from.html
 ---
 My Notes From The Apple Event
