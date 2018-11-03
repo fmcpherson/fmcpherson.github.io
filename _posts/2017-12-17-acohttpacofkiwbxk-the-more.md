@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-17 12:57:10 -0400
+date: 2017-12-17 11:57:10 -0500
 guid: http://frankm.micro.blog/2017/12/17/acohttpacofkiwbxk-the-more.html
 ---
  [a.co](http://a.co/fkIWbxK)
