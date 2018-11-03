@@ -3,7 +3,7 @@ layout: post
 title: "Long Form Writing and Trying Out Netlify"
 microblog: false
 audio: 
-date: 2018-06-30 11:38:04 -0400
+date: 2018-06-30 10:38:04 -0500
 guid: http://frankm.micro.blog/2018/06/30/long-form-writing.html
 ---
 Unlike most others here at micro.blog, I consider [my micro.blog](https://frankmcpherson.blog/) as my blog. The reason is that I distinguish blogs from long form writing and publishing on the Internet. For me, a blog post is 1 to 3 paragraphs and written in about 15 minutes or less. 
