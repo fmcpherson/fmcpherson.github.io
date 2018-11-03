@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-29 11:29:12 -0400
+date: 2018-05-29 10:29:12 -0500
 guid: http://frankm.micro.blog/2018/05/29/this-is-ultimately.html
 ---
 “This is ultimately the most important distinction between platforms and aggregators: platforms are powerful because they facilitate a relationship between 3rd-party suppliers and end users; aggregators, on the other hand, intermediate and control it.”
