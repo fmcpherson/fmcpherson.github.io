@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-10 12:28:18 -0400
+date: 2018-08-10 11:28:18 -0500
 guid: http://frankm.micro.blog/2018/08/10/happy-anniversary.html
 ---
 Happy anniversary
