@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-28 16:06:31 -0400
+date: 2018-04-28 15:06:31 -0500
 guid: http://frankm.micro.blog/2018/04/28/rick-dickinson-designer.html
 ---
 [Rick Dickinson, designer of Sinclair home computers, dies]([flip.it/996yWZ](http://flip.it/996yWZ)
