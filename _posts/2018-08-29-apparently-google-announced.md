@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-29 13:42:05 -0400
+date: 2018-08-29 12:42:05 -0500
 guid: http://frankm.micro.blog/2018/08/29/apparently-google-announced.html
 ---
 Apparently Google announced they will be releasing a new version of Wear OS within the next month. [Articles are available](https://www.cnet.com/news/google-wear-os-updates-hint-at-fitness-smartwatches-to-come/) from several sources, all appearing pretty much the same. It would be nice to see a video of the changes, but apparently that has not been provided by Google. 
