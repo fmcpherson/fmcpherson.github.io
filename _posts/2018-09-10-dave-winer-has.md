@@ -3,7 +3,7 @@ layout: post
 title: "The Right To Not Be Forgotten"
 microblog: false
 audio: 
-date: 2018-09-10 16:51:56 -0400
+date: 2018-09-10 15:51:56 -0500
 guid: http://frankm.micro.blog/2018/09/10/dave-winer-has.html
 ---
 [Dave Winer](http://scripting.com) has been writing about owning and archiving what one writes and publishes on the web for a very long time. I think the heart of the matter is that if one is to think of the web as a library there has to be a mechanism for it to be long-lived. 
