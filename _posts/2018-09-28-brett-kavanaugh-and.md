@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-27 22:22:36 -0400
+date: 2018-09-27 21:22:36 -0500
 guid: http://frankm.micro.blog/2018/09/28/brett-kavanaugh-and.html
 ---
 [Brett Kavanaugh and the Adolescent Aggression of Conservative Masculinity](https://www.newyorker.com/news/current/brett-kavanaughs-adolescent-temper-tantrum-before-the-senate-judiciary-committee)
