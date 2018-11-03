@@ -3,7 +3,7 @@ layout: post
 title: "Boycotts and Free Speech "
 microblog: false
 audio: 
-date: 2018-04-13 10:59:50 -0400
+date: 2018-04-13 09:59:50 -0500
 guid: http://frankm.micro.blog/2018/04/13/boycotts-and-free.html
 ---
 What, if any, relationship is there between free speech and cable TV, and in particular news or opinion shows on cable TV? Cable TV is not the public square nor is it public airwaves, it is corporate owned and exists for the purposes of making money. The primary method for making money is advertising. 
