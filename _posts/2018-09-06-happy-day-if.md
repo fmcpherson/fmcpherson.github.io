@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-06 08:42:00 -0400
+date: 2018-09-06 07:42:00 -0500
 guid: http://frankm.micro.blog/2018/09/06/happy-day-if.html
 ---
 Happy [906 Day](https://906day.com/)! 
