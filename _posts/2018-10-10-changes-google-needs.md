@@ -3,7 +3,7 @@ layout: post
 title: "Changes Google Needs To Make"
 microblog: false
 audio: 
-date: 2018-10-10 09:46:35 -0400
+date: 2018-10-10 08:46:35 -0500
 guid: http://frankm.micro.blog/2018/10/10/changes-google-needs.html
 ---
 I have a hard time swallowing [the $150 price increase](https://www.theverge.com/2018/10/9/17956202/google-pixel-3-price-expensive-why) between the Google Pixel 2 and the Pixel 3. I know Google can set prices the market will bear, but when I look at the difference I ask myself is the price increase due to higher costs or a desire for a higher profit margin? 
