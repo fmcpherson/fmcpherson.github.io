@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-07 13:05:10 -0400
+date: 2018-01-07 12:05:10 -0500
 guid: http://frankm.micro.blog/2018/01/07/acohttpacoftuvc-until-the.html
 ---
  [a.co](http://a.co/3F7tuvC)
