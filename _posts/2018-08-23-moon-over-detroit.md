@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-22 20:48:51 -0400
+date: 2018-08-22 19:48:51 -0500
 guid: http://frankm.micro.blog/2018/08/23/moon-over-detroit.html
 ---
 Moon over Detroit
