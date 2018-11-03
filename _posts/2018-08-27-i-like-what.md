@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-27 09:19:32 -0400
+date: 2018-08-27 08:19:32 -0500
 guid: http://frankm.micro.blog/2018/08/27/i-like-what.html
 ---
 I like [what Dave writes here](http://scripting.com/2018/08/26/161533.html) about Inclusivity. However, while it may be a slight nit, I think the two views of America has been liberty versus equality. 
