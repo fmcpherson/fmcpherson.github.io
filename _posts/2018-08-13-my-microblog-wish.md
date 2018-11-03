@@ -3,7 +3,7 @@ layout: post
 title: "My Micro.blog Wish"
 microblog: false
 audio: 
-date: 2018-08-13 18:05:57 -0400
+date: 2018-08-13 17:05:57 -0500
 guid: http://frankm.micro.blog/2018/08/13/my-microblog-wish.html
 ---
 I think of micro.blog as a publishing platform, for two reasons. First, what I write is published to [my blog](https://frankmcpherson.blog). Second, what I write is published to other distribution channels, specifically for me [Twitter](https://twitter.com/frankm) and [Facebook](https://www.facebook.com/writtenbyfrank), but it could also include Medium and LinkedIn. 
