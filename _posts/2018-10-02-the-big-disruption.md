@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-02 10:51:11 -0400
+date: 2018-10-02 09:51:11 -0500
 guid: http://frankm.micro.blog/2018/10/02/the-big-disruption.html
 ---
 [The Big Disruption: A Totally Fictional But Essentially True Silicon Valley Story](https://medium.com/s/the-big-disruption/the-big-disruption-36fbed0268cf)
