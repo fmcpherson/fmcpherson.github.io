@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-10 11:06:17 -0400
+date: 2017-12-10 10:06:17 -0500
 guid: http://frankm.micro.blog/2017/12/10/acohttpacobpbkyh-some-have.html
 ---
  [a.co](http://a.co/bpbKY6H)
