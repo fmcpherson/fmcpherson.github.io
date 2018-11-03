@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-16 17:00:09 -0400
+date: 2018-06-16 16:00:09 -0500
 guid: http://frankm.micro.blog/2018/06/16/ive-been-hanging.html
 ---
 I’ve been hanging out at the new Starbucks down the road from my house. 
