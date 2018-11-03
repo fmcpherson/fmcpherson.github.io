@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-04 09:38:05 -0400
+date: 2018-01-04 08:38:05 -0500
 guid: http://frankm.micro.blog/2018/01/04/how-america-failed.html
 ---
  [How America Failed Its Young](https://eand.co/how-america-failed-its-young-fbf40c349825?source=userActivityShare-98c3dd18be2-1515072860)
