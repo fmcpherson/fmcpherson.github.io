@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-29 11:18:59 -0400
+date: 2018-05-29 10:18:59 -0500
 guid: http://frankm.micro.blog/2018/05/29/grcom-review-of.html
 ---
  [gr36.com Review of Bear](https://gr36.com/2017-01-19-bear-app-review/)
