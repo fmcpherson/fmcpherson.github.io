@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-04 10:14:39 -0400
+date: 2018-10-04 09:14:39 -0500
 guid: http://frankm.micro.blog/2018/10/04/theo-epstein-on.html
 ---
 [Theo Epstein on the Cub's hitters](https://www.mlbtraderumors.com/2018/10/cubs-notes-maddon-offense-hamels-bullpen-bryant.html):
