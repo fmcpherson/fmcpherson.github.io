@@ -3,7 +3,7 @@ layout: post
 title: "The NFL Continues To Reward Violent Hits "
 microblog: false
 audio: 
-date: 2017-12-17 17:10:43 -0400
+date: 2017-12-17 16:10:43 -0500
 guid: http://frankm.micro.blog/2017/12/17/the-nfl-continues.html
 ---
 Despite scientific research and Congressional hearings, the NFL is still not serious about the safety of its players due to concussions. In fact, the current NFL rules **rewards** teams of players who inflict a concussion.
