@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-22 19:08:20 -0400
+date: 2018-08-22 18:08:20 -0500
 guid: http://frankm.micro.blog/2018/08/22/nice-seats-eh.html
 ---
 Nice seats, eh buddy?
