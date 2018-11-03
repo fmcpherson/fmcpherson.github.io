@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-14 23:02:13 -0400
+date: 2018-07-14 22:02:13 -0500
 guid: http://frankm.micro.blog/2018/07/15/i-have-updated.html
 ---
 I have updated [my profile page](https://frankm.org/) and learned something about content delivery networks along the way. I host my profile in a S3 bucket that I have now configured for HTTPS. The only way to use Amazon’s SSL certificate is by using their CDN, Cloudfront. 
