@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-16 22:39:04 -0400
+date: 2018-09-16 21:39:04 -0500
 guid: http://frankm.micro.blog/2018/09/17/boethius-nothing-is.html
 ---
 Boethius:
