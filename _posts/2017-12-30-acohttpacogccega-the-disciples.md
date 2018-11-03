@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-30 12:32:21 -0400
+date: 2017-12-30 11:32:21 -0500
 guid: http://frankm.micro.blog/2017/12/30/acohttpacogccega-the-disciples.html
 ---
  [a.co](http://a.co/gcCe8GA)
