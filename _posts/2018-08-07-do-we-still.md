@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-07 09:08:33 -0400
+date: 2018-08-07 08:08:33 -0500
 guid: http://frankm.micro.blog/2018/08/07/do-we-still.html
 ---
 Do we still know what parts of the Internet are the public's and which part is the corporations? [The Internet began as a U.S. Department of Defense project](https://www.history.com/news/who-invented-the-internet), funded by taxpayers and therefore owned by the public. At a minimum that part of the Internet should be open with free speech protections, but can we even find it? 
