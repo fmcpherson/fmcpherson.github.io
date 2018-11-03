@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-13 09:08:28 -0400
+date: 2018-09-13 08:08:28 -0500
 guid: http://frankm.micro.blog/2018/09/13/while-you-can.html
 ---
 While you can configure the Gmail app to use the same categories as Inbox, Gmail does not have a simple way to archive all messages in a category. For example, I want to see all Updates, scan through the list, and quickly archive them after I've read what I want to read. Gmail also does not have a button to snooze a message, but at least you can configure one of the two swipe actions to snooze. 
