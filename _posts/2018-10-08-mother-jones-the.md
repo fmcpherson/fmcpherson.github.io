@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-08 16:47:32 -0400
+date: 2018-10-08 15:47:32 -0500
 guid: http://frankm.micro.blog/2018/10/08/mother-jones-the.html
 ---
 [Mother Jones](https://www.motherjones.com/politics/2018/10/inside-the-unlikely-movement-that-could-restore-voting-rights-to-1-4-million-floridians/):
