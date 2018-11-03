@@ -3,7 +3,7 @@ layout: post
 title: "What We Need Is Wisdom"
 microblog: false
 audio: 
-date: 2017-12-10 11:52:24 -0400
+date: 2017-12-10 10:52:24 -0500
 guid: http://frankm.micro.blog/2017/12/10/what-we-need.html
 ---
  [a.co](http://a.co/0VRINyx)
