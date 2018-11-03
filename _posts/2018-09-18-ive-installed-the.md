@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-17 21:41:30 -0400
+date: 2018-09-17 20:41:30 -0500
 guid: http://frankm.micro.blog/2018/09/18/ive-installed-the.html
 ---
 I've installed [the new Shortcuts app](https://9to5mac.com/guides/siri-shortcuts/) and so far see some good and some not so good. 
