@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-24 09:37:43 -0400
+date: 2018-09-24 08:37:43 -0500
 guid: http://frankm.micro.blog/2018/09/24/can-there-really.html
 ---
 Can there really be such as thing as an online community? 
