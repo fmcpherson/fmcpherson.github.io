@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-21 11:08:01 -0400
+date: 2018-08-21 10:08:01 -0500
 guid: http://frankm.micro.blog/2018/08/21/google-is-releasing.html
 ---
 Google is releasing [a new version of Google Fit](https://techcrunch.com/2018/08/21/google-fit-gets-a-redesign-adds-heart-points-and-coaching/). I use Google Fit to track my walking. My issues with it are less to do with the apps and more to do with the data.
