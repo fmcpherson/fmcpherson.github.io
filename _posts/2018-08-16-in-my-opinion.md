@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-16 16:35:48 -0400
+date: 2018-08-16 15:35:48 -0500
 guid: http://frankm.micro.blog/2018/08/16/in-my-opinion.html
 ---
 In my opinion, there is a problem with viewing the Internet as publicly owned. The Internet is corporate owned and has been for some time and corporations who own it are going to make decisions that are in their best interests. 
