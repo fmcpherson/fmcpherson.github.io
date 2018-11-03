@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-05 18:53:55 -0400
+date: 2018-07-05 17:53:55 -0500
 guid: http://frankm.micro.blog/2018/07/05/what-the-heck.html
 ---
 What the heck?
