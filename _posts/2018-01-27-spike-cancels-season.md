@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-27 15:59:18 -0400
+date: 2018-01-27 14:59:18 -0500
 guid: http://frankm.micro.blog/2018/01/27/spike-cancels-season.html
 ---
  [Spike cancels season 3 of the Shannara Chronicles](http://ew.com/tv/2018/01/17/shannara-chronicles-canceled/)
