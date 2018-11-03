@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-29 17:31:56 -0400
+date: 2018-10-29 16:31:56 -0500
 guid: http://frankm.micro.blog/2018/10/29/the-road-less.html
 ---
 The road less traveled
