@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-06 11:07:15 -0400
+date: 2018-07-06 10:07:15 -0500
 guid: http://frankm.micro.blog/2018/07/06/moved-to-the.html
 ---
 Moved to the patio. May be here most of the day. #staycation
