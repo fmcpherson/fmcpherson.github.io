@@ -3,7 +3,7 @@ layout: post
 title: "The Continuing Search For The Perfect Todo App"
 microblog: false
 audio: 
-date: 2018-01-10 23:44:42 -0400
+date: 2018-01-10 22:44:42 -0500
 guid: http://frankm.micro.blog/2018/01/11/the-continuing-search.html
 ---
 It's the beginning of the year and therefore the time for my yearly ritual of trying to find a to-do (task management) app that I like and think that I will use. I am again finding myself with [Toodledo](http://www.toodledo.com), mostly because it has more filtering features that other apps and because it has a robust web app. However, Toodledo does not have a robust iOS app. 
