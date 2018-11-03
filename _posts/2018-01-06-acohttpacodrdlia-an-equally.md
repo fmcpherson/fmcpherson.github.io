@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-06 13:31:37 -0400
+date: 2018-01-06 12:31:37 -0500
 guid: http://frankm.micro.blog/2018/01/06/acohttpacodrdlia-an-equally.html
 ---
  [a.co](http://a.co/dR7DlIa)
