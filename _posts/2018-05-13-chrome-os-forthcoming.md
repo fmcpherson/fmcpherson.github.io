@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-13 13:05:00 -0400
+date: 2018-05-13 12:05:00 -0500
 guid: http://frankm.micro.blog/2018/05/13/chrome-os-forthcoming.html
 ---
 Chrome OS’ forthcoming [ability to run Linux apps](https://www.xda-developers.com/linux-apps-chrome-os-overview-crostini/) appears to me to mostly be something Google did so that their engineers could actually use the Pixelbook. Once that feature is seen in the code you might as well let the broad developer community in on the fun. 
