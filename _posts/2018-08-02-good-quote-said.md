@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-02 10:39:33 -0400
+date: 2018-08-02 09:39:33 -0500
 guid: http://frankm.micro.blog/2018/08/02/good-quote-said.html
 ---
 [Good quote](https://john.philpin.com/2018/03/31/as-democracy-is.html). Said differently, democracy is not what our small self wants. We much rather just have someone take care of us. True originalists understand that the founders did not build a Presidency, they built a Congress. 
