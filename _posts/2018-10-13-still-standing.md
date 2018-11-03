@@ -3,7 +3,7 @@ layout: post
 title: "Still Standing"
 microblog: false
 audio: 
-date: 2018-10-13 12:09:06 -0400
+date: 2018-10-13 11:09:06 -0500
 guid: http://frankm.micro.blog/2018/10/13/still-standing.html
 ---
 We saw Elton John last night for the first and last time, as this is his farewell tour and I believe it to be true. The show was fantastic, particularly when you consider that Elton is 71 years old. He played for a little over two and a half hours, with no intermission. After each song he would stand up, acknowledge the crowd as he did a circle around the piano seat, take a drink of water, sit down and launch into another song. 
