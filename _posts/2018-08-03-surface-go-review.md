@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-02 22:44:05 -0400
+date: 2018-08-02 21:44:05 -0500
 guid: http://frankm.micro.blog/2018/08/03/surface-go-review.html
 ---
 [Surface Go review: The ideal cheap Windows tablet... almost](https://www.engadget.com/2018/08/02/surface-go-review/)
