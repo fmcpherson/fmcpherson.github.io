@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-30 18:19:24 -0400
+date: 2018-10-30 17:19:24 -0500
 guid: http://frankm.micro.blog/2018/10/30/why-chromeos-i.html
 ---
 [Why ChromeOS?](https://writing.frankmcpherson.net/computers/2018/10/30/why-chromeos.html)
