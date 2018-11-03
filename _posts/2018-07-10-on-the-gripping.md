@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-10 14:42:25 -0400
+date: 2018-07-10 13:42:25 -0500
 guid: http://frankm.micro.blog/2018/07/10/on-the-gripping.html
 ---
 On the gripping hand, in a year the price of [the Surface Go](https://www.laptopmag.com/articles/microsoft-surface-go-specs-price) may become low enough to make it a worthwhile replacement of my Surface 3. The Surface 3 is my only personally-owned Windows 10 machine.
