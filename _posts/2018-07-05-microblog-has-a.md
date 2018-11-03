@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-05 16:38:56 -0400
+date: 2018-07-05 15:38:56 -0500
 guid: http://frankm.micro.blog/2018/07/05/microblog-has-a.html
 ---
 Micro.blog has a setting that I’ve been using that sends a copy of my content to a Github repo, and if that repo is configured for [Github pages](https://pages.github.com/) then you basically end up with a second copy of your micro.blog site. 
