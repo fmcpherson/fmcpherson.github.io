@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-08 16:30:20 -0400
+date: 2018-08-08 15:30:20 -0500
 guid: http://frankm.micro.blog/2018/08/08/most-of-the.html
 ---
 Most of [the reviews](https://www.theverge.com/2018/8/8/17663494/microsoft-surface-go-review-specs-performance) that I have read about the Surface Go have been positive. First, I note that all reviews are of the high-end, 8 GB model. Second, I can't help but feel that everyone is desperate for a competitor to the iPad and therefore will praise up any attempt. 
