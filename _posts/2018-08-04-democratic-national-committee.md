@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-04 12:08:53 -0400
+date: 2018-08-04 11:08:53 -0500
 guid: http://frankm.micro.blog/2018/08/04/democratic-national-committee.html
 ---
 [Democratic National Committee warns candidates to not use ZTE, Huawei devices - Axios](https://www.axios.com/dnc-warns-candidates-to-not-use-zte-huawei-devices-b9a9246c-1f26-42cb-8989-b2c307011750.html)
