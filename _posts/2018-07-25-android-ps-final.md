@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-25 19:25:30 -0400
+date: 2018-07-25 18:25:30 -0500
 guid: http://frankm.micro.blog/2018/07/25/android-ps-final.html
 ---
 [Android P's final test release is here](https://www.engadget.com/2018/07/25/android-p-final-preview-release/)
