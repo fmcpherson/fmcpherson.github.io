@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-21 11:31:00 -0400
+date: 2018-07-21 10:31:00 -0500
 guid: http://frankm.micro.blog/2018/07/21/buffy-the-vampire.html
 ---
 [Buffy The Vampire Slayer reboot revealed with Joss Whedon onboard - SlashGear](https://www.slashgear.com/buffy-the-vampire-slayer-reboot-revealed-with-joss-whedon-onboard-20538369/) 
