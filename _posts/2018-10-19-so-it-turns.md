@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-19 10:09:39 -0400
+date: 2018-10-19 09:09:39 -0500
 guid: http://frankm.micro.blog/2018/10/19/so-it-turns.html
 ---
 So, it [turns out](https://www.chron.com/sports/astros/article/Houston-Astros-Boston-Red-Sox-ALCS-Game-5-recap-13318892.php) the 2018 Astros were not any better than the 2017 Cubs. 
