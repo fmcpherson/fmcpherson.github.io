@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-10 15:55:46 -0400
+date: 2018-09-10 14:55:46 -0500
 guid: http://frankm.micro.blog/2018/09/10/barbara-brown-taylor.html
 ---
 [Barbara Brown Taylor](https://www.omegacenter.info/death-in-church-new-life-ahead/):
