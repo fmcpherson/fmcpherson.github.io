@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-29 17:38:34 -0400
+date: 2018-05-29 16:38:34 -0500
 guid: http://frankm.micro.blog/2018/05/29/listening-to-the.html
 ---
 Listening to the waves roll in
