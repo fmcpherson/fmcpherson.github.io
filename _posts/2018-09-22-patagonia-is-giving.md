@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-22 15:25:10 -0400
+date: 2018-09-22 14:25:10 -0500
 guid: http://frankm.micro.blog/2018/09/22/patagonia-is-giving.html
 ---
 [Patagonia is giving its workers Election Day off — and says you should, too - The Washington Post](https://www.washingtonpost.com/news/business/wp/2018/07/06/patagonia-is-giving-its-workers-election-day-off-and-says-you-should-too/?noredirect=on&utm_term=.b37ab4df9439)
