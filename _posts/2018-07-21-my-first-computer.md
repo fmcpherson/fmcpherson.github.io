@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-21 13:14:21 -0400
+date: 2018-07-21 12:14:21 -0500
 guid: http://frankm.micro.blog/2018/07/21/my-first-computer.html
 ---
 My first computer was the [Timex Sinclair](http://oldcomputers.net/ts1000.html) 1000 that my grandmother gave me as a birthday present in 1983. I got that computer because it was cheap enough for my grandmother to buy, and she somehow determined back then that computers where the future. 
