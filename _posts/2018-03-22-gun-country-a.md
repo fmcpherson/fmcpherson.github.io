@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-22 09:10:38 -0400
+date: 2018-03-22 08:10:38 -0500
 guid: http://frankm.micro.blog/2018/03/22/gun-country-a.html
 ---
 [Gun Country: A new generation of American kids embraces firearms](https://www.newyorker.com/magazine/2018/03/26/the-gun-owners-of-the-parkland-generation?mbid=social_twitter)
