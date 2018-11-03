@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-03 13:44:38 -0400
+date: 2018-07-03 12:44:38 -0500
 guid: http://frankm.micro.blog/2018/07/03/you-may-have.html
 ---
 You may have noticed that I made a change to the layout and appearance of this site. The new theme is similar in appearance to the theme on [my Jekyll site](https://writing.frankmcpherson.net). I may be contrarian, but I prefer blogs that make text easier to read over blogs that emphasize graphics. (I also dislike white text on black backgrounds because that messes up my eyes.)
