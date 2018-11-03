@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-14 16:08:22 -0400
+date: 2018-09-14 15:08:22 -0500
 guid: http://frankm.micro.blog/2018/09/14/dana-blankenhorn-moores.html
 ---
 [Dana Blankenhorn](http://www.danablankenhorn.com/2018/08/the-math.html):
