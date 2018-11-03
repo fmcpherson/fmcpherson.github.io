@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-09 21:27:13 -0400
+date: 2018-10-09 20:27:13 -0500
 guid: http://frankm.micro.blog/2018/10/10/it-must-frustrate.html
 ---
 It must frustrate Detroit Tiger fans to see so many former Tigers in the MLB Playoffs. The Red Sox have three former Tigers playing for them in this game against the Yankees. Not to mention the Red Sox GM, who used to be the Tiger’s GM and then you have Justin Verlander over on the Astros. 
