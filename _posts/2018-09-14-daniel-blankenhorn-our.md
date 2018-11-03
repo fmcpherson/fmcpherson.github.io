@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-14 16:04:32 -0400
+date: 2018-09-14 15:04:32 -0500
 guid: http://frankm.micro.blog/2018/09/14/daniel-blankenhorn-our.html
 ---
 [Dana Blankenhorn](http://www.danablankenhorn.com/2018/09/moores-law-of-politics.html):
