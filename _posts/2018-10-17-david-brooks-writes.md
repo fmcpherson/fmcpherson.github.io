@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-17 09:10:29 -0400
+date: 2018-10-17 08:10:29 -0500
 guid: http://frankm.micro.blog/2018/10/17/david-brooks-writes.html
 ---
 [David Brooks writes](https://www.nytimes.com/2018/10/15/opinion/politics-race-white-tribalism.html) of the [Hidden Tribes](https://hiddentribes.us/) survey and seems to conclude that our problem is a white civil war between Progressive Activitists and Devoted Conservatives.
