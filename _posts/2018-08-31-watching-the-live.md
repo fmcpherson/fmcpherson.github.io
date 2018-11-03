@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-30 21:10:26 -0400
+date: 2018-08-30 20:10:26 -0500
 guid: http://frankm.micro.blog/2018/08/31/watching-the-live.html
 ---
 Watching the live stream of the Areatha tribute concert tonight at Chene Park
