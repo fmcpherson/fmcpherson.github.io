@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-16 16:12:29 -0400
+date: 2017-12-16 15:12:29 -0500
 guid: http://frankm.micro.blog/2017/12/16/here-is-how.html
 ---
 Here is how my blog looks in landscape. I want this centering in portrait.  
