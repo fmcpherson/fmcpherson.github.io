@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-07 11:50:39 -0400
+date: 2018-09-07 10:50:39 -0500
 guid: http://frankm.micro.blog/2018/09/07/incompetency-is-the.html
 ---
 [Incompetency](https://politicalwire.com/2018/09/07/we-are-a-superpower-run-by-a-simpleton/) is the primary reason why I could not and did not vote for Trump.  Current politics makes the problem worse. Not enough people took competency seriously enough and we are starting to pay the price. 
