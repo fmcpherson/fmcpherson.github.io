@@ -3,7 +3,7 @@ layout: post
 title: "There Is No Such Thing As Health Insurance"
 microblog: false
 audio: 
-date: 2018-02-27 13:55:51 -0400
+date: 2018-02-27 12:55:51 -0500
 guid: http://frankm.micro.blog/2018/02/27/there-is-no.html
 ---
 [Twenty states have filed suit](https://www.reuters.com/article/us-usa-healthcare/twenty-states-sue-federal-government-seeking-end-to-obamacare-idUSKCN1GB06R) against the federal government basically because there is no business model in healthcare insurance. Before we can fix problems we have to:
