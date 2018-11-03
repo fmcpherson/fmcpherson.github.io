@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-05 15:33:33 -0400
+date: 2018-07-05 14:33:33 -0500
 guid: http://frankm.micro.blog/2018/07/05/using-noteplan-to.html
 ---
 [Using NotePlan To Manage Personal Projects](https://writing.frankmcpherson.net/ipad/2018/07/05/using-noteplan-to-manage-personal-projects.html)
