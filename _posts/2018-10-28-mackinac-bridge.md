@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-28 13:25:48 -0400
+date: 2018-10-28 12:25:48 -0500
 guid: http://frankm.micro.blog/2018/10/28/mackinac-bridge.html
 ---
 Mackinac Bridge
