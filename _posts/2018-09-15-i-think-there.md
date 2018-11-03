@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-15 18:10:31 -0400
+date: 2018-09-15 17:10:31 -0500
 guid: http://frankm.micro.blog/2018/09/15/i-think-there.html
 ---
 I think there is a possibility for [Siri shortcuts](https://9to5mac.com/guides/siri-shortcuts/) to be a really big hit for Apple, and Google needs to beef up Assistant to match. Over time I expect Siri to speed up how you use your iOS device. 
