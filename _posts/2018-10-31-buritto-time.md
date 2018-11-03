@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-31 13:04:57 -0400
+date: 2018-10-31 12:04:57 -0500
 guid: http://frankm.micro.blog/2018/10/31/buritto-time.html
 ---
 Buritto time.
