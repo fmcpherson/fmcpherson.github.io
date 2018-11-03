@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-23 14:56:48 -0400
+date: 2017-12-23 13:56:48 -0500
 guid: http://frankm.micro.blog/2017/12/23/scriptingcomhttpscriptingcomhtmla-ask-why.html
 ---
  [scripting.com](http://scripting.com/2017/12/23.html#a165008)
