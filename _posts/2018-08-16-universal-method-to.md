@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-16 09:16:56 -0400
+date: 2018-08-16 08:16:56 -0500
 guid: http://frankm.micro.blog/2018/08/16/universal-method-to.html
 ---
 [Universal Method to Sort Complex Information Found](https://www.quantamagazine.org/universal-method-to-sort-complex-information-found-20180813/)
