@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-24 11:59:12 -0400
+date: 2018-08-24 10:59:12 -0500
 guid: http://frankm.micro.blog/2018/08/24/i-dont-understand.html
 ---
 I don't understand the fixation with creating note taking applications that support markdown. Markdown is a markup language and by definition markup is used for presentation or publishing content. 
