@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-23 14:29:19 -0400
+date: 2018-08-23 13:29:19 -0500
 guid: http://frankm.micro.blog/2018/08/23/charles-p-pierce.html
 ---
 [Charles P. Pierce](https://www.esquire.com/news-politics/politics/a22700465/charlottesville-anniversary-race-america/):
