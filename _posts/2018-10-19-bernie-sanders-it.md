@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-19 09:43:47 -0400
+date: 2018-10-19 08:43:47 -0500
 guid: http://frankm.micro.blog/2018/10/19/bernie-sanders-it.html
 ---
 [Bernie Sanders](https://www.theguardian.com/us-news/2018/jul/26/alexandria-ocasio-cortez-bernie-sanders-kansas-james-thompson):
