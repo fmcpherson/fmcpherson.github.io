@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-22 10:50:35 -0400
+date: 2018-08-22 09:50:35 -0500
 guid: http://frankm.micro.blog/2018/08/22/fox-theatre-at.html
 ---
 Fox Theatre at night. I really like how this picture turned out.
