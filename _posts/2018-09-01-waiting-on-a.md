@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-01 15:58:43 -0400
+date: 2018-09-01 14:58:43 -0500
 guid: http://frankm.micro.blog/2018/09/01/waiting-on-a.html
 ---
 Waiting on a storm
