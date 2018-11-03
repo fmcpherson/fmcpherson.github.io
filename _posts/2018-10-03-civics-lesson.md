@@ -3,7 +3,7 @@ layout: post
 title: "Civics Lesson"
 microblog: false
 audio: 
-date: 2018-10-03 11:23:18 -0400
+date: 2018-10-03 10:23:18 -0500
 guid: http://frankm.micro.blog/2018/10/03/civics-lesson.html
 ---
 <p>First, one needs to learn what history says it means to be an American. Next, one needs to decide what they believe it means to be an American. How consistent are your beliefs with history?</p>
