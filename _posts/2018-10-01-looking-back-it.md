@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-01 11:57:36 -0400
+date: 2018-10-01 10:57:36 -0500
 guid: http://frankm.micro.blog/2018/10/01/looking-back-it.html
 ---
 Looking back, it occurs to me that [my analysis](http://writing.frankmcpherson.org/2017/10/20/thereIsTeamInBaseball.html) of the Cub's performance in last year's playoffs might be applicable to this year too.
