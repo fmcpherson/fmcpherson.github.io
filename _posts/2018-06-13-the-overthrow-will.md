@@ -3,7 +3,7 @@ layout: post
 title: "The Overthrow Will Not Be By Force."
 microblog: false
 audio: 
-date: 2018-06-13 11:01:33 -0400
+date: 2018-06-13 10:01:33 -0500
 guid: http://frankm.micro.blog/2018/06/13/the-overthrow-will.html
 ---
 Too many people in the United States think our government will be overthrown by force when the reality is it is happening in just the opposite manner. The strong arguments against gun control in the U.S. is evidence of this, as the argument centers around needing to keep guns as protection against government oppression. The powers that be don't need to take guns away, they just need us to keep arguing about them, which fossilizes idealogy and keeps attention away from what is really happening.
