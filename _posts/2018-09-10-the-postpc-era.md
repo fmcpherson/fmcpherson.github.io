@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-10 13:15:21 -0400
+date: 2018-09-10 12:15:21 -0500
 guid: http://frankm.micro.blog/2018/09/10/the-postpc-era.html
 ---
 [The ‘Post-PC Era’ Never Really Happened…and Likely Won’t](https://techpinions.com/the-post-pc-era-never-really-happened-and-likely-wont/53610)
