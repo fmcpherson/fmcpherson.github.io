@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-17 15:23:27 -0400
+date: 2018-10-17 14:23:27 -0500
 guid: http://frankm.micro.blog/2018/10/17/barbara-obrien-television.html
 ---
 [Barbara O'Brien](https://rethinkingreligion-book.info/the-latter-day-dimwits-of-televised-religion/):
