@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-27 12:43:31 -0400
+date: 2018-10-27 11:43:31 -0500
 guid: http://frankm.micro.blog/2018/10/27/on-the-road.html
 ---
 On the road again. Start with caffeine.
