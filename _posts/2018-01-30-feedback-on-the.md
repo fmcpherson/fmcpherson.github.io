@@ -3,7 +3,7 @@ layout: post
 title: "Feedback On The OmniFocus Roadmap"
 microblog: false
 audio: 
-date: 2018-01-30 14:57:54 -0400
+date: 2018-01-30 13:57:54 -0500
 guid: http://frankm.micro.blog/2018/01/30/feedback-on-the.html
 ---
 A couple of thoughts about OmniFocus after reading [Omni's roadmap for 2018](https://www.omnigroup.com/blog/omni-roadmap-2018). 
