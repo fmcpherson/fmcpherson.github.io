@@ -3,7 +3,7 @@ layout: post
 title: "Amazon Lockers"
 microblog: false
 audio: 
-date: 2017-12-20 14:38:07 -0400
+date: 2017-12-20 13:38:07 -0500
 guid: http://frankm.micro.blog/2017/12/20/amazon-lockers.html
 ---
 I got an email from Amazon telling me that I can use an Amazon Locker to receive items shipped to me. There is a Whole Foods near me that has a locker, so I can select it as a delivery location. [How do I use it?](https://www.amazon.com/b?node=6442600011)
