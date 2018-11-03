@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-14 23:06:45 -0400
+date: 2018-07-14 22:06:45 -0500
 guid: http://frankm.micro.blog/2018/07/15/a-couple-of.html
 ---
 A couple of six pointers strolled through our back yard, nibbling on trees along the way.
