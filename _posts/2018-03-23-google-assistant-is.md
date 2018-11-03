@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-23 14:47:35 -0400
+date: 2018-03-23 13:47:35 -0500
 guid: http://frankm.micro.blog/2018/03/23/google-assistant-is.html
 ---
 Google Assistant is still flawed by not enabling users to specify unique trigger words for each device. So, I use my smartphone as an alarm clock and I thought it would be cool to enable [the Bedtime routine](https://www.digitaltrends.com/home/google-assistant-routines/) that turns down the phone, sets an alarm and shuts off lights. 
