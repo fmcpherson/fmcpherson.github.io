@@ -3,7 +3,7 @@ layout: post
 title: "Setting Up Pi Zero "
 microblog: false
 audio: 
-date: 2017-12-25 17:15:38 -0400
+date: 2017-12-25 16:15:38 -0500
 guid: http://frankm.micro.blog/2017/12/25/setting-up-pi.html
 ---
 I got a Raspberry Pi Zero W for Christmas that I am setting up, and so far not having much luck getting the OS to install. I think the file transfer is taking too long. I am regretting following the instructions literally, meaning I installed the Pi Zero in the case and there isn't an easy way to remove the micro SD card without removing them Zero entirely. 
