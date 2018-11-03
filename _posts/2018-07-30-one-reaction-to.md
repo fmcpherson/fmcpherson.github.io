@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-30 11:04:41 -0400
+date: 2018-07-30 10:04:41 -0500
 guid: http://frankm.micro.blog/2018/07/30/one-reaction-to.html
 ---
 One reaction to [the EU decision regarding Android](https://www.cnbc.com/2018/07/10/eu-hits-alphabet-google-with-android-antitrust-fine.html) is that Google may have erred by making Android open source. A close source Android likely would have been bad for consumers and have prevented it from being as widely used as it is. We would likely be dealing with more than two defacto mobile OS standards.
