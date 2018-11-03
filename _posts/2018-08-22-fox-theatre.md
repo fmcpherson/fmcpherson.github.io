@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-21 21:02:51 -0400
+date: 2018-08-21 20:02:51 -0500
 guid: http://frankm.micro.blog/2018/08/22/fox-theatre.html
 ---
 Fox Theatre
