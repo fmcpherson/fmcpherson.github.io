@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-09 11:22:33 -0400
+date: 2018-08-09 10:22:33 -0500
 guid: http://frankm.micro.blog/2018/08/09/inessential-the-public.html
 ---
 [inessential: The Public Square](http://inessential.com/2018/08/08/the_public_square)
