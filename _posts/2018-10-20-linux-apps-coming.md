@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-20 14:39:14 -0400
+date: 2018-10-20 13:39:14 -0500
 guid: http://frankm.micro.blog/2018/10/20/linux-apps-coming.html
 ---
 [Linux Apps Coming To MediaTek-Powered Chromebooks Like The Acer R13](https://chromeunboxed.com/news/linux-app-support-mediatek-arm-chromebook-acer-r13)
