@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-01 09:37:22 -0400
+date: 2018-10-01 08:37:22 -0500
 guid: http://frankm.micro.blog/2018/10/01/i-dont-know.html
 ---
 I don't know [how we fix societal issues](http://scripting.com/2018/09/29/004408.html). The society we live in so large with so many people needing to change, it just doesn't seem possible. 
