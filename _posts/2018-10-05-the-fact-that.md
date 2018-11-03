@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-05 09:07:26 -0400
+date: 2018-10-05 08:07:26 -0500
 guid: http://frankm.micro.blog/2018/10/05/the-fact-that.html
 ---
 The fact that Kavanaugh will obviously not be "impartial" as an umpire is not surprising and not the real problem. The real problem is that the people supporting Kavanaugh do not want him to be impartial, they want and fully expect him to make decisions along their party ideological lines. Our institutions are reflections of ourselves. 
