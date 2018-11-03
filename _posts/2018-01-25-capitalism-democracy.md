@@ -3,7 +3,7 @@ layout: post
 title: "Capitalism <> Democracy"
 microblog: false
 audio: 
-date: 2018-01-25 12:50:48 -0400
+date: 2018-01-25 11:50:48 -0500
 guid: http://frankm.micro.blog/2018/01/25/capitalism-democracy.html
 ---
 [The American Dream is Over. This is the Age of the European Dream.](https://eand.co/the-american-dream-is-over-this-is-the-age-of-the-european-dream-71c668bef945)
