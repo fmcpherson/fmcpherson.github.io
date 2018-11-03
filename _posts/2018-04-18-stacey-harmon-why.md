@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-18 16:33:40 -0400
+date: 2018-04-18 15:33:40 -0500
 guid: http://frankm.micro.blog/2018/04/18/stacey-harmon-why.html
 ---
 [Stacey Harmon: "Why Michael Hyatt is Wrong about Organizing Evernote with Tags"](https://blog.evernote.com/blog/2018/04/18/stacey-harmon-why-michael-hyatt-is-wrong-about-organizing-evernote-with-tags/)
