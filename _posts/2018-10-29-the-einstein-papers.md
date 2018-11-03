@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-29 10:39:42 -0400
+date: 2018-10-29 09:39:42 -0500
 guid: http://frankm.micro.blog/2018/10/29/the-einstein-papers.html
 ---
 [The Einstein Papers. A Man of Many Parts - The New York Times](https://www.nytimes.com/1972/03/29/archives/the-einstein-papers-a-man-of-many-parts-the-einstein-papers-man-of.html)
