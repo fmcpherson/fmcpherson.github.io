@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-05 11:56:18 -0400
+date: 2018-09-05 10:56:18 -0500
 guid: http://frankm.micro.blog/2018/09/05/to-further-reinforce.html
 ---
 To further reinforce [the point I made earlier](http://frankmcpherson.blog/2018/09/05/145541.html) that the Democrat strategy this fall ought to be focus on Congress' constitutional role, I refer to you [this written by Alan Jacobs](https://blog.ayjay.org/populist-leaders-and-the-defiance-of-norms/):
