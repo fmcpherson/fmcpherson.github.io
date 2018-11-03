@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-30 15:59:45 -0400
+date: 2018-10-30 14:59:45 -0500
 guid: http://frankm.micro.blog/2018/10/30/untitled-blog-posts.html
 ---
 [Untitled blog posts were a game changer for my writing](http://fionavoss.blog/2018/06/24/untitled-blog-posts/)
