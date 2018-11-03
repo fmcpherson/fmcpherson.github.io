@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-23 10:29:38 -0400
+date: 2018-09-23 09:29:38 -0500
 guid: http://frankm.micro.blog/2018/09/23/sunday-song-and.html
 ---
 [SUNDAY SONG AND RUMINATION](https://www.alanalevandoski.com/sundaysongandrumination/join-in-the-general-dance-sunday-song-rumination-3?utm_source=Alana%27s+Shop+Opt-in&utm_campaign=20a94ab5ab-EMAIL_CAMPAIGN_2018_09_16_01_42_COPY_01&utm_medium=email&utm_term=0_9202550074-20a94ab5ab-111461629&mc_cid=20a94ab5ab&mc_eid=a40e0e553f)
