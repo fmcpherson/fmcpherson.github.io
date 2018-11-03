@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-02 12:37:22 -0400
+date: 2018-06-02 11:37:22 -0500
 guid: http://frankm.micro.blog/2018/06/02/ohmypizzacom-the-ipad.html
 ---
  [ohmypizza.com: The iPad Needs To Grow Up](http://ohmypizza.com/2018/06/ipad-needs-to-grow-up.php)
