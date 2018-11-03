@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-04 12:50:46 -0400
+date: 2018-08-04 11:50:46 -0500
 guid: http://frankm.micro.blog/2018/08/04/android-p-will.html
 ---
 [Android P will reportedly be rolled out on August 20 - Android Community](https://androidcommunity.com/android-p-will-reportedly-be-rolled-out-on-august-20-20180803/)
