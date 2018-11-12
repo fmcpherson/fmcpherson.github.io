@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/12/140903.html",
+	      	
+			"content_html": "<p>I think the “<a href=\"https://www.oneplus.com/6t\">Thunder Purple</a>” color version of the OnePlus 6T looks nice.</p>\n",
+			"date_published": "2018-11-12T09:09:03-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/12/140903.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/11/patrick-mahomes-success.html",
 	      	
 			"content_html": "<p>Patrick Mahome’s success during his first NFL season may be more a story more about the sophistication of college football defenses more than anything. There was a time when NFL teams could not start rookie quarterbacks because NFL defenses were too confusing.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>If you did not vote in 2016 and were shocked that Trump won, please know that one very big reason why he did win is because people did not vote. Not voting tomorrow is a vote in support of a Republican controlled government and we know that Republicans cannot govern. If you want change, it starts tomorrow with your vote.</p>\n",
 			"date_published": "2018-11-05T12:06:31-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/05/if-you-did.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/05/the-pricing-and.html",
-	      	
-			"content_html": "<p>The pricing and models for the Lenovo Yoga C630 are confusing. Let’s start with Lenovo direct, <a href=\"https://www.lenovo.com/us/en/perksoffer/laptops/yoga/yoga-c-series/Yoga-Chromebook-C630/p/88YGCC61096?menu-id=Yoga_Chromebook_C630\">they list two models</a> one with a I3 processor, backlit keyboard and 64 GB of storage for $599, the other with the I5 and 128 GB of storage with backlit keyboard for $719. If you want a C630 with a backlit keyboard you can only buy one from Lenovo’s web site.</p>\n\n<p><a href=\"https://www.bestbuy.com/site/lenovo-2-in-1-15-6-touch-screen-chromebook-intel-core-i5-8gb-memory-128gb-emmc-flash-memory-midnight-blue/6295998.p?skuId=6295998\">Best Buy has a version of the C630</a> with an I5 128 GB of storage and no backlit keyboard for $649. Best Buy also has <a href=\"https://www.bestbuy.com/site/hp-2-in-1-14-touch-screen-chromebook-intel-core-i3-8gb-memory-64gb-emmc-flash-memory-hp-finish-in-ceramic-white-and-cloud-blue/6301869.p?skuId=6301869\">the HP X360 X14 for $549</a>.</p>\n\n<p>The low end Lenovo C630 that you can buy from their web site appears to compete head on with the HP X360 X14.</p>\n",
-			"date_published": "2018-11-05T11:43:06-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/05/the-pricing-and.html"
 		}
 		
 	]
