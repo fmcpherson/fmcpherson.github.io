@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/12/news-about-the.html",
+	      	
+			"content_text": "News about the Black Friday sale on the Google Pixelbook...",
+			"date_published": "2018-11-12T17:48:25-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/12/news-about-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/12/i-was-on.html",
+	      	
+			"content_text": "I was on the MobileViews Podcast this past weekend, and...",
+			"date_published": "2018-11-12T09:44:37-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/12/i-was-on.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/12/i-decided-to.html",
+	      	
+			"content_text": "I decided to renew my Flickr Pro account even though...",
+			"date_published": "2018-11-12T09:19:16-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/12/i-decided-to.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/12/140903.html",
 	      	
 			"content_text": "I think the “Thunder Purple” color version of the OnePlus...",
