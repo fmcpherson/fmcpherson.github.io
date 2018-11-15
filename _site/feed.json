@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/14/im-watching-the.html",
+	      	
+			"content_html": "<p>I’m watching the <a href=\"https://twit.tv/shows/all-about-android\">All About Android podcast</a> in which they are talking about the <a href=\"https://www.theverge.com/2018/11/7/18072514/samsung-foldable-phone-screen-features-photos-sdc-2018\">Samsung foldable screen</a> and they’re talking about it in terms of a foldable phone. I wonder whether we should really be thinking about this as a foldable tablet rather than phone?</p>\n",
+			"date_published": "2018-11-14T18:35:10-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/14/im-watching-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/14/corporate-welfare-at.html",
+	      	
+			"content_html": "<p><a href=\"https://www.fastcompany.com/90267287/here-are-the-most-infuriating-details-of-amazons-hq2-deals\">Corporate welfare</a> at its finest. The true overlords of the United States. And the overlords will use the money taxpayers provide to pay off politicians who support them over the taxpayers. (see Citizens United)</p>\n",
+			"date_published": "2018-11-14T15:18:20-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/14/corporate-welfare-at.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/14/google-is-adding.html",
+	      	
+			"content_html": "<p>Google is adding <a href=\"https://9to5google.com/2018/11/14/google-clock-assistant-routines/\">the Android clock as a trigger for Assistant Routines</a>. I like the idea of the alarm triggering a routine, but I don’t have a set alarm every day and actually use a routine to set my alarm each night, so I wonder how that will work.</p>\n",
+			"date_published": "2018-11-14T09:38:27-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/14/google-is-adding.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/14/the-oath-of.html",
 	      	
 			"content_html": "<p><a href=\"http://americanhistory.si.edu/presidency/1b2.html\">The Oath of Office</a> of the President of the United States:</p>\n\n<blockquote>\n  <p>I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.</p>\n</blockquote>\n\n<p>At some point soon we may all need to decide what is more important, preserving, protecting, and defending the Constitution of the United States or keeping our party in office.</p>\n\n<p>As citizens of the United States this is our oath too, not just the oath of those whom we elect.</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>My <a href=\"https://www.ted.com/talks/paola_antonelli_the_3_000_year_history_of_the_hoodie/transcript\">hoodie</a> of choice is <a href=\"https://www.scottevest.com/shop/mens-hoodies/mens-cotton-hoodie/cotton-hoodie-men.shtml\">the SCOTTeVEST cotton Hoodie</a>. One word: pockets.</p>\n",
 			"date_published": "2018-11-08T15:08:39-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/08/my-hoodie-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/08/getting-the-ipad.html",
-	      	
-			"content_html": "<p><a href=\"https://craigmod.com/essays/ipad_pro/\">Getting the iPad to Pro</a></p>\n\n<p>Would there even be a debate about whether an iPad can be one’s only computer if touchscreens were invented before the mouse? IMHO the major impediment is iOS’ lack of support for Bluetooth mice.</p>\n\n<p>I think if Apple wanted to, they could take a cue from Google’s <a href=\"https://www.reddit.com/r/Crostini/\">Project Crostini</a> to add containerized desktop app support to iOS. The Pros would be smart enough to handle containers, while the normal users would probably not want nor need it.</p>\n\n<p>I’ve long mused that what we really need are devices that have built-in hypervisors upon which one could run any operating environment they wished. Containers come close to this idea.</p>\n",
-			"date_published": "2018-11-08T15:00:12-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/08/getting-the-ipad.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/08/looks-like-we.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/11/08/opinion/trump-attorney-general-sessions-unconstitutional.html\">Looks like</a> we have a constitutional crisis created by the President.</p>\n",
-			"date_published": "2018-11-08T14:46:34-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/08/looks-like-we.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/07/listen-to-your.html",
-	      	
-			"content_html": "<p>Listen to your body. Knowing the symptoms of #PancreaticCancer and early detection could save a life. <a href=\"www.worldpancreaticcancerday.org\">www.worldpancreaticcancerday.org</a> #DemandBetter #WPCD</p>\n",
-			"date_published": "2018-11-07T14:58:53-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/07/listen-to-your.html"
 		}
 		
 	]
