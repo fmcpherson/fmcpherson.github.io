@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/15/153146.html",
+	      	
+			"content_html": "<p><img src=\"https://frankmcpherson.blog/uploads/2018/a5e7ff0e2e.jpg\" width=\"600\" height=\"338\" /></p>\n",
+			"date_published": "2018-11-15T10:31:46-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/15/153146.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/15/what-is-the.html",
+	      	
+			"content_html": "<p>What is the <a href=\"https://legal-dictionary.thefreedictionary.com/Freedom+of+the+Press\">Constitutional definition of the press</a>?</p>\n",
+			"date_published": "2018-11-14T22:11:23-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/14/what-is-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/15/manton-reece-activitypub.html",
+	      	
+			"content_html": "<p><a href=\"https://www.manton.org/2018/11/14/activitypub-for-your.html\">Manton Reece - ActivityPub for your blog</a></p>\n\n<p>I am @frankm@frankmcpherson.blog on Mastodon. Not sure what that means.</p>\n",
+			"date_published": "2018-11-14T21:54:58-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/14/manton-reece-activitypub.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/14/im-watching-the.html",
 	      	
 			"content_html": "<p>I’m watching the <a href=\"https://twit.tv/shows/all-about-android\">All About Android podcast</a> in which they are talking about the <a href=\"https://www.theverge.com/2018/11/7/18072514/samsung-foldable-phone-screen-features-photos-sdc-2018\">Samsung foldable screen</a> and they’re talking about it in terms of a foldable phone. I wonder whether we should really be thinking about this as a foldable tablet rather than phone?</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>First snow fall of the season</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/3f3084c1bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-11-09T10:58:00-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/09/first-snow-fall.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/09/my-highlights-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.goodreads.com/notes/19428326-when-society-becomes-an-addict/5382435-frank-mcpherson\">My highlights</a> of <a href=\"https://www.goodreads.com/book/show/19428326\">When Society Becomes An Addict</a></p>\n",
-			"date_published": "2018-11-08T21:21:05-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/08/my-highlights-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/09/highlights-from-what.html",
-	      	
-			"content_html": "<p><a href=\"https://www.goodreads.com/notes/34214610-what-is-the-bible/5382435-frank-mcpherson?ref=notif_rnsp\">Highlights from</a> What Is The Bible by Rob Bell.</p>\n",
-			"date_published": "2018-11-08T21:11:45-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/08/highlights-from-what.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/08/my-hoodie-of.html",
-	      	
-			"content_html": "<p>My <a href=\"https://www.ted.com/talks/paola_antonelli_the_3_000_year_history_of_the_hoodie/transcript\">hoodie</a> of choice is <a href=\"https://www.scottevest.com/shop/mens-hoodies/mens-cotton-hoodie/cotton-hoodie-men.shtml\">the SCOTTeVEST cotton Hoodie</a>. One word: pockets.</p>\n",
-			"date_published": "2018-11-08T15:08:39-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/08/my-hoodie-of.html"
 		}
 		
 	]
