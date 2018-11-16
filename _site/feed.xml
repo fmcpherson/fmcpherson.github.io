@@ -4,8 +4,56 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 16 Nov 2018 09:01:11 -0500</pubDate>
-    <lastBuildDate>Fri, 16 Nov 2018 09:01:11 -0500</lastBuildDate>
+    <pubDate>Fri, 16 Nov 2018 17:03:45 -0500</pubDate>
+    <lastBuildDate>Fri, 16 Nov 2018 17:03:45 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve &lt;a href=&quot;https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html&quot;&gt;updated my article&lt;/a&gt; that explains the decision making process I am going through to decide which computer I am going to buy. Pixelbook is leaped ahead and the Lenovo Yogo C630 has fallen behind.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Nov 2018 15:41:13 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/16/ive-updated-my.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/16/ive-updated-my.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Josh Farrant has created &lt;a href=&quot;https://medium.com/@JoshFarrant/creating-ios-12-shortcuts-with-javascript-and-shortcuts-js-942420ca9904&quot;&gt;a Javascript library for creating iOS 12 Shortcuts&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Nov 2018 10:36:04 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/16/josh-farrant-has.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/16/josh-farrant-has.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://helpspot.readdle.com/spark/index.php?pg=kb.page&amp;amp;id=1225&quot;&gt;Spark only allows me&lt;/a&gt; to create reminders for outgoing email. I wish I could create a reminder for mail that is in my Inbox. While I can snooze that email, it just re-appears and I don’t see a notification. I am now trying the alert part of snooze to see if that works. 
+&lt;em&gt;Update: I did find that turning alert on triggers a notification that fires at the time of the snooze. If you go in to Settings, Scheduling, Snoozes and enable Default Alert then I think alerts will be on by default. If there is something important I will either dump in to Reminders or Noteplan.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Nov 2018 10:30:47 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/16/spark-only-allows.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/16/spark-only-allows.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Looks like &lt;a href=&quot;https://www.androidpolice.com/2018/11/15/crossover-chrome-os-adds-support-quicken-2018-chromeboxes/&quot;&gt;there is a way to run Windows apps on Chromebooks&lt;/a&gt;. I’ve written about my plans to buy a new Chromebook that will support the Google Play store and Linux apps, so I expect I could run Windows apps using this method. However, I can’t think of a Windows app that I will really need.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Nov 2018 09:49:16 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/16/looks-like-there.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/16/looks-like-there.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I mostly blog for myself, thinking of it as a form of diary. I look back to what I wrote in the past to see where I’ve been and what I was thinking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://writing.frankmcpherson.org/2017/11/&quot;&gt;Looking back to last year&lt;/a&gt;, I realize how much I like the consolidation of my non-titled posts do a header for each day.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Nov 2018 09:27:47 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/16/i-mostly-blog.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/16/i-mostly-blog.html</guid>
+      </item>
     
       <item>
       	
@@ -212,51 +260,6 @@
         <pubDate>Fri, 09 Nov 2018 17:43:31 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/11/09/this-week-i.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/11/09/this-week-i.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://the-narthex.org/2017/09/16/what-is-freedom/&quot;&gt;What Is Freedom?&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Nov 2018 13:29:00 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/09/what-is-freedom.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/09/what-is-freedom.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://kottke.org/18/11/no-way-to-prevent-this-says-only-nation-where-this-regularly-happens&quot;&gt;‘No Way To Prevent This,’ Says Only Nation Where This Regularly Happens&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Nov 2018 13:09:16 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/09/no-way-to.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/09/no-way-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2018/11/08/entertainment/meg-ryan-john-mellencamp-engaged/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29&quot;&gt;A little diddy&lt;/a&gt; about Jack and Diane…&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Nov 2018 12:04:38 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/09/a-little-diddy.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/09/a-little-diddy.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I could be wrong, but I don’t recall any political candidate, Democrat or Republican, campaigning on doing something to address our gun violence problem. Did you?&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Nov 2018 12:02:04 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/09/i-could-be.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/09/i-could-be.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://vimeo.com/297142848&quot;&gt;Cool video&lt;/a&gt; about upgrades being made to a Fusion Reactor in San Diego.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Nov 2018 11:46:56 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/09/cool-video-about.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/09/cool-video-about.html</guid>
       </item>
     
   </channel>
