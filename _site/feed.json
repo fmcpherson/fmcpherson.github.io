@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/17/took-this-with.html",
+	      	
+			"content_html": "<p>Took this with the Pixel Night Sight mode. No flash. Pryety amazing. The feature is buried under More in the camera app. Sorry for the clutter 🤷‍♂️</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/3af855d769.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-16T20:44:37-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/16/took-this-with.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/16/the-academy-is.html",
+	      	
+			"content_html": "<p><a href=\"https://www.chronicle.com/article/The-Academy-Is-Largely/245080/\">The Academy Is Largely Itself Responsible for Its Own Peril - The Chronicle of Higher Education</a></p>\n\n<blockquote>\n  <p>It’s not about being published, it’s about the desire to constantly be writing. It’s such a strongly felt need that if it was something socially maladaptive it would be considered a vice.</p>\n</blockquote>\n\n<p>I so relate to this, and if you follow any of my blogs you likely agree.</p>\n",
+			"date_published": "2018-11-16T17:11:17-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/16/the-academy-is.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/16/ive-updated-my.html",
 	      	
 			"content_html": "<p>I’ve <a href=\"https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html\">updated my article</a> that explains the decision making process I am going through to decide which computer I am going to buy. Pixelbook is leaped ahead and the Lenovo Yogo C630 has fallen behind.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p><a href=\"https://www.goodreads.com/notes/28781883-finding-god-in-the-waves/5382435-frank-mcpherson\">My highlights</a> of <a href=\"https://www.goodreads.com/book/show/28781883\">Finding God In The Waves</a></p>\n",
 			"date_published": "2018-11-10T12:47:22-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/10/174722.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/10/for-the-men.html",
-	      	
-			"content_html": "<p><a href=\"http://mikemchargue.com/blog/2018/10/22/for-the-men\">For the men… from Mike McHargue</a></p>\n\n<blockquote>\n  <p>There is nothing wrong with being a straight, white, and non-disabled man. But, the fact that a broad statistical majority of us minimize the suffering of others in our personal beliefs and political action is a problem.</p>\n</blockquote>\n",
-			"date_published": "2018-11-10T12:42:58-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/10/for-the-men.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/09/this-week-i.html",
-	      	
-			"content_html": "<p>This week I did some simple testing of Linux-based remote access software to create a virtual desktop that I can access from my computers. I’ve written <a href=\"https://writing.frankmcpherson.net/computers/2018/11/09/virtual-desktop.html\">an article of the experience</a>.</p>\n",
-			"date_published": "2018-11-09T17:43:31-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/09/this-week-i.html"
 		}
 		
 	]
