@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/19/we-are-all.html",
+	      	
+			"content_html": "<p>We are all sick here in the McPherson homestead. It started with me on Friday and then my wife on Saturday. Might be a Charle Brown Thanksgiving.</p>\n",
+			"date_published": "2018-11-19T09:16:51-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/19/we-are-all.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/17/took-this-with.html",
 	      	
 			"content_html": "<p>Took this with the Pixel Night Sight mode. No flash. Pryety amazing. The feature is buried under More in the camera app. Sorry for the clutter 🤷‍♂️</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/3af855d769.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://www.cnet.com/news/every-google-android-version-from-the-t-mobile-g1-to-android-pie/#ftag=CAD590a51e\">Every Android version from the T-Mobile G1 to Android Pie - CNET</a></p>\n\n<p>According to the table in this article, Ice Cream Sandwich has been the most significant of the Android releases.</p>\n",
 			"date_published": "2018-11-10T13:24:04-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/10/182404.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/10/174722.html",
-	      	
-			"content_html": "<p><a href=\"https://www.goodreads.com/notes/28781883-finding-god-in-the-waves/5382435-frank-mcpherson\">My highlights</a> of <a href=\"https://www.goodreads.com/book/show/28781883\">Finding God In The Waves</a></p>\n",
-			"date_published": "2018-11-10T12:47:22-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/10/174722.html"
 		}
 		
 	]
