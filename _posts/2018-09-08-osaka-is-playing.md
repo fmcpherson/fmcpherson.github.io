@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-08 15:58:24 -0500
 guid: http://frankm.micro.blog/2018/09/08/osaka-is-playing.html
 ---
