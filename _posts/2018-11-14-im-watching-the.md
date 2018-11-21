@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 18:35:10 -0500
 guid: http://frankm.micro.blog/2018/11/14/im-watching-the.html
 ---
