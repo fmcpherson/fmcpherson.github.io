@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-15 13:55:41 -0500
 guid: http://frankm.micro.blog/2018/01/15/i-wish-that.html
 ---
