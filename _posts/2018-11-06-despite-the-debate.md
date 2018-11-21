@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-06 11:03:54 -0500
 guid: http://frankm.micro.blog/2018/11/06/despite-the-debate.html
 ---
