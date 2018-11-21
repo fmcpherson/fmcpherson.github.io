@@ -3,6 +3,7 @@ layout: post
 title: "They Liked His Anger"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-28 14:26:41 -0500
 guid: http://frankm.micro.blog/2018/09/28/they-liked-his.html
 ---
