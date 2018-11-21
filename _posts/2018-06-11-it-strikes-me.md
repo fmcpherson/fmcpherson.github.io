@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-11 09:37:33 -0500
 guid: http://frankm.micro.blog/2018/06/11/it-strikes-me.html
 ---
