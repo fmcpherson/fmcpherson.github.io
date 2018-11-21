@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-17 12:05:27 -0500
 guid: http://frankm.micro.blog/2018/02/17/strohs-is-mixing.html
 ---
