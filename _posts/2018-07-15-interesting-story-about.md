@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-14 23:45:46 -0500
 guid: http://frankm.micro.blog/2018/07/15/interesting-story-about.html
 ---
