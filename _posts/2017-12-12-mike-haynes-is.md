@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-12 13:04:28 -0500
 guid: http://frankm.micro.blog/2017/12/12/mike-haynes-is.html
 ---
