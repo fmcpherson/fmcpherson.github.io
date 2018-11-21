@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/81827420da.jpg
 date: 2018-09-06 07:42:00 -0500
 guid: http://frankm.micro.blog/2018/09/06/happy-day-if.html
 ---
