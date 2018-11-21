@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/adf7ca268c.jpg
 date: 2018-08-30 20:10:26 -0500
 guid: http://frankm.micro.blog/2018/08/31/watching-the-live.html
 ---
