@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-14 17:27:41 -0500
 guid: http://frankm.micro.blog/2018/08/14/on-preserving-human.html
 ---
