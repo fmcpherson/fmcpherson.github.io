@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-16 09:27:47 -0500
 guid: http://frankm.micro.blog/2018/11/16/i-mostly-blog.html
 ---
