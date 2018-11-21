@@ -3,6 +3,7 @@ layout: post
 title: "Drafts or Ulysses?"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-08 09:54:05 -0500
 guid: http://frankm.micro.blog/2018/05/08/drafts-or-ulysses.html
 ---
