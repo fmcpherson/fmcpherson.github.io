@@ -3,6 +3,7 @@ layout: post
 title: "More Thoughts About The Google Pixel Slate"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-11 14:40:29 -0500
 guid: http://frankm.micro.blog/2018/10/11/more-thoughts-about.html
 ---
