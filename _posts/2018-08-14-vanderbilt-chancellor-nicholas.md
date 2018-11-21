@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-14 16:10:51 -0500
 guid: http://frankm.micro.blog/2018/08/14/vanderbilt-chancellor-nicholas.html
 ---
