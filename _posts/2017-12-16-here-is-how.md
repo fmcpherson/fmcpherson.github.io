@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2017/a3f7de8a22.jpg
 date: 2017-12-16 15:12:29 -0500
 guid: http://frankm.micro.blog/2017/12/16/here-is-how.html
 ---
