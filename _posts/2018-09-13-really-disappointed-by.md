@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 08:02:13 -0500
 guid: http://frankm.micro.blog/2018/09/13/really-disappointed-by.html
 ---
