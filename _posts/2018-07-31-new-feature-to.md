@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-31 10:26:34 -0500
 guid: http://frankm.micro.blog/2018/07/31/new-feature-to.html
 ---
