@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-23 13:29:19 -0500
 guid: http://frankm.micro.blog/2018/08/23/charles-p-pierce.html
 ---
