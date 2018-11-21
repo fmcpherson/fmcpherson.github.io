@@ -3,6 +3,7 @@ layout: post
 title: "Yet Again Focusing On The Wrong Thing"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-17 10:53:17 -0500
 guid: http://frankm.micro.blog/2018/01/17/yet-again-focusing.html
 ---
