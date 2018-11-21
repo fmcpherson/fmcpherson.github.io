@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-17 13:04:08 -0500
 guid: http://frankm.micro.blog/2018/09/17/siri-shortcuts-is.html
 ---
