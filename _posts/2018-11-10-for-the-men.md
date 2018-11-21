@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-10 12:42:58 -0500
 guid: http://frankm.micro.blog/2018/11/10/for-the-men.html
 ---
