@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-31 10:48:59 -0500
 guid: http://frankm.micro.blog/2017/12/31/when-is-the.html
 ---
