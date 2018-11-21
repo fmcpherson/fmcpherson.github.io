@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-31 11:51:59 -0500
 guid: http://frankm.micro.blog/2018/08/31/apples-ios-has.html
 ---
