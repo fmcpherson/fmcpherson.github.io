@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/e13fa3b2c0.jpg
 date: 2018-02-26 18:12:58 -0500
 guid: http://frankm.micro.blog/2018/02/26/come-on-spring.html
 ---
