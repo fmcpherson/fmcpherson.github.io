@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-23 12:09:36 -0500
 guid: http://frankm.micro.blog/2018/08/23/last-night-the.html
 ---
