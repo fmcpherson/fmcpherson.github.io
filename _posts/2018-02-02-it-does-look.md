@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-02 17:18:52 -0500
 guid: http://frankm.micro.blog/2018/02/02/it-does-look.html
 ---
