@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-18 10:35:26 -0500
 guid: http://frankm.micro.blog/2018/09/18/dave-is-giving.html
 ---
