@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-22 14:21:09 -0500
 guid: http://frankm.micro.blog/2018/01/22/despite-articles-to.html
 ---
