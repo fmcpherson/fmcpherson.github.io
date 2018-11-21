@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-08 20:33:46 -0500
 guid: http://frankm.micro.blog/2018/05/09/google-lens-actually.html
 ---
