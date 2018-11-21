@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-04 11:50:46 -0500
 guid: http://frankm.micro.blog/2018/08/04/android-p-will.html
 ---
