@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 14:44:31 -0500
 guid: http://frankm.micro.blog/2018/10/30/when-did-the.html
 ---
