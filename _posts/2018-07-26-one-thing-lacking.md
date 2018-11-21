@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-26 08:17:09 -0500
 guid: http://frankm.micro.blog/2018/07/26/one-thing-lacking.html
 ---
