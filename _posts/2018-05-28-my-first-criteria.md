@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/8d3cc0083c.jpg
 date: 2018-05-28 10:25:25 -0500
 guid: http://frankm.micro.blog/2018/05/28/my-first-criteria.html
 ---
