@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-29 13:09:48 -0500
 guid: http://frankm.micro.blog/2018/08/29/what-the-hell.html
 ---
