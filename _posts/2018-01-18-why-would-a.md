@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-18 10:36:35 -0500
 guid: http://frankm.micro.blog/2018/01/18/why-would-a.html
 ---
