@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-17 14:23:27 -0500
 guid: http://frankm.micro.blog/2018/10/17/barbara-obrien-television.html
 ---
