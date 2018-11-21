@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-06 16:42:56 -0500
 guid: http://frankm.micro.blog/2018/01/06/the-tax-cut.html
 ---
