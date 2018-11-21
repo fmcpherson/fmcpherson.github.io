@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-21 12:26:33 -0500
 guid: http://frankm.micro.blog/2018/10/21/note-which-words.html
 ---
