@@ -3,6 +3,7 @@ layout: post
 title: "Micro Blogging versus Social Networks"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-26 08:59:34 -0500
 guid: http://frankm.micro.blog/2018/04/26/micro-blogging-versus.html
 ---
