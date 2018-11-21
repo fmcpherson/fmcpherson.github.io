@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 10:57:55 -0500
 guid: http://frankm.micro.blog/2018/07/02/ive-used-the.html
 ---
