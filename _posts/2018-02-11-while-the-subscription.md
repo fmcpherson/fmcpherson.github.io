@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-11 15:10:56 -0500
 guid: http://frankm.micro.blog/2018/02/11/while-the-subscription.html
 ---
