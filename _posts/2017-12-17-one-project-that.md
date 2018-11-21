@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-17 18:19:57 -0500
 guid: http://frankm.micro.blog/2017/12/17/one-project-that.html
 ---
