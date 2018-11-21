@@ -3,6 +3,7 @@ layout: post
 title: "Gmail versus Inbox"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-25 11:49:47 -0500
 guid: http://frankm.micro.blog/2018/04/25/gmail-versus-inbox.html
 ---
