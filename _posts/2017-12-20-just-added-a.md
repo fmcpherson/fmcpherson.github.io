@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-20 11:55:46 -0500
 guid: http://frankm.micro.blog/2017/12/20/just-added-a.html
 ---
