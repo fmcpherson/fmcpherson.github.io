@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-19 11:34:15 -0500
 guid: http://frankm.micro.blog/2018/04/19/something-really-bad.html
 ---
