@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-19 20:59:42 -0500
 guid: http://frankm.micro.blog/2018/04/20/all-the-way.html
 ---
