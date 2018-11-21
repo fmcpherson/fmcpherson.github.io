@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-14 11:13:18 -0500
 guid: http://frankm.micro.blog/2018/07/14/remember-when-wimbledon.html
 ---
