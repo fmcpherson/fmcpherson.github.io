@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-24 08:44:31 -0500
 guid: http://frankm.micro.blog/2018/05/24/acer-debuts-four.html
 ---
