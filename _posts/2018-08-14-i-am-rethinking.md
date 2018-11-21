@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-14 11:05:15 -0500
 guid: http://frankm.micro.blog/2018/08/14/i-am-rethinking.html
 ---
