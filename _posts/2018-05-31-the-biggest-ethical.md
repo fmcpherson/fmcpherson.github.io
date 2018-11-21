@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-30 21:47:16 -0500
 guid: http://frankm.micro.blog/2018/05/31/the-biggest-ethical.html
 ---
