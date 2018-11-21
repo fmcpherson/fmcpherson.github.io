@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-20 09:28:08 -0500
 guid: http://frankm.micro.blog/2018/07/20/azure-has-a.html
 ---
