@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-28 14:28:20 -0500
 guid: http://frankm.micro.blog/2018/09/28/liberals-who-are.html
 ---
