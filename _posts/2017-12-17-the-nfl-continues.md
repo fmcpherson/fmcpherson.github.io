@@ -3,6 +3,7 @@ layout: post
 title: "The NFL Continues To Reward Violent Hits "
 microblog: false
 audio: 
+photo: 
 date: 2017-12-17 16:10:43 -0500
 guid: http://frankm.micro.blog/2017/12/17/the-nfl-continues.html
 ---
