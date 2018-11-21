@@ -3,6 +3,7 @@ layout: post
 title: "Traveling Light"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-02 11:08:36 -0500
 guid: http://frankm.micro.blog/2018/11/02/traveling-light.html
 ---
