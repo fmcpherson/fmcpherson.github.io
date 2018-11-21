@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-05 18:02:25 -0500
 guid: http://frankm.micro.blog/2018/02/05/does-anyone-know.html
 ---
