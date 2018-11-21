@@ -3,6 +3,7 @@ layout: post
 title: "Overtime Baseball"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-01 10:12:28 -0500
 guid: http://frankm.micro.blog/2018/10/01/overtime-baseball.html
 ---
