@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 10:07:29 -0500
 guid: http://frankm.micro.blog/2018/07/03/when-i-first.html
 ---
