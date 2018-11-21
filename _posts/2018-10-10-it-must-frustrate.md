@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-09 20:27:13 -0500
 guid: http://frankm.micro.blog/2018/10/10/it-must-frustrate.html
 ---
