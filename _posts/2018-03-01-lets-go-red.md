@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/58f2d62d9d.jpg
 date: 2018-02-28 22:07:52 -0500
 guid: http://frankm.micro.blog/2018/03/01/lets-go-red.html
 ---
