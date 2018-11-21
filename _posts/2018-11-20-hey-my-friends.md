@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-20 09:28:26 -0500
 guid: http://frankm.micro.blog/2018/11/20/hey-my-friends.html
 ---
