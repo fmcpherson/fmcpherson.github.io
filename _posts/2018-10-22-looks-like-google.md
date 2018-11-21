@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-22 14:17:49 -0500
 guid: http://frankm.micro.blog/2018/10/22/looks-like-google.html
 ---
