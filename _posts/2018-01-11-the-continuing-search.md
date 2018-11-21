@@ -3,6 +3,7 @@ layout: post
 title: "The Continuing Search For The Perfect Todo App"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-10 22:44:42 -0500
 guid: http://frankm.micro.blog/2018/01/11/the-continuing-search.html
 ---
