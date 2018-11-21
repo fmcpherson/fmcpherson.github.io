@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-02 09:49:12 -0500
 guid: http://frankm.micro.blog/2018/08/02/ive-been-keeping.html
 ---
