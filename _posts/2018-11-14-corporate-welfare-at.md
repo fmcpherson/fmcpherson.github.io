@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 15:18:20 -0500
 guid: http://frankm.micro.blog/2018/11/14/corporate-welfare-at.html
 ---
