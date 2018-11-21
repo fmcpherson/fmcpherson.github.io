@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-08 10:27:24 -0500
 guid: http://frankm.micro.blog/2018/01/08/looking-at-my.html
 ---
