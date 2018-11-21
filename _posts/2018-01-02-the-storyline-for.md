@@ -3,6 +3,7 @@ layout: post
 title: "The Storyline For Today's GLi Championship"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-02 12:20:57 -0500
 guid: http://frankm.micro.blog/2018/01/02/the-storyline-for.html
 ---
