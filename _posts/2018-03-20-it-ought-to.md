@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-20 08:47:00 -0500
 guid: http://frankm.micro.blog/2018/03/20/it-ought-to.html
 ---
