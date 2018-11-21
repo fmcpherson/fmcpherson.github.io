@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/e70c4bd3df.jpg
 date: 2018-07-14 22:06:45 -0500
 guid: http://frankm.micro.blog/2018/07/15/a-couple-of.html
 ---
