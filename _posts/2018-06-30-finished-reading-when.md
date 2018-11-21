@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-30 14:17:35 -0500
 guid: http://frankm.micro.blog/2018/06/30/finished-reading-when.html
 ---
