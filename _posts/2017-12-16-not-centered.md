@@ -3,6 +3,7 @@ layout: post
 title: "Not Centered "
 microblog: false
 audio: 
+photo: http://frankmcpherson.blog/uploads/2017/2bca1f58a1.jpg
 date: 2017-12-16 15:09:03 -0500
 guid: http://frankm.micro.blog/2017/12/16/not-centered.html
 ---
