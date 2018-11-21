@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-30 14:30:19 -0500
 guid: http://frankm.micro.blog/2018/01/30/i-think-all.html
 ---
