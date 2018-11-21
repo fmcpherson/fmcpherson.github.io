@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-28 22:04:18 -0500
 guid: http://frankm.micro.blog/2018/03/01/lots-of-brits.html
 ---
