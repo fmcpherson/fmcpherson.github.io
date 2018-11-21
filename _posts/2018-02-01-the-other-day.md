@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-01 14:27:36 -0500
 guid: http://frankm.micro.blog/2018/02/01/the-other-day.html
 ---
