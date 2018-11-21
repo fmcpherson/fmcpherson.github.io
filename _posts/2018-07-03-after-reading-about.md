@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 10:38:21 -0500
 guid: http://frankm.micro.blog/2018/07/03/after-reading-about.html
 ---
