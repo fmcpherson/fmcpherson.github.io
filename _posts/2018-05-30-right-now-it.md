@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/ed77d36315.jpg
 date: 2018-05-29 21:44:58 -0500
 guid: http://frankm.micro.blog/2018/05/30/right-now-it.html
 ---
