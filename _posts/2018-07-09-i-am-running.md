@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-09 10:41:32 -0500
 guid: http://frankm.micro.blog/2018/07/09/i-am-running.html
 ---
