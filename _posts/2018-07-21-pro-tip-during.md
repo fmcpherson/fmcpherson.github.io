@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-21 09:30:12 -0500
 guid: http://frankm.micro.blog/2018/07/21/pro-tip-during.html
 ---
