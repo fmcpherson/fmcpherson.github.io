@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-05 15:54:46 -0500
 guid: http://frankm.micro.blog/2018/11/05/after-watching-the.html
 ---
