@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-10 07:49:25 -0500
 guid: http://frankm.micro.blog/2018/10/10/i-am-confused.html
 ---
