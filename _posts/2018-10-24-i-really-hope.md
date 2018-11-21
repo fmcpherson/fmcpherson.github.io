@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-24 08:51:14 -0500
 guid: http://frankm.micro.blog/2018/10/24/i-really-hope.html
 ---
