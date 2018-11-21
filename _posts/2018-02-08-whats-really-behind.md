@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-08 10:28:29 -0500
 guid: http://frankm.micro.blog/2018/02/08/whats-really-behind.html
 ---
