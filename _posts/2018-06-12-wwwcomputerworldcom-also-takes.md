@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-11 21:06:10 -0500
 guid: http://frankm.micro.blog/2018/06/12/wwwcomputerworldcom-also-takes.html
 ---
