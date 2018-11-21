@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-14 13:50:46 -0500
 guid: http://frankm.micro.blog/2018/03/14/the-constant-state.html
 ---
