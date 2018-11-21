@@ -3,6 +3,7 @@ layout: post
 title: "Long Form Writing and Trying Out Netlify"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-30 10:38:04 -0500
 guid: http://frankm.micro.blog/2018/06/30/long-form-writing.html
 ---
