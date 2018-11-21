@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-05 11:43:06 -0500
 guid: http://frankm.micro.blog/2018/11/05/the-pricing-and.html
 ---
