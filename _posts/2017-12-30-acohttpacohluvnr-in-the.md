@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-30 12:23:13 -0500
 guid: http://frankm.micro.blog/2017/12/30/acohttpacohluvnr-in-the.html
 ---
