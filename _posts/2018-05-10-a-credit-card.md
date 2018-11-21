@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-10 11:03:45 -0500
 guid: http://frankm.micro.blog/2018/05/10/a-credit-card.html
 ---
