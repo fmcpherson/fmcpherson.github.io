@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-09 14:18:58 -0500
 guid: http://frankm.micro.blog/2018/09/09/do-the-announcers.html
 ---
