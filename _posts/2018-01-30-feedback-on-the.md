@@ -3,6 +3,7 @@ layout: post
 title: "Feedback On The OmniFocus Roadmap"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-30 13:57:54 -0500
 guid: http://frankm.micro.blog/2018/01/30/feedback-on-the.html
 ---
