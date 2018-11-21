@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-28 11:13:39 -0500
 guid: http://frankm.micro.blog/2018/09/28/of-the-mail.html
 ---
