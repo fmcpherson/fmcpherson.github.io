@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-16 15:41:13 -0500
 guid: http://frankm.micro.blog/2018/11/16/ive-updated-my.html
 ---
