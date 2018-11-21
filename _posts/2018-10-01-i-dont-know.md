@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-01 08:37:22 -0500
 guid: http://frankm.micro.blog/2018/10/01/i-dont-know.html
 ---
