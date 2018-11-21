@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-06 10:14:04 -0500
 guid: http://frankm.micro.blog/2018/07/06/lisa-shearin-is.html
 ---
