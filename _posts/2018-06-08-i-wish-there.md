@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-08 10:10:29 -0500
 guid: http://frankm.micro.blog/2018/06/08/i-wish-there.html
 ---
