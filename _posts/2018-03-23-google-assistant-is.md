@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-23 13:47:35 -0500
 guid: http://frankm.micro.blog/2018/03/23/google-assistant-is.html
 ---
