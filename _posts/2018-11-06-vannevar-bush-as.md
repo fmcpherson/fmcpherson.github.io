@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-06 11:39:15 -0500
 guid: http://frankm.micro.blog/2018/11/06/vannevar-bush-as.html
 ---
