@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-24 08:47:03 -0500
 guid: http://frankm.micro.blog/2018/05/24/i-would-like.html
 ---
