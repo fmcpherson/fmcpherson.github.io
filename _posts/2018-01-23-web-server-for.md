@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-23 15:19:23 -0500
 guid: http://frankm.micro.blog/2018/01/23/web-server-for.html
 ---
