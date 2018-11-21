@@ -3,6 +3,7 @@ layout: post
 title: "SSH Apps On iPad"
 microblog: false
 audio: 
+photo: 
 date: 2017-12-20 15:03:48 -0500
 guid: http://frankm.micro.blog/2017/12/20/ssh-apps-on.html
 ---
