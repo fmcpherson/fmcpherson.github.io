@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-20 20:05:47 -0500
 guid: http://frankm.micro.blog/2018/10/21/counsell-could-be.html
 ---
