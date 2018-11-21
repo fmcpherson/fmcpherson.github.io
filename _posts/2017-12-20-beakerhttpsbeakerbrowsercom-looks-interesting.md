@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-20 10:02:44 -0500
 guid: http://frankm.micro.blog/2017/12/20/beakerhttpsbeakerbrowsercom-looks-interesting.html
 ---
