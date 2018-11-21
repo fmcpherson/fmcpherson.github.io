@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-19 16:58:03 -0500
 guid: http://frankm.micro.blog/2018/11/19/the-appointments-clause.html
 ---
