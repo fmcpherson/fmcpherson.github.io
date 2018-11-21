@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-03 09:09:17 -0500
 guid: http://frankm.micro.blog/2018/08/03/the-am-pretty.html
 ---
