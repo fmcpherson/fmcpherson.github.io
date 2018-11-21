@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-03 12:21:10 -0500
 guid: http://frankm.micro.blog/2018/08/03/a-better-way.html
 ---
