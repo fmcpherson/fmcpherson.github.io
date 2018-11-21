@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2017/e9f560952b.jpg
 date: 2017-12-20 13:29:32 -0500
 guid: http://frankm.micro.blog/2017/12/20/welp-now-one.html
 ---
