@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-25 08:07:15 -0500
 guid: http://frankm.micro.blog/2018/04/25/i-use-amazon.html
 ---
