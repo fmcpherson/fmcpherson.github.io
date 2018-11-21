@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 13:52:01 -0500
 guid: http://frankm.micro.blog/2018/10/30/apple-benefits-from.html
 ---
