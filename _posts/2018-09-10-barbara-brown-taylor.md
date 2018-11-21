@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-10 14:55:46 -0500
 guid: http://frankm.micro.blog/2018/09/10/barbara-brown-taylor.html
 ---
