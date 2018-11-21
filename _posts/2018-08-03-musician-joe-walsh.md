@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-02 22:04:34 -0500
 guid: http://frankm.micro.blog/2018/08/03/musician-joe-walsh.html
 ---
