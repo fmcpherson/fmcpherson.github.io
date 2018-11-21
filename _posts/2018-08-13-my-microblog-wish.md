@@ -3,6 +3,7 @@ layout: post
 title: "My Micro.blog Wish"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-13 17:05:57 -0500
 guid: http://frankm.micro.blog/2018/08/13/my-microblog-wish.html
 ---
