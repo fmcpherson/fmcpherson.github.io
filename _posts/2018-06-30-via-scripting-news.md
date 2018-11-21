@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-30 11:03:56 -0500
 guid: http://frankm.micro.blog/2018/06/30/via-scripting-news.html
 ---
