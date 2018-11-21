@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-11 21:09:37 -0500
 guid: http://frankm.micro.blog/2018/04/12/google-plans-some.html
 ---
