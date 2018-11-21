@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-18 09:25:47 -0500
 guid: http://frankm.micro.blog/2017/12/18/la-times-america.html
 ---
