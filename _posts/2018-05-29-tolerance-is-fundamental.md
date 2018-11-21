@@ -3,6 +3,7 @@ layout: post
 title: "Tolerance Is Fundamental To Freedom"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-29 11:53:21 -0500
 guid: http://frankm.micro.blog/2018/05/29/tolerance-is-fundamental.html
 ---
