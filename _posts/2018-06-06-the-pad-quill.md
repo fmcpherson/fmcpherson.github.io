@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-06 12:27:54 -0500
 guid: http://frankm.micro.blog/2018/06/06/the-pad-quill.html
 ---
