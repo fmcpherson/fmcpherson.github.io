@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-07 12:25:50 -0500
 guid: http://frankm.micro.blog/2018/08/07/there-are-some.html
 ---
