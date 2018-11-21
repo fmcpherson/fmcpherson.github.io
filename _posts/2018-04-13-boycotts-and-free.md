@@ -3,6 +3,7 @@ layout: post
 title: "Boycotts and Free Speech "
 microblog: false
 audio: 
+photo: 
 date: 2018-04-13 09:59:50 -0500
 guid: http://frankm.micro.blog/2018/04/13/boycotts-and-free.html
 ---
