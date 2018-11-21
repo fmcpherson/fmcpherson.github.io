@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-08 15:47:32 -0500
 guid: http://frankm.micro.blog/2018/10/08/mother-jones-the.html
 ---
