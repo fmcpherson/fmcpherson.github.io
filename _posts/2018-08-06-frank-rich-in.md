@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-06 08:46:24 -0500
 guid: http://frankm.micro.blog/2018/08/06/frank-rich-in.html
 ---
