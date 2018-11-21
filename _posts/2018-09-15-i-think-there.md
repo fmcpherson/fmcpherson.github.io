@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-15 17:10:31 -0500
 guid: http://frankm.micro.blog/2018/09/15/i-think-there.html
 ---
