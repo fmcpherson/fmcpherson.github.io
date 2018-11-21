@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-01 13:19:26 -0500
 guid: http://frankm.micro.blog/2018/07/01/artshowscriptingcom-what-art.html
 ---
