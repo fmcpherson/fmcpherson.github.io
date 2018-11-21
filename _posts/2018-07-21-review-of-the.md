@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-21 16:14:00 -0500
 guid: http://frankm.micro.blog/2018/07/21/review-of-the.html
 ---
