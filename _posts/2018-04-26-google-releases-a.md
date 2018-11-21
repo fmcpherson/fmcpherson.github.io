@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-25 19:05:09 -0500
 guid: http://frankm.micro.blog/2018/04/26/google-releases-a.html
 ---
