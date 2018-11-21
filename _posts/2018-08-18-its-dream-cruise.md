@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/e7585136a5.jpg
 date: 2018-08-18 13:58:33 -0500
 guid: http://frankm.micro.blog/2018/08/18/its-dream-cruise.html
 ---
