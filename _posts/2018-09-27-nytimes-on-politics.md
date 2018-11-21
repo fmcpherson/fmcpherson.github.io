@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 21:07:24 -0500
 guid: http://frankm.micro.blog/2018/09/27/nytimes-on-politics.html
 ---
