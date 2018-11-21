@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 17:05:26 -0500
 guid: http://frankm.micro.blog/2018/09/06/the-anonymous-new.html
 ---
