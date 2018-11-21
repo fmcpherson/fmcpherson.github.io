@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 15:08:22 -0500
 guid: http://frankm.micro.blog/2018/09/14/dana-blankenhorn-moores.html
 ---
