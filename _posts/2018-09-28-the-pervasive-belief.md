@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-27 20:59:59 -0500
 guid: http://frankm.micro.blog/2018/09/28/the-pervasive-belief.html
 ---
