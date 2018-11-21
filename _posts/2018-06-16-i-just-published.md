@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-16 14:37:11 -0500
 guid: http://frankm.micro.blog/2018/06/16/i-just-published.html
 ---
