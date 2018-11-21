@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-08 19:25:28 -0500
 guid: http://frankm.micro.blog/2018/01/09/radarscope-is-coming.html
 ---
