@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-23 19:33:15 -0500
 guid: http://frankm.micro.blog/2018/04/24/really-disappointing-that.html
 ---
