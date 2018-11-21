@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 12:59:30 -0500
 guid: http://frankm.micro.blog/2018/07/03/what-do-you.html
 ---
