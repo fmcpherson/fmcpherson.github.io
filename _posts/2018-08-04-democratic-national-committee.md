@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-04 11:08:53 -0500
 guid: http://frankm.micro.blog/2018/08/04/democratic-national-committee.html
 ---
