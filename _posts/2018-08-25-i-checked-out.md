@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-24 21:52:50 -0500
 guid: http://frankm.micro.blog/2018/08/25/i-checked-out.html
 ---
