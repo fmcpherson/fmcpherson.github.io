@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-16 10:05:43 -0500
 guid: http://frankm.micro.blog/2018/04/16/it-is-really.html
 ---
