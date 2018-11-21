@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-07 12:05:10 -0500
 guid: http://frankm.micro.blog/2018/01/07/acohttpacoftuvc-until-the.html
 ---
