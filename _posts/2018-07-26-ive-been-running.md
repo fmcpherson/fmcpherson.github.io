@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-26 16:33:21 -0500
 guid: http://frankm.micro.blog/2018/07/26/ive-been-running.html
 ---
