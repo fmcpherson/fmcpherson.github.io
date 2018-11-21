@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-04 18:59:10 -0500
 guid: http://frankm.micro.blog/2017/12/04/hello-world-you.html
 ---
