@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-16 17:11:17 -0500
 guid: http://frankm.micro.blog/2018/11/16/the-academy-is.html
 ---
