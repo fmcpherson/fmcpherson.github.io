@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-22 09:18:07 -0500
 guid: http://frankm.micro.blog/2018/08/22/i-took-pictures.html
 ---
