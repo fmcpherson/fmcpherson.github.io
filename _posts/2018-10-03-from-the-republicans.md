@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-03 10:13:04 -0500
 guid: http://frankm.micro.blog/2018/10/03/from-the-republicans.html
 ---
