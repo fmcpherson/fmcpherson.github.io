@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-15 11:15:39 -0500
 guid: http://frankm.micro.blog/2018/10/15/how-much-screen.html
 ---
