@@ -3,6 +3,7 @@ layout: post
 title: "Carnival In Da Moonlight"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-08 17:10:53 -0500
 guid: http://frankm.micro.blog/2018/02/08/carnival-in-da.html
 ---
