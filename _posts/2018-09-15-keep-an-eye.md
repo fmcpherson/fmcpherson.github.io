@@ -3,6 +3,7 @@ layout: post
 title: "Keep An Eye On The Watch"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-15 16:55:34 -0500
 guid: http://frankm.micro.blog/2018/09/15/keep-an-eye.html
 ---
