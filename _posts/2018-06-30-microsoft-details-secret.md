@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-30 14:35:37 -0500
 guid: http://frankm.micro.blog/2018/06/30/microsoft-details-secret.html
 ---
