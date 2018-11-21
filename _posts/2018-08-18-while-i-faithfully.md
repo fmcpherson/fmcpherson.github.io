@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-18 14:54:38 -0500
 guid: http://frankm.micro.blog/2018/08/18/while-i-faithfully.html
 ---
