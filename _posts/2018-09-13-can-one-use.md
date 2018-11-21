@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 16:05:24 -0500
 guid: http://frankm.micro.blog/2018/09/13/can-one-use.html
 ---
