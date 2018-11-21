@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-21 13:27:20 -0500
 guid: http://frankm.micro.blog/2018/03/21/to-those-who.html
 ---
