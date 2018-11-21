@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-21 11:46:16 -0500
 guid: http://frankm.micro.blog/2017/12/21/i-am-anxious.html
 ---
