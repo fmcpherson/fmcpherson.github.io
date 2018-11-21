@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-06 09:01:08 -0500
 guid: http://frankm.micro.blog/2018/08/06/i-thought-this.html
 ---
