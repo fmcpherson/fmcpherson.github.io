@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-22 14:25:10 -0500
 guid: http://frankm.micro.blog/2018/09/22/patagonia-is-giving.html
 ---
