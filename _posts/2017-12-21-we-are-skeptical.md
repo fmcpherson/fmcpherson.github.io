@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-21 13:14:51 -0500
 guid: http://frankm.micro.blog/2017/12/21/we-are-skeptical.html
 ---
