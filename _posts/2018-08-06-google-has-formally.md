@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-06 15:38:10 -0500
 guid: http://frankm.micro.blog/2018/08/06/google-has-formally.html
 ---
