@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-07 20:58:12 -0500
 guid: http://frankm.micro.blog/2018/05/08/wojo-pga-tours.html
 ---
