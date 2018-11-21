@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-08 20:39:06 -0500
 guid: http://frankm.micro.blog/2017/12/09/i-am-testng.html
 ---
