@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-15 10:59:43 -0500
 guid: http://frankm.micro.blog/2018/10/15/there-is-established.html
 ---
