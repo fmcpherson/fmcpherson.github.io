@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 10:54:17 -0500
 guid: http://frankm.micro.blog/2018/10/30/my-notes-from.html
 ---
