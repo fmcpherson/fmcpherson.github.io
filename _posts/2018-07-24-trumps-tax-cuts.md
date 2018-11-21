@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-24 09:42:22 -0500
 guid: http://frankm.micro.blog/2018/07/24/trumps-tax-cuts.html
 ---
