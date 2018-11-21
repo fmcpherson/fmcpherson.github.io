@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-29 09:46:09 -0500
 guid: http://frankm.micro.blog/2018/01/29/recent-books-that.html
 ---
