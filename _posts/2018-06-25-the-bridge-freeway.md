@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-25 07:44:14 -0500
 guid: http://frankm.micro.blog/2018/06/25/the-bridge-freeway.html
 ---
