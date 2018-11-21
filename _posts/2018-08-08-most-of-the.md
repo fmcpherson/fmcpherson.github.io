@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-08 15:30:20 -0500
 guid: http://frankm.micro.blog/2018/08/08/most-of-the.html
 ---
