@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-03 17:01:16 -0500
 guid: http://frankm.micro.blog/2018/03/03/standard-notes-a.html
 ---
