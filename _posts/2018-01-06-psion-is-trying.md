@@ -3,6 +3,7 @@ layout: post
 title: "Psion Is Trying To Make A Comeback"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-06 14:42:49 -0500
 guid: http://frankm.micro.blog/2018/01/06/psion-is-trying.html
 ---
