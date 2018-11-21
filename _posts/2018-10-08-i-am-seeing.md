@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-08 09:18:14 -0500
 guid: http://frankm.micro.blog/2018/10/08/i-am-seeing.html
 ---
