@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-02 10:09:12 -0500
 guid: http://frankm.micro.blog/2018/11/02/i-am-trying.html
 ---
