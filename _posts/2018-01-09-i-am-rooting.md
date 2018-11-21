@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-08 19:15:51 -0500
 guid: http://frankm.micro.blog/2018/01/09/i-am-rooting.html
 ---
