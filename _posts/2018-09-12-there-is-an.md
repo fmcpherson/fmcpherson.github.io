@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-12 07:55:12 -0500
 guid: http://frankm.micro.blog/2018/09/12/there-is-an.html
 ---
