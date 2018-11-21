@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-23 13:56:48 -0500
 guid: http://frankm.micro.blog/2017/12/23/scriptingcomhttpscriptingcomhtmla-ask-why.html
 ---
