@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-07 10:50:39 -0500
 guid: http://frankm.micro.blog/2018/09/07/incompetency-is-the.html
 ---
