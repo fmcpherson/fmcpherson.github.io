@@ -3,6 +3,7 @@ layout: post
 title: "Blogging Since 1999"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-30 17:30:04 -0500
 guid: http://frankm.micro.blog/2018/06/30/blogging-since.html
 ---
