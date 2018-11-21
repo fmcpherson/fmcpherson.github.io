@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-12 14:31:38 -0500
 guid: http://frankm.micro.blog/2018/10/12/handson-with-googles.html
 ---
