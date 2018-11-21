@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 17:43:31 -0500
 guid: http://frankm.micro.blog/2018/11/09/this-week-i.html
 ---
