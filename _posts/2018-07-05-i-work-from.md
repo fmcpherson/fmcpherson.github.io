@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-05 16:26:55 -0500
 guid: http://frankm.micro.blog/2018/07/05/i-work-from.html
 ---
