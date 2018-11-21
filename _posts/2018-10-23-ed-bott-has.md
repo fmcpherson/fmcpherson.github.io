@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-23 12:47:49 -0500
 guid: http://frankm.micro.blog/2018/10/23/ed-bott-has.html
 ---
