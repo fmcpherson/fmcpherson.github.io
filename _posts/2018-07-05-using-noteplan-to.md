@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-05 14:33:33 -0500
 guid: http://frankm.micro.blog/2018/07/05/using-noteplan-to.html
 ---
