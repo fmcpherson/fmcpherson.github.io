@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 15:30:17 -0500
 guid: http://frankm.micro.blog/2018/09/14/ive-factory-reset.html
 ---
