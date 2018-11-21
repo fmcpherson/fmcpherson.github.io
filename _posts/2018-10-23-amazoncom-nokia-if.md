@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-22 20:13:16 -0500
 guid: http://frankm.micro.blog/2018/10/23/amazoncom-nokia-if.html
 ---
