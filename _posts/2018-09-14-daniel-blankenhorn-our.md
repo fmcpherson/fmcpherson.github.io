@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 15:04:32 -0500
 guid: http://frankm.micro.blog/2018/09/14/daniel-blankenhorn-our.html
 ---
