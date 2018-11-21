@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-03 16:31:35 -0500
 guid: http://frankm.micro.blog/2018/03/03/martin-kool-how.html
 ---
