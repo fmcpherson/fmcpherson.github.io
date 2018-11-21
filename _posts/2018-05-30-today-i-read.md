@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-29 21:12:51 -0500
 guid: http://frankm.micro.blog/2018/05/30/today-i-read.html
 ---
