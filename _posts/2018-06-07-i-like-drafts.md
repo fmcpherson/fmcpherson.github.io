@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-07 09:33:00 -0500
 guid: http://frankm.micro.blog/2018/06/07/i-like-drafts.html
 ---
