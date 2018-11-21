@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-15 10:03:40 -0500
 guid: http://frankm.micro.blog/2018/09/15/yesterday-i-did.html
 ---
