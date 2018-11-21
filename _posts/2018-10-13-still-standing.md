@@ -3,6 +3,7 @@ layout: post
 title: "Still Standing"
 microblog: false
 audio: 
+photo: http://frankmcpherson.blog/uploads/2018/06bb8f467c.jpg
 date: 2018-10-13 11:09:06 -0500
 guid: http://frankm.micro.blog/2018/10/13/still-standing.html
 ---
