@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-05 15:38:56 -0500
 guid: http://frankm.micro.blog/2018/07/05/microblog-has-a.html
 ---
