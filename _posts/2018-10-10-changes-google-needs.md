@@ -3,6 +3,7 @@ layout: post
 title: "Changes Google Needs To Make"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-10 08:46:35 -0500
 guid: http://frankm.micro.blog/2018/10/10/changes-google-needs.html
 ---
