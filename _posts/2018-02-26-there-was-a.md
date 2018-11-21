@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-26 18:11:30 -0500
 guid: http://frankm.micro.blog/2018/02/26/there-was-a.html
 ---
