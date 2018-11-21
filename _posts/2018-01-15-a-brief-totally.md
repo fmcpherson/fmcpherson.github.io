@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-15 18:01:44 -0500
 guid: http://frankm.micro.blog/2018/01/15/a-brief-totally.html
 ---
