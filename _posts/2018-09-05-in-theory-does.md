@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 08:24:33 -0500
 guid: http://frankm.micro.blog/2018/09/05/in-theory-does.html
 ---
