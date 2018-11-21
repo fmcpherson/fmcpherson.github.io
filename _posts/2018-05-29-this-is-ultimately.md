@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-29 10:29:12 -0500
 guid: http://frankm.micro.blog/2018/05/29/this-is-ultimately.html
 ---
