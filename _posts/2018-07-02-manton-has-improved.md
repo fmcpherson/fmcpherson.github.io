@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 10:50:52 -0500
 guid: http://frankm.micro.blog/2018/07/02/manton-has-improved.html
 ---
