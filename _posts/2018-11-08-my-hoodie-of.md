@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-08 15:08:39 -0500
 guid: http://frankm.micro.blog/2018/11/08/my-hoodie-of.html
 ---
