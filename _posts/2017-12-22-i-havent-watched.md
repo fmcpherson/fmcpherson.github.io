@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-22 15:41:48 -0500
 guid: http://frankm.micro.blog/2017/12/22/i-havent-watched.html
 ---
