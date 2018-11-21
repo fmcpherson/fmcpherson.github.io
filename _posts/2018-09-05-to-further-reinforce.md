@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 10:56:18 -0500
 guid: http://frankm.micro.blog/2018/09/05/to-further-reinforce.html
 ---
