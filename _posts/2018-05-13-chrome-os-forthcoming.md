@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-13 12:05:00 -0500
 guid: http://frankm.micro.blog/2018/05/13/chrome-os-forthcoming.html
 ---
