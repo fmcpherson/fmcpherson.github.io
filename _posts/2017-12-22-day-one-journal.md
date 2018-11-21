@@ -3,6 +3,7 @@ layout: post
 title: "Day One Journal"
 microblog: false
 audio: 
+photo: 
 date: 2017-12-22 16:06:44 -0500
 guid: http://frankm.micro.blog/2017/12/22/day-one-journal.html
 ---
