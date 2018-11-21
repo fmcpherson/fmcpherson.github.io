@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-08 21:11:45 -0500
 guid: http://frankm.micro.blog/2018/11/09/highlights-from-what.html
 ---
