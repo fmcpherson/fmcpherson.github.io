@@ -3,6 +3,7 @@ layout: post
 title: "The Right To Not Be Forgotten"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-10 15:51:56 -0500
 guid: http://frankm.micro.blog/2018/09/10/dave-winer-has.html
 ---
