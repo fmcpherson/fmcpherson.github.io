@@ -3,6 +3,7 @@ layout: post
 title: "My Definition Of A Tablet"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-11 14:23:17 -0500
 guid: http://frankm.micro.blog/2018/10/11/my-definition-of.html
 ---
