@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-16 08:16:56 -0500
 guid: http://frankm.micro.blog/2018/08/16/universal-method-to.html
 ---
