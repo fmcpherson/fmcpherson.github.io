@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-14 11:42:21 -0500
 guid: http://frankm.micro.blog/2018/08/14/most-political-decisions.html
 ---
