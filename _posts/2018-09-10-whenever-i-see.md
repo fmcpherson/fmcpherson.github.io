@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-10 12:24:48 -0500
 guid: http://frankm.micro.blog/2018/09/10/whenever-i-see.html
 ---
