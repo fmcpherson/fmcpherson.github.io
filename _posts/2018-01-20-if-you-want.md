@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-20 10:37:01 -0500
 guid: http://frankm.micro.blog/2018/01/20/if-you-want.html
 ---
