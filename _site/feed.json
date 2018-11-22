@@ -7,6 +7,70 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/22/exploding-stars-make.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>Exploding Stars Make Key Ingredient Found in Glass</td>\n      <td>NASA</td>\n    </tr>\n  </tbody>\n</table>\n\n<blockquote>\n  <p>We are all, quite literally, made of star dust. Many of the chemicals that compose our planet and our bodies were formed directly by stars.</p>\n</blockquote>\n\n<table>\n  <tbody>\n    <tr>\n      <td>Source: [Exploding Stars Make Key Ingredient Found in Glass</td>\n      <td>NASA](https://www.nasa.gov/image-feature/exploding-stars-make-key-ingredient-found-in-glass)</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2018-11-21T21:11:39-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/21/exploding-stars-make.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/21/slashgear-fun-fact.html",
+	      	
+			"content_html": "<p><a href=\"https://www.slashgear.com/why-wombat-poop-is-cubed-study-wow-weird-science-21554858/\">Slashgear</a>:</p>\n<blockquote>\n  <p>FUN FACT: Wombats are the only known species “capable of producing cubes organically.”</p>\n</blockquote>\n\n<p>Popular Mechanics <a href=\"https://www.popularmechanics.com/science/a25243592/wombat-square-poop/\">has all the facts</a>.</p>\n",
+			"date_published": "2018-11-21T17:09:50-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/21/slashgear-fun-fact.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/21/the-worst-part.html",
+	      	
+			"content_html": "<p>The worst part about having a cold is how it. just. lingers.</p>\n",
+			"date_published": "2018-11-21T16:37:29-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/21/the-worst-part.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/21/according-to-nomorobo.html",
+	      	
+			"content_html": "<p>According to Nomorobo 92% of the calls to my mobile number are from robo calls.</p>\n",
+			"date_published": "2018-11-21T12:55:42-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/21/according-to-nomorobo.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/21/jordan-valinsky-black.html",
+	      	
+			"content_html": "<p>Jordan Valinsky,</p>\n\n<blockquote>\n  <p>Black Friday started in the 1950s in Philadelphia.</p>\n</blockquote>\n\n<p>Source: <a href=\"https://www.cnn.com/2018/11/21/business/black-friday-history/index.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29\">History of Black Friday - CNN</a></p>\n",
+			"date_published": "2018-11-21T11:20:25-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/21/jordan-valinsky-black.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/21/on-my-microblog.html",
+	      	
+			"content_html": "<p>On my micro.blog wish list is the ability to embed images inline with text <a href=\"http://scripting.com/2018/11/20.html#a135741\">like Dave does on Scripting News</a>.  Perhaps there is a markdown way that I do not know of?</p>\n",
+			"date_published": "2018-11-20T19:24:24-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/20/on-my-microblog.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/21/i-have-created.html",
+	      	
+			"content_html": "<p>I have created <a href=\"http://instantoutliner.com/b4\">a knowledge base outline</a> about Crostini containers in anticipation of the arrival of my new Chromebook.</p>\n",
+			"date_published": "2018-11-20T19:21:24-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/20/i-have-created.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/11/20/i-dont-listen.html",
+	      	
+			"content_html": "<p>I don’t listen to podcasts since I stopped commuting to work. I do watch <a href=\"https://twit.tv/shows?shows_active=1\">TWiT shows</a> during my lunch breaks. When I walk I prefer to keep my ears unplugged so that I can hear nature and my surroundings.</p>\n",
+			"date_published": "2018-11-20T16:26:02-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/20/i-dont-listen.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/20/hey-my-friends.html",
 	      	
 			"content_html": "<p>Hey my friends who grew up in the ’80s, here is <a href=\"https://www.flickr.com/photos/chrisglass/sets/72157701463879181\">the 1981 Sears Wish Book</a> to bring back some memories!</p>\n",
@@ -140,70 +204,6 @@
 			"content_html": "<p>I’m watching the <a href=\"https://twit.tv/shows/all-about-android\">All About Android podcast</a> in which they are talking about the <a href=\"https://www.theverge.com/2018/11/7/18072514/samsung-foldable-phone-screen-features-photos-sdc-2018\">Samsung foldable screen</a> and they’re talking about it in terms of a foldable phone. I wonder whether we should really be thinking about this as a foldable tablet rather than phone?</p>\n",
 			"date_published": "2018-11-14T18:35:10-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/14/im-watching-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/14/corporate-welfare-at.html",
-	      	
-			"content_html": "<p><a href=\"https://www.fastcompany.com/90267287/here-are-the-most-infuriating-details-of-amazons-hq2-deals\">Corporate welfare</a> at its finest. The true overlords of the United States. And the overlords will use the money taxpayers provide to pay off politicians who support them over the taxpayers. (see Citizens United)</p>\n",
-			"date_published": "2018-11-14T15:18:20-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/14/corporate-welfare-at.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/14/google-is-adding.html",
-	      	
-			"content_html": "<p>Google is adding <a href=\"https://9to5google.com/2018/11/14/google-clock-assistant-routines/\">the Android clock as a trigger for Assistant Routines</a>. I like the idea of the alarm triggering a routine, but I don’t have a set alarm every day and actually use a routine to set my alarm each night, so I wonder how that will work.</p>\n",
-			"date_published": "2018-11-14T09:38:27-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/14/google-is-adding.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/14/the-oath-of.html",
-	      	
-			"content_html": "<p><a href=\"http://americanhistory.si.edu/presidency/1b2.html\">The Oath of Office</a> of the President of the United States:</p>\n\n<blockquote>\n  <p>I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.</p>\n</blockquote>\n\n<p>At some point soon we may all need to decide what is more important, preserving, protecting, and defending the Constitution of the United States or keeping our party in office.</p>\n\n<p>As citizens of the United States this is our oath too, not just the oath of those whom we elect.</p>\n",
-			"date_published": "2018-11-14T08:31:37-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/14/the-oath-of.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/13/ack-just-saw.html",
-	      	
-			"content_html": "<p>Ack! Just saw that <a href=\"https://appsonthemove.com/blog/2018/11/12/discontinuingtrunknotes/\">the developer of TrunkNotes threw in the towel</a> yesterday. Sigh.</p>\n",
-			"date_published": "2018-11-13T16:04:18-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/13/ack-just-saw.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/13/205017.html",
-	      	
-			"content_html": "<p>One of the more interesting, to me, features of <a href=\"https://www.trunknotes.com/\">TrunkNotes</a> is the WiFi sharing that basically turns my iPad into a server.</p>\n",
-			"date_published": "2018-11-13T15:50:17-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/13/205017.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/13/what-an-amazing.html",
-	      	
-			"content_html": "<p>What <a href=\"https://photos.desparoz.com/Travel/New-Zealand-2018/i-x5F3D2m/A\">an amazing picture</a>!</p>\n",
-			"date_published": "2018-11-13T15:40:58-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/13/what-an-amazing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/12/news-about-the.html",
-	      	
-			"content_html": "<p>News about <a href=\"https://chromeunboxed.com/grab-a-pixelbook-for-699-on-black-friday-and-score-3-months-of-youtube-tv/\">the Black Friday sale on the Google Pixelbook</a> has me reconsidering <a href=\"https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html\">my plan</a> to buy a new Chromebook.</p>\n\n<p>While the Lenovo and HP Chromebooks that I have been looking at have an 8th generation Intel processor, the Pixelbook is an overall better machine and I imagine its 7th generation Intel processor will server me equally well.  On the other hand, that U processor in the Lenovo is definitely better performing that the Y processor, which Apple choose for the new Macbook Air.</p>\n\n<p>I had not considered the Pixelbook due to normal $999 price. The sale price is in line with the version of the Lenovo C630 I am considering. Food for thought, does anyone have advice on which one to go with?</p>\n",
-			"date_published": "2018-11-12T17:48:25-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/12/news-about-the.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/12/i-was-on.html",
-	      	
-			"content_html": "<p>I was on <a href=\"https://mobiletoday.podbean.com/e/mobileviews-podcast-275-10-year-retrospective/\">the MobileViews Podcast</a> this past weekend, and I talked about Google’s operating systems and commented on how few new operating systems came it to market during the ten years of the podcast.. Chrome OS, first released in 2011, is the newest I’ve used, and even that can be debated because it uses a Linux Kernel.</p>\n\n<p>According to my past weblog posts, <a href=\"https://fjmnotes.com/2009/01/10/giving-palm-its-just-due/\">WebOS may be the newest</a> prior to Chrome OS. Android and iOS already existed for a few years.</p>\n\n<p>This is why I am so intrigued by Google’s work on <a href=\"https://en.wikipedia.org/wiki/Google_Fuchsia\">Fuchsia</a>.</p>\n",
-			"date_published": "2018-11-12T09:44:37-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/12/i-was-on.html"
 		}
 		
 	]
