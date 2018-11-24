@@ -7,9 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/24/ive-decided-to.html",
+	      	
+			"content_html": "<p>I’ve decided to buy the Google Pixelbook and I’ve updated <a href=\"https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html\">the article I original wrote</a> about my plan with how I came to this decision. Consider this a long form version of narrating my work.</p>\n",
+			"date_published": "2018-11-23T23:06:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/23/ive-decided-to.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/22/exploding-stars-make.html",
 	      	
-			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>Exploding Stars Make Key Ingredient Found in Glass</td>\n      <td>NASA</td>\n    </tr>\n  </tbody>\n</table>\n\n<blockquote>\n  <p>We are all, quite literally, made of star dust. Many of the chemicals that compose our planet and our bodies were formed directly by stars.</p>\n</blockquote>\n\n<table>\n  <tbody>\n    <tr>\n      <td>Source: [Exploding Stars Make Key Ingredient Found in Glass</td>\n      <td>NASA](https://www.nasa.gov/image-feature/exploding-stars-make-key-ingredient-found-in-glass)</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"content_html": "<p>Exploding Stars Make Key Ingredient Found in Glass by NASA</p>\n\n<blockquote>\n  <p>We are all, quite literally, made of star dust. Many of the chemicals that compose our planet and our bodies were formed directly by stars.</p>\n</blockquote>\n\n<p>Source: <a href=\"https://www.nasa.gov/image-feature/exploding-stars-make-key-ingredient-found-in-glass\">Exploding Stars Make Key Ingredient Found in Glass</a></p>\n",
 			"date_published": "2018-11-21T21:11:39-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/21/exploding-stars-make.html"
 		},
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://www.manton.org/2018/11/14/activitypub-for-your.html\">Manton Reece - ActivityPub for your blog</a></p>\n\n<p>I am @frankm@frankmcpherson.blog on Mastodon. Not sure what that means.</p>\n",
 			"date_published": "2018-11-14T21:54:58-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/14/manton-reece-activitypub.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/14/im-watching-the.html",
-	      	
-			"content_html": "<p>I’m watching the <a href=\"https://twit.tv/shows/all-about-android\">All About Android podcast</a> in which they are talking about the <a href=\"https://www.theverge.com/2018/11/7/18072514/samsung-foldable-phone-screen-features-photos-sdc-2018\">Samsung foldable screen</a> and they’re talking about it in terms of a foldable phone. I wonder whether we should really be thinking about this as a foldable tablet rather than phone?</p>\n",
-			"date_published": "2018-11-14T18:35:10-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/14/im-watching-the.html"
 		}
 		
 	]
