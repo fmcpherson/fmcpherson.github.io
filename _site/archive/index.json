@@ -7,9 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/11/24/ive-decided-to.html",
+	      	
+			"content_text": "I’ve decided to buy the Google Pixelbook and I’ve updated...",
+			"date_published": "2018-11-23T23:06:00-05:00",
+			"url": "https://frankmcpherson.blog/2018/11/23/ive-decided-to.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/11/22/exploding-stars-make.html",
 	      	
-			"content_text": "Exploding Stars Make Key Ingredient Found in Glass NASA We...",
+			"content_text": "Exploding Stars Make Key Ingredient Found in Glass by NASA...",
 			"date_published": "2018-11-21T21:11:39-05:00",
 			"url": "https://frankmcpherson.blog/2018/11/21/exploding-stars-make.html"
 		},
