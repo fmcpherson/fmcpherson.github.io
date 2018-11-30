@@ -4,8 +4,48 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Wed, 28 Nov 2018 09:53:11 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Nov 2018 09:53:11 -0500</lastBuildDate>
+    <pubDate>Fri, 30 Nov 2018 18:05:58 -0500</pubDate>
+    <lastBuildDate>Fri, 30 Nov 2018 18:05:58 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve updated &lt;a href=&quot;https://writing.frankmcpherson.net/computers/2018/11/25/google-pixelbook.html&quot;&gt;my Pixelbook page&lt;/a&gt; with a section about running Android and Linux apps.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Nov 2018 18:05:29 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/30/230529.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/30/230529.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;One annoying thing about running Android apps on the Pixelbook is caused by weather apps that continually display a notification and thus the Pixelbook always show that I have one notification to display. There should be a setting to tell Chrome OS to not count these apps for the notification count.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Nov 2018 17:30:35 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/29/one-annoying-thing.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/29/one-annoying-thing.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Are comments about fingerprints really germane to tech reviews?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Nov 2018 17:05:28 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/29/are-comments-about.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/29/are-comments-about.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://support.google.com/wearos/thread/639702?hl=en&quot;&gt;Wear OS H Update Problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wear OS Update H installed on my watch two days ago. There appears to be a problem recovering from the new “deep sleep” / suspend mode. At intermittent times the watch appears to be unresponsive, basically it looks as though it is frozen after I attempt to wake it by either moving my arm, tapping the screen or pressing the crown. Eventually it does come back/recover, which leads me to suspect the watch has gone in to suspend/deep sleep and takes a long time to resume. I appreciate the idea of saving battery life by going into such a state, but the watch needs to recover much faster as right now it is a horrible user experience. Is anyone else seeing this? Is this a known problem with a fix in progress, or is there a way to disable this “feature?”&lt;/p&gt;
+
+&lt;p&gt;I started to notice this behavior yesterday. I’ve restarted the watch in hopes that might resolve. My fear is that this is a processor issue causing this watch to not be able to resume from this form of suspend fast enough.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Nov 2018 10:31:57 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/28/wear-os-h.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/28/wear-os-h.html</guid>
+      </item>
     
       <item>
       	
@@ -218,42 +258,6 @@
         <pubDate>Tue, 20 Nov 2018 16:26:02 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/11/20/i-dont-listen.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/11/20/i-dont-listen.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Hey my friends who grew up in the ’80s, here is &lt;a href=&quot;https://www.flickr.com/photos/chrisglass/sets/72157701463879181&quot;&gt;the 1981 Sears Wish Book&lt;/a&gt; to bring back some memories!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Nov 2018 09:28:26 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/20/hey-my-friends.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/20/hey-my-friends.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Rams and Chiefs offense appear to be playing at a whole other level than the rest of the league. 🏈&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Nov 2018 21:01:55 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/19/rams-and-chiefs.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/20/rams-and-chiefs.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Appointments_Clause&quot;&gt;The Appointments Clause&lt;/a&gt;, Article II, Section 2, Clause 2 of the United States Constitution. The Oath of the POTUS is in &lt;a href=&quot;https://www.law.cornell.edu/constitution/articleii&quot;&gt;Article II, Section 1&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Nov 2018 16:58:03 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/19/the-appointments-clause.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/19/the-appointments-clause.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;One thing I truly believe, you cannot go forward by going backward.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Nov 2018 12:23:45 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/19/172345.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/19/172345.html</guid>
       </item>
     
   </channel>
