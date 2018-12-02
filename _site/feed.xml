@@ -4,8 +4,40 @@
     <title>Frank McPherson's Web Notes</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/frankm&quot;&gt;@frankm on Micro.blog&lt;/a&gt;.</description>
     <link>https://frankmcpherson.blog/</link>
-    <pubDate>Fri, 30 Nov 2018 18:05:58 -0500</pubDate>
-    <lastBuildDate>Fri, 30 Nov 2018 18:05:58 -0500</lastBuildDate>
+    <pubDate>Sat, 01 Dec 2018 19:27:15 -0500</pubDate>
+    <lastBuildDate>Sat, 01 Dec 2018 19:27:15 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Is streaming three different games on three screens at the same too much? Asking for a friend.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Dec 2018 19:22:43 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/12/01/is-streaming-three.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/12/02/is-streaming-three.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Planting A Garden</title>
+        
+        <description>&lt;p&gt;A few weeks ago I read &lt;a href=&quot;https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/&quot;&gt;The Garden and the Stream: A Technopastoral&lt;/a&gt; by Mike Caulfield and it really resonated with me. In my mind almost all of what I write on the web is part of my own garden, even though I do that writing using blogging tools that are more stream than garden.&lt;/p&gt;
+
+&lt;p&gt;One thing that I would add to idea of a garden or stream is structure. I personally like drilling down into a topic, which is why ever since I first experienced hyperlinks and the web it clicked. My affinity toward structure is also why I find outlines appealing.&lt;/p&gt;
+
+&lt;p&gt;Chronology (reverse), archives, and permalinks are structures of blogs that I think distinguish it technologically from “regular” web sites. The informal personal voice of blogs is what distinguishes the blog writing style from other writing styles you see on the web.&lt;/p&gt;
+
+&lt;p&gt;And yet, blogs writing is also point in time. One writes a blog post, it enters the stream, and beyond perhaps that first day one rarely, if ever, edits or adds to a blog post.&lt;/p&gt;
+
+&lt;p&gt;The ongoing revision of a piece of writing is fundamentally what I think Caulfield means by “the garden.” With that paradigm, I created two “projects”, the first being a web page in which I originally wrote about &lt;a href=&quot;https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html&quot;&gt;which Chromebook I was going to buy&lt;/a&gt; and then continually revised that page as I learned more up until I made my decision. The second project is a new page in which I am recording &lt;a href=&quot;https://writing.frankmcpherson.net/computers/2018/11/25/google-pixelbook.html&quot;&gt;my experience with using the Pixelbook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In both instances I created and maintained those pages using jekyll and offline tools like Drafts and Typora, which I find works very well. However, it feels that a wiki is more in tune with the garden concept which is why &lt;a href=&quot;http://testing.frankmcpherson.net&quot;&gt;I have been dabbling with wikis&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Right now, this whole thing is work in progress. I think I favor the offline ability I have with my jekyll and Netlify set up versus in browser editing required by DokuWiki.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Nov 2018 18:37:46 -0500</pubDate>
+        <link>https://frankmcpherson.blog/2018/11/30/a-few-weeks.html</link>
+        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/30/a-few-weeks.html</guid>
+      </item>
     
       <item>
       	
@@ -240,24 +272,6 @@
         <pubDate>Tue, 20 Nov 2018 19:24:24 -0500</pubDate>
         <link>https://frankmcpherson.blog/2018/11/20/on-my-microblog.html</link>
         <guid isPermaLink="true">http://frankm.micro.blog/2018/11/21/on-my-microblog.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I have created &lt;a href=&quot;http://instantoutliner.com/b4&quot;&gt;a knowledge base outline&lt;/a&gt; about Crostini containers in anticipation of the arrival of my new Chromebook.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Nov 2018 19:21:24 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/20/i-have-created.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/21/i-have-created.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I don’t listen to podcasts since I stopped commuting to work. I do watch &lt;a href=&quot;https://twit.tv/shows?shows_active=1&quot;&gt;TWiT shows&lt;/a&gt; during my lunch breaks. When I walk I prefer to keep my ears unplugged so that I can hear nature and my surroundings.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Nov 2018 16:26:02 -0500</pubDate>
-        <link>https://frankmcpherson.blog/2018/11/20/i-dont-listen.html</link>
-        <guid isPermaLink="true">http://frankm.micro.blog/2018/11/20/i-dont-listen.html</guid>
       </item>
     
   </channel>
