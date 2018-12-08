@@ -7,9 +7,83 @@
 	"items": [
 		
 		{
+			"id": "http://frankm.micro.blog/2018/12/08/a-reply-to.html",
+	      	
+			"content_html": "<p>A REPLY TO RICHARD ROHR ON THE COSMIC CHRIST – Omega Center\nIlia Delio,</p>\n\n<blockquote>\n  <p>When we say, “Jesus is the Christ,” we are saying that the humanity of Jesus is one with divinity, the “mystery hidden from the beginning of the world.”   There is a particularity here, a <em>haecceitas</em> (or thisness) that cannot be overlooked.   Jesus _is _the Christ which means all that God is, is given to us in Jesus, rendering a new understanding of God as relational, self-communicative, self-emptying.</p>\n</blockquote>\n\n<p>Source: <a href=\"https://www.omegacenter.info/reply-to-richard-rohr-cosmic-christ/\">A REPLY TO RICHARD ROHR ON THE COSMIC CHRIST – Omega Center</a></p>\n",
+			"date_published": "2018-12-08T09:56:45-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/08/a-reply-to.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/07/lotus-notes-still.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theregister.co.uk/2018/12/07/hcl_18bn_ibm_software/\">Lotus Notes still lives</a>? Who are the poor folks still stuck with it?</p>\n",
+			"date_published": "2018-12-07T14:02:31-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/07/lotus-notes-still.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/07/161916.html",
+	      	
+			"content_html": "<p>I am watching <a href=\"https://chromeunboxed.com/news/google-pixel-slate-review\">Chromeunboxed’s review of the Google Pixel Slate</a>. The Slates’s support for mice and trackpads may be the most compelling advantage it has over the iPad. For desktop use, I would pair it up with a standard Bluetooth mouse and keyboard. I don’t often type with a keyboard on my lap. If I were to attend a meeting or conference I rather use a stylus and hand write notes.</p>\n",
+			"date_published": "2018-12-07T11:19:16-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/07/161916.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/06/i-am-having.html",
+	      	
+			"content_html": "<p>I am having problems at the moment using OneNote  on my iPad Pro, so have reverted to my backup Surface 3 and OneNote. What I had not appreciated up to now is how much better it is to write on the iPad Pro with the Apple Pencil than on the Surface 3 and Surface Pen. I am finding writing it frustratingly slow to write on the Surface 3, and I would not have said that before having used the iPad Pro/Pencil for a year.</p>\n",
+			"date_published": "2018-12-06T12:12:39-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/06/i-am-having.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/06/i-recently-built.html",
+	      	
+			"content_html": "<p>I recently built <a href=\"http://fedwiki.frankmcpherson.net\">my own Federated Wiki server</a> and have been having a lot fun adding content to it since. I’ve found that for me it is the best way to maintain a “Now” page of things I am currently working on or researching.</p>\n\n<p>As a topic comes up, I got to <a href=\"http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/now\">the Now page</a> and create a wiki link to the topic, which I then click to create a new page to which I start adding content.</p>\n\n<p>What I need to determine is what to do with the topics that I complete. I think the ideal solution is a plugin that automatically generates an index of all pages in my wiki so that even when I remove the wiki link in the Now page, a link to the page remains somewhere so that it can be found later. I could manually build an index, but in this day and age I would think an automated approach would be possible and best.</p>\n",
+			"date_published": "2018-12-06T10:06:07-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/06/i-recently-built.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/05/i-am-looking.html",
+	      	
+			"content_html": "<p><a href=\"http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/now/view/replace-google-inbox\">I am looking</a> for a replacement of Google Inbox. I switched to Spark on iOS, but I have not yet found the perfect solution for Android. My key requirement is the ability to quickly archive unread mail.</p>\n",
+			"date_published": "2018-12-05T13:34:53-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/05/i-am-looking.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/05/update-regarding-the.html",
+	      	
+			"content_html": "<p><a href=\"http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/now/view/fossil-q-explorist\">Update regarding the freeze/resumption issue</a> I have been having ever since the Wear OS H update was installed on my watch. I’ve turned off always on display and since doing that the symptom has not appeared.</p>\n",
+			"date_published": "2018-12-04T21:16:31-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/04/update-regarding-the.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/04/another-thing-to.html",
+	      	
+			"content_html": "<p>Another thing to note, I started this blog while I was out of the country, in Bermuda for the first time.</p>\n",
+			"date_published": "2018-12-04T09:08:54-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/04/another-thing-to.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/04/milestone-achieved.html",
+	      	
+			"title": "Milestone Achieved",
+			
+			"content_html": "<p>Something momentus has happened. If you click On This Day up above you will see posts that were not written today but on this day, last year, when I flipped the bit and started blogging mostly here rather than <a href=\"http://writing.frankmcpherson.org\">over there</a>.</p>\n\n<p>I am excited to have On This Day finally fulfill its purpose.</p>\n",
+			"date_published": "2018-12-04T09:06:51-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/04/milestone-achieved.html"
+		},
+		
+		{
 			"id": "http://frankm.micro.blog/2018/12/03/ive-continued-to.html",
 	      	
-			"content_html": "<p>I’ve continued to see <a href=\"http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/recent-changes/view/fossil-q-explorist\">the problem with my Fossil Q Explorist smartwatch</a> that appeared after installing the H update to Android Wear. Today I found a recommendation to turn off Mobile Battery Saver and so far since I have done that I have not seen the problem.</p>\n\n<p><em>Update: Alas, turnign off Mobile Battery Saver wasn’t the fix, the problem reoccurred. Next step is to turn off the always on display. I’ve also sent a message to Fossil to see if they can tell me how to downgrade.</em></p>\n",
+			"content_html": "<p>I’ve continued to see <a href=\"http://fedwiki.frankmcpherson.net/view/welcome-visitors/view/recent-changes/view/fossil-q-explorist\">the problem with my Fossil Q Explorist smartwatch</a> that appeared after installing the H update to Android Wear. Today I found a recommendation to turn off Mobile Battery Saver and so far since I have done that I have not seen the problem.</p>\n\n<p><em>Update: Alas, turning off Mobile Battery Saver wasn’t the fix, the problem reoccurred. Next step is to turn off the always on display. I’ve also sent a message to Fossil to see if they can tell me how to downgrade.</em></p>\n",
 			"date_published": "2018-12-03T16:51:38-05:00",
 			"url": "https://frankmcpherson.blog/2018/12/03/ive-continued-to.html"
 		},
@@ -28,6 +102,14 @@
 			"content_html": "<p>Ask yourself, <a href=\"https://www.freep.com/story/news/politics/2018/11/29/michigan-bill-limit-democratic-power/2156549002/\">why are Michigan Republican legislators proposing these bills now</a> when they could have done so earlier this year, or last year, or years before?</p>\n\n<p>By their actions you see which party favors power and which favors democracy.</p>\n",
 			"date_published": "2018-12-03T16:42:34-05:00",
 			"url": "https://frankmcpherson.blog/2018/12/03/ask-yourself-why.html"
+		},
+		
+		{
+			"id": "http://frankm.micro.blog/2018/12/03/my-lunch-time.html",
+	      	
+			"content_html": "<p>My lunch time view. Getting the Christmas mood.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/862ade0a6b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-12-03T12:19:39-05:00",
+			"url": "https://frankmcpherson.blog/2018/12/03/my-lunch-time.html"
 		},
 		
 		{
@@ -124,88 +206,6 @@
 			"content_html": "<p>Is streaming three different games on three screens at the same too much? Asking for a friend.</p>\n",
 			"date_published": "2018-12-01T19:22:43-05:00",
 			"url": "https://frankmcpherson.blog/2018/12/01/is-streaming-three.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/12/01/suburban-roads-are.html",
-	      	
-			"content_html": "<p>Suburban roads are not the right place for turkeys. Not sure if this is Darryl, the West Bloomfield turkey as he would now be a few miles south.</p>\n\n<p><img src=\"https://frankmcpherson.blog/uploads/2018/41af6d1409.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-12-01T14:54:17-05:00",
-			"url": "https://frankmcpherson.blog/2018/12/01/suburban-roads-are.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/30/a-few-weeks.html",
-	      	
-			"title": "Planting A Garden",
-			
-			"content_html": "<p>A few weeks ago I read <a href=\"https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/\">The Garden and the Stream: A Technopastoral</a> by Mike Caulfield and it really resonated with me. In my mind almost all of what I write on the web is part of my own garden, even though I do that writing using blogging tools that are more stream than garden.</p>\n\n<p>One thing that I would add to idea of a garden or stream is structure. I personally like drilling down into a topic, which is why ever since I first experienced hyperlinks and the web it clicked. My affinity toward structure is also why I find outlines appealing.</p>\n\n<p>Chronology (reverse), archives, and permalinks are structures of blogs that I think distinguish it technologically from “regular” web sites. The informal personal voice of blogs is what distinguishes the blog writing style from other writing styles you see on the web.</p>\n\n<p>And yet, blogs writing is also point in time. One writes a blog post, it enters the stream, and beyond perhaps that first day one rarely, if ever, edits or adds to a blog post.</p>\n\n<p>The ongoing revision of a piece of writing is fundamentally what I think Caulfield means by “the garden.” With that paradigm, I created two “projects”, the first being a web page in which I originally wrote about <a href=\"https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html\">which Chromebook I was going to buy</a> and then continually revised that page as I learned more up until I made my decision. The second project is a new page in which I am recording <a href=\"https://writing.frankmcpherson.net/computers/2018/11/25/google-pixelbook.html\">my experience with using the Pixelbook</a>.</p>\n\n<p>In both instances I created and maintained those pages using jekyll and offline tools like Drafts and Typora, which I find works very well. However, it feels that a wiki is more in tune with the garden concept which is why <a href=\"http://testing.frankmcpherson.net\">I have been dabbling with wikis</a>.</p>\n\n<p>Right now, this whole thing is work in progress. I think I favor the offline ability I have with my jekyll and Netlify set up versus in browser editing required by DokuWiki.</p>\n",
-			"date_published": "2018-11-30T18:37:46-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/30/a-few-weeks.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/30/230529.html",
-	      	
-			"content_html": "<p>I’ve updated <a href=\"https://writing.frankmcpherson.net/computers/2018/11/25/google-pixelbook.html\">my Pixelbook page</a> with a section about running Android and Linux apps.</p>\n",
-			"date_published": "2018-11-30T18:05:29-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/30/230529.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/29/one-annoying-thing.html",
-	      	
-			"content_html": "<p>One annoying thing about running Android apps on the Pixelbook is caused by weather apps that continually display a notification and thus the Pixelbook always show that I have one notification to display. There should be a setting to tell Chrome OS to not count these apps for the notification count.</p>\n",
-			"date_published": "2018-11-29T17:30:35-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/29/one-annoying-thing.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/29/are-comments-about.html",
-	      	
-			"content_html": "<p>Are comments about fingerprints really germane to tech reviews?</p>\n",
-			"date_published": "2018-11-29T17:05:28-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/29/are-comments-about.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/28/wear-os-h.html",
-	      	
-			"content_html": "<p><a href=\"https://support.google.com/wearos/thread/639702?hl=en\">Wear OS H Update Problems</a></p>\n\n<p>Wear OS Update H installed on my watch two days ago. There appears to be a problem recovering from the new “deep sleep” / suspend mode. At intermittent times the watch appears to be unresponsive, basically it looks as though it is frozen after I attempt to wake it by either moving my arm, tapping the screen or pressing the crown. Eventually it does come back/recover, which leads me to suspect the watch has gone in to suspend/deep sleep and takes a long time to resume. I appreciate the idea of saving battery life by going into such a state, but the watch needs to recover much faster as right now it is a horrible user experience. Is anyone else seeing this? Is this a known problem with a fix in progress, or is there a way to disable this “feature?”</p>\n\n<p>I started to notice this behavior yesterday. I’ve restarted the watch in hopes that might resolve. My fear is that this is a processor issue causing this watch to not be able to resume from this form of suspend fast enough.</p>\n",
-			"date_published": "2018-11-28T10:31:57-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/28/wear-os-h.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/28/the-american-economy.html",
-	      	
-			"content_html": "<p><a href=\"https://www.scientificamerican.com/article/the-american-economy-is-rigged/\">The American Economy Is Rigged</a></p>\n\n<p>The single worse SCOTUS ruling of my life time is Citzens United. If Congress were serious about doing things that truly benefit us they would pass legislation aimed at correcting this wrong.</p>\n",
-			"date_published": "2018-11-28T09:48:04-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/28/the-american-economy.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/27/the-wear-os.html",
-	      	
-			"content_html": "<p><a href=\"https://support.google.com/wearos/thread/563800?hl=en\">The Wear OS “H” update</a> arrived on my Fossil Q Explorist yesterday. I am curious to see how much battery life improves. Apparently Google has added a deep sleep mode that kicks in after 30 minutes of no activity, but I am not sure how activity is defined.</p>\n",
-			"date_published": "2018-11-27T10:50:04-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/27/the-wear-os.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/27/fortran-is-still.html",
-	      	
-			"content_html": "<p><a href=\"https://wordsandbuttons.online/fortran_is_still_a_thing.html\">Fortran is still a thing</a></p>\n<blockquote>\n  <p>And as for the outdatedness, the current Fortran standard is Fortran 2008. The next one is 2018 and it is expected to arrive anytime soon. Fortran is constantly being modernized one little step after another. The biggest holding factor here is its mission. It must remain simple for real engineers.</p>\n</blockquote>\n\n<p>When I started college in 1984 Fortran was the language taught in the introductory programming class required by computer science and engineering students. Advanced computer science classes used Pascal. Java did not exist then.</p>\n",
-			"date_published": "2018-11-27T10:29:52-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/27/fortran-is-still.html"
-		},
-		
-		{
-			"id": "http://frankm.micro.blog/2018/11/27/parachuting-beavers-into.html",
-	      	
-			"content_html": "<p><a href=\"http://www.boisestatepublicradio.org/post/parachuting-beavers-idahos-wilderness-yes-it-really-happened#stream/0\">Parachuting beavers into Idaho</a> and <a href=\"https://www.mlive.com/news/grand-rapids/index.ssf/2014/12/moose_lift.html\">air lifting moose</a> into the Upper Peninsula of Michigan.</p>\n",
-			"date_published": "2018-11-27T10:18:42-05:00",
-			"url": "https://frankmcpherson.blog/2018/11/27/parachuting-beavers-into.html"
 		}
 		
 	]
